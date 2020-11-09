@@ -1,2 +1,2 @@
 # ediciones
-Contienes las codificaciones TEI del proyecto
+Contiene las codificaciones TEI del proyecto
