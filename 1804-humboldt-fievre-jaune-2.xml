@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="H0019146">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fièvre jaune 2</title>
+                <editor>
+                    <persName>
+                        <surname>Kraller</surname>
+                        <forename>Kathrin</forename>
+                    </persName>
+                </editor>
+            </titleStmt>
+            <editionStmt>
+                <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2020</date>).</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Namensnennung 4.0 International (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellonska Krakau</institution>
+                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <idno>Nachlass Alexander von Humboldt Bd. 1/3, Bl. 185-211
+                            (DE-611-HS-2849282)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName>Alexander von Humboldt</persName>
+                <date notBefore="1804">nach 1804</date>
+            </creation>
+            <langUsage>
+                <language ident="fra">Französisch</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><pb n="193r"/><hi rendition="#u">Fièvre jaune</hi>
+                </p>
+                <p><note place="left" hand="#author">Aréjula breve descripción de<lb/>la fiebre
+                        amarilla padecida <lb/>en Cádiz en 1800 en Medina<lb/>Sidonia en 1801. en
+                        Málaga<lb/>en 1803. y 1804.<lb/></note><lb/>1. Il y eut vomito negro à Cádiz
+                    au commen<lb break="no"/>cement du 18<hi rendition="#sup">ème</hi> siècle, puis
+                    1733, <lb/>1734. 1764. (A <choice>
+                        <abbr>p</abbr>
+                        <expan>page</expan>
+                    </choice> 447.) <hi rendition="#uu">1800</hi>. 1801. </p>
+                <p>2. A ne croit pas que le contage se fixe aux <lb/>draps (ropas)<supplied cert="high">,</supplied> croit que le contage<lb/>ne se manifeste dans une
+                    personne quel<lb break="no"/>quefois que dans <hi rendition="#u">7-8</hi> mois
+                    (contagia <lb/>dos del año anterior !) <choice>
+                        <abbr>p</abbr>
+                        <expan>page</expan>
+                    </choice> 450.228.</p>
+                <p>3<supplied cert="high">.</supplied> à Philadelphie <choice>
+                        <abbr>f.</abbr>
+                        <expan>fièvre</expan>
+                    </choice>
+                    <choice>
+                        <abbr>j.</abbr>
+                        <expan>jaune</expan>
+                    </choice> ca 1699.1741.1747 <lb/>1762.<hi rendition="#u">1793</hi>.1796<supplied cert="high">.</supplied>1797.1798 et puis <lb/>toujours. Il meurt à
+                    Philadelphia au plus <lb/>3-4000 individ. de <choice>
+                        <abbr>f.</abbr>
+                        <expan>fièvre</expan>
+                    </choice>
+                    <choice>
+                        <abbr>j.</abbr>
+                        <expan>jaune</expan>
+                    </choice> annuellement<supplied cert="high">.</supplied></p>
+            </div>
+        </body>
+    </text>
+</TEI>

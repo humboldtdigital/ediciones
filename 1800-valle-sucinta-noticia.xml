@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="H0018384">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sucinta noticia de la situación presente de esta colonia. Agosto de 800''
+                    Havana</title>
+                <editor>
+                    <persName>
+                        <surname>Kraller</surname>
+                        <forename>Kathrin</forename>
+                    </persName>
+                </editor>
+            </titleStmt>
+            <editionStmt>
+                <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2020</date>).</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften (BBAW)</ref></publisher>
+                <pubPlace ref="https://www.geonames.org/2950159">Berlin</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Namensnennung 4.0 International (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska</institution>
+                        <collection>Nachl. Alexander von Humboldt</collection>
+                        <idno>
+                            <idno type="shelfmark">Bd. 3/1 Bl. 3-26</idno>
+                            <idno type="uri">https://kalliope-verbund.info/DE-611-HS-2876915</idno>
+                            <idno type="URLImages">https://jbc.bj.uj.edu.pl/publication/367122</idno>
+                            <idno type="URLCatalogue">???</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>24 Blatt</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="H0002756">Valle Hernández, Antonio del (1764-1830)</persName>
+                <placeName key="H0006819">Havanna [Havana, La Habana] (Hauptstadt Kubas)</placeName>
+                <date when="1800-08-03" cert="high"/>
+            </creation>
+            <langUsage>
+                <language ident="esp">Español</language>
+            </langUsage>
+            <abstract>
+                <p>Ein gebundenes Manuskript mit Informationen zur Sklaverei, Zuckerproduktion und
+                    zu verschiedenen weiteren Themen. Mit Anmerkungen Humboldts auf dem Umschlag und
+                    im Text.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><pb n="1r"/><note place="mTop" hand="#H0012069"><hi rendition="#uu">finances <choice>
+                                <abbr>p</abbr>
+                                <expan>page</expan>
+                            </choice></hi> 14</note></p>
+                <p><note place="right" hand="#H0012069">134/94 <lb/>30/ <lb/><hi rendition="#u">129/
+                        </hi><lb/>140 <lb/>00</note></p>
+                <p><pb n="1v"/></p>
+                <p><pb n="2r"/></p>
+                <p><pb n="2v"/>Sucinta noticia de la situación <lb/><hi rendition="#uu">presente de
+                        esta colonia. Agosto de 800'' </hi><lb/><hi rendition="#uu"><placeName key="H0006819">Havana</placeName></hi><hi rendition="#uu">.</hi></p>
+                <p><pb n="3r"/>Un ilustrado observador<supplied cert="high">,</supplied> después de
+                    una ausencia de vein<g ref="#typoHyphen"/><lb break="no"/>te y tres años vuelve
+                    a <placeName key="H0006819">la Havana</placeName>, y<supplied cert="high"
+                        >,</supplied> admirado de su actual <lb/>riqueza y esplendor, nos pide una
+                    noticia de la situación pre<g ref="#typoHyphen"/><lb break="no"/>sente de la
+                    colonia. Procuremos pues satisfacer un de<subst>
+                        <del rendition="#ow">z</del>
+                        <add place="across">s</add>
+                    </subst>eo con el <lb/>qual nos acredita el amor e interés que profesa a
+                        <placeName key="H0010330">este País</placeName>, ya <lb/>sea como Patriota,
+                    ya sea como Estadista.<seg type="comment"> </seg>Presentaremos los <lb/>datos
+                    más seguros que tenemos del progreso que ha experimen<g ref="#typoHyphen"/><lb
+                        break="no"/>tado <placeName key="H0006819">la Havana</placeName> en estos
+                    últimos años, y agregaremos luego <lb/>algunas reflexîones, tanto sobre lo que
+                    se ha hecho en este tiem<g ref="#typoHyphen"/><lb break="no"/>po, como sobre lo
+                    que se prodrá hacer más adelante.</p>
+                <p><hi rendition="#u">Épocas en que <lb/>comensó el <choice>
+                            <abbr>fom.<hi rendition="#sup">to</hi></abbr>
+                            <expan>fomento</expan>
+                        </choice><lb/>de la colonia.</hi></p>
+                <p>Cuenta esta colonia como las demás Españolas <lb/>el principio de su fomento
+                    desde la época feliz en que<supplied cert="high">,</supplied>
+                    <add place="superlinear">de</add>satando nues<g ref="#typoHyphen"/><lb
+                        break="no"/>tro Govierno los lazos del monopolio que exercía Cádiz en las
+                        <lb/><placeName key="H0002429">Américas</placeName>, franqueó a sus Vasallos
+                    la fusta y natural fa<g ref="#typoHyphen"/><lb break="no"/>cultad de comerciar a
+                    los Puertos Nacionales de ambos hemis<g ref="#typoHyphen"/><lb break="no"
+                    />ferios. Esta sábia providencia que merece estátuas a los que <lb/>la
+                    expidieron, dió el mayor impulso a nuestra industria, y <lb/>con ella se ha
+                    hecho más en los pocos años que han mediado <lb/>desde él de 1778, que durante
+                    el dilatado tiempo que pasó des<g ref="#typoHyphen"/><lb break="no"/>de la
+                    conquista hasta aquella época. Mas <placeName key="H0006819">la
+                        Havana</placeName><supplied cert="high">,</supplied>
+                    <lb/>cuya constitución es peculiar<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> y distinta de las demás <lb/><pb n="3v"/>colonias del <placeName
+                        key="H0002429">continente Americano</placeName>: <placeName key="H0006819"
+                        >la Havana</placeName> que<del rendition="#s">s</del> es y <lb/>no puede ser
+                    otra cosa que mercante agricultora, obtubo <lb/>en 1789 segunda gracia a la qual
+                    debe su mayor pros<g ref="#typoHyphen"/><lb break="no"/>peridad, es decir: la
+                    libre introducción de brazos para <lb/>la labranza. De este punto capital ha
+                    nacido su fortu<g ref="#typoHyphen"/><lb break="no"/>na, y en el día ocupa ya un
+                    lugar distinguido entre las <lb/>Islas azucareras.</p>
+                <p><hi rendition="#u">Noticias del valor, <lb/>calidad, y <choice>
+                            <abbr>situac.<hi rendition="#sup">n</hi></abbr>
+                            <expan>situación</expan>
+                        </choice>
+                        <lb/>fisica de las tier<g ref="#typoHyphen"/><lb break="no"/>ras en la
+                            Jurisdic<g ref="#typoHyphen"/><lb break="no"/>ción de la <placeName key="H0006819"><choice>
+                                <abbr>Hav.<hi rendition="#sup">a</hi></abbr>
+                                <expan>Havana</expan>
+                            </choice></placeName></hi></p>
+                <p>Supuesto pues que consiste su riqueza en la <lb/>agricultura, conviene hablar
+                    primeramente de las tier<g ref="#typoHyphen"/><lb break="no"/>ras. Antes de las
+                    dos épocas citadas era la <placeName key="H0000494">Isla de
+                        cuba</placeName><supplied cert="high">,</supplied> co<g ref="#typoHyphen"
+                    /><lb/>mo el resto de nuestras Américas<supplied cert="high">,</supplied> poco
+                    menos que un mon<g ref="#typoHyphen"/><lb/>te continuado, dedicado en sus
+                    sabanas a la crianza del ga<g ref="#typoHyphen"/><lb/>nado, como que todo Pueblo
+                    es Pastor antes que cultivador. Con<g ref="#typoHyphen"/><lb break="no"/>forme
+                    se ha ido extendiendo el cultivo ha sido presiso en<g ref="#typoHyphen"/><lb
+                        break="no"/>tregar los montes a la labranza, y esta transformación <lb/>de
+                    los bosques en tierra de labor está sujeta al dominio de la <lb/>Marina, quien
+                    como consecudora de las ocho maderas de <lb/>construcción, es la que niega, o
+                    concede esta licencia que se <lb/>llama demolición de las Haciendas de criar
+                    ganados. <lb/>El paño poblado, que antes no pasaba de seis a ocho le<g
+                        ref="#typoHyphen"/><lb break="no"/>guas al rededor de <placeName
+                        key="H0006819">la Havana</placeName>, comprehende ahora de <lb/><measure
+                        quantity="16" unit="leagua">diez y seis</measure> a <measure quantity="20"
+                        unit="leagua">veinte leguas</measure> con algunos Hatos y corrales <lb/><pb
+                        n="4r"/>a la proxîmidad de <placeName key="H0008756">Matansas</placeName>, <choice>
+                        <orig>demodo,</orig>
+                        <reg>de modo</reg>
+                    </choice> que la superficie <lb/>total puede graduarse en <measure
+                        quantity="350" unit="leagua">trescientas cinquenta leguas</measure> pla<g
+                        ref="#typoHyphen"/><lb break="no"/>nas. Mas <choice>
+                        <orig>apesar</orig>
+                        <reg>a pesar</reg>
+                    </choice> de las muchas demoliciones que ha ha<g ref="#typoHyphen"/><lb
+                        break="no"/>bido en estos últimos años, se halla estrechada la agricultu<g
+                        ref="#typoHyphen"/><lb break="no"/>ra como lo prue<choice>
+                        <sic>v</sic>
+                        <corr cert="high">b</corr>
+                    </choice>a el valor extraordinario de las tierras. En <lb/>los partidos más
+                    remotos <measure quantity="1" unit="ed_t3t_yvj_r3b">una caballería</measure>
+                    <note place="foot" hand="#author">La <measure quantity="1" unit="ed_t3t_yvj_r3b"
+                            >caballería</measure> es una superficie de tierra de <measure
+                            quantity="432" unit="ed_wkf_l2b_cjb">quatro cientas <lb/>treinta y dos
+                            varas en quadro</measure>.</note> de tierra mon<g ref="#typoHyphen"/><lb
+                        break="no"/>tuosa se paga en el día a <measure quantity="500"
+                        unit="ed_xpb_2pj_r3b">quinientos pesos fuertes</measure> al contado, <lb/>y
+                    sube su precio en proporción de su distancia de <placeName key="H0006819">la
+                        capital</placeName>
+                    <lb/>hasta valer cerca de ella, <measure quantity="3000" unit="peso">tresmil
+                        pesos</measure>. Si se reparte en sola<g ref="#typoHyphen"/><lb break="no"
+                    />res en qualquiera parte del campo a <measure quantity="100" unit="peso">cien
+                        pesos</measure> cada uno, <lb/>representa la <measure quantity="1"
+                        unit="ed_t3t_yvj_r3b">ca<choice>
+                            <sic>v</sic>
+                            <corr cert="high">b</corr>
+                        </choice>allería</measure> un valor de más de <measure quantity="17"
+                        unit="peso">diez y siete mil <lb/>pesos</measure>, y aumenta en de los
+                    solares conforme a sus cercanía <lb/>a <placeName key="H0006819">la
+                        Ciudad</placeName>, en disposición que en sus arrabales, la propria
+                        <lb/><measure quantity="1" unit="ed_t3t_yvj_r3b">cavallería</measure>
+                    repartida de este modo pasa el capital de <measure quantity="85000" unit="peso"
+                        >ochenta <lb/>y cinco mil pesos</measure>. Esta exôrbitante estimación de
+                    las tierras se <lb/>pudiera <choice>
+                        <orig>tal vez</orig>
+                        <reg>talvez</reg>
+                    </choice> disminuir con mejores reglamentos sobre su <lb/>repartimiento y
+                    divición. La intervención de la Marina <lb/>dificulta y embaraza a la precisa
+                    demolición de la Haciendas <lb/>de criar. Luego la figura circular que desde el
+                    origen de <lb/>la colonia se adoptó <choice>
+                        <orig>ala</orig>
+                        <reg>a la</reg>
+                    </choice> esperanza de fixar con un solo pun<g ref="#typoHyphen"/><lb break="no"
+                    />to centrico la medida de los hatos y corrales, declarando a los <lb/><pb
+                        n="4v"/>primeros <measure quantity="2" unit="leagua">dos leguas</measure>, y
+                    a los segundos una a todo viento, <lb/>ha dado lugar a una multitud de pleitos
+                    interminables sobre <lb/>linderos que disturban la poseción de las tierras,
+                    inquietan <lb/>al Labrador, y sobre todo encarecen los fundos, pues el que <lb/><choice>
+                        <sic>dece</sic>
+                        <corr cert="high">decea</corr>
+                    </choice> comprar, encuentra con suma dificultad un paño exên<lb break="no"/>to
+                    de enredos y nunca con comodidad como convenia en <lb/>una Isla tan
+                    dilatada.</p>
+                <p>La demolición de las haciendas montuosas o su <lb/>conver<subst>
+                        <del rendition="#ow">c</del>
+                        <add place="intralinear">s</add>
+                    </subst>ión de tierra de pasto en tierra de labor, ha enrique<g ref="#typoHyphen"/><lb break="no"/>sido las familias patricias, pues quando
+                    completas en su fi<g ref="#typoHyphen"/><lb break="no"/>gura circular contiene
+                    el <hi rendition="#u">hato</hi> más de <measure quantity="1600" unit="ed_t3t_yvj_r3b">mil seiscientas ca<g ref="#typoHyphen"/><lb break="no"/>vallerías</measure>, y el <hi rendition="#u">corral</hi> más de <measure quantity="400" unit="ed_t3t_yvj_r3b">quatrocientas</measure>, y valiendo en
+                    el <lb/>estado de crianza desde <measure quantity="15000" unit="peso">quince</measure> hasta <measure quantity="40000" unit="peso">quarenta mil
+                        pesos</measure>; <lb/>repartidas <choice>
+                        <orig>alos</orig>
+                        <reg>a los</reg>
+                    </choice> labradores, <choice>
+                        <orig>aun que</orig>
+                        <reg>aunque</reg>
+                    </choice> no sea más que a <measure quantity="300" unit="peso"><lb/>trescientos
+                        pesos</measure>
+                    <measure quantity="1" unit="ed_t3t_yvj_r3b">cavallería</measure>, se convierte
+                    el primero en <lb/>un capital de <measure quantity="500000" unit="peso">quinientos mil pesos</measure>, y el segundo en otro <lb/>de <measure quantity="120000" unit="peso">ciento veinte mil</measure>.</p>
+                <p><choice>
+                        <orig>Enquanto</orig>
+                        <reg>En quanto</reg>
+                    </choice> a la configuración física de la Juris<g ref="#typoHyphen"/><lb
+                        break="no"/>dicción, se puede decir que la angostura de <placeName
+                        key="H0000494">la Isla</placeName> en los <lb/>arrededores de <placeName
+                        key="H0006819">la Havana</placeName> y la poca elevación de sus
+                    <lb/>serranías, no permiten a los ríos tener dilatado naci<g ref="#typoHyphen"
+                        /><lb break="no"/>miento ni curso. De ahí nace que no se cuentan cerca
+                    <lb/>de <placeName key="H0006819">la capital</placeName> más que dos ríos
+                    permanentes que son <lb/><pb n="5r"/><placeName key="ERRORH0018470">el de
+                        Güines</placeName> a <measure quantity="12" unit="leagua">doce
+                        leguas</measure> de distancia, y <placeName key="H0010548">el de la
+                        chorrera</placeName>, de <lb/>donde se provee de agua <placeName
+                        key="H0006819">la ciudad</placeName> por medio de un canal o <lb/>Zanja de
+                    más de <measure quantity="2" unit="leagua">dos leguas</measure> de cauce formado
+                    por <persName key="ERRORH0018897"><hi rendition="#u">Antone<g ref="#typoHyphen"
+                                /><lb break="no"/>li</hi></persName> desde los principios de la
+                    Población. En segundo lugar los <lb/>Puertos y Bahías están todos situados en la
+                    costa del Nor<g ref="#typoHyphen"/><lb break="no"/>te : las serranías están <choice>
+                        <orig>arimadas</orig>
+                        <reg>arrimadas</reg>
+                    </choice> a la misma y descan<g ref="#typoHyphen"/><lb break="no"/>sa todo el
+                    territorio sobre un banco de una piedra de ojos co<g ref="#typoHyphen"/><lb
+                        break="no"/>nocida en el País con nombre de Soboruco, que dexa fil<g
+                        ref="#typoHyphen"/><lb break="no"/>trar las aguas y las conduce baxo de
+                    tierra como sucede al <lb/>río de <hi rendition="#u">San Antonio</hi> y otros
+                    muchos que <choice>
+                        <orig>apoco</orig>
+                        <reg>a poco</reg>
+                    </choice> andar se <lb/>ocultan, y sepultan en las cavidades. De ahí resulta que
+                    <lb/>filtradas en las capas interiores de la tierra vuelven a pa<g
+                        ref="#typoHyphen"/><lb break="no"/>rezer, y desaguar a los llanos de la
+                    costa del Sur, donde for<g ref="#typoHyphen"/><lb break="no"/>man en su orilla,
+                    y en una exten<subst>
+                        <del rendition="#ow">c</del>
+                        <add place="intralinear">s</add>
+                    </subst>ión de más de <measure quantity="40" unit="leagua">quarenta
+                        <lb/>leguas</measure>, desde cerca del cabo de corrientes hasta <placeName
+                        key="H0007221">Xagua</placeName>, una <lb/>cienega o pantano estéril sin
+                    Puerto, sin abigo, y de difici<g ref="#typoHyphen"/><lb break="no"/>lísimo
+                    tránsito. Es visto pues que la Jurisdicción de <placeName key="H0006819">la Ha<g
+                            ref="#typoHyphen"/><lb break="no"/>vana</placeName> no es de las más
+                    favorecidas de <placeName key="H0000494">la Isla</placeName> en punto a la
+                    <lb/>fertilidad y disposición del terreno, pues hay en la parte <lb/>oriental
+                    otros más feraces como son los distritos <hi rendition="#u">de <placeName
+                            key="H0007221">Xagua</placeName>, <placeName key="H0009519"
+                            ><lb/>Trinidad</placeName></hi>
+                    <choice>
+                        <abbr>&amp;<hi rendition="#sup">ra</hi>.</abbr>
+                        <expan>etcétera</expan>
+                    </choice>
+                    <note place="left" hand="#H0012069"><placeName key="H0008716"
+                        >Mariel</placeName>, <placeName key="H0008756">Matanzas</placeName> y
+                            <unclear reason="illegible" cert="low">P</unclear></note> regados por
+                    ríos de mucho caudal; mas se <lb/>puede creer que siempre llevará la primacía la
+                    Provincia <lb/>de <placeName key="H0006819">la Havana</placeName>, no tan sólo
+                    por haber sido primero fomen <lb/><pb n="5v"/>tada al abrigo y calor de la
+                    capital, sino por la venta<g ref="#typoHyphen"/><lb break="no"/>josísima
+                    situación y exêlencia de sus Puertos a la <lb/>entrada de las canales vieja y
+                    nueva, y en un punto <lb/>de comunicación común a todas las aguas del seno,
+                    <lb/>y arribada <choice>
+                        <orig>notabilíssima</orig>
+                        <reg>notabilísima</reg>
+                    </choice> ya de ida, ya de buelta al <choice>
+                        <orig>Oc<g ref="#typoHyphen"/><lb break="no"/>céano</orig>
+                        <reg>Océano</reg>
+                    </choice>.</p>
+                <p><hi rendition="#u">Idea del número, <lb/>fuerzas, valor de <lb/>los Ingenios, y
+                            me<g ref="#typoHyphen"/><lb break="no"/>joras que ha habi<g ref="#typoHyphen"/><lb break="no"/>do en ellos.</hi></p>
+                <p>Nuestras tierras son de varias calidades y <lb/><choice>
+                        <orig>aun que</orig>
+                        <reg>aunque</reg>
+                    </choice> se cree que la negra o prieta es más favorable <lb/>a la caña por
+                    guardar más humedad que la bermeja <lb/>hay un gran número de Ingenios fundados
+                    en esta últi<g ref="#typoHyphen"/><lb break="no"/>ma, y hasta las cimas de las
+                    serranías. En las cerca<g ref="#typoHyphen"/><lb break="no"/>nías más immediatas
+                    de la capital ya no exîste ningu<g ref="#typoHyphen"/><lb break="no"/>no, aun
+                    que en ellas hubo muchos trapiches con nombre <lb/>de tales en la infancia de la
+                    agricultura. La tierra que <lb/>ocupaba está toda repartida en Potieros, sitios,
+                    y Estancias <lb/>de pequeñas labranzas para el cultivo de los bastimentos
+                    <lb/>que proveen el mercado de <placeName key="H0006819">la Havana</placeName>.
+                    Los partidos más <lb/>pingues <subst>
+                        <del rendition="#ow">d</del>
+                        <add place="across">e</add>
+                    </subst> Ingenios son los que distan de <measure quantity="12" unit="leagua">doce</measure> a <measure quantity="16" unit="leagua">diez y <lb/>seis
+                        leguas</measure> de la ciudad y las inmediaciones de <placeName key="H0008756">Matan<g ref="#typoHyphen"/><lb break="no"/>zas</placeName>.
+                    Mas también van tomando un prodigioso <choice>
+                        <abbr>increm.<add place="superlinear">to</add></abbr>
+                        <expan>incremiento</expan>
+                    </choice>
+                    <lb/>los más remotos, tanto por la fertilidad de las tierras <lb/>nuevas, como
+                    por su baratura. Por lo regular un <lb/>fundo proporciando para Ingenio consta
+                    de <measure quantity="30" unit="ed_t3t_yvj_r3b">treinta <lb/><pb n="6r"/>cavallerías</measure> quando menos, por que además del terreno que ha
+                    <lb/>menester, necesita un repuesto de montes para hacer an<g ref="#typoHyphen"/><lb break="no"/>nualmente la leña que ha de alimentar las fornallas. Las
+                    <lb/>dotaciones de esclavos no conocen más límites que las facul<g ref="#typoHyphen"/><lb break="no"/>tades de sus posehedores, pues es
+                    indispensable que sin bra<g ref="#typoHyphen"/><lb break="no"/>zos no hay
+                    labranza, y que quantos más operarios haya <lb/>en una Hacienda, tanto más pros
+                    pezarán las labores. <lb/>Los agricultores están ahora bien convencidos de este
+                    <lb/>principio, de manera que aquí la verdadera esc<subst>
+                        <del rendition="#ow">l</del>
+                        <add place="across">a</add>
+                    </subst>la de la <lb/>riqueza de los fundos rurales, no <choice>
+                        <orig>estanto</orig>
+                        <reg>es tanto</reg>
+                    </choice> la cantidad de <lb/>tierras, como el número de sus brazos hábiles. Hay
+                        Inge<g ref="#typoHyphen"/><lb break="no"/>nios, bien que pocos, que cuentan
+                    hasta trescientos escla<g ref="#typoHyphen"/><lb break="no"/>vos de dotación, y
+                    la cosecha más fuerte que se ha vis<g ref="#typoHyphen"/><lb break="no"/>to
+                    hacer con este número de brazos, es de <hi rendition="#u"><measure quantity="42000" unit="arroba">quarenta y dos</measure></hi><hi rendition="#u"><lb/>a <measure quantity="45000" unit="arroba">quarenta y <choice>
+                                <orig>cincomil</orig>
+                                <reg>cinco mil</reg>
+                            </choice> arrobas</measure> de azúcar</hi>, es decir, más <lb/>de <hi rendition="#u"><measure quantity="1000000" unit="ed_utz_vcj_cjb">un million
+                            de libras</measure> de esta sal</hi>. <note place="left" hand="#H0012069">45 <lb/><hi rendition="#u">75 </hi><lb/>270 <lb/><hi rendition="#u">75</hi>
+                        <lb/>720 <lb/>225 <lb/><hi rendition="#u">100</hi>
+                        <lb/>1222<unclear reason="illegible" cert="low">000</unclear></note> Después
+                    de la dotación <lb/>de hombres requiere un Ingenio una númerosa <hi rendition="#u">boyada</hi>, <lb/>tanto para conducir la caña, como para el
+                    tiro de la leña <lb/>y demás atenciones; y por último Oficinas conciderables <choice>
+                        <abbr>p.<add place="superlinear">a</add></abbr>
+                        <expan>para</expan>
+                    </choice>
+                    <lb/>moler la caña, cocer los caldos, purgar y sacar el azúcar. <lb/>Se puede
+                    decir con verdad que el mecanismo de <choice>
+                        <sic>esta</sic>
+                        <corr cert="high">estas</corr>
+                    </choice> Hacien<g ref="#typoHyphen"/><lb break="no"/>das y la complicación de
+                    sus operaciones salen ya de la ca<g ref="#typoHyphen"/><lb break="no"/>lidad de
+                    cultivo, <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> en efecto desde que se traxo al Trapi<g ref="#typoHyphen"/><lb break="no"/><pb n="6v"/>che de la caña cortada en el campo, cesó el Oficio
+                    del La<g ref="#typoHyphen"/><lb break="no"/>brador, y entró el del fabricante,
+                    como que todas las de<g ref="#typoHyphen"/><lb break="no"/>más manipulaciones
+                    pertenecer a la mecánica y <lb/>química. Debemos confesar que lexos de ser
+                    iluminadas <lb/>como debían con la antorcha de estas ciencias, se exe<g ref="#typoHyphen"/><lb break="no"/>cutan por un instinto o rutina unicamente
+                    fundadas <lb/>en la práctica; mas tiempo vendrá quizás en que po<g ref="#typoHyphen"/><lb break="no"/>drá valernos la ciencia que no tiene
+                    cabida en medio <lb/>de unos rudimentos tan rústicos como los que presi<g ref="#typoHyphen"/><lb break="no"/>den ahora a nuestras labores. Con todo
+                    mediante la intro<g ref="#typoHyphen"/><lb break="no"/>ducción de los artífices
+                    expulsos del <placeName key="ERRORERRORed_zcr_xz3_hkb">Guárico</placeName>, se han per<g ref="#typoHyphen"/><lb break="no"/>feccionado en muchos puntos los Ingenios:
+                    se trata de <lb/>mejorar cada vez más la forma de los trapiches, y
+                    <lb/>fornallas, y se puede decir que ya se han exêdido en al<g ref="#typoHyphen"/><lb break="no"/>gún modo los Hacendados en costosos experimentos y
+                    <lb/>tentativas: En la llanura de <placeName key="ERRORH0018451">Güines</placeName> que brinda el agua <lb/>como potencia en sus <hi rendition="#u">numerosas</hi> Zanjas de riego, se <lb/>han establecido
+                    varios trapiches de agua; tenemos <lb/>en cerbado otro movido por la bomba de
+                    vapor, en otros <lb/>se han substituido las mulas <subst>
+                        <del rendition="#ow">en</del>
+                        <add place="across">a</add>
+                    </subst> bueyes; en fin en otro <lb/>situado en las alturas, se va a aplicar la
+                    potencia del <lb/>viento. En muchos por último se están fabricando for<g ref="#typoHyphen"/><lb break="no"/>nallas de reberberos de diferente
+                    constitución con <lb/><pb n="7r"/>objeto a ahorrar la leña y reducir por
+                    consiguiente la par<g ref="#typoHyphen"/><lb break="no"/>te de bosque que
+                    necesitan los Ingenios, todas novedades <lb/>que se deben al espíritu de
+                    indagación y adelantamien<g ref="#typoHyphen"/><lb break="no"/>to que anima a
+                    nuestros agricultores. Es fácil compre<g ref="#typoHyphen"/><lb break="no"/>hender desde luego que una Hacienda de estas bien dota<g ref="#typoHyphen"/><lb break="no"/>da, bien fabricada, y bien aperada, es de gran valor. Así
+                    <lb/>es que la tazación de una que no pase de cien esclavos llega <lb/>de
+                        <measure quantity="160000" unit="peso">ciento sesenta</measure> a <measure quantity="180000" unit="peso">ciento ochenta mil pesos</measure> siguiendo
+                    la <lb/>misma proporción según su tamaño y fuerza.</p>
+                <p>En prueva de la infancia de nuestra policía <lb/>confesaremos que no tenemos un
+                    padron reciente ni exâc<g ref="#typoHyphen"/><lb break="no"/>to de los fundos
+                    rurales en que conste el número y fuer<g ref="#typoHyphen"/><lb break="no"/>zas
+                    de las Haciendas. Sin embargo, según la última ma<g ref="#typoHyphen"/><lb break="no"/>trícula Eclesiastica que se hizo para el remate de los diez<g ref="#typoHyphen"/><lb break="no"/>mos del quatrienio que espira en el
+                    presente año, ocho son<note place="left" hand="#H0012069"><hi rendition="#u">870</hi>
+                        <lb/>217</note>
+                    <lb/>las Parroquias ocupadas en estas grandes labranzas, y <lb/>en ellas se
+                    exponía el número de los Ingenios como sigue <note place="left" hand="#H0012069">1796</note><table rows="6" cols="4">
+                        <row role="label">
+                            <cell><hi rendition="#u">Parroquias</hi></cell>
+                            <cell><hi rendition="#u">Ingenios</hi></cell>
+                            <cell><hi rendition="#u">Parroquias</hi></cell>
+                            <cell><hi rendition="#u">Ingenios</hi></cell>
+                        </row>
+                        <row>
+                            <cell><placeName key="H0008756">Matanzas</placeName></cell>
+                            <cell>27</cell>
+                            <cell><placeName key="H0008632">Managua</placeName></cell>
+                            <cell>34</cell>
+                        </row>
+                        <row>
+                            <cell><placeName key="H0018048">Río blanco</placeName></cell>
+                            <cell>73</cell>
+                            <cell><placeName key="H0005163">Batabanó</placeName></cell>
+                            <cell>44</cell>
+                        </row>
+                        <row>
+                            <cell><placeName key="ERRORH0018451">Güines</placeName></cell>
+                            <cell>28</cell>
+                            <cell><placeName key="ERRORH0019001">Cano</placeName></cell>
+                            <cell>21</cell>
+                        </row>
+                        <row>
+                            <cell><placeName key="H0011015">Guanabacoa</placeName></cell>
+                            <cell>20</cell>
+                            <cell><placeName key="H0011026"><hi rendition="#u">Guanajay</hi></placeName></cell>
+                            <cell>61</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell cols="3">Total 305 Ingenios</cell>
+                        </row>
+                    </table></p>
+                <note place="right" hand="#H0012069">154 <lb/><hi rendition="#u">625</hi>
+                    <lb/>779</note>
+                <p><pb n="7v"/>Mas desde el año de 1796 en que se formó <lb/>dicha matrícula se han
+                    aumentado en sumo grado las <lb/>labranzas de caña : se han dundado una multitud
+                    de <lb/>ingenios nuevos; los antiguos se han adelantado en <lb/>entidad; y según
+                    las noticias posteriores que se han po<g ref="#typoHyphen"/><lb break="no"/>dido
+                    recoger, exîsten cerca de<hi rendition="#u"> quatrocientos Ingenios</hi> en<g
+                        ref="#typoHyphen"/><lb break="no"/>tre grandes y pequeños moliendo, y nuevos
+                    que todavía <lb/>no muelen, los quales emplean en su cultivo como <hi
+                        rendition="#u">trein<g ref="#typoHyphen"/><lb break="no"/>ta mil
+                        esclavos</hi> que labran annualmente <measure quantity="2500000"
+                        unit="arroba">dos milliones <lb/><hi rendition="#u">quinientas mil
+                            arrovas</hi></measure> de azúcar, separado dicho fruto <lb/>quando menos
+                    por mitad del blanco y quebrado, y las <lb/>más veces con tres quintos o más del
+                    primero. Siendo de <lb/>advertir que por tener muy escasas noticias de la situa
+                    <lb/>ción de los demás Publos de <placeName key="H0000494">la Isla</placeName>
+                    no se habla de las <lb/>demás Jurisdicciones, como Cuba, <placeName
+                        key="H0018254">Baymao</placeName>, <placeName key="H0007048">Puerto Prin
+                        <lb/>cipe</placeName>, y <placeName key="H0009519">Trinidad</placeName> que
+                    también elaboran muchos aún<g ref="#typoHyphen"/><lb break="no"/>que pequeños
+                    Ingenios donde fabrican algunos milla<lb break="no"/>res de <measure
+                        quantity="1" unit="caja">Caxas</measure>, todas en aumento de la riqueza
+                        territo<g ref="#typoHyphen"/><lb break="no"/>rial de la Colonia.</p>
+                <p><hi rendition="#u">Están desanimadas <lb/>las demás labran<g ref="#typoHyphen"/><lb break="no"/>zas, y sólo el café <lb/>es el que comienza a
+                        <lb/>extenderse.</hi></p>
+                <p>Después del azúcar, las demás labranzas <lb/>son de poca concideración, el único
+                    ramo que comien<lb break="no"/>za a fomentarse es el del café que cuenta ya
+                        sesen<lb break="no"/>ta haciendas principiantes; mas como <subst>
+                        <del rendition="#ow">cada</del>
+                        <add place="across">tarda</add>
+                    </subst> este ar<g ref="#typoHyphen"/><lb break="no"/><pb n="8r"/>busto quatro
+                    años en producir, no se puede llamar cosecha <lb/>la que hay de este fusto, <choice>
+                        <orig>aun que</orig>
+                        <reg>aunque</reg>
+                    </choice> ofrece grandes y proxîmas espe<g ref="#typoHyphen"/><lb break="no"/>ranzas. Las labranzas de algodón, y añil no han podido ra<g ref="#typoHyphen"/><lb break="no"/>dicarse todavía <choice>
+                        <orig>apezar</orig>
+                        <reg>a pezar</reg>
+                    </choice> de los exfuerzos que para ello se <lb/>han hecho, y <choice>
+                        <orig>apezar</orig>
+                        <reg>a pezar</reg>
+                    </choice> de la exêpción del diezmo que en 1792 <lb/>les fue declarado por diez
+                    años juntamente con el café. Las <lb/>labranzas subalternas están en miserable
+                    estado, pues <lb/>aun el grano más necesario para la economia rural, qual
+                    <lb/>es el maíz, está siempre escaso, o caro que es lo mismo. <choice>
+                        <orig>Es- </orig>
+                        <reg>Es</reg>
+                    </choice><lb/>evidente que procede esta inercia de algunos vicios capitales
+                    <lb/>que más adelante podremos quizás descubrir. Pero <choice>
+                        <orig>amás</orig>
+                        <reg>a más</reg>
+                    </choice>
+                    <lb/>de las trabas que concurren a ello, es presiso convenir en <lb/>que
+                    consiste principalmente en la corta introducción que varias <lb/>Naciones han
+                    promulgado sobre el tráfico de negros en <lb/><placeName key="H0002331">África</placeName>, y por otro, de las angustias de la presente guerra que
+                    <lb/>han perturbado el comercio de esclavos en aquella parte del <lb/>Mundo.</p>
+                <p>Su introducción en <placeName key="H0006819">la Havana</placeName> des<g ref="#typoHyphen"/><lb break="no"/>de que se fraqueó por cedula de 28,, de
+                    Febrero <lb/>de <unclear reason="illegible" cert="high">año</unclear> 1789
+                    consta en los libros de la Real Adua<g ref="#typoHyphen"/><lb break="no"/>na
+                    como sigue. <lb/>_______________________________________</p>
+                <p><pb n="8v"/>
+                    <table rows="9" cols="4">
+                        <row role="label">
+                            <cell><hi rendition="#u">Años</hi></cell>
+                            <cell><hi rendition="#u"><choice>
+                                        <abbr>núm.<hi rendition="#sup">o</hi></abbr>
+                                        <expan>número</expan>
+                                    </choice> de esclavos.</hi></cell>
+                            <cell><hi rendition="#u">Años</hi></cell>
+                            <cell><hi rendition="#u"><choice>
+                                        <abbr>núm.<hi rendition="#sup">o</hi></abbr>
+                                        <expan>número</expan>
+                                    </choice> de esclavos.</hi></cell>
+                        </row>
+                        <row>
+                            <cell>1789</cell>
+                            <cell>2248</cell>
+                            <cell>La otra parte</cell>
+                            <cell>29739</cell>
+                        </row>
+                        <row>
+                            <cell>„ „90</cell>
+                            <cell>2534</cell>
+                            <cell>1795</cell>
+                            <cell>5832</cell>
+                        </row>
+                        <row>
+                            <cell>„ „91</cell>
+                            <cell>8498</cell>
+                            <cell>„ „96</cell>
+                            <cell>5711</cell>
+                        </row>
+                        <row>
+                            <cell>„ „92</cell>
+                            <cell>8528</cell>
+                            <cell>„ „97</cell>
+                            <cell>4552</cell>
+                        </row>
+                        <row>
+                            <cell>„ „93</cell>
+                            <cell>3767</cell>
+                            <cell>„ „98</cell>
+                            <cell>2001</cell>
+                        </row>
+                        <row>
+                            <cell>„ „94</cell>
+                            <cell><hi rendition="#u">4164</hi></cell>
+                            <cell>„ „99</cell>
+                            <cell>4949</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>29739</cell>
+                            <cell>1800 hasta fin de <lb/>Junio</cell>
+                            <cell><hi rendition="#u">2500</hi></cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell>Total</cell>
+                            <cell><hi rendition="#uu">55284.</hi>
+                                <choice>
+                                    <abbr>esclav.<hi rendition="#sup">s</hi></abbr>
+                                    <expan>esclavos</expan>
+                                </choice></cell>
+                        </row>
+                    </table></p>
+                <p>Parecerá <choice>
+                        <orig>tal vez</orig>
+                        <reg>talvez</reg>
+                    </choice> que la introducción de cinquenta y cinco <lb/>mil cabezas debía haber
+                    producido mayores aumentos, <lb/>mas si se reflecciona en la cantidad de
+                    esclavos que se <lb/>aplican a la domesticidad, y a los oficios, con reprehen<lb break="no"/>sible exêso a la primera : si se atiende a los que mueren
+                    <lb/>annualmente se verá que ha sido bien inadequada a la <lb/>demanda de la
+                    agricultura. Los únicos años abundan<lb break="no"/>tes han sido 1791, y 1792 en
+                    que juntos entraron <lb/><hi rendition="#u">diez y siete mil negros</hi> : vino
+                    luego la guerra con <placeName key="H0004801">Fran<g ref="#typoHyphen"/><lb break="no"/>cia</placeName>, y ha ido más bien menguando que creciendo
+                    la in<g ref="#typoHyphen"/><lb break="no"/>troducción en los años subsequentes,
+                    que son en los <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>nos convenia que hubiesen abundado. La sola <placeName key="H0006819">Ha<g ref="#typoHyphen"/><lb break="no"/>vana</placeName> abarcaría finalmente
+                    doce a quince mil negros <lb/><pb n="9r"/>en el día, y progresivamente mayor
+                    cantidad <choice>
+                        <orig>cadaaño</orig>
+                        <reg>cada año</reg>
+                    </choice>, por <lb/>donde se demuestra la necesidad de proteger por quantos ca<g ref="#typoHyphen"/><lb break="no"/>minos se presenten este punto
+                    primordial.</p>
+                <p><hi rendition="#u">Aumentos de pro<g ref="#typoHyphen"/><lb break="no"/>ductos
+                        probado</hi></p>
+                <p>Sin embargo al par de las labores han ido crecien<g ref="#typoHyphen"/><lb break="no"/>do los productos como se convence por tres signos
+                    característicos <lb/>que son seguros termómetros de la prosperidad colonial, a
+                        sa<g ref="#typoHyphen"/><lb break="no"/>ver la exportación de futuros, la
+                    renta decimal, y la entrada <lb/>efectiva de las rentas Reales en la Aduana.</p>
+                <p>Las extracciones legales de azúcar desde el año de <lb/>1792, sin contar lo que
+                    puede escaparse al conocimiento de <lb/>la Aduana, ni el consumo de este frusto
+                    en el paíz han sido <lb/>como sigue.</p>
+                <p><hi rendition="#u">Con el aumento de <lb/>la extracción de <lb/>azúcar desde
+                        <lb/>1792.</hi></p>
+                <p>
+                    <table rows="9" cols="3">
+                        <row>
+                            <cell>1792</cell>
+                            <cell><measure quantity="73168" unit="caja">73168</measure>. </cell>
+                            <cell><measure quantity="73168" unit="caja">Caxas</measure> de <measure quantity="16" unit="arroba">16 arrobas</measure>.</cell>
+                        </row>
+                        <row>
+                            <cell>„ „93</cell>
+                            <cell><measure quantity="79388" unit="caja">79388</measure>.</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>„ „94</cell>
+                            <cell><measure quantity="103620" unit="caja">103620</measure>.</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>„ „95</cell>
+                            <cell><measure quantity="70437" unit="caja">70437</measure>.</cell>
+                            <cell>Esta <choice>
+                                    <abbr>diminuc.<hi rendition="#sup">n</hi></abbr>
+                                    <expan>diminución</expan>
+                                </choice> fue causada por un terrible</cell>
+                        </row>
+                        <row>
+                            <cell>„ „96</cell>
+                            <cell><measure quantity="120375" unit="caja">120375</measure>.</cell>
+                            <cell>uracán acahecido el día de <choice>
+                                    <abbr>S.<hi rendition="#sup">n</hi></abbr>
+                                    <expan>San</expan>
+                                </choice> Augustín</cell>
+                        </row>
+                        <row>
+                            <cell>„ „97</cell>
+                            <cell><measure quantity="118065" unit="caja">118065</measure>.</cell>
+                            <cell>huvo el día 2 de <choice>
+                                    <abbr>Nov.<hi rendition="#sup">e</hi></abbr>
+                                    <expan>Noviembre</expan>
+                                </choice> otro temporal de viento.</cell>
+                        </row>
+                        <row>
+                            <cell>„ „98</cell>
+                            <cell><measure quantity="134872" unit="caja">134872</measure>.</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>„ „99</cell>
+                            <cell><measure quantity="165602" unit="caja">165602</measure>.</cell>
+                            <cell>y más 6<subst>
+                                    <del rendition="#ow">6</del>
+                                    <add place="across">8</add>
+                                </subst> embarcadas en <placeName key="H0008756">Matanzas</placeName></cell>
+                        </row>
+                        <row>
+                            <cell>1800</cell>
+                            <cell><measure quantity="65000" unit="caja">65000</measure>.</cell>
+                            <cell>hasta fin de Junio.</cell>
+                        </row>
+                    </table>
+                </p>
+                <note place="left" hand="#H0012069">Note 6.</note>
+                <p><hi rendition="#u">Con él de las ren<g ref="#typoHyphen"/><lb break="no"/>tas
+                        decimales des<g ref="#typoHyphen"/><lb break="no"/>de 1789.</hi></p>
+                <p>La renta decimal que se arrienda a particulares <lb/>los quales han de hacer en
+                    ella la ganancia que corresponde <lb/>a su industria, ha sido rematada en los
+                    tres últimos quatrienios <lb/>por los precios siguientes.</p>
+                <p>Quatrienios. <table rows="3" cols="4">
+                        <row>
+                            <cell>de 1789. a 92</cell>
+                            <cell><measure quantity="792386" unit="peso">792386. <choice>
+                                        <abbr>p.<hi rendition="#sup">s</hi></abbr>
+                                        <expan>pesos</expan>
+                                    </choice></measure></cell>
+                            <cell><measure quantity="3" unit="real">3 <choice>
+                                        <abbr>r.<hi rendition="#sup">s</hi></abbr>
+                                        <expan>reales</expan>
+                                    </choice></measure></cell>
+                            <cell><choice>
+                                    <abbr>m.<hi rendition="#sup">s</hi></abbr>
+                                    <expan>municipales</expan>
+                                </choice></cell>
+                        </row>
+                        <row>
+                            <cell>de „ „93. a 96</cell>
+                            <cell><measure quantity="1044098" unit="peso">1.044098</measure></cell>
+                            <cell><measure quantity="1" unit="real">1</measure></cell>
+                            <cell>½.</cell>
+                        </row>
+                        <row>
+                            <cell>de „ „ 97. a 800</cell>
+                            <cell><measure quantity="1591340" unit="peso">1.591.340</measure></cell>
+                            <cell><measure quantity="3" unit="real">3</measure></cell>
+                            <cell>½.</cell>
+                        </row>
+                    </table></p>
+                <p>Tubo el segundo de estos quatrienios de aumento so<g ref="#typoHyphen"/><lb break="no"/><pb n="9v"/>bre el primero <measure quantity="251711" unit="peso">251711 <choice>
+                            <abbr>p.<hi rendition="#sup">s</hi></abbr>
+                            <expan>pesos</expan>
+                        </choice></measure>
+                    <measure quantity="6.5" unit="real">6½ <choice>
+                            <abbr>rr.<hi rendition="#sup">s</hi></abbr>
+                            <expan>reales</expan>
+                        </choice></measure> y el tercero sobre el <lb/>segundo <measure quantity="547242" unit="peso">547.242 <choice>
+                            <abbr>p.<hi rendition="#sup">s</hi></abbr>
+                            <expan>pesos</expan>
+                        </choice></measure>
+                    <measure quantity="2" unit="real">2 <choice>
+                            <abbr>rr.<hi rendition="#sup">s</hi></abbr>
+                            <expan>reales</expan>
+                        </choice></measure> cuyos dos aumentos impor<g ref="#typoHyphen"/><lb break="no"/>tan unidos la cantidad de <measure quantity="798957" unit="peso">798957. <choice>
+                            <abbr>p.<hi rendition="#sup">s</hi></abbr>
+                            <expan>pesos</expan>
+                        </choice></measure> es decir que en <lb/>ocho años ha duplicado la renta
+                    decimal con algún más <lb/>exêso que el duplo<supplied cert="high">.</supplied></p>
+                <p><hi rendition="#u">Y el de las rentas <lb/>Reales desde el pro<g ref="#typoHyphen"/><lb break="no"/>pio año.</hi></p>
+                <p>Las contribuciones que se cobran en la admi<g ref="#typoHyphen"/><lb break="no"/>nistración general de rentas Reales sin contar algu<g ref="#typoHyphen"/><lb break="no"/>nas otras que entran directamente en la Tesorería ge<g ref="#typoHyphen"/><lb break="no"/>neral han corrido como sigue desde el año
+                    de 1789</p>
+                <p>
+                    <table rows="4" cols="6">
+                        <row>
+                            <cell>1789</cell>
+                            <cell><measure quantity="479302" unit="pence">479.302. <choice>
+                                        <abbr>p<hi rendition="#sup">s</hi></abbr>
+                                        <expan>pesos</expan>
+                                    </choice></measure></cell>
+                            <cell>93</cell>
+                            <cell><measure quantity="635098" unit="peso">635.098</measure></cell>
+                            <cell>97</cell>
+                            <cell><measure quantity="103925" unit="peso">103.925</measure></cell>
+                        </row>
+                        <row>
+                            <cell>„ „90</cell>
+                            <cell><measure quantity="642720" unit="peso">642.720</measure></cell>
+                            <cell>94</cell>
+                            <cell><measure quantity="642320" unit="peso">642.320</measure></cell>
+                            <cell>98</cell>
+                            <cell><measure quantity="1335864" unit="peso">1335.864</measure></cell>
+                        </row>
+                        <row>
+                            <cell>„ „91</cell>
+                            <cell><measure quantity="520202" unit="peso">520.202</measure></cell>
+                            <cell>95</cell>
+                            <cell><measure quantity="643883" unit="peso">643.883</measure></cell>
+                            <cell>99</cell>
+                            <cell><measure quantity="1801490" unit="peso">1801.490</measure></cell>
+                        </row>
+                        <row>
+                            <cell>„ „92</cell>
+                            <cell><measure quantity="849904" unit="peso">849.904</measure></cell>
+                            <cell>96</cell>
+                            <cell><measure quantity="784689" unit="peso">784.689</measure></cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                </p>
+                <p><hi rendition="#u">Estado del comer<g ref="#typoHyphen"/><lb break="no"/>cio
+                        interior de <placeName key="H0006819">la <lb/><choice>
+                                <abbr>Hav.<hi rendition="#sup">a</hi></abbr>
+                                <expan>Havana</expan>
+                            </choice></placeName> y de las ne<g ref="#typoHyphen"/><lb break="no"/>gociaciones de fru<g ref="#typoHyphen"/><lb break="no"/>tos.</hi></p>
+                <p>Estos tres indicios en los quales se advierte progre<g ref="#typoHyphen"/><lb break="no"/>so más que duplo en tan cortos años, proclaman bastan<g ref="#typoHyphen"/><lb break="no"/>te el auge que ha tenido el comercio por
+                    su parte. El <lb/>comerciante antes del libre comercio era en <placeName key="H0006819">la Hava<g ref="#typoHyphen"/><lb break="no"/>na</placeName>
+                    un meno factor de las casas de Cádiz que con dificul<g ref="#typoHyphen"/><lb break="no"/>tad expendían sus efectos mal surtidos e inadequados <lb/>a las
+                    necesidades del Pueblo. Hoy entran en <placeName key="H0006819">la Hava<g ref="#typoHyphen"/><lb break="no"/>na</placeName> annualmente más de 600
+                    buques incluso el tráfi<g ref="#typoHyphen"/><lb break="no"/>co del seno
+                    Mexicano, que nos trahen todo quanto <lb/>consumimos, y lleban en retorno
+                    nuestros fru<g ref="#typoHyphen"/><lb break="no"/>tos entre los quales solo el
+                    azúcar ocupa de <measure quantity="35000" unit="tonelada">35</measure>
+                    <lb/><pb n="10r"/>a <measure quantity="40000" unit="tonelada">40 mil
+                        toneladas</measure>. Se cuentan en <placeName key="H0006819">esta
+                        ciudad</placeName> más de cin<g ref="#typoHyphen"/><lb break="no"/>quentas
+                    casas de comercio que sostienen un giro que se <lb/>gradua en más de <measure quantity="20000000" unit="peso"><hi rendition="#u">20 millones</hi> de
+                        pesos</measure>, en disposición que <lb/>se realizan en un momento, y al
+                    contado los cargamen<g ref="#typoHyphen"/><lb break="no"/>tos más ricos, <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> tras las principales casas hay <lb/>otras muchas subalternas acomdadas
+                    que facilitan <lb/>el expendio. Las negociaciones de frutos entre comercian<g ref="#typoHyphen"/><lb break="no"/>tes<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> y Haciendados han tomado un vuelo que admira. No <lb/>se conocen ya
+                    aquellas mesquinas usuras nacidas de la mi<g ref="#typoHyphen"/><lb break="no"/>seria de los que <choice>
+                        <abbr>respectivam.te</abbr>
+                        <expan>respectivamente</expan>
+                    </choice> las contrataban. Con los fon<g ref="#typoHyphen"/><lb break="no"/>dos
+                    que ha criado el comercio mediante los ventajosos precios <lb/>que obtuvieron
+                    los frutos de resultas del trastorno de la colo<g ref="#typoHyphen"/><lb break="no"/>nia franceza del <placeName key="H0011063">Guárico</placeName>,
+                    han desaparecido aquellas torpes <lb/>negociaciones en que el necesitado
+                    agricultor tomaba para <lb/>refaccionar sus Haciendas, memorias de generos y
+                    efectos <lb/>en que perdía secreta y vergonzosamente mayores premios <lb/>que
+                    los que pagaba al misero comerciante. Los amos de <lb/>Ingenio que en otro
+                    tiempo cubrían sus atenciones con <measure quantity="8000" unit="peso">ocho</measure>
+                    <lb/>a <measure quantity="10000" unit="peso">diez mil pesos</measure>, necesitan
+                    ahora <measure quantity="30000" unit="peso">30</measure>, y <measure quantity="40000" unit="peso">40 mil</measure>; y sin afian<g ref="#typoHyphen"/><lb break="no"/>zar sus raíces, y solamente con hipotecar
+                    sus frutos, en<g ref="#typoHyphen"/><lb break="no"/>cuentran quien les franquee
+                    estas cantidades en plata so<g ref="#typoHyphen"/><lb break="no"/>nante. De esta
+                    fácil y franca circulación resulta que casi <lb/>duerme la Ley que concede a los
+                    ingenios el privilegio de <lb/><pb n="10v"/>no ser executados por deudas, o a <choice>
+                        <orig>lomenos</orig>
+                        <reg>lo menos</reg>
+                    </choice> el citado pri<g ref="#typoHyphen"/><lb break="no"/>vilegio de nada
+                    sirve al deudor laborioso, y solo de abri<g ref="#typoHyphen"/><lb break="no"/>go al tramposo y abondando. Por último ha contri<g ref="#typoHyphen"/><lb break="no"/>buydo a afirmar el credito respectivo de Haciendados, y
+                    <lb/>comerciantes la atribución que se sirvió hacer el Rey al <lb/>Tribunal
+                    Consular de todas las causas sobre frutos de <lb/>extracción, por que antes que
+                    se estableciera esta nueva <lb/>jurisdicción, el vecino empleado en milicias que
+                        trata<g ref="#typoHyphen"/><lb break="no"/>se de enmarañar en interminables
+                    disputas la deman<g ref="#typoHyphen"/><lb break="no"/>da más executiva, se
+                    acogía al inespugnable santuario <lb/>del fuero militar. <lb/>El verdadero
+                    comerciante en una palabra <lb/>viene a ser el motor de las labores. Los
+                    agricultores <lb/>son unos compañeros que asocian consigo en sus espe<g ref="#typoHyphen"/><lb break="no"/>culaciones en calidad de administradores,
+                    cediéndoles <lb/>una utilidad adequada a su aplicación, industria, <lb/>y
+                    facultades. De ahí se deduce lo que vale en <placeName key="H0000494">esta
+                        <lb/>Isla</placeName> para el agricultor la conducta y honradez pues <lb/>en
+                    habiendo fondos en el comercio, y buenas leyes so <lb/>bre la división de
+                    tierras, y la facilidad de las labo<g ref="#typoHyphen"/><lb break="no"/>res,
+                    por pobre que sea el que tenga aquellas qualida<g ref="#typoHyphen"/><lb break="no"/>des, no le puede faltar quien le distinga, y le dé la <lb/>mano,
+                    como que el comerciante tanto interés tiene<lb/><pb n="11r"/>en buscar buenos
+                    administradores como el cultivador en ha<g ref="#typoHyphen"/><lb break="no"/>llar buen refaccionista.</p>
+                <p><hi rendition="#u">Necesidad de in<g ref="#typoHyphen"/><lb break="no"/>vertir en
+                        la agri <lb/>cultura nuevos <lb/>fondos.</hi></p>
+                <p>Éste es el actual estado del ramo de azúcar. Segu<g ref="#typoHyphen"/><lb break="no"/>ramente ofrece ya por sí algunos recursos la Plaza; los ca<g ref="#typoHyphen"/><lb break="no"/>pitales que hay actualmente en ella
+                    crecerán naturalmen<g ref="#typoHyphen"/><lb break="no"/>te sin auxîlio
+                    extraordinario, mas este incremento siem<g ref="#typoHyphen"/><lb break="no"/>pre será lento y pausado. Para que siga haciendo la agricul<g ref="#typoHyphen"/><lb break="no"/>tura grandes progresos, es presiso
+                    invertir en ella nuevos <lb/>fondos <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> es proposición indisputable que el cultivo no <lb/>tiene aquí más
+                    límites que la cantidad de los fondos que en <lb/>él se empleen, <choice>
+                        <abbr>demodo</abbr>
+                        <expan>de modo</expan>
+                    </choice> que si reciviera en poco tiempo la <lb/>colonia nuevos y grandes
+                    capitales axecerían sus labo<g ref="#typoHyphen"/><lb break="no"/>res en la
+                    misma proporción. Ha comenzado ya el comer<g ref="#typoHyphen"/><lb break="no"/>cio de <choice>
+                        <orig>veracruz</orig>
+                        <reg>Veracruz</reg>
+                    </choice> a abrir los ojos sobre esta clase de especula<g ref="#typoHyphen"/><lb break="no"/>ciones, y a querer partir ganancias con el de <placeName key="H0006819">la Havana</placeName>. <lb/>Es decir<choice>
+                        <sic>:</sic>
+                        <corr type="deleted"/>
+                    </choice> que mientras el superior Govierno de <placeName key="H0001618">Nueva
+                            Espa<g ref="#typoHyphen"/><lb break="no"/>ña</placeName> no se dexe
+                        sorprehender<supplied cert="high">,</supplied> no será vana la licencia que
+                    <lb/>ha concedido el Rey para que aquellos vecinos puedan em<g ref="#typoHyphen"/><lb break="no"/>plear sus fondos en frutos de <placeName key="H0000494">esta Isla</placeName>. Mas era menester <lb/>que se extendiese este
+                    movimiento hasta aquella por<g ref="#typoHyphen"/><lb break="no"/>ción de
+                    caudales casi muertos que duermen en el Rey<g ref="#typoHyphen"/><lb break="no"/>no, o solo producen un cortísimo interés de tres por <lb/>ciento, a tiempo que
+                    acá sin quebrantarse nuestros <lb/><pb n="11v"/>fondos territoriales podemos dar
+                    por ellos, seis, ocho, <lb/>y hasta diez. Lexos de detener este feliz
+                        impulso<supplied cert="high">,</supplied> co<g ref="#typoHyphen"/><lb break="no"/>mo lo quisiera la ignorancia siempre envidiosa<supplied cert="high">,</supplied>
+                    <lb/>es evidente que merece todo aprecio y protección, pues <lb/> más vale y más
+                    produce al Estado la adquisición <lb/>de un solo fundo bien labrado y cultibado,
+                    que un cau<g ref="#typoHyphen"/><lb break="no"/>dal estéril<supplied cert="high">,</supplied> por grande que sea<supplied cert="high">,</supplied> sepultado
+                    en la estagona<g ref="#typoHyphen"/><lb break="no"/>ción ¿Qué mejor empleo puede
+                    tener el dinero de mues<g ref="#typoHyphen"/><lb break="no"/>tros capitales que
+                    él de formentar con recíproca utili<g ref="#typoHyphen"/><lb break="no"/>dad del
+                    dador y del tomador una porción de labores, que <lb/>al paso que contribuye
+                    directamente à la felicidad de <lb/>una parte estimable del pueblo Español
+                    vigoriza la <lb/>primera de todas las artes, y augmenta por mil con<g ref="#typoHyphen"/><lb break="no"/>ductos la opulencia del Estado en sus
+                    varias relacio<g ref="#typoHyphen"/><lb break="no"/>nes de rentas Reales,
+                    tráfico general, navegación, ar<g ref="#typoHyphen"/><lb break="no"/>tes,
+                    fábricas, e industria, tanto en la <placeName key="H0010330">Metrópoli</placeName> como <lb/>en la <placeName key="H0002429">América</placeName>? ¡Feliz la Nación Española si conta<g ref="#typoHyphen"/><lb break="no"/>ra entre sus colonias muchas como la preciosa <placeName key="H0000494">Isla <lb/>de Cuba</placeName>! Nada tendría en esta parte que
+                        envi<g ref="#typoHyphen"/><lb break="no"/>diar a las Potencias más sabias o
+                    más in<g ref="#typoHyphen"/><lb break="no"/>dustriosas.</p>
+                <p><hi rendition="#u">Noticias sobre la po<g ref="#typoHyphen"/><lb break="no"/>blación, industria <lb/>y economía interior</hi></p>
+                <p>Debemos dar ahora una idea de la po<g ref="#typoHyphen"/><lb break="no"/>blación,
+                    industria, y economia interior. Se cree que la <lb/><pb n="12r"/>primera haya
+                    duplicado, particularmente en la capital du<g ref="#typoHyphen"/><lb break="no"
+                    />rante los últimos treinta años. Según los cálculos más <lb/>aproxîmados
+                    contiene <placeName key="H0000494">la Isla</placeName> en el día mucho más de
+                        <hi rendition="#u">tres<g ref="#typoHyphen"/><lb break="no"/>cientas mil
+                        almas</hi>, y más de <hi rendition="#u">ciento sesenta mil</hi> la sola
+                    <lb/>Jurisdicción de <placeName key="H0006819">la Havana</placeName>, que es la
+                    de que tratamos. <lb/>Ésta se extiende a lo largo de <placeName key="H0000494"
+                        >la Isla</placeName> desde el Cabo de <lb/>San Antonio hasta Álvarez, y la
+                    Hanavana al Este, <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>linda con la Jurisdicción de las quatro Villas, que quiere <lb/>decir un
+                    espacio que comprehende como <measure quantity="1500" unit="leagua">mil
+                        quinientas leguas</measure>
+                    <lb/>plana de superficie.<note place="left" hand="#H0012069">je comptais
+                        <lb/>environ <lb/>432000 <lb/>Mille <choice>
+                            <abbr>l</abbr>
+                            <expan>leguas</expan>
+                        </choice>
+                        <lb/>p 116.</note> En ella se numeran nueve Villas o <lb/>ciudades con
+                    Ayuntamiento, que son <placeName key="H0006819">la Havana</placeName>,
+                        <placeName key="H0011015">Gua<g ref="#typoHyphen"/><lb break="no"
+                        />navacoa</placeName>, <placeName key="H0006564">Jaruco</placeName>,
+                        <placeName key="ERRORH0018758">Santiago <unclear reason="illegible"
+                            cert="high">de</unclear> las Vegas</placeName>, <placeName
+                        key="H0005184">Bejucal</placeName> (por otro <lb/>nombre San Felipe y Santiago<choice>
+                        <orig>,)</orig>
+                        <reg>),</reg>
+                    </choice>
+                    <placeName key="H0009807">San Antonio</placeName>, <placeName key="H0010064"
+                        >Santa Ma<g ref="#typoHyphen"/><lb break="no"/>ria del Rosario</placeName>,
+                        <placeName key="H0008756">Matanzas</placeName> y <placeName
+                        key="ERRORH0018451">Güines</placeName>, y algunas Al<g ref="#typoHyphen"
+                        /><lb break="no"/>deas o Pueblesillos. Los campos están divididos en
+                        cinquen<g ref="#typoHyphen"/><lb break="no"/>ta y siete partidos que corren
+                    cada uno al cargo de un <lb/>Juez pedáneo para el orden de la policía; mas no
+                    todos es<g ref="#typoHyphen"/><lb break="no"/>tos partidos son iguales en tamaño
+                    y en población. Cator<g ref="#typoHyphen"/><lb break="no"/>ce que son los más
+                    remotos son de monte espezo destinados <lb/>a la crianza de ganados, y en ellos
+                    apenas habrá mil qui<lb break="no"/>nientos esclavos e igual número de blancos.
+                    La capital <lb/>puede contener cerca de <hi rendition="#u">setenta mil
+                            almas<supplied cert="high">,</supplied> los</hi> demás Pue<g
+                        ref="#typoHyphen"/><lb break="no"/>blos juntos tendrán como <hi
+                        rendition="#u">cinquenta mil</hi>. Los quarenta <lb/><pb n="12v"/>y tres
+                    partidos que circuyen la capital y la ciudad de <lb/><placeName key="H0008756"
+                        >Matanzas</placeName>, y están destinados a las labranzas mi<g
+                        ref="#typoHyphen"/><lb break="no"/>den como <hi rendition="#u"><measure
+                            quantity="350" unit="leagua">trescientas cinquenta leguas</measure></hi>
+                    planas y con<g ref="#typoHyphen"/><lb break="no"/>tarán como <hi rendition="#u"
+                        >veinte mil hombres</hi> libres y más de <hi rendition="#u">qua<g
+                            ref="#typoHyphen"/><lb break="no"/>renta mil esclavos</hi>, de los
+                    quales los <hi rendition="#u">treintamil</hi> como <lb/>se ha dicho cultivan
+                    caña.</p>
+                <p>Ninguna colonia extrangera contiene <lb/>como <placeName key="H0000494">esta
+                        Isla</placeName> en una sola poseción tan numerosa <lb/>población de
+                    blancos, y esta circunstancia importante <lb/>es la que influye en varias
+                    peculiaridades que le <lb/>son propias. Con el acelerado movimiento que han
+                    <lb/>tenido en ella la agricultura y comercio, ha crecido la <lb/>opulencia
+                    pública que vulgarmente se equivoca con <lb/>el luxo. Conocen ya estos vecinos
+                    la esplendidez en <lb/>la meza, las viviendas, muebles, <del rendition="#s">y</del> vestidos y tren de <lb/>calle. El carruage se tiene por línea de
+                    distinción en<g ref="#typoHyphen"/><lb break="no"/>tre las fortunas, y ruedan
+                    actualmente más de <hi rendition="#u">dos mil <lb/>quinientas volantes</hi> que
+                    suponen más de tres mil <choice>
+                        <sic>bestia</sic>
+                        <corr cert="high">bestias</corr>
+                    </choice><lb/>mantenidas diariamente el la ciudad: género de como<g ref="#typoHyphen"/><lb break="no"/>didad desconocida en <placeName key="H0006552">Jamaica</placeName>, y <placeName key="ERRORERRORed_zcr_xz3_hkb">Guárico</placeName>
+                    <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> en <note place="left" hand="#H0012069">m</note>
+                    <lb/>aquellas poblaciones no había ni la tercera parte de <lb/>blancos que en
+                        <placeName key="H0006819">la Havana</placeName>.</p>
+                <p>Es grande finura y brillantes de los <lb/><pb n="13r"/><choice>
+                        <sic>los</sic>
+                        <corr type="deleted"/>
+                    </choice> vestidos particularmente del sexô en todas las clases: <lb/>los
+                    alquileres de las casas han subido <choice>
+                        <abbr>extraordnariam.<hi rendition="#sup">te</hi></abbr>
+                        <expan>extraordinariamente</expan>
+                    </choice>
+                    <lb/><choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> ya no cabe la población en el casco de la Plaza<supplied cert="high">.</supplied>
+                    <lb/>Los víveres han casi duplicado de precio en el periodo <lb/>de pocos años:
+                    en fin se puede <choice>
+                        <sic>tene</sic>
+                        <corr cert="high">tener</corr>
+                    </choice> una idea de los salarios <lb/>con saber que un esclavo bozal acabado
+                    de llegar de <lb/>África empleado en simple peón gana quatro y cinco <lb/>reales
+                    diarios ¡a qué qüota no estarán los fornales de <lb/>los artefactos!<note place="left" hand="#H0012069">105/13 6 <lb/><unclear reason="illegible" cert="low">4</unclear>5/65</note> En una palabra, se puede afirmar <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>en ninguna parte del mundo es la vida tan cara co<g ref="#typoHyphen"/><lb break="no"/>mo aquí; mas es dudable si sea esto un vicio, pues <lb/>donde
+                    mucho se gasta, y se consume, también hay mu<g ref="#typoHyphen"/><lb break="no"/>cha circulación y medios fáciles y prontos de utili<g ref="#typoHyphen"/><lb break="no"/>zar. Se dirá que es un mal, consumir tantos renglo<g ref="#typoHyphen"/><lb break="no"/>nes como necesitamos de fuera, mas nunca
+                    lo será <lb/>siempre que nuestras labores nos den con que pa<g ref="#typoHyphen"/><lb break="no"/>gar esta deuda. Luego quiere decir, que al paso que
+                    <lb/>van creciendo los gastos y el amor de las comodida<g ref="#typoHyphen"/><lb break="no"/>des, debemos tembién cuidar de que aumente la <lb/>emulación al
+                    trabajo y se faciliten los empleos de <lb/>la población.</p>
+                <p>Las familias patricias, han enriquesi<g ref="#typoHyphen"/><lb break="no"/>do
+                    tanto por su industria, como por los aumen<g ref="#typoHyphen"/><lb break="no"/><pb n="13v"/>tos naturales que han tomado solo con el transcur<g ref="#typoHyphen"/><lb break="no"/>so del tiempo los bienes territoriales.
+                    Se cuentan mu<g ref="#typoHyphen"/><lb break="no"/>chas realmente poderosas:
+                    acaba de fallecer <persName key="ERRORH0018932"><choice>
+                            <abbr>D.<hi rendition="#sup">n</hi></abbr>
+                            <expan>Don</expan>
+                        </choice> Ma<g ref="#typoHyphen"/><lb break="no"/>theo de Pedroso</persName>
+                    que ha dexado en raízes el valor de más <lb/>de dos millones de pesos. En el
+                    comercio hay también <lb/>varias casas pudientes que compran cada año a los
+                    <lb/>haciendados hasta <hi rendition="#u">diez y doce mil</hi> caxas de
+                        azúcar<supplied cert="high">,</supplied>
+                    <lb/>se infiere por estos suci<subst>
+                        <del rendition="#ow">en</del>
+                        <add place="across">n</add>
+                    </subst>tos rasgos la importan<g ref="#typoHyphen"/><lb break="no"/>cia de esta
+                    población que sobrepuja en muchas cir<g ref="#typoHyphen"/><lb break="no"/>cunstancias a las colonias estrangeras, y merece <lb/>por tanto mucha
+                    concideración y favor. Aquí no <lb/>tan solo están bien hallados los patricios
+                    opulentos, <lb/>sino que se advierte aún en los forasteros que llegan <lb/>a
+                    acomodarse, una propención a <choice>
+                        <sic>arraísgarse</sic>
+                        <corr cert="high">arraígarse</corr>
+                    </choice> la <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>se nota particularmente en la clase del comercio en <lb/>la que se cuentan
+                    más de veinte y cinco casas que xi<g ref="#typoHyphen"/><lb break="no"/>ran, y
+                    posehen ingenios. La ausencia y <choice>
+                        <abbr>tra̅slación</abbr>
+                        <expan>translación</expan>
+                    </choice>
+                    <lb/>de los propietarios <hi rendition="#u">ricos a <placeName key="H0005696">Europa</placeName></hi> que era casi gene<g ref="#typoHyphen"/><lb break="no"/>ral en las <hi rendition="#u">colonias</hi> estrangeras, era
+                    para estas un <lb/>vicio, por que de ahí resultaba que estaban entre<g ref="#typoHyphen"/><lb break="no"/>gadas aquellas poblaciones a una caterba
+                    de mer<g ref="#typoHyphen"/><lb break="no"/>cenarios, y transeúntes que se
+                    engreían con el <lb/>mando, no miraban las haciendas ni los esclavos <lb/><pb n="14r"/>con el amor e interés de la propiedad, muchas veces abu<g ref="#typoHyphen"/><lb break="no"/>saban de su poder y daban mucho que hacer
+                    al Govierno.</p>
+                <p><hi rendition="#u">Nece<subst>
+                            <del rendition="#ow">c</del>
+                            <add place="across">s</add>
+                        </subst>idad de favo<g ref="#typoHyphen"/><lb break="no"/>recer la <choice>
+                            <abbr>pobla<unclear reason="illegible" cert="high">c.</unclear><hi rendition="#sup"><unclear reason="illegible" cert="high">n</unclear></hi></abbr>
+                            <expan>población</expan>
+                        </choice>
+                        <lb/>blanca, y de darle <lb/>empleo por medio <lb/>de las pequeñas la<g ref="#typoHyphen"/><lb break="no"/>branzas.</hi></p>
+                <p>Por esta breve exposición de <placeName key="H0006819">la Havana</placeName> se
+                    <lb/>ve que algo se ha hecho en poco tiempo, mas queda mucho <lb/>todavía que
+                    hacer. La colonia se reciente de la rudeza <lb/>y novedad de su existencia: las
+                    artes mecanicas y libera<g ref="#typoHyphen"/><lb break="no"/>les están
+                    atrasadas y entregadas casi exclusivamente a la <lb/>gente de color por un <subst>
+                        <del rendition="#ow">b</del>
+                        <add place="across">v</add>
+                    </subst>ergonzoso e inmoral abandono<supplied cert="high">.</supplied><note place="mBottom" hand="#author">Murió estos días un chino que fue quarenta
+                        años <subst>
+                            <del rendition="#ow">a</del>
+                            <add place="across">A</add>
+                        </subst>la <lb/>rife de la albañilería, ignorantíssimo y de tan pocas
+                            obliga<g ref="#typoHyphen"/><lb break="no"/>ciones como lo indica su
+                        calidad.</note>
+                    <lb/>Las Haciendas mismas que son los tesoros del paíz están <lb/>entregadas
+                    todas a un<choice>
+                        <sic>a</sic>
+                        <corr cert="high">o</corr>
+                    </choice>s hombres rusticos e ignorantes que <lb/>conservan con justicia el
+                    nombre de <hi rendition="#u">mayorales</hi><note place="left" hand="#H0012069">35 <lb/><hi rendition="#u">12</hi>
+                        <lb/>70 <lb/><hi rendition="#u">35</hi>
+                        <lb/>720</note>
+                    <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice>
+                    <lb/><note place="left" hand="#H0012069">350</note>no se conocen aquí ecónomos
+                    de educación y conocimien<g ref="#typoHyphen"/><lb break="no"/>tos. <choice>
+                        <orig>s</orig>
+                        <reg>S</reg>
+                    </choice>e ha visto que el azúcar es el único ramo que hasta <lb/><note place="left" hand="#H0012069">Z <lb/>10 000 <lb/>350</note>ahora, merece con<subst>
+                        <del rendition="#ow">c</del>
+                        <add place="across">s</add>
+                    </subst>ideración, el único que ha progresado <lb/>con alguna rapidez, <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> ha sido exclusivamente pro<g ref="#typoHyphen"/><lb break="no"/>tegido, y <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> ofreciendo grandes recursos puede sopor<g ref="#typoHyphen"/><lb break="no"/>tar y vencer las trabas que todavía en nuestra economía
+                    <lb/>domestica se oponen a las labores y a la circulación. Pero <lb/>las
+                    pequeñas labranzas, y en general la suerte de los <lb/>pobres, y de los de <choice>
+                        <orig>me diana</orig>
+                        <reg>mediana</reg>
+                    </choice> fortuna, son las que yacen <lb/><pb n="14v"/>en un fatal estado.
+                    Nuestra legi<subst>
+                        <del rendition="#ow">l</del>
+                        <add place="across">s</add>
+                    </subst>lación general de <lb/>Indias siempre humana, siempre benigna, ha aten<g ref="#typoHyphen"/><lb break="no"/>dido quanto ha podido al alivio de los
+                    Indios y escla<g ref="#typoHyphen"/><lb break="no"/>vos. Ningún código es más
+                    suave que el nuestro en <lb/>orden a la esclavitud; mas nada hizo efectivamente
+                    <lb/>para la clase de los hombres pobres; o por mejor decir <lb/>los medios de
+                    civilización que dispuso no podían <lb/>surtir su efecto, <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> eran aplicados a unos Paí<g ref="#typoHyphen"/><lb break="no"/>zes
+                    incultos y poco poblados, que antes de pulir o re<g ref="#typoHyphen"/><lb break="no"/>finar sus costumbres, tiene<subst>
+                        <del rendition="#ow">r</del>
+                        <add place="across">n</add>
+                    </subst> que proveer a su pre<g ref="#typoHyphen"/><lb break="no"/>cisa
+                    subsistencia. Por no haber favorecido esto últi<g ref="#typoHyphen"/><lb break="no"/>mo, faltó la legislación por el cimiento, perdiéndose en <lb/>un
+                    luxo de institutos que no tienen cabida en unas <lb/>sociedades nacientes como
+                    esta. Así es que hace siglos <lb/>que nos ha dado la piedad de nuestros
+                    soberanos <lb/>Universidades, Magistrados a manta, innumerables
+                    <lb/>jurisdicciones, fundaciones pías, conventos, y Mo<g ref="#typoHyphen"/><lb break="no"/>nasterios; y sin embargo apenas tenemos curas ni <lb/>escuelas
+                    de primeras letras; nuestros letrados no sa<g ref="#typoHyphen"/><lb break="no"/>ben ortografía ni arismétrica; nuestros cavalleros <lb/>apenas saben lo que
+                    sea dibuxo, ni trigonometría, <lb/>enfin no tenemos labradores, ni marineros, ni
+                    los <lb/>artifices más menesterosos. Es cierto que han muda <lb/><pb n="15r"/>do
+                    las cosas de aspecto desde que dió nuestro Govierno su <lb/>atención al
+                    comercio; mas todavía no están conocidos <lb/>los verdaderos principios de
+                    economía que convienen a <lb/>las poblaciones de América. Así es que siendo la
+                    Isla de <lb/>Cuba agricultora de poco tiempo a esta parte, se encuen<g ref="#typoHyphen"/><lb break="no"/>tran pocas leyes en la recopilación que
+                    sean aplicables <lb/>a su situación: se verá al contrario que todas las provi<g ref="#typoHyphen"/><lb break="no"/>dencias benéficas que se han expedido de
+                    treinta años acá <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice>
+                    <lb/>su fomento, son obras tantas exepciones a la legislación <lb/>antigua de
+                    Indias. En una palabra necesita esta Isla <lb/>una economía local, y peculiar
+                    para su Govierno interior <lb/><choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> aunque como en otras es la agricultura su objeto <lb/>principal, la
+                    suya difiere enteramente de la de Europa, <lb/>y de los otros Reynos de América.
+                    En otras partes el que <lb/>ha invertido ya un capital en tierras, no necesita
+                    más <lb/>que otro repuesto para comprar aperos, y luego con las <lb/>ganancias
+                    de sus labranzas sufragar mayores jorna<g ref="#typoHyphen"/><lb break="no"/>les
+                    y progresa; pero aquí sobre el capital empleado en <lb/>tierras, aperos, y
+                    utensilios, necesitamos otro mayor toda<g ref="#typoHyphen"/><lb break="no"/>vía
+                    para comprar bracos, de manera que aquí pide la <lb/>agricultura dobles, y
+                    talvez triples caudales, siendo igual <lb/>mente cierto que rinde proporcionada
+                    utilidad. Por <lb/>otro lado no hay aquí más que dos ocupaciones útiles <lb/><pb n="15v"/>la agricultura y el comercio: uno y otro piden fondos, <lb/>y
+                    mediante el presente repartimiento de las rique<g ref="#typoHyphen"/><lb break="no"/>zas, está depositada la fortuna pública<supplied cert="high">,</supplied> se puede decir<supplied cert="high">,</supplied>
+                    <lb/>en quinientas familias. Luego el blanco de alguna <lb/>distinción o
+                    conocimientos que no nace con bienes <lb/>de fortuna, no tiene en que ocuparse.
+                    No le queda <lb/>pues más que el Exército, la Iglecia, las Oficinas rea<g ref="#typoHyphen"/><lb break="no"/>l<choice>
+                        <sic>a</sic>
+                        <corr cert="high">e</corr>
+                    </choice>s, o las facultades de artes, medicina o Leyes, to<g ref="#typoHyphen"/><lb break="no"/>dos empleos que están llenados en una ciudad como
+                    <lb/>ésta con quinientos individuos, y no pueden dar <lb/>ocupación a la
+                    numerosa juventud que corres<g ref="#typoHyphen"/><lb break="no"/>ponde a su
+                    población. Hemos visto que las artes <lb/>que en otras partes ocupan a muchos
+                    blancos <lb/>honrados y bien nacidos, están casi monopoliza<g ref="#typoHyphen"/><lb break="no"/>dos por la gente de color, quiere decir: que la juven<g ref="#typoHyphen"/><lb break="no"/>tud blanca de ninguna manera tiene
+                    destino fácil <lb/>y conveniente. De ahí nace la preocupación de <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>los criollos son propensos a la desidia, a la holgaza<g ref="#typoHyphen"/><lb break="no"/>nería; mas debe decirse en obsequio de la verdad <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>en ningún País hay hombres más laboriosos ni más <lb/>aplicados, que los
+                    que alcanzan a poseher bienes <lb/>de fortuna con buena educación; y <choice>
+                        <orig>tal vez</orig>
+                        <reg>talvez</reg>
+                    </choice> se en<g ref="#typoHyphen"/><lb break="no"/>cuentran estas qualidades
+                    con más frequencia <lb/><pb n="16r"/>en la clase media, que en las más elevadas, <choice>
+                        <orig>por <choice>
+                                <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                                <expan>que</expan>
+                            </choice></orig>
+                        <reg>porque</reg>
+                    </choice> en <lb/>ésta las preocupaciones de nacimiento, y otras que son
+                    <lb/>madres de la vanidad, suelen adulterar las buenas dis<g ref="#typoHyphen"/><lb break="no"/>posiciones de la naturaleza. Es constante que la po<g ref="#typoHyphen"/><lb break="no"/>breza y necesidad envilecen los ánimos,
+                    abaten los es<g ref="#typoHyphen"/><lb break="no"/>píritus, y engendran mil
+                    vicios y defectos que no exîs<g ref="#typoHyphen"/><lb break="no"/>tirían, o se
+                    emmendarían con la aplicación y como<g ref="#typoHyphen"/><lb break="no"/>didad.
+                    Los entendimientos en este país son <choice>
+                        <abbr>generalm.<hi rendition="#sup">te</hi></abbr>
+                        <expan>generalmente</expan>
+                    </choice>
+                    <lb/>perspicaces, discursivos, y de gran penetración. Se pue<g ref="#typoHyphen"/><lb break="no"/>de decir, que no tanto les falta ilustración, como me<g ref="#typoHyphen"/><lb break="no"/>dios y ocasión de adquirirla. Propendan
+                    pues las le<g ref="#typoHyphen"/><lb break="no"/>yes a facilitar empleo a los
+                    blancos de mediana cla<g ref="#typoHyphen"/><lb break="no"/>se, traten en una
+                    palabra de proteger y fomentar <lb/>las pequeñas labranzas que dexan tanto vacio
+                    en el <lb/>día, florecerán entonces con preferencia o <choice>
+                        <orig>alomenos</orig>
+                        <reg>a lo menos</reg>
+                    </choice>
+                    <lb/>a la par de las grandes que hasta ahora han sido <lb/>siempre las más
+                    atendidas; se enriquecerá respecti<g ref="#typoHyphen"/><lb break="no"/>vamente
+                    la clase media, se aumentaría aquel gi<g ref="#typoHyphen"/><lb break="no"/>ro
+                    interior y domestico que en otras sociedades for<g ref="#typoHyphen"/><lb break="no"/>ma una suma mucho más conciderable que el xi<g ref="#typoHyphen"/><lb break="no"/>ro exterior, y se verá que asegurada una vez las
+                    <lb/>grandes necesidades del pueblo, será fácil tratar de <lb/>mejorar la
+                    educación, y la policía interior que en <lb/><pb n="16v"/>el día no se pueden
+                    arreglar, <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> antes de pen<g ref="#typoHyphen"/><lb break="no"/>sar en lo útil y
+                    agradable es menester satisfacer <lb/>lo necesario.</p>
+                <p><hi rendition="#u">Gracias y reformas <lb/>que necesita la <lb/>economía inte<g ref="#typoHyphen"/><lb break="no"/>rior de la colonia.</hi></p>
+                <p>Por este orden y por todo lo expuesto resul<g ref="#typoHyphen"/><lb break="no"/>ta que para ordenar la economía interior de la colonia <lb/>necesitamos pedir <subst>
+                        <del rendition="#ow">de</del>
+                        <add place="across">a</add>
+                    </subst> nuestro Monarca varias gra<g ref="#typoHyphen"/><lb break="no"/>cias
+                    que son indispensables para nuestro progreso ul<lb break="no"/>terior. Mas es
+                    menester tiempo y oportunidad para <lb/>instruir estos expedientes y
+                    presentarlos en la forma <lb/><choice>
+                        <abbr>q<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> conviene<del rendition="#erased">n</del>. Faltan providencias que
+                    favorescan <lb/>y faciliten la división y tranquila pose<subst>
+                        <del rendition="#ow">c</del>
+                        <add place="across">s</add>
+                    </subst>ión de las tier<g ref="#typoHyphen"/><lb break="no"/>ras, cuyo ramo
+                    requiere reglamentos que terminen los <lb/>intrincados pleitos sobre medidas y
+                    deslindes de corrales <lb/>como así mismo que se madere el exêsibo peso de la
+                        alca<g ref="#typoHyphen"/><lb break="no"/>vala que coarta la industria en
+                    sus primeros pasos, y <lb/>obstuye la circulación ese precioso móbil de todas
+                    las <lb/>sociedades advirtiendo que esta pensión se paga doble en <lb/>las
+                    tierras que se reparten a tributo, <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> se cobra <lb/>una a título de venta, y otro a título de imposición;
+                    <lb/>siendo así que en estos casos no desembolsan los contra<g ref="#typoHyphen"/><lb break="no"/>tantes ni un solo peso. El Rey se sirvió aprovar a
+                    <lb/>propuesta del señor <choice>
+                        <abbr>D.<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice> José Pablo Valiente la de<g ref="#typoHyphen"/><lb break="no"/>mora de
+                    dos años que concedió a los fundos destinados <lb/><pb n="17r"/>a ingenios de
+                    nueva planta; mas esta gracia recae sobre los po<g ref="#typoHyphen"/><lb break="no"/>derosos, y no sobre los que con más urgencia la necesitan. Fal<g ref="#typoHyphen"/><lb break="no"/>tan otros institutos que protexan al
+                    labrador y honren este <lb/>arte primitivo, para lo qual es un problema decidir
+                    si entre <lb/>otras providencias convendría quitar el privilegio a los
+                    <lb/>ingenios que ya no lo necesitan para trasladarlo a las <lb/>labranzas de
+                    segundo orden como Café, añil, y algodón <lb/>entre las quales vemos que solo la
+                    primera es la que prin<g ref="#typoHyphen"/><lb break="no"/>cipia a estenderse.
+                    Convendría <choice>
+                        <abbr>tal vez</abbr>
+                        <expan>talvez</expan>
+                    </choice> libertar el uso y <lb/>comercio de nuestras preciosas maderas, hoy
+                    casi <choice>
+                        <abbr>inútilm.<hi rendition="#sup">te</hi></abbr>
+                        <expan>inútilmente</expan>
+                    </choice>
+                    <lb/>estancadas para la construcción de los Reales Buques, con <lb/>lo qual como
+                    será fácil demostrarlo, estará mejor servido <lb/>el Rey y el Vasallo: extender
+                    las demoliciones o entrega <lb/>de los montes para tierra de labor, cuidado al
+                    propio tiem<g ref="#typoHyphen"/><lb break="no"/>po de fomentar oportunamente la
+                    decadente cría del ga<g ref="#typoHyphen"/><lb break="no"/>nado mular y vacuno
+                    en la parte montuosa de la Isla: <lb/>sería quizás practicable favorecer la
+                    construcción de <lb/>buques mercantes, como que estos Insulares, después de
+                    <lb/>labradores debían ser marineros; único medio de lograr <lb/>matrícula
+                    efectiva y de auxiliar aquí la Esquadra siem<g ref="#typoHyphen"/><lb break="no"/>pre escasa de gente, formando un vigoroso plantel pa<lb break="no"/>ra acudir
+                    a las atenciones de nuestra marina hoy <lb/>tan enervada. El ramo de tabaco que
+                    debía ser el ma<g ref="#typoHyphen"/><lb break="no"/><pb n="17v"/>yorasgo de los
+                    probres, y ha sido casi su plaga, si jusga<g ref="#typoHyphen"/><lb break="no"/>mos por su decadencia en estos últimos tiempos, ne<add place="superlinear">ce</add>sita <lb/>más franqueza y reforma sobre las quales ni es oportuno
+                    <lb/>ni prudente discurrir ahora. Convenía moderar el diez<g ref="#typoHyphen"/><lb break="no"/>mo de azúcar como en Nueva España Goatemala, y toda
+                    <lb/>la tierra firme donde los frutos preciosos pagan qua<g ref="#typoHyphen"/><lb break="no"/>tro por ciento y no cinco como en esta Isla, pues en vista
+                    <lb/>del encarecimiento general de todos los renglones de con<g ref="#typoHyphen"/><lb break="no"/>sumo en nuestras Haciendas, está
+                    demostrado que el cin<g ref="#typoHyphen"/><lb break="no"/>co del fruto
+                    beneficiado equivale al diez y seis por ciento <lb/>de la producción en el
+                    campo, que es la que paga diezmos. <lb/>Por último es muy urgente dividir las
+                    Parroquias en <lb/>número de quince solamente inclusas las de las ciu<g ref="#typoHyphen"/><lb break="no"/>dades y villas conforme a su antigua
+                    erección que se <lb/>hizo estando inculta la Jurisdicción; cuya provi<g ref="#typoHyphen"/><lb break="no"/>dencia está naturalmente enlazada con el
+                        estable<g ref="#typoHyphen"/><lb break="no"/>cimiento de nuevas aldeas para
+                    el mejor reparti<g ref="#typoHyphen"/><lb break="no"/>miento de los blancos en
+                    el campo, y con objeto a <lb/>disminuir el exesivo gentio de los Pueblos gran<g ref="#typoHyphen"/><lb break="no"/><pb n="18r"/>des. No podemos estendernos
+                    aquí sobre una porción de <lb/>otros reglamentos subalternos para la policía y
+                    mejor <lb/>orden de la circulación, abastos <choice>
+                        <abbr>&amp;.<hi rendition="#sup">a</hi></abbr>
+                        <expan>etcétera</expan>
+                    </choice> esta breve insinua<g ref="#typoHyphen"/><lb break="no"/>ción bastará
+                    para dar una idea de los principales in<g ref="#typoHyphen"/><lb break="no"/>convenientes y embarasos que se tocan y exigen opor<g ref="#typoHyphen"/><lb break="no"/>tuno remedio.</p>
+                <p><hi rendition="#u">Los exes de la co<g ref="#typoHyphen"/><lb break="no"/>lonia
+                        son la con<g ref="#typoHyphen"/><lb break="no"/>tinua y franca
+                        <lb/>introducción de sus <lb/>consumos, y la <lb/>extracción de sus
+                        <lb/>frutos.</hi></p>
+                <p>Estas providencias u otras semejantes quando <lb/>se adopten, darán el mayor
+                    impulso a la población blan<g ref="#typoHyphen"/><lb break="no"/>ca y a las
+                    labores; mas para que se conserven éstas en <lb/>el mayor grado de auge posible,
+                    es menester que logre la <lb/>colonia aun tiempo la introducción de los <subst>
+                        <del rendition="#ow">frutos</del>
+                        <add place="across">fondos</add>
+                    </subst>
+                    <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>presisamente necesita en razón de sus labores, y la <lb/>extracción de sus
+                    producciones, y nótese que por esta <lb/>palabra fondos, se debe comprehender el
+                    abasto <choice>
+                        <orig>detodo</orig>
+                        <reg>de todo</reg>
+                    </choice> lo <lb/>que esperamos de fuera en esclavos, utensilios de agri<g ref="#typoHyphen"/><lb break="no"/>cultura, géneros, víveres, y efectos.
+                    Creemos mas: que <lb/>lo primero es lo que ex<subst>
+                        <del rendition="#ow">i</del>
+                        <add place="across">î</add>
+                    </subst>ge continuamente la atención <lb/>del Govierno, <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> conseguido este punto, lo está tam<g ref="#typoHyphen"/><lb break="no"/>bién el segundo, pues los que proveyer<subst>
+                        <del rendition="#ow">o</del>
+                        <add place="across">e</add>
+                    </subst>n la colonia de <lb/>sus abastos, han de cargar presisamente los
+                    retornos de <lb/>futuros en pago de sus acrehencias. Es de creer que
+                    <lb/>nuestro sistema mercantil, jamás será perfecto siem<g ref="#typoHyphen"/><lb break="no"/>pre que no sea exâctamente atendido este doble térmi<g ref="#typoHyphen"/><lb break="no"/><pb n="18v"/>no de sus necesidades, <hi rendition="#u">introducción</hi> de quanto nece<g ref="#typoHyphen"/><lb break="no"/>sitan, y <hi rendition="#u">extracción</hi> de quantos frutos
+                    produzcan. <lb/>No tan solo lo pide la justicia, sino la razón, y <lb/>la
+                    politica bien entendida. Por tanto todo aquello <lb/>que no pueda trahernos la
+                        <placeName key="H0010330">metrópoli</placeName>, debe permitir<g ref="#typoHyphen"/><lb break="no"/>nos que lo recibamos de otras manos. Bien
+                    lo ha <lb/>comprehendido nuestro Govierno, y se puede decir que <lb/>esta Isla
+                    ha comenzado a prosperar desde que se fran<g ref="#typoHyphen"/><lb break="no"/>queó a los extrangeros la facultad de introducir ne<g ref="#typoHyphen"/><lb break="no"/>gros y los demás renglones que no nos puede prove<g ref="#typoHyphen"/><lb break="no"/>her directamente la Peninsula. Si se
+                    hubiera guarda<g ref="#typoHyphen"/><lb break="no"/>do en esta parte las
+                    disposiciones de nuestra antigua <lb/>legislación, hubiera dormido la Isla de
+                    Cuba en el <lb/>mismo letargo en que se mantubo por cerca de <lb/>tres siglos.
+                    De este principio nace la necesidad de no <lb/>extrechar el privilegio nacional
+                    en aquellos ramos <lb/>que él no puede abarcar ni satisfacer; y esto mismo
+                    <lb/>es lo que demuestra la justicia y conveniencia del <lb/>comercio de
+                    Neutrales en esta Isla, siempre que <choice>
+                        <abbr>p.<hi rendition="#sup">r</hi></abbr>
+                        <expan>por</expan>
+                    </choice>
+                    <lb/>razón de la guerra u otras causas esté interrumpido <lb/>el nacional. Toda
+                    la pujanza de la colonia cuyos no<g ref="#typoHyphen"/><lb break="no"/>tabbilíssimos resultados se han visto al principio de <lb/>este papel, se
+                    desvanecería en un soplo si faltasen <lb/><pb n="19r"/>a un tiempo los dos exes
+                    de <hi rendition="#u">introducción</hi> y <hi rendition="#u">extracción</hi> sin
+                    <lb/>ellos sería efímera nuestra properidad, y se convertiría <lb/>en
+                    estagnación, miseria, y ruina; <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> consistiendo <lb/>la riqueza del paíz en el cultivo de frutos
+                    preciosos cu<g ref="#typoHyphen"/><lb break="no"/>yo consumo y despacho se halla
+                    en otras regiones, todo <lb/>se destruyó el día que se entorpezca o case su
+                    salida que <lb/>es la que sostiene las labores y la emulación. Si como lo
+                    <lb/>pretendía el consulado de Cádiz se hubiera cerrado nues<g ref="#typoHyphen"/><lb break="no"/>tros puertos a los Neutrales<supplied cert="high">,</supplied> hubieran sido reducidos <lb/>a la miseria los agricultores y
+                    los comerciantes a un <lb/>mismo tiempo: los primeros por no tener quien les
+                        sub<g ref="#typoHyphen"/><lb break="no"/>ministrase fondos para subsistir y
+                    alimentar sus escla<g ref="#typoHyphen"/><lb break="no"/>vos: y los segundos por
+                    no poder realizar sus intereses. <lb/>Nunca se ha de perder de vista que un solo
+                    año de <lb/>interrupción en la introducción y extracción causa<g ref="#typoHyphen"/><lb break="no"/>ría quiebras y desgracias de la mayor
+                    gravedad, <choice>
+                        <orig>tal <lb/>vez</orig>
+                        <reg>talvez</reg>
+                    </choice> absolutamente irremediables, o a <choice>
+                        <orig>lomenos</orig>
+                        <reg>lo menos</reg>
+                    </choice> irre<g ref="#typoHyphen"/><lb break="no"/>parables en muchos años, <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> nunca se halla<g ref="#typoHyphen"/><lb break="no"/>rá la colonia
+                    bastante rica para amontonar en su <lb/>seno un repuesto de consumos
+                    correspondiente a <lb/>sus necesidades en dos años, ni para guardar sus
+                    <lb/>frutos muchos meses almacenados sin realizarlos. <lb/>Tan lexos estamos de
+                    este término, y tan escasos de <lb/><pb n="19v"/>fondos nos hallamos con
+                    proporción a nuestras ur<g ref="#typoHyphen"/><lb break="no"/>gencias, que el
+                    menor grado de aceleración o retarda<g ref="#typoHyphen"/><lb break="no"/>ción,
+                    sea en la introducción, sea en la extracción <lb/>produce repentinas
+                    alteraciones en las precios tan<g ref="#typoHyphen"/><lb break="no"/>to de los
+                    objetos de consumo con respecto <choice>
+                        <orig>ala</orig>
+                        <reg>a la</reg>
+                    </choice> pri<g ref="#typoHyphen"/><lb break="no"/>mera, como de los frutos con
+                    respecto <choice>
+                        <orig>ala</orig>
+                        <reg>a la</reg>
+                    </choice> segun<g ref="#typoHyphen"/><lb break="no"/>da. Dimana esto de que
+                    ninguna casa de comercio <lb/>tiene bastantes caudales para abarcar o guar<g ref="#typoHyphen"/><lb break="no"/>dar entre manos mucho tiempo crecidas
+                        cantida<g ref="#typoHyphen"/><lb break="no"/>des de efectos o frutos sino
+                    que apuradas para <lb/><choice>
+                        <sic>para</sic>
+                        <corr type="deleted"/>
+                    </choice> realizar sus enseres están pendientes del <lb/>menor movimiento en el
+                    comercio ultramarino <lb/>para decidir sus operaciones.</p>
+                <p>Dimana de esto también que el tráfico <lb/>de Neutrales que nos ha <unclear reason="illegible" cert="high">gran<subst>
+                            <del rendition="#ow">d</del>
+                            <add place="across">g</add>
+                        </subst>e<subst>
+                            <del rendition="#ow">d</del>
+                            <add place="across">a</add>
+                        </subst>do</unclear> tanto envidioso <lb/>lexos de mantenernos en sostenida
+                    prosperdidad, no <lb/>satisface nuestras necesidades con seguridad ni cons<g ref="#typoHyphen"/><lb break="no"/>tancia. Sujetos los Americanos desde el
+                    principio <lb/>de la Guerra a todas las vicisitudes que alteran <lb/>la política
+                    de las naciones preponderantes; expues<g ref="#typoHyphen"/><lb break="no"/>tos
+                    a las persecuciones de las dos potencias riva<g ref="#typoHyphen"/><lb break="no"/>les que alternativamente zelosas tratan de alha<g ref="#typoHyphen"/><lb break="no"/>gar, o castigarlos según la pasión del
+                    día han <lb/><pb n="20r"/>padecido grandes pérdidas y diminución en sus cauda<lb break="no"/>les, quedando además siempre pendientes de los suce<g ref="#typoHyphen"/><lb break="no"/>sos mercantiles que en las ferias de
+                    Europa resul<g ref="#typoHyphen"/><lb break="no"/>tan de la concurrencia de las
+                    Potencias marítimas <lb/>que poseen colonias en ambas Indias. Así hemos
+                    <lb/>visto este año que habiendo sufrido un grande ava<g ref="#typoHyphen"/><lb break="no"/>timiento los frutos preciosos en Europa, se hizo sen<g ref="#typoHyphen"/><lb break="no"/>tir la repercusión acá por el Norte
+                    manteniendo <lb/>nuestros frutos con notable demérito. En suma el <lb/>azote de
+                    la guerra nos causa un imponderable re<g ref="#typoHyphen"/><lb break="no"/>cargo de costos absolutamente inevitable, aun en el <lb/>caso de substituir
+                    auxilios agenos a las nacion<subst>
+                        <del rendition="#ow">es</del>
+                        <add place="across">a</add>
+                    </subst><add place="superlinear">les</add> co<g ref="#typoHyphen"/><lb break="no"/>mo se evidencia con el encarecimiento de los princi<g ref="#typoHyphen"/><lb break="no"/>pales renglones. En tiempo de paz costaba
+                    un negro <lb/>bozal pieza de trescienta a trescientos cinquenta <choice>
+                        <abbr>p.<hi rendition="#sup">s</hi></abbr>
+                        <expan>pesos</expan>
+                    </choice>, el <lb/>tasajo la arrova de diez a doce reales: la yunta de bue<g ref="#typoHyphen"/><lb break="no"/>yes se daba en ochenta pesos, y valía el
+                    azúcar hasta vein<g ref="#typoHyphen"/><lb break="no"/>te y veinte y quatro
+                    reales arrova. Durante la guerra <lb/>hemos pagado y estamos pagando los negros
+                    de quatro <lb/>cientos cinquenta a quinientos pesos, el tasajo hasta <lb/>quatro
+                    pesos y medio, la yunta de bueyes hasta ciento <lb/>sesenta pesos los utensilios
+                    con un aumento concide<g ref="#typoHyphen"/><lb break="no"/>rable, los demás
+                    renglones, y por consiguiente los <lb/><pb n="20v"/>salarios en igual
+                    proporción; quando por otro la<g ref="#typoHyphen"/><lb break="no"/>do ha baxado
+                    el azúcar hasta once, y quince reales, <lb/><choice>
+                        <abbr>resulta̅do</abbr>
+                        <expan>resultando</expan>
+                    </choice> en nuestro balanze una diferencia pasiva <lb/>de millones, nacida de
+                    la doble perdida que consta de <lb/>aumentarse los costos y baxa<subst>
+                        <del rendition="#ow">n</del>
+                        <add place="across">r</add>
+                    </subst> los precios de los <lb/>frutos.</p>
+                <p><hi rendition="#u">Único sistema <choice>
+                            <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                            <expan>que</expan>
+                        </choice>
+                        <lb/>nos conviene en <lb/>orden a esta co<g ref="#typoHyphen"/><lb break="no"/>lonia.</hi></p>
+                <p>Bien conocemos que las preten<subst>
+                        <del rendition="#ow">c</del>
+                        <add place="across">s</add>
+                    </subst>iones no <lb/>proceden de mala intención, sino de equivocada inte<g ref="#typoHyphen"/><lb break="no"/>lig<subst>
+                        <del rendition="#erased">é</del>
+                        <add place="across">e</add>
+                    </subst>ncia. Siempre propensos a la imitación preten<g ref="#typoHyphen"/><lb break="no"/>den governar por las mismas reglas, negocios diferen<g ref="#typoHyphen"/><lb break="no"/>tes en sus circunstancias, y
+                    constitución. No hablan <lb/>todos los escritores del privilegio que por mucho
+                        tiem<g ref="#typoHyphen"/><lb break="no"/>po han conservado exclusivamente y
+                    con vigor la <lb/><placeName key="H0005653">Inglaterra</placeName> y la
+                        <placeName key="H0004801">Francia</placeName> en sus colonia. Mas <del rendition="#s">e</del>
+                    <lb/><add place="intralinear">si</add> bien se exâmina, ni puede la <placeName key="H0010330">España</placeName>, ni la con<g ref="#typoHyphen"/><lb break="no"/>viene mantener el mismo sistema que aquellas <lb/>dos Potencias.
+                    Estas en primer lugar son agriculto<g ref="#typoHyphen"/><lb break="no"/>ras
+                    manifacturezas y marítimas; hacían el tráfi<g ref="#typoHyphen"/><lb break="no"/>co de negros en el <placeName key="H0002331">África</placeName>, fabricaban en
+                    sus seno <lb/>pañería, <subst>
+                        <del rendition="#ow">p</del>
+                        <add place="across">v</add>
+                    </subst>encería, sedería, quinquillería, y todo <lb/>género de utensilios: tenía<subst>
+                        <del rendition="#ow">r</del>
+                        <add place="across">n</add>
+                    </subst> una nabegación <lb/>mercante númerosícima<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> y una fuerza naval <lb/>poderosa, capas de proteger sus poseciones y
+                    el <lb/><pb n="21r"/>comercio recíproco entr<add place="intralinear">e</add>
+                    ellas y sus Metrópolis: pare<g ref="#typoHyphen"/><lb break="no"/>cía puesto en
+                    razón que aspírasen al privilegio ex<g ref="#typoHyphen"/><lb break="no"/>clusivo de proveerlas y de extraher sus frutos, pues <lb/>para uno y otro
+                    posehían casi todos los medios con<g ref="#typoHyphen"/><lb break="no"/>ducentes
+                    en suficiente proporción; sin envargo vimos <lb/>que ambas por fin más
+                    ilustradas sobre sus verdaderos <lb/>intereses supieron últimamente ceder de
+                    aquel pri<g ref="#typoHyphen"/><lb break="no"/>vilegio en todos aquellos
+                    renglones que no podían <lb/>proveher ellas mismas de donde nació aquel comercio
+                    <lb/>de los Americanos del Norte con aquellas Islas con<g ref="#typoHyphen"/><lb break="no"/>trahido a los efectos que no se podían extraher de
+                        <lb/><placeName key="H0005696">Europa</placeName>, permitiéndoles en canbio
+                    la extracción de <lb/>aquella porción de frutos proporionada al pago de
+                    <lb/>aquellas emisiones.</p>
+                <p>Nuestra constitución es muy distinta: <lb/>la <placeName key="H0010330">Metrópoli</placeName>, no hace por sí el comercio de negros: <lb/>apenas
+                    tiene fábricas, o las que tiene<del rendition="#s">n</del> no bastan <lb/>para
+                    proveernos los surtidos competentes de aque<g ref="#typoHyphen"/><lb break="no"/>llos renglones: ni puede abastecernos, sino es ex<g ref="#typoHyphen"/><lb break="no"/>trayendo del extrangero lo que necesitamos por un <lb/>largo y
+                    dispendioso rodeo, cuyos gastos están luego re<g ref="#typoHyphen"/><lb break="no"/>cargados de tantos derechos que solo su fraude es su<g ref="#typoHyphen"/><lb break="no"/>ficiente aliciente al contravando.
+                    Nuestra marina <lb/><pb n="21v"/>y nuestro peso en la balanza de <placeName key="H0005696">Europa</placeName> no nos com<g ref="#typoHyphen"/><lb break="no"/>parten ni la concideración ni los recursos necesari<g ref="#typoHyphen"/><lb break="no"/>os para que sea respetada nuestra
+                    vandera, y ade<g ref="#typoHyphen"/><lb break="no"/>más nuestra navegación
+                    mercante es causa de <lb/>buques por la misma u otras razones: luego como
+                    <lb/>se podrá exigir que se exfuerze el privilegio nacio<g ref="#typoHyphen"/><lb break="no"/>nal, quando en realidad no lo podemos exercer, ni
+                    <lb/>llenar el doble fin del contrato colonial? Quien lo <lb/>pretenda se
+                    exponse a sacrificar las colonias, o re<g ref="#typoHyphen"/><lb break="no"/>ducirlas a la miseria, a la desesperación, y a la <lb/>insesante tentación del
+                    comercio ilicito que en <lb/>tales circunstancias brindan con alhagos a
+                    <lb/>nuestros vasallos de América, las Potencias ri<g ref="#typoHyphen"/><lb break="no"/>bales. </p>
+                <p>¿No será pues más justo, más convenien<g ref="#typoHyphen"/><lb break="no"/>te
+                    permitir baxo de buenas reglas <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> las Potencias <lb/>Neutrales en tiempo de guerra y las amigas en
+                    <lb/>él de paz nos trahigan aquello que la Penínsu<g ref="#typoHyphen"/><lb break="no"/>la no nos puede proveer? Ganará en ellos la <placeName key="H0010330"><lb/>Metrópoli</placeName> y las mismas colonias: ganará el
+                    Rey <lb/>en los ingresos que darán a su Real Erario las con<g ref="#typoHyphen"/><lb break="no"/>tribuciones de esta legal introducción. Desapare<g ref="#typoHyphen"/><lb break="no"/>cerá enteramente el contravando, siempre
+                    que <lb/><pb n="22r"/>se moderen los derechos en tal manera que no cubran
+                    <lb/>los riesgos del tráfico clandestino; o si subsistiere éste <lb/>todavía por
+                    vicio y no por necesidad, será fácil cela<choice>
+                        <sic>n</sic>
+                        <corr cert="high">r</corr>
+                    </choice>
+                    <lb/>y destruíle: ganará el Estado en poner unas colo<g ref="#typoHyphen"/><lb break="no"/>nias poderosas que por sus muchas y estrechas co<g ref="#typoHyphen"/><lb break="no"/>nexîones con la <placeName key="H0010330">madre Patria</placeName>, siempre la asegura<g ref="#typoHyphen"/><lb break="no"/>rán con preferencia las <del rendition="#s">in</del>útilidades
+                    que le corres<g ref="#typoHyphen"/><lb break="no"/>pondan: y descansarán por fin
+                    las colonias en un <lb/>sistema prudente y justicioso que vinculará eterna<lb break="no"/>mente su gratitud y amor.</p>
+                <p><hi rendition="#u">Resumen e in<g ref="#typoHyphen"/><lb break="no"/>ferencias
+                        sobre la situación <lb/>presente de esta <lb/>colonia compa <lb/>rada con
+                        las ve<g ref="#typoHyphen"/><lb break="no"/>cinas extran<g ref="#typoHyphen"/><lb break="no"/>geras.</hi></p>
+                <p>En este sucinto prospecto de <placeName key="H0006819">la Havana</placeName>, no
+                    <lb/>hemos hablado de las distintas autoridades y juris<lb break="no"/>dicciones
+                    entre las quales se halla subdividida la <lb/>Real potestad<supplied cert="high">.</supplied>
+                    <note place="mBottom" hand="#author">(*) Son como sigue: jusgado Eclesiastico,
+                        la Santa in<g ref="#typoHyphen"/><lb break="no"/>quisición y la Cruzada: el
+                        vice Patronato la Real Au<lb break="no"/><pb n="22v"/>diencia: el Tribunal
+                        del Governador y de su Teniente: los <lb/>Alcaldes ordinarios: los de la
+                        Santa Hermandad: la <lb/>Jurisdicción del Ayuntamiento sobre abastos: las
+                            ape<g ref="#typoHyphen"/><lb break="no"/>laciones al mismo: el Jusgado
+                        de Difuntos: él de Real <lb/>Hacienda con su grado de apelación: el Tribunal
+                        de <lb/>cuentas: el <del rendition="#s">de</del> Jusgado de diezmos: la
+                        Junta de ma<g ref="#typoHyphen"/><lb break="no"/>deras: la de tabacos: el
+                        Tribunal del Protomedicato, <lb/>y Junta de sanidad: Jusgado de correos:
+                        Jusgado mi<lb break="no"/>litar de exercito: Jusgado de artillería: Juzgado
+                            mi<g ref="#typoHyphen"/><lb break="no"/>litar de Marina: el del
+                        Ministerio de Marina <lb/>y matrículas: Junta economica de agricultura
+                        <lb/>y comercio: Tribunal consular con su grado de <lb/>apelación; los que
+                        contados pasan e veinte <lb/>y cinco. ________________</note> Ha sido
+                    nuestro intento <subst>
+                        <del rendition="#ow">s</del>
+                        <add place="across">c</add>
+                    </subst>eñirnos <lb/>a <choice>
+                        <sic>l<subst>
+                                <del rendition="#ow">as</del>
+                                <add place="across">o</add>
+                            </subst></sic>
+                        <corr cert="high">los</corr>
+                    </choice> ra<subst>
+                        <del rendition="#ow">zones</del>
+                        <add place="across">mos</add>
+                    </subst> económicos en que pende la prosperidad <lb/>pública de la acción de los
+                    vasallos como indivi<g ref="#typoHyphen"/><lb break="no"/>duos, y así no hemos
+                    querido mesclarnos con na<g ref="#typoHyphen"/><lb break="no"/>da de lo que
+                    descanza en la acción de los que aquí <lb/>goviernan. No hay duda que la buena
+                    organización en <lb/>esta parte es muy importante e influye mucho sobre <lb/>el
+                    carácter nacional; mas estén más o menos bien go<g ref="#typoHyphen"/><lb break="no"/><pb n="22v"/>vernados, como estén buenos los demás institutos
+                    <lb/>que obran <choice>
+                        <abbr>directam.<hi rendition="#sup">te</hi></abbr>
+                        <expan>directamente</expan>
+                    </choice> sobre la industria del vasa<g ref="#typoHyphen"/><lb break="no"/>llo
+                    progresarán las lavores, y crecerá la opulencia del <lb/>Estado. Por tanto,
+                    resumiendo lo que hemos referido de <placeName key="H0006819"><lb/>la
+                        Havana</placeName>, se deduce que esta colonia por ser la ma<g ref="#typoHyphen"/><lb break="no"/>yor de las <placeName key="H0002471">Antillas</placeName> en extensión, la de tierras más <lb/>nuevas y fera<subst>
+                        <del rendition="#ow">s</del>
+                        <add place="across">c</add>
+                    </subst>es, la que posee mayor población <lb/>compuesta de vecinos y no
+                    transeúntes; merece <lb/><pb n="23r"/>el mayor desvelo y predilección de parte
+                    del ministerio <lb/>de S. M. por que aun en el día y solo baxo la relación de
+                    <lb/>sus actuales productos, es ya de suma importancia, y <del rendition="#s">s</del> lo se <lb/>rá mucho más, siempre <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> se estudien y practiquen los me<g ref="#typoHyphen"/><lb break="no"/>dios de aumentarlos: siendo una verdad <choice>
+                        <sic>inconstrastable</sic>
+                        <corr cert="high">incontrastable</corr>
+                    </choice>
+                    <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/><choice>
+                        <orig>apesar</orig>
+                        <reg>a pesar</reg>
+                    </choice> del encarecimiento de los negros, y de todos los artí<g ref="#typoHyphen"/><lb break="no"/>culos de consumo, se trabaja aquí más <choice>
+                        <sic>más</sic>
+                        <corr type="deleted"/>
+                    </choice> cantidad de <lb/>fruto con menos brazos <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> en las colonias extrangeras, lo <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>no se debe atribuir sino a la fertilidad de nuestras tierras, <lb/>y al
+                    método rústico pero económico y conveniente <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> se <lb/>usa en su beneficio. Entre los Franceses se regulaba buen
+                    <lb/>producto él de <measure quantity="60" unit="arroba">sesenta
+                        arrobas</measure> de azúcar por cabeza de <lb/>negro: en <placeName key="H0006552">Jamayca</placeName> se gradua en <measure quantity="70" unit="arroba">setenta arrobas</measure> de <lb/>azúcar quebrado o más
+                    cavado. Aquí el ingenio en <lb/>rendimiento <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> no dé <add place="superlinear">ciento</add> terciada de blanco y
+                    quebrado <choice>
+                        <abbr>p.<hi rendition="#sup">r</hi></abbr>
+                        <expan>por</expan>
+                    </choice>
+                    <lb/>cada negro, se estima como de muy inferior calidad, pues <lb/>los
+                    sobresalientes dan hasta <hi rendition="#u">ciento sesenta, y ciento
+                        <lb/>ochenta</hi> las colonias Francesas están arruinadas,<note place="left" hand="#H0012069">320/00 <lb/>116 <lb/>100 <lb/>1149 <lb/>11,49 <lb/><hi rendition="#u">70</hi>
+                        <lb/>804/00<lb/></note> y <lb/>según el carácter e indicios de la presente
+                    lucha entre <lb/>las dos potencias preponderantes, pasará larga se<g ref="#typoHyphen"/><lb break="no"/>rie de año antes que se puedan restituir
+                    aquellas al <lb/>buen orden y quietud. Es cierto que <placeName key="H0006552">Jamayca</placeName> está pros<g ref="#typoHyphen"/><lb break="no"/>perando,
+                    y que ha recivido grandes aumentos <choice>
+                        <abbr>particu<g ref="#typoHyphen"/><lb break="no"/><pb n="23v"/>larm.<hi rendition="#sup">te</hi></abbr>
+                        <expan>particularmente</expan>
+                    </choice> en ramo de café por la emigración de los expulsos <lb/>de <placeName key="ERRORERRORed_zcr_xz3_hkb">Guárico</placeName>; mas no sucede lo mismo en las
+                    demás Islas <lb/>Británicas de barlovento donde está decayendo el ramo de
+                    <lb/>azúcar por la esterilidad de las tierras, pues en las más se <lb/>muele la
+                    caña <choice>
+                        <abbr>solam<hi rendition="#sup">te</hi></abbr>
+                        <expan>solamente</expan>
+                    </choice> una vez en dos años. Ninguna de <lb/>las <placeName key="H0002471">Antillas</placeName> volvemos a decirlo, posee en tan eminente gra<g ref="#typoHyphen"/><lb break="no"/>do como <placeName key="H0000494">esta
+                        Isla</placeName> los cimientos de una verdadera grandeza: <lb/>un semillero
+                    fecundo de blancos dispuesto en el día <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> se <lb/>quiera a todo lo bueno: un territorio virgen y feraz <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> brin<g ref="#typoHyphen"/><lb break="no"/>da preciosos frutos, y
+                    esquisitas maderas con exelentes Puer<g ref="#typoHyphen"/><lb break="no"/>tos,
+                    y bahías <choice>
+                        <abbr>ventajosam.<hi rendition="#sup">te</hi></abbr>
+                        <expan>ventajosamente</expan>
+                    </choice> situadas <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice> señorear estos mares. Su <lb/>constitución está pues llamando la
+                        <placeName key="H0000494">Isla de Cuba</placeName> al destino <lb/>más
+                    brillante; y ciertamente a poco que se ayuden los géne<g ref="#typoHyphen"/><lb break="no"/>rosos exfuersos de sus ha<subst>
+                        <del rendition="#ow">v</del>
+                        <add place="across">b</add>
+                    </subst>itantes, podrá trasladar à la <placeName key="H0010330">Es<g ref="#typoHyphen"/><lb break="no"/>paña</placeName> iguales o mayores
+                    ventajas <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> las que blazonan nues<g ref="#typoHyphen"/><lb break="no"/>tros émulos
+                    y rivales<supplied cert="high">.</supplied></p>
+                <p>No podemos concluir sin advertir <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> las noticias que <lb/>aquí se dan son auténticas, y sacadas de las
+                    oficinas respecti<g ref="#typoHyphen"/><lb break="no"/>vas donde se conservan.
+                    Protestaremos por último de nues<lb break="no"/>tra sana intención y amor à la
+                    verdad, y sí el calor de nues<g ref="#typoHyphen"/><lb break="no"/>tro zelo se
+                    hubiese exêdido en alguna espresión, espera<g ref="#typoHyphen"/><lb break="no"/>mos que se disculpará como error del entendimiento, y <lb/>no del corazón. <choice>
+                        <abbr>Hav.<hi rendition="#sup">a</hi></abbr>
+                        <expan>Havana</expan>
+                    </choice>
+                    <choice>
+                        <abbr>1,,<hi rendition="#sup">o</hi></abbr>
+                        <expan>primero</expan>
+                    </choice> de Agosto de 1800.</p>
+                <p><pb n="24r"/></p>
+                <p><pb n="24v"/></p>
+            </div>
+        </body>
+    </text>
+</TEI>
