@@ -11,6 +11,9 @@
                         <forename>Kathrin</forename>
                     </persName>
                 </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
                 <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2020</date>).</p>
