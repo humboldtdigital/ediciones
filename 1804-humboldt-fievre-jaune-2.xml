@@ -18,7 +18,9 @@
                 <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2020</date>).</p>
             </editionStmt>
             <publicationStmt>
-                <publisher/>
+                <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                    Wissenschaften (BBAW)</ref></publisher>
+                <pubPlace ref="http://www.geonames.org/2950159">Berlín</pubPlace>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                         Namensnennung 4.0 International (CC BY 4.0) </licence>
