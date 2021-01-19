@@ -110,7 +110,7 @@
                         <corr cert="high">demeurée</corr>
                     </choice> concentrée sur le plateau central, tandis que les côtes
                     <lb/>orientales et occidentales n'offrent que des régions inha<lb break="no"/>bitées.</p>
-                <p><gap reason="irrelevant" unit="lines" quantity="6"/></p>
+                <p><gap reason="insignificant" unit="lines" quantity="6"/></p>
                 <p>L'Intendance de Veracruz <add place="superlinear">peut en ce moment <del rendition="#s">peut</del> être <choice>
                             <sic>considéré</sic>
                             <corr cert="high">considérée</corr>
@@ -131,8 +131,8 @@
                         <corr cert="high">nés</corr>
                     </choice> sous un climat froid <lb/>et transférés, y développerait le germe de
                     ces épidémies <lb/>funestes.</p>
-                <p><gap reason="irrelevant" unit="lines" quantity="10"/></p>
-                <p><add place="left"><gap reason="irrelevant" unit="lines" quantity="40"/></add></p>
+                <p><gap reason="insignificant" unit="lines" quantity="10"/></p>
+                <p><add place="left"><gap reason="insignificant" unit="lines" quantity="40"/></add></p>
             </div>
         </body>
     </text>
