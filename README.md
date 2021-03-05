@@ -7,7 +7,7 @@
 
 # Editionen
 
-- Dieses Repository enthält die TEI-kodierten Editionen mit ediarum.PROPHD.edit des Proyecto Humboldt Digital (2019-2021) .
+- Dieses Repository enthält die TEI-kodierten Editionen mit ediarum.PROHD.edit des Proyecto Humboldt Digital (2019-2021) .
 - Für weitere Informationen zu den Kodierungsprinzipien besuchen Sie bitte [ediarum](https://www.ediarum.org/docs/ediarum.BASE.manual/). Die Dokumentation in Spanisch wird 2021 verfügbar sein.
 - Alle TEI-Dateien sind mit Creative Commons BY lizenziert. 
 - Für Anfragen wenden Sie sich bitte an antonio.rojas-castro[at]bbaw.de
