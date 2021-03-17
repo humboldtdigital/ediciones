@@ -2,6 +2,7 @@
 <project>
     <meta>
         <filters directoryPatterns="" filePatterns="\Qediciones.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
     </meta>
     <projectTree name="ediciones.xpr">
         <folder path="."/>
