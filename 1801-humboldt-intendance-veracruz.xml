@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>IV Intendance de Veracruz</title>
+                <title type="main">IV Intendance de Veracruz</title>
                 <editor>
                     <persName>
                         <surname>Kraller</surname>
@@ -27,7 +27,7 @@
                 </availability>
             </publicationStmt>
             <notesStmt>
-                <note>Auf der Manuskriptseite (190r) befindet sich auf dem gesamten  linken
+                <note type="editorial">Auf der Manuskriptseite (190r) befindet sich auf dem gesamten  linken
                     Blattrand, im unteren Drittel der Seite sowie zwischen den beiden Textteilen
                     eine nummerierte Liste mit Anmerkungen Humboldts. Da sie nur skizzenhaften
                     Charakter haben und keinen direkten Textbezug aufweisen, wurde auf ihre
