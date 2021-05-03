@@ -19,7 +19,7 @@
             </editionStmt>
             <publicationStmt>
                 <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
-                    Wissenschaften (BBAW)</ref></publisher>
+                        Wissenschaften (BBAW)</ref></publisher>
                 <pubPlace ref="http://www.geonames.org/2950159">Berlín</pubPlace>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
@@ -31,8 +31,10 @@
                     <msIdentifier>
                         <institution>Biblioteka Jagiellonska Krakau</institution>
                         <collection>Nachlass Alexander von Humboldt</collection>
-                        <idno>Nachlass Alexander von Humboldt Bd. 1/3, Bl. 185-211
-                            (DE-611-HS-2849282)</idno>
+                        <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 1/3, Bl.
+                                185-211 (DE-611-HS-2849282)</idno>
+                        </idno>
                     </msIdentifier>
                 </msDesc>
             </sourceDesc>
