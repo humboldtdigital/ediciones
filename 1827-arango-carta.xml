@@ -17,7 +17,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Primera edición de Proyecto Humboldt digital ProHD (<date>2020</date>).</p>
+                <p>Primera edición de Proyecto Humboldt digital - ProHD (<date>2020</date>).</p>
             </editionStmt>
             <publicationStmt>
                 <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
@@ -35,14 +35,14 @@
                             Kulturbesitz</institution>
                         <collection>Colección Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">caja pequeña 7b, no. 68</idno>
+                            <idno type="shelfmark">Caja pequeña 7b, no. 68</idno>
                             <idno type="uri">http://kalliope-verbund.info/DE-611-HS-1272345</idno>
                             <idno type="URLImages"
                                 >http://resolver.staatsbibliothek-berlin.de/SBB00015CC500000000</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>2 hojas</p>
+                        <p>1 hoja</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -61,6 +61,12 @@
             <langUsage>
                 <language ident="esp">Español</language>
             </langUsage>
+            <abstract>
+                <p>Carta en la que Francisco de Arango y Parreño en que comunica a Alexander von
+                    Humboldt el envío a través de su primo de unos comentarios al <bibl
+                        sameAs="zotero-667230-HWI3EAX7">Ensayo sobre esta Isla</bibl>, y expresa su
+                    admiración.</p>
+            </abstract>
         </profileDesc>
     </teiHeader>
     <text>
