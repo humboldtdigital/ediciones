@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Sucinta noticia de la situación presente de esta colonia. Agosto de 800''
-                    Havana</title>
+                <title type="main">Sucinta noticia de la situación presente de esta colonia. Agosto
+                    de 800'' Havana</title>
                 <editor>
                     <persName>
                         <surname>Kraller</surname>
@@ -64,34 +64,37 @@
     </teiHeader>
     <text>
         <body>
+            <pb n="1r"/>
             <div>
-                <p><pb n="1r"/><note place="mTop" hand="#H0012069"><hi rendition="#uu">finances <choice>
+                <p><note place="mTop" hand="#H0012069"><hi rendition="#uu">finances <choice>
                                 <abbr>p</abbr>
                                 <expan>page</expan>
                             </choice></hi> 14</note></p>
                 <p><note place="right" hand="#H0012069">134/94 <lb/>30/ <lb/><hi rendition="#u">129/
                         </hi><lb/>140 <lb/>00</note></p>
-                <p><pb n="1v"/></p>
-                <p><pb n="2r"/></p>
-                <p><pb n="2v"/>Sucinta noticia de la situación <lb/><hi rendition="#uu">presente de
-                        esta colonia. Agosto de 800'' </hi><lb/><hi rendition="#uu"><placeName
+                <pb n="1v"/>
+                <pb n="2r"/>
+                <pb n="2v"/>
+                <p>Sucinta noticia de la situación <lb/><hi rendition="#uu">presente de esta
+                        colonia. Agosto de 800'' </hi><lb/><hi rendition="#uu"><placeName
                             key="H0006819">Havana</placeName></hi><hi rendition="#uu">.</hi></p>
-                <p><pb n="3r"/>Un ilustrado observador<supplied cert="high">,</supplied> después de
-                    una ausencia de vein<g ref="#typoHyphen"/><lb break="no"/>te y tres años vuelve
-                    a <placeName key="H0006819">la Havana</placeName>, y<supplied cert="high"
-                        >,</supplied> admirado de su actual <lb/>riqueza y esplendor, nos pide una
-                    noticia de la situación pre<g ref="#typoHyphen"/><lb break="no"/>sente de la
-                    colonia. Procuremos pues satisfacer un de<subst>
+                <pb n="3r"/>
+                <p>Un ilustrado observador<supplied cert="high">,</supplied> después de una ausencia
+                    de vein<g ref="#typoHyphen"/><lb break="no"/>te y tres años vuelve a <placeName
+                        key="H0006819">la Havana</placeName>, y<supplied cert="high">,</supplied>
+                    admirado de su actual <lb/>riqueza y esplendor, nos pide una noticia de la
+                    situación pre<g ref="#typoHyphen"/><lb break="no"/>sente de la colonia.
+                    Procuremos pues satisfacer un de<subst>
                         <del rendition="#ow">z</del>
                         <add place="across">s</add>
                     </subst>eo con el <lb/>qual nos acredita el amor e interés que profesa a
                         <placeName key="H0010330">este País</placeName>, ya <lb/>sea como Patriota,
-                    ya sea como Estadista. Presentaremos los <lb/>datos
-                    más seguros que tenemos del progreso que ha experimen<g ref="#typoHyphen"/><lb
-                        break="no"/>tado <placeName key="H0006819">la Havana</placeName> en estos
-                    últimos años, y agregaremos luego <lb/>algunas reflexîones, tanto sobre lo que
-                    se ha hecho en este tiem<g ref="#typoHyphen"/><lb break="no"/>po, como sobre lo
-                    que se prodrá hacer más adelante.</p>
+                    ya sea como Estadista. Presentaremos los <lb/>datos más seguros que tenemos del
+                    progreso que ha experimen<g ref="#typoHyphen"/><lb break="no"/>tado <placeName
+                        key="H0006819">la Havana</placeName> en estos últimos años, y agregaremos
+                    luego <lb/>algunas reflexîones, tanto sobre lo que se ha hecho en este tiem<g
+                        ref="#typoHyphen"/><lb break="no"/>po, como sobre lo que se prodrá hacer más
+                    adelante.</p>
                 <p><hi rendition="#u">Épocas en que <lb/>comensó el <choice>
                             <abbr>fom.<hi rendition="#sup">to</hi></abbr>
                             <expan>fomento</expan>
@@ -163,14 +166,14 @@
                         <corr cert="high">b</corr>
                     </choice>a el valor extraordinario de las tierras. En <lb/>los partidos más
                     remotos <measure quantity="1" unit="ed_t3t_yvj_r3b">una caballería</measure>
-                    <note place="mBottom" hand="#author">La <measure quantity="1" unit="ed_t3t_yvj_r3b"
-                            >caballería</measure> es una superficie de tierra de <measure
-                            quantity="432" unit="ed_wkf_l2b_cjb">quatro cientas <lb/>treinta y dos
-                            varas en quadro</measure>.</note> de tierra mon<g ref="#typoHyphen"/><lb
-                        break="no"/>tuosa se paga en el día a <measure quantity="500"
-                        unit="ed_xpb_2pj_r3b">quinientos pesos fuertes</measure> al contado, <lb/>y
-                    sube su precio en proporción de su distancia de <placeName key="H0006819">la
-                        capital</placeName>
+                    <note place="mBottom" hand="#author">La <measure quantity="1"
+                            unit="ed_t3t_yvj_r3b">caballería</measure> es una superficie de tierra
+                        de <measure quantity="432" unit="ed_wkf_l2b_cjb">quatro cientas <lb/>treinta
+                            y dos varas en quadro</measure>.</note> de tierra mon<g
+                        ref="#typoHyphen"/><lb break="no"/>tuosa se paga en el día a <measure
+                        quantity="500" unit="ed_xpb_2pj_r3b">quinientos pesos fuertes</measure> al
+                    contado, <lb/>y sube su precio en proporción de su distancia de <placeName
+                        key="H0006819">la capital</placeName>
                     <lb/>hasta valer cerca de ella, <measure quantity="3000" unit="peso">tresmil
                         pesos</measure>. Si se reparte en sola<g ref="#typoHyphen"/><lb break="no"
                     />res en qualquiera parte del campo a <measure quantity="100" unit="peso">cien
@@ -459,9 +462,10 @@
                     </table></p>
                 <note place="right" hand="#H0012069">154 <lb/><hi rendition="#u">625</hi>
                     <lb/>779</note>
-                <p><pb n="7v"/>Mas desde el año de 1796 en que se formó <lb/>dicha matrícula se han
-                    aumentado en sumo grado las <lb/>labranzas de caña : se han dundado una multitud
-                    de <lb/>ingenios nuevos; los antiguos se han adelantado en <lb/>entidad; y según
+                <pb n="7v"/>
+                <p>Mas desde el año de 1796 en que se formó <lb/>dicha matrícula se han aumentado en
+                    sumo grado las <lb/>labranzas de caña : se han dundado una multitud de
+                    <lb/>ingenios nuevos; los antiguos se han adelantado en <lb/>entidad; y según
                     las noticias posteriores que se han po<g ref="#typoHyphen"/><lb break="no"/>dido
                     recoger, exîsten cerca de<hi rendition="#u"> quatrocientos Ingenios</hi> en<g
                         ref="#typoHyphen"/><lb break="no"/>tre grandes y pequeños moliendo, y nuevos
@@ -521,7 +525,8 @@
                     Febrero <lb/>de <unclear reason="illegible" cert="high">año</unclear> 1789
                     consta en los libros de la Real Adua<g ref="#typoHyphen"/><lb break="no"/>na
                     como sigue. <lb/>_______________________________________</p>
-                <p><pb n="8v"/>
+                <pb n="8v"/>
+                <p>
                     <table rows="9" cols="4">
                         <row role="label">
                             <cell><hi rendition="#u">Años</hi></cell>
@@ -1807,8 +1812,8 @@
                         <abbr>1,,<hi rendition="#sup">o</hi></abbr>
                         <expan>primero</expan>
                     </choice> de Agosto de 1800.</p>
-                <p><pb n="24r"/></p>
-                <p><pb n="24v"/></p>
+                <pb n="24r"/>
+                <pb n="24v"/>
             </div>
         </body>
     </text>
