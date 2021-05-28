@@ -53,6 +53,18 @@
             <langUsage>
                 <language ident="fra">Französisch</language>
             </langUsage>
+            <abstract>
+                <p>Notizen Humboldts zu Benjamin Rushs Werk “Relación de la calentura biliosa
+                    remitente amarilla que se manifestó en Filadelfia en 1793”, das von Ignacio
+                    María Ruiz de Luzuriaga ins Spanische übersetzt wurde und unter diesem Titel
+                    1804 in Madrid erschien. Humboldt fasst die Thesen des Werks in Vorbereitung auf
+                    seine wissenschaftliche Abhandlung über das Gelbfieber zusammen.</p>
+                <p>Apuntes de Humboldt sobre la obra de Benjamin Rush “Relación de la calentura
+                    biliosa remitente amarilla que se manifestó en Filadelfia en 1793”, que fue
+                    traducida en español por Ignacio María Ruiz de Luzuriaga. La traducción se
+                    publicó en Madrid en 1804. Humboldt resume las tesis de la obra en preparación
+                    de su tratado científico sobre la fiebre amarilla.</p>
+            </abstract>
         </profileDesc>
     </teiHeader>
     <text>
