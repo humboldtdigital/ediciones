@@ -52,6 +52,11 @@
             <langUsage>
                 <language ident="fra">Französisch</language>
             </langUsage>
+            <abstract xml:lang="de">
+                <p>Humboldt beschreibt auf diesem Blatt Geographie, Klima und typische Produkte der Region Veracruz (heutiges Mexiko). Im letzten Absatz geht er auf dort herrschende Tropenkrankheiten ein.</p></abstract>
+            <abstract xml:lang="es">
+                <p>En esta hoja, Humboldt describe la geografía, el clima y los productos típicos de la region de Veracruz (actual México). En el último párrafo se dedica a las enfermedades tropicales que reinan allí.</p>
+            </abstract>
         </profileDesc>
     </teiHeader>
     <text>
