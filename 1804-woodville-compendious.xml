@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="compendious">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">A compendious description of the principal places of trade on the
+                    West Coast of Africa commonly called Guinea</title>
+                <editor>
+                    <persName>
+                        <surname>Kraller</surname>
+                        <forename>Kathrin </forename>
+                    </persName>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2021</date>).</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Namensnennung 4.0 International (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Staatsbibliothek zu Berlin</institution>
+                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt, gr. Kasten 2,
+                                Mappe 3, Nr. 5</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName>Woodville, William</persName>
+                <date>1804</date>
+            </creation>
+            <langUsage>
+                <language ident="en">Englisch</language>
+            </langUsage>
+            <abstract xml:lang="de">
+                <p>Bemerkungen zu schiffbaren Flüssen, Handelsplätzen und zum Sklavenhandel an der
+                    Westküste Afrikas. Auf dem ersten Blatt befindet sich eine handschriftliche
+                    Notiz Humboldts.</p>
+            </abstract>
+            <abstract xml:lang="es">
+                <p>Comentarios sobre ríos navegables, centros comerciales y trata de esclavos en la
+                    costa occidental de África. En la primera hoja hay una nota manuscrita de
+                    Humboldt.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb n="1r"/>
+                    <note place="mTop" hand="#Humboldt, Alexander von">auteur <lb/>Mr. William
+                        Woodville (of Liverpool) <lb/>à la Havane 1804</note>
+                </p>
+                <p>A Compendious description of the principal Places of <lb/>Trade on the West Coast
+                    of Africa commonly called Guinea <lb/>commencing at the River Senegal<supplied
+                        cert="high">,</supplied> the northern boundry and <lb/>ending at the Bay of
+                    Ambriz on the Coast of the Congo boundry<supplied cert="high">,</supplied>
+                    <lb/>comprehending a space of near six hundred fifty Leagues of Sea <lb/>Coast
+                    with a brief Account of the Productions and <unclear reason="illegible"
+                        cert="high"><choice>
+                            <sic>Artices</sic>
+                            <corr cert="high">Articles</corr>
+                        </choice></unclear> of Trade.</p>
+                <p>The great River Sanhaga, or Senegal, called by the <lb/>Natives <note
+                        place="left" hand="#author">Notes <lb/>Senegal. <lb/>B-Fing ; i.e.
+                        <lb/>Black-River <lb/>but this is not the <lb/>great River
+                    Niger</note>Ba-Fing; enters in the Atlantic Ocean under the Sixteenth
+                    <lb/>Degree of North Latitude and is the North Limit of Guinea, as <lb/>it
+                    divides that Country from Morocco; On the north Shore of this <lb/>River we find
+                    the Moors of Barbary, yellow Ugly Race of <lb/>People. And on the South side we
+                    find only Negroes, the black<g ref="#typoHyphen"/><lb break="no"/>est and
+                    handsomest in the World.<metamark place="inline"><note place="left"
+                            hand="#author">+The Moors do not <lb/>intermar<add place="superlinear"
+                                >r</add>y with Negroes; This <lb/>Nation of Blacks are <lb/>called
+                            Yolofs.</note></metamark></p>
+                <p>This River is navigable fifty or Sixty Leagues for <lb/>Vessels of Eight or Ten
+                    Feet Water, and three hundred Leagues <lb/>for flat Embarcations, in the Time of
+                    the Rains: But having <lb/>a Bar <metamark place="above"><note place="left"
+                            hand="#author">This Bar requires <lb/>a good practical
+                        Pilot</note></metamark>of Sand before its Mouth on which there are only
+                    seven <lb/>or eight Feet Water in the Dry Season and on which there <lb/>is
+                    almost always a tremendeous Surf<supplied cert="high">,</supplied> it is one of
+                    the most <lb/>dangerous to pass of any Bar in the known World: Not a year
+                    <lb/>passes without the loss of Vessels and Boats with their Crews.</p>
+                <p><metamark place="inline"><note place="left" hand="#author"> a Gum Senega is an
+                            <lb/>aqueous Gum and its <lb/>principal use is in <lb/>the fabrication
+                            of Silks </note></metamark>The Staple Commodity of this Place is the Gum
+                        Senega<supplied cert="high">,</supplied>
+                    <lb/>a little fine Gold, some ordinary Ivory and about Seven or <lb/>Eight
+                    hundred Slaves of both Sexes annually.</p>
+                <p><metamark place="inline"><note place="left" hand="#author">b All the East India
+                            and <lb/>other Goods carried <lb/>thither must be of the <lb/>first
+                            quality: The amber <lb/>(That is to say) only <lb/>semitransparent, or
+                            <lb/>to look like Fallow <lb/>half hot <unclear reason="illegible"
+                                cert="high">&amp;</unclear> half cold, as <lb/>it cools when Melted:
+                            <lb/>The Corral must be fire, <lb/>and the Pipes or Beads <lb/>large
+                            &amp; thick.</note></metamark>The Merchandize carried thither for Sale
+                    consist of <lb/>the finest East India Basts, English and Flemish Fowling-Pieces,
+                    <lb/>Fusils, Sabres and Guns, Powder with Musquet Ball Drop Shott<supplied
+                        cert="high">,</supplied><lb/>Lead Barrs &amp; fine Gunflints: Scarlet broad
+                    Cloths, and Blue Ditto<supplied cert="high">,</supplied>
+                    <lb/>Red Baize, Blue Ditto; French or Counterfeit Bretagna <lb/>Linnens, Dimitty
+                    or British Muslinets; Amber Beads, Red <lb/>Corral, fine Beads from Leghorn
+                    &amp; Venice, French or Spanish Brandy<supplied cert="high">,</supplied>
+                    <lb/>Dollars in Specie. All these are for the use of the Black People. <lb/>But
+                    besides, Bardeaux-Mine, Fine Flour, White Sugar, Coffee <lb/>and Spices, good
+                    Linnens <choice>
+                        <abbr>&amp;.ca</abbr>
+                        <expan>et cetera</expan>
+                    </choice> for the White Merchants; and above <lb/>all, The Spices called Cloves
+                    which are in general demand, as <lb/>well for foods as, to String on the Women's
+                    Necklaces, by way of <lb/>Perfume.</p>
+                <p>The dry Season begins in October and ends in May; <lb/>The Rainy Season<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> commences in June<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> and finishes in September.</p>
+                <p><pb n="1v"/><note place="left" hand="#author">Notes: <lb/>Goree Island <lb/>about
+                        two Miles from <lb/>the Main Land <lb/>a deep Channel between
+                        <lb/>them.</note>The Island of Goree is scituated about six Leagues <lb/><choice>
+                        <sic>Eaest</sic>
+                        <corr cert="high">East</corr>
+                    </choice> South-East from Cape Verd, and opposite to Cape Bernardo, is <lb/>only
+                    a quarter of a League in length, and of a Triangular form; The <lb/>South Point
+                    terminates in a high Hill, the North Point is low, where <lb/>the Fort and
+                    Vilage stands: This Island is composed of Rocks &amp; <lb/>is almost <choice>
+                        <sic>destitue</sic>
+                        <corr cert="high">destitute</corr>
+                    </choice> of Verdure and Water, except in the Rains.</p>
+                <p>The Road of Shipping is very spacious and has <lb/>good <choice>
+                        <sic>anchorge</sic>
+                        <corr cert="high">anchorage</corr>
+                    </choice>; four or five hundred Slaves, (chiefly Yolofs<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice>) may <lb/>be collected here in a Year: And the Merchandize assorted
+                    for this <lb/>Market, may consist of the same kinds and qualitites, as at
+                    Senegal. <lb/>The Prices of Negroes at both Places, from one hundred to one
+                        hun<g ref="#typoHyphen"/><lb break="no"/>dred and fifty Dollars <choice>
+                        <abbr>p<hi rendition="#sup">r</hi></abbr>
+                        <expan>per</expan>
+                    </choice> head: The Seasons like those of the former<supplied cert="high"
+                        >.</supplied></p>
+                <p><note place="left" hand="#author">Gambia River, <lb/>one of the Noblest <lb/>in
+                        the whole World</note>The River of Gambia is the finest in all Africa
+                    <lb/>being navigable for three hundred Leagues for Vessels of two hundred
+                    <lb/>Tons: This Country produces Millet, Cattle, Bees-Wax &amp; Fruits <lb/>in
+                    abundance; but is unhealthy from the low Marshy lands <lb/>on each Side; About
+                    two thousand Slaves may be purchased in this <lb/>River in Twelve Months,
+                    composed of various Nations, such as <lb/>Yolofs, Bambarrais, Woolis,
+                    Serrawoolis, Fulas, Mandingos <lb/>and Floops: The Assortment of Merchandize<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> &amp; Prices of these Slaves,<lb/>are nearly similar to those of
+                    Senegal, but somewhat cheaper<supplied cert="high">.</supplied>
+                </p>
+                <p>The Yolofs were described at Senegal, as the most <lb/>Beautiful Negroes in the
+                    World, especially the Females: but being <lb/>of an intrepid haughty Character,
+                    they are not fit for Field labour, <lb/>although they make good Tradesmen and
+                    house Servants.</p>
+                <p>The <choice>
+                        <orig>Bambarra's</orig>
+                        <reg>Bambarras</reg>
+                    </choice> are the tallest &amp; strongest People <lb/>in Guinea, very fit for
+                    low Marshy Lands<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> &amp; Sugar Plantations.</p>
+                <p>The Woolies, and Serrawoolies<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> are of moderate <lb/>Stature, and appear as a medium between the
+                    Yolofs &amp; Bambarras.</p>
+                <p>The Fulas, and Floops<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> are proper for the care of <lb/>Cattle in general, and many Fulas make
+                    good Plantation Servants.</p>
+                <p><metamark place="above"><note place="left" hand="#author">x <lb/>All the nations
+                            mentioned <lb/>here as produced in Gambi<add place="superlinear"><choice>
+                                    <sic>i</sic>
+                                    <corr type="deleted"/>
+                                </choice>a</add>
+                            <lb/>are called Mandingas <lb/>at the Havana.</note></metamark>The
+                    Mandingas are good Herdsmen<choice>
+                        <sic>.</sic>
+                        <corr type="deleted"/>
+                    </choice> &amp; Cultivators, <lb/>being sober cleanly and honest.</p>
+                <p>This River being so easy of navigation, so extensive - <lb/>so easy of Ingress,
+                    and Egress, and so abundant of Provisions; is <lb/>too much frequented by
+                    Europeans and Americans, who are <lb/>induced by these advantages, to go into
+                        <add place="superlinear">it</add> in preference to other Places: <lb/>The
+                    facility of the Passage, from hence and from Senegal &amp; Goree, to the
+                    <lb/>American Islands, is also a powerful Motive: The Navigation <lb/>being
+                    often performed in Eighteen or Twenty Days.</p>
+                <p><pb n="2r"/>The Isles Delos (<choice>
+                        <sic>Los</sic>
+                        <corr cert="high">Las</corr>
+                    </choice> Islas de los Idolos) These are <lb/>five in number, in Latitude nine
+                    Degrees and from sixteen to twenty <lb/>Minutes North: The Road for Vessels of
+                    any burthenies <note place="inline" hand="#author">say great ships</note>
+                    between the <lb/>most easterly of the five, and a Point called Tumbo; which is
+                    oftentimes <lb/>taken for a Promontory of the Main Land; but which is also an
+                    Island.</p>
+                <p>This easternmost of the five Islands is called in the <lb/>Charts<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> Factor Isle, by reason of its having been always adopted <lb/>for
+                    European Settlements, or Factories, from its convent Springs <lb/>of fresh
+                    Waters, safe Anchorage, and facility of entrance at either <lb/>the North, or
+                    the South Ends, as may be seen in the British Chart<lb/>of this Coast. There are
+                    other good Anchoring Places also among <lb/>these Islands noted in said Charts.
+                        <metamark place="inline"><note place="left" hand="#author">Note:
+                            <lb/>o<lb/>See the Chart of this Coast <lb/>published in London <lb/>in
+                            1794 and other new <lb/>Editions revised and <lb/>many new additions
+                            <lb/>made, by Navigators: <lb/>Sold by Laurie &amp; Whittle <lb/>Strand,
+                            London.</note></metamark></p>
+                <p>These Islands afford an Assylum, secure from <lb/>any sudden invasion of the
+                    neighbouring Negroes, being at a <lb/>sufficient distance from the nearest part
+                    of the Continent, to <lb/>prevent a surprize. Dry, healthy Soil, with good
+                    scituations for <lb/>habitation Stores <choice>
+                        <abbr>&amp;.<hi rendition="#sup">ca</hi></abbr>
+                        <expan>et cetera</expan>
+                    </choice> and safe harbour, for small Embarcations, <lb/>with abundance of
+                    excellent Fish easily caught.</p>
+                <p>The Scituation of the Isles Delos is unaparraleled <lb/>on the Coast of Africa.
+                    Being nearly equidistant <add place="superlinear">from</add> &amp; between the
+                    <lb/>Mouths of Rio Grande<metamark place="above">
+                        <note place="left" hand="#author">* See the same Chart <lb/>with the latest
+                                improuve<g ref="#typoHyphen"/><lb break="no"/>ments published by
+                            <lb/>Laurie &amp; Whittle <lb/>London</note></metamark> to the
+                    Northwest, and Sherbro to the South East <lb/>an extent of upwards of Sixty
+                    Leagues of Sea boast; all the inter<g ref="#typoHyphen"/><lb break="no"/>mediate
+                    Space being intersected, with more than twelve navigable <lb/>Rivers, abounding
+                    with Fish, Rice &amp; Slaves; of which last <lb/>article, from two thousand<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> to two thousand five hundred, may <lb/>be collected every Year; with a
+                    sufficient quantity of Rice, to <lb/>maintain them while in Africa, and in their
+                    Voyage to the <lb/>American Islands.</p>
+                <p><note place="left" hand="#author">Note. <lb/>Between the River Gamb<add
+                            place="superlinear">ia</add>
+                        <lb/>and the Isles Delos no <lb/>good Places of Trade for <lb/>Ships is to
+                        be found but <lb/>what are established <lb/>by the Portuguese; But
+                        <lb/>there are a great num<g ref="#typoHyphen"/><lb break="no"/>ber of small
+                        Rivers &amp; <lb/>Islands where the <lb/>British Traders send <lb/>small
+                        Vessels to purchase <lb/>Slaves, Rice, Elephants <lb/>Teeths and
+                        Salt.</note>The Price of these Slaves in time peace is from One <lb/>hundred
+                    to one hundred and twenty Dollars; and in War <subst>
+                        <del rendition="#s">with</del>
+                        <add place="superlinear">between</add>
+                    </subst> the <lb/>British united Kingdoms, and France from sixty to eighty
+                    Dollars <lb/>in Merchandize properly assorted, consisting of a great variety
+                    <lb/>of East India and Manchester Cotton Cloths, of divers patterns <lb/>and
+                    qualities: Fusils, Fowling Pieces, Sabres, Pistols <choice>
+                        <abbr>&amp;.<hi rendition="#sup">ca</hi></abbr>
+                        <expan>et cetera</expan>
+                    </choice> Gun<g ref="#typoHyphen"/><lb break="no"/>Powder, Musquet Ball, Drop
+                    Shott, Lead in Bars, Iron in ditto<supplied cert="high">,</supplied>
+                    <lb/>Brass Pans, Kettles, Tobacco, Brandy, Beads, Silks <choice>
+                        <abbr>&amp;.<hi rendition="#sup">ca</hi></abbr>
+                        <expan>et cetera<supplied cert="high">.</supplied></expan>
+                    </choice></p>
+                <p>Also, All kinds of Provision, and necesaries for the <lb/>use of the Europeans
+                    settled in the Rivers on this Coast. who <lb/>having the same inducements to
+                    establish themselves here, <lb/>as others before mentioned have found in Gambia,
+                    are <del rendition="#s">to be</del>
+                    <lb/><del rendition="#s">found</del> still more numerous; consequently a greater
+                        concur<g ref="#typoHyphen"/><lb break="no"/>ence in Trade<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> exists in these Countries, than in any in Africa.</p>
+                <p><pb n="2v"/><note place="left" hand="#author">Notes <lb/>Sierraleone. <lb/>These
+                        Mountains are <lb/>a Prodigeous Mass <lb/>of Volcanic Matter <lb/>thrown
+                        into various <lb/>Ridges like an assem<g ref="#typoHyphen"/><lb break="no"
+                        />blage of what are cal<g ref="#typoHyphen"/><lb break="no"/>led Sierras in
+                        Spanish, <lb/>&amp; consist of from three <lb/>to five Stages or <choice>
+                            <sic>heigthts</sic>
+                            <corr cert="high">heights</corr>
+                        </choice>
+                        <lb/>one above another into <lb/>the Clouds with many <lb/>Parks, &amp;
+                        Grotesque <lb/>Shapes of the most <lb/>fanciful &amp; romantic
+                        <lb/>appearance &amp; covered <lb/>with Noble Trees. <lb/>from which,
+                        Landscapes <lb/>worthy the Pencil of <lb/>Salvator Rosa <lb/>might be
+                        taken.</note>The River of Sierraleone is the next considerable <lb/>Place of
+                    Trade as we continue to proceed towards the South <lb/>Cap<supplied cert="high"
+                        >,</supplied> Sierraleone being the North West Point of the very high
+                    <lb/>Ridge of Mountains of the name in the Margin: These Moun<lb break="no"
+                    />tains form a Peninsula joined to the Mainland by a very low <lb/>Isthmus
+                    almost divided by Bunch River on the North and <lb/>Kates River on the South So
+                    that at a distance of seven or <lb/>eight Leagues at Sea, These Sierras appear
+                    as an Island &amp; <lb/>may be seen in clear Weather twenty five Leagues.</p>
+                <p>As we do not profess to give any directions for <lb/>entering any of the African
+                    Rivers, or Ports, in this Work, we <lb/>refer to the British Charts of this
+                    Coast already mentioned which <lb/>we trust will be found sufficiently exact and
+                    particular, for <lb/>the purposes of Navigating generally. And where a <choice>
+                        <sic>pratical</sic>
+                        <corr cert="high">practical</corr>
+                    </choice>
+                    <lb/>Pilot is necessary<supplied cert="high">,</supplied> it will be noted in
+                    the Margin.</p>
+                <p>The entrance of this River is deep enough for the <lb/>largest first Rate Ships
+                    of War and is in Latitude eight Degrees <lb/>&amp; thirty Minutes North. The
+                    Produce is Rice, Camwood &amp; Slaves <lb/>of the Timanny, Mandinga &amp; Bulam
+                    Nations, all excellent, <lb/>and of which One thousand may be collected <choice>
+                        <sic>annully</sic>
+                        <corr cert="high">annually</corr>
+                    </choice>, and as the <lb/>River Scarcies to the North, and the <choice>
+                        <sic>Bannas</sic>
+                        <corr cert="high">Bannanas</corr>
+                    </choice> Islands<note place="left" hand="#author">The Bannanas are <lb/>three
+                        high and very <lb/>beautiful fruitful <lb/>Islands ten Leagues
+                        <lb/>Southerly from Sierra<g ref="#typoHyphen"/><lb break="no"
+                    />leone</note>, &amp; the <lb/>River Sherbro to the South, with all its
+                    branches, may be <lb/>considered as Appendages to Sierraleone we may alow
+                        <unclear reason="illegible" cert="high">about</unclear>
+                    <lb/>five hundred more to be brought from these Places, as also <lb/>two hundred
+                    Tons of Rice from the whole of this District.</p>
+                <p>One hundred Tons of Camwood<note place="left" hand="#author">Camwood is of a
+                        <lb/>rich Orange Colour <lb/>very compact &amp; used <lb/>by Dyers. Value in
+                        <lb/>England forty Guineas <lb/><choice>
+                            <abbr>p<hi rendition="#sup">r</hi></abbr>
+                            <expan>per</expan>
+                        </choice> Ton<choice>
+                            <sic>.</sic>
+                            <corr type="deleted"/>
+                        </choice> &amp; which costs <lb/>here the Value of a<lb/>Prime Slave.</note>
+                    might also be <lb/>bought yearly. But the British having formed a Settlement
+                    <lb/>on the South Side of Sierraleone River and claim<add place="superlinear"
+                        >ing</add> a right to <lb/>the Coast to a considerable Extent Southward
+                    which being bought <lb/>from the Natives &amp; paid for by the English Nation.
+                    Other Nations <lb/>may find it <choice>
+                        <sic>inconvent</sic>
+                        <corr cert="high">inconvenient</corr>
+                    </choice> to attempt establishments within these limits<supplied cert="high"
+                        >.</supplied></p>
+                <p>The Assortment of Merchandize proper for these <lb/>parts are nearly the same as
+                    at the Isles Delos with the <lb/>additions of more Bars of Iron, Tobacco, Brass,
+                    Kettles &amp; Pans <lb/>and a large kind of Flat Brass Pans called Neptunes for
+                    the <lb/>purpose of making Salt (which abounds on the Coast near Sherbro)
+                    <lb/>and <choice>
+                        <sic>rederring</sic>
+                        <corr cert="medium">rendering</corr>
+                    </choice> the quantities of Cotton &amp; of Linnen Cloths propor<g
+                        ref="#typoHyphen"/><lb break="no"/>tionally.</p>
+                <p>There are many Europeans settled all along <lb/>this Coast which causes much
+                    opposition in Trade.</p>
+                <p>The Rains begin in June &amp; end in October<choice>
+                        <sic>.</sic>
+                        <corr type="deleted"/>
+                    </choice> from <lb/>that Month to Christmas, Tornados prevail. <choice>
+                        <abbr>Jan.<hi rendition="#sup">y</hi></abbr>
+                        <expan>January</expan>
+                    </choice><supplied cert="high">,</supplied>
+                    <choice>
+                        <abbr>Feb.<hi rendition="#sup">y</hi></abbr>
+                        <expan>February</expan>
+                    </choice> &amp; March are <lb/>dry Months. April and May, Tornados again.</p>
+                <p><pb n="3r"/><note place="left" hand="#author">Cabe Corso. <lb/>Annamaboo,
+                        <lb/>Whyda or Juda, <lb/>Mina <choice>
+                            <abbr>&amp;.<hi rendition="#sup">ca</hi></abbr>
+                            <expan>et cetera</expan>
+                        </choice>
+                        <lb/>European <choice>
+                            <abbr>Establishm.<hi rendition="#sup">t</hi></abbr>
+                            <expan>Establishment</expan>
+                        </choice></note>We have hither to been treating of the Windward Coast of
+                    Guinea <lb/>and are approaching towards the Gold-Coast which we will pass
+                    <lb/>over in <add place="superlinear">a</add> cursory manner, because the
+                    British having Forts and Castles <lb/>at all the Places worth mentioning no
+                    other Nations may be admit <lb/>to Trade there except a few Hollanders and
+                    Portuguese. The Negroes <lb/>brought from thence to the Havana are the best in
+                    Guinea &amp; called <lb/>Minas. This Coast produces more than two thousand
+                    Slaves annually<supplied cert="high">,</supplied>
+                    <lb/>some fine Gold &amp; Maize.</p>
+                <p>The next in order as we proceed Eastward for the Gulf of Biafra <lb/>and the
+                    Rivers Lagos<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> and Benin, or Formosa; and also Cape Formoso<supplied cert="high"
+                        >,</supplied>
+                    <lb/>all this Coast is inhospitable and very little frequented being for the
+                    <lb/>most part drowned occasionally by the Sea or by the heavy Rains <lb/>in
+                    August and September. Best not withstanding all these diffi<g ref="#typoHyphen"
+                        /><lb break="no"/>culties. As there are very good Slaves to be had at
+                    equitable Prices<supplied cert="high">.</supplied>
+                    <lb/>The hardy and persevering Spirit of the British, the French, and <lb/>some
+                    Portuguese, have surmounted these Obstacles and carried on <lb/>a Traffic for
+                    Negroes, Ivory and Cotton Cloths similar to the Cloths <lb/>made in the Cape de
+                    Verd Islands. But it is not advisable to at<g ref="#typoHyphen"/><lb break="no"
+                    />tempt the establishement of Factories on this Part of the Coast.</p>
+                <p><note place="left" hand="#author">New Calebar and <lb/>Bonny Rivers,
+                        <lb/>Independent Kings</note>From Cape Formoso, still advancing Eastward we
+                    pass by the <lb/>Mouths of Six Rivers of little Note and the Seventh ispening is
+                    the Bar <lb/>called Bonny Bar which is the common entrance of the River called
+                    <lb/>New Calebar, and Bonny, but which are in fact two seperate and <lb/>very
+                    large Rivers running far into the Country, producing Yams<supplied cert="high"
+                        >,</supplied>
+                    <lb/>Ivory<supplied cert="high">,</supplied> Palm Oil<choice>
+                        <sic>.</sic>
+                        <corr type="deleted"/>
+                    </choice> and abundance of Slaves in numbers superior to <lb/>any Place in
+                    Guinea. These Negroes are called at the Havana Calebaris.</p>
+                <p><note place="left" hand="#author">River Lagos <lb/>Benin &amp; Cape <lb/>Formoso <choice>
+                            <abbr>&amp;.<hi rendition="#sup">ca</hi></abbr>
+                            <expan>et cetera</expan>
+                        </choice>
+                        <lb/>Independent Negro <lb/>Kings &amp; Princes</note>The Assortment of
+                    Merchandize adapted to these <lb/>Rivers is composed of East India &amp;
+                    Manchester Goods, Gun-Powder<supplied cert="high">,</supplied> Arms <lb/>Brandy,
+                    Hardware, Beads<supplied cert="high">,</supplied> Silk<supplied cert="high"
+                        >,</supplied> handkerchiefs &amp; a variety of other Articles <lb/>amounting
+                    to eighty Dollars <choice>
+                        <abbr>pr</abbr>
+                        <expan>per</expan>
+                    </choice> head a little more or less, besides what may <lb/>be expended in the
+                    purchase of Yams Plantains <choice>
+                        <abbr>&amp;.<hi rendition="#sup">ca</hi></abbr>
+                        <expan>et cetera</expan>
+                    </choice> for the Food of the <lb/>Slaves while on the Coast and the Passage to
+                        America<supplied cert="high">.</supplied></p>
+                <p>We have mentioned New Calebar before Bonny because the <lb/>former comes next in
+                    place before Bonny, but<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> The latter is of much <lb/>greater importance producing a very
+                    superior number of Slaves and <lb/>those of better Constitutions and
+                    Temperaments. Perhaps we cannot <lb/>find any Place of Trade in Guinea to
+                    compare with this for numbers <lb/>produced Annually if not Malemba on the
+                    Cacongo Coast. But, if <lb/>Malemba fails in this degree of comparison, it
+                    enjoys advantages <lb/>superior in other aspects being healthier, more facil of
+                    access &amp; <lb/>departure together with a favorable Climate &amp; Wind to
+                        America<supplied cert="high">.</supplied></p>
+                <p><pb n="3v"/><note place="left" hand="#author">Rivers Del Rey <lb/>and <lb/>Old
+                        Calebar</note>Continuing our Route Eastward to the bottom of the Gulf of
+                    <lb/>Guinea or Biafra we come to the River Del Rey and Old Calebar<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice>
+                    <lb/>the first of these of little Frequentation, but<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> the latter of some consequence <lb/>for its Trade which consists of
+                    Ivory, Palm Oil, Red Wood for Dyeing<supplied cert="high">,</supplied>
+                    <lb/>Ebony and Slaves of inferior quality but cost litte. The Assortment
+                    <lb/>for their purchase being of coarser &amp; cheaper.</p>
+                <p><note place="left" hand="#author">River Camarones</note>From Old Calebar the
+                    Coast bends more Southerly to the River <lb/>Camaroons, which produces much good
+                    Ivory and a few bad Slaves<supplied cert="high">.</supplied></p>
+                <p><note place="left" hand="#author">Rivers Danger and <lb/>Gabon</note>The Coast
+                    streches Southerly to the Rivers Danger and Gabon<supplied cert="high"
+                        >.</supplied>
+                    <lb/>This last is a very fine River, navigable many Leagues into the interior
+                    <lb/>of the Country producing Ivory, Ebony, Red Wood &amp; Some Slaves and
+                    <lb/>is scituated nearly under the Equinoctial Line &amp; here the Slaves are
+                    <lb/>of the most feeble<supplied cert="high">,</supplied> effeminate &amp;
+                    cowardly Characters<supplied cert="high">,</supplied> the worst confor<g
+                        ref="#typoHyphen"/><lb break="no"/>mation of Bodies &amp; Limbs in all
+                    Guinea and are bought cheap accordingly<supplied cert="high"
+                        >.</supplied><lb/><note place="left" hand="#author">Bad Slaves <lb/>are of
+                        no value</note>But be it remarked and remembered (once for always) That to
+                    <lb/>Purchase a Slave such as we have just described because it costs
+                    <lb/>Little, is a proof of ignorance, covetousness<supplied cert="high"
+                        >,</supplied> Avarice &amp; folly, all which <lb/>Vices are sure to be
+                    punished in the Purchaser by the Weakness of <lb/>the Slave and inability of
+                        <unclear reason="illegible" cert="high">sensing</unclear> his Master if per
+                    chance, he has <lb/>the Will to do it, and which scarcely ever happens for such
+                    cowards <lb/>are always mischievous<supplied cert="high">,</supplied> Lazy &amp;
+                    Tracherous.</p>
+                <p><note place="left" hand="#author">The Islands St. Thomas <lb/>Princes and
+                            Fernand<lb break="no"/>depo very plentiful <lb/>of Provisions</note>From
+                    Gabon to Cape López Gonsalvez the Coast runs South with <lb/>some Rivers and
+                    Islands on the intervening Space of no note for Trade. <lb/>But we have the
+                    Islands of Fern<add place="superlinear">an</add>depo, Princes and Saint Thomas
+                    <lb/>in the Bosom of this African Gulf and in a manner centrically <lb/>opposite
+                    most of the principal Ports, which Islands being cultivated <lb/>aford plentiful
+                    refreshment and great relief to the exhausted Slaves <lb/>and Mariners after
+                    their fatigues of the Coast and their tedious <lb/>navigation towards these
+                    Hospitable Retreats against contrary Winds <lb/>and Currents which constantly
+                    prevail. this immense Bay being the<lb/>Receptacle of the Napours brought hither
+                    from Angola by the South East <lb/>Trade Wind from Angola &amp; Congo.</p>
+                <p><note place="left" hand="#author">Cape López Gonsalvez <lb/>First Promontory
+                        <lb/>of the Southern <lb/>Atlantic Ocean <lb/>East side thereof.</note>Cape
+                    López &amp; Gonsalvez in nearly one Degree South <choice>
+                        <abbr>Latt.d</abbr>
+                        <expan>Latitude</expan>
+                    </choice> is the <lb/>terminating Point of the South side of the Gulf of Biafara
+                    which we <lb/>have traced in its inflexions from Cape Formosa<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> and from this <lb/>Primary Promontory of the East Coast of the
+                    Southern Atlantic Ocean<supplied cert="high">,</supplied>
+                    <lb/>the Coasts of Yumba, Loanga, Cacongo, Sonhio, Congo and Angola <choice>
+                        <abbr>&amp;.<hi rendition="#sup">a</hi></abbr>
+                        <expan>et cetera</expan>
+                    </choice>
+                    <lb/>follow in succession towards the South: But in common discourse <lb/>all
+                    these Countries are collectively called Angola by Europeans<choice>
+                        <sic>.</sic>
+                        <corr type="deleted"/>
+                    </choice> &amp; Congo <lb/>in the Havana <choice>
+                        <abbr>&amp;.<hi rendition="#sup">ca</hi></abbr>
+                        <expan>et cetera</expan>
+                    </choice><supplied cert="high">.</supplied></p>
+                <p>As we recede from the Equinoctial Line to the North the Natives <lb/>of the
+                    respective Countries are more Robust<supplied cert="high">,</supplied> laborious
+                    and of Superior <lb/><pb n="4r"/>Understanding; And, in like Manner as we
+                    proceed towards the South <lb/><note place="left" hand="#author">General remarks
+                        <lb/>on the Persons, the <lb/>Genius &amp; Character <lb/>of the Negroes
+                        born <lb/>near the Equator.</note>we experience the same gradations of
+                        Conformation<supplied cert="high">,</supplied> Beauty &amp;
+                        Intelligence<supplied cert="high">.</supplied>
+                    <lb/>We will not give the difference of Latitude all the merit of this Physical
+                    <lb/>approach towards perfections, because although the Rule may hold good in
+                    <lb/>the Conformation and external appearance of Persons until the Sixteeth
+                    <lb/>Degree of North Latitude. Yet we know to a certainty the Intellectual and
+                    <lb/>Moral facutlties arrise at their Zenith in more temperate Climes.</p>
+                <p>And if we go on to the Southern Promontory we find Hottentots at the <lb/>Cape of
+                    Good Hope, the most Stupid Race on the Globe except the Laplanders <lb/>from
+                    hence we conclude that the Soil has much influence on the Physical <lb/>as well
+                    as the Intellectual Character. We are led into this Digression <lb/>by comparing
+                    the Africans born on the North and on the South of the Equator <lb/>and within
+                    the Space of five or six degrees of Latitude on each side of <lb/>it. Those of
+                    the neighbourhood of that Line on both sides inhabit low <lb/>Marshy Lands and
+                    live upon Fish and Moist Roots, such as Yams <choice>
+                        <abbr>&amp;.<hi rendition="#sup">a</hi></abbr>
+                        <expan>et cetera</expan>
+                    </choice><supplied cert="high">.</supplied>
+                    <lb/>Their being obliged to made through Mud and Roots of Trees gives <subst>
+                        <del rendition="#s">that</del>
+                        <add place="superlinear">then</add>
+                    </subst> very <lb/>awkward &amp; Shambling-Gait which is so dissagreable and
+                    really causes <lb/>that slow &amp; Lazy walk we often remark in New Negroes.</p>
+                <p>As the Writer is professedly treating of the Negro Species, he thinks <lb/>(as
+                    they are become an Article of Commerce.) it is his duty, to point out <lb/>where
+                    to purchase the best, and to avoid and refrain from the Worst.</p>
+                <p>The first Place of Trade we arrive at after quitting the Gulf of <lb/><note
+                        place="left" hand="#author">Mayumba Bay.</note>Biafara and progressing
+                    Southerly agreeably to our general Plan, <lb/>is the Bay of Mayumba in the
+                    Province of Yumba and Empire <lb/>of Loanga. This is a Spacious Bay
+                    insufficiently described in the Chart <lb/>of this Coast published in London
+                        <metamark place="above"><note place="left" hand="#author">By Laurie
+                            &amp;Whittle <lb/>in 1792 </note></metamark>. And is the only Place in
+                    Africa where <lb/>the Red-Wood for Dyers use, called Bar-Wood<supplied
+                        cert="high">,</supplied> is to be had in quan<g ref="#typoHyphen"/><lb
+                        break="no"/>tities sufficient for Lading Ships of great Burthen. It seems to
+                    be <lb/>inexhaustible in this Neighbourhood: furnishing more than one
+                    <lb/>thousand Tons annually for the last Fifty Years past to the Writer's own
+                    <lb/>Personal knowledge. He having been at the Place in the Year 1759
+                    <lb/>assisting in the purchase and reception of four hundred Tons of that
+                    <lb/>Article and concerned in its conduction to Holland several Years
+                        anterior<supplied cert="high">.</supplied></p>
+                <p>Besides the Bar-Wood, much Ivory is to be found. Also about <lb/>three hundred
+                    and fifty or four hundred Slaves may be bought reasonably <lb/>but these Negroes
+                    are rather inferior to those at Malemba on this Coast <lb/>Upon the whole the
+                    Bar-Wood and Ivory are the Staple Articles of <lb/>Mayumba. Yet if a Vessel
+                    follows what is called the Short Route <lb/>to Malemba or the River Congo, The
+                    South South East <add place="superlinear">Trade</add> Wind, with <lb/>the
+                    Current setting almost continually to the North North West and into <lb/>the
+                    Gulf of Biafara, will oblige her to pass in front of this Bay. <note
+                        place="mBottom" hand="#author">And</note></p>
+                <p><pb n="4v"/>Cape Mount is a very high Promontory <lb/><note place="left"
+                        hand="#author">Cabo del Mônte <lb/>Independent Chiefs</note>consisting <add
+                        place="superlinear">of</add> one single Elevation which may be seen
+                    seventeen <lb/>or eighteen Leagues and as the Land is low <unclear
+                        reason="illegible" cert="low">0</unclear> level to a considera<add
+                        place="superlinear">ble</add>
+                    <lb/>distance to the North West and South East of it, this Cape appears <lb/>to
+                    be an Island when seen at eight or nine Leagues from the <lb/>offing at Sea: and
+                    lies in Six Degrees and forty Minutes North <lb/>Latitude. The Road for Shipping
+                    is on the north side of this <lb/>Mountain about one Mile from it and opposite a
+                    small River <lb/>the Mouth of which is eastward from the Anchorage.</p>
+                <p><note place="left" hand="#author">Cabo Montserrado <lb/>Independent
+                        <lb/>Negroes</note>Cape Mesurada lies about eighteen Leagues <lb/>South East
+                    of Cape Mount<supplied cert="high">,</supplied> is very high and very like the
+                    <lb/>latter except that is more cut and divided on its Summit having
+                    <lb/>somewhat the appearance of the Crest of a Cock. The Road for <lb/>Vessels
+                    is also in its North Side opposite the River S<hi rendition="#sup">t</hi>. Paul
+                    <lb/>and is nearly similar in all thing to Cape Mount.</p>
+                <p><note place="left" hand="#author">Baxa, <lb/>or Rio San Juan <lb/>also Negro
+                        chiefs</note>Bassa about sixteen or seventeen Leagues to the <lb/>South East
+                    of Mesurada is a Bay very Spacious, good Anchorage <lb/>Fresh Water &amp; Fire
+                    Wood easily produced. This is a good Station for a <lb/>Factory Ship being the
+                    best and safest Road on his Coast.</p>
+                <p><note place="left" hand="#author">General Remarks <lb/>relative to the Windward
+                        <lb/>Coast of Guinea</note>Cape Mount, Mesurada<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> &amp; Bassa are the <lb/>principal and only Places of Trade for large
+                    Ships on this part of <lb/>the Coast. although there are many smaller Places and
+                    some Rivers <lb/>which afford their share<subst>
+                        <del rendition="#ow">d</del>
+                        <add place="across">s</add>
+                    </subst>. These are, The Rivers Gallinas<supplied cert="high">,</supplied> Mana
+                    <lb/>Junk, Little Bassa, River of Young Sesters, Little Sesters and <lb/>Grand
+                    River Sesters as maybe seen in the Chart before mentioned <lb/>and this Coast is
+                    called Lua Lua, a Name which maybe traced <lb/>easily to its origin from the
+                    frequented and notable repetition of <lb/>those Words in the Speech of the
+                    Natives, who are collectively <lb/>called Gang<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> Gas, at the Havana.</p>
+                <p>Two Thousand good Slaves may be had yearly <lb/>from the above named Places; by
+                    means of One Factory Ship at <lb/>Cape Mount, and another at Bassa. And as all
+                    this Country <lb/>abounds in Rice of excellent quality: a sufficient quantity of
+                    <lb/>that indispensible Article for the maintanance of all these Slaves
+                    <lb/>whilst remaining on the Coast and daring their Passage to <lb/>the American
+                    Islands can be procured.</p>
+                <p>The Assortment of Goods for this Coast is made <lb/>up of East India &amp;
+                    Manchester Cottons, some French or Counterfeit <lb/>Bretagnas, Much Rum,
+                    Tobacco, Fusils of various sorts<supplied cert="high">,</supplied> Sabres, Iron
+                    <lb/>in Bars, Hardware, Hats, Beads, Gun Powder in small Kegs or <lb/>Barrels,
+                    Dutch Knives, Lead in Bars, Musquet Bale<supplied cert="high">,</supplied> Drop
+                    Shott <choice>
+                        <abbr>&amp;.ca</abbr>
+                        <expan>et cetera</expan>
+                    </choice><supplied cert="high">.</supplied></p>
+                <p><pb n="5r"/>And while she may be obliged to wait for a favourable Opportunity of
+                    <lb/>proceeding to the Southward in her way towards Loanga. Malemba<supplied
+                        cert="high">,</supplied>
+                    <lb/>Congo <choice>
+                        <abbr>&amp;.<hi rendition="#sup">ca</hi></abbr>
+                        <expan>et cetera</expan>
+                    </choice><supplied cert="high">,</supplied> She may occasionally purchase forty
+                    or fifty Slaves: and <lb/>as many Elephants Teeth at low Prices; These Elephants
+                    Teeth as <lb/>also the Strong Fusts of Hair growing at the Ends of their Tails
+                    are <lb/>in such demand at Malemba that <choice>
+                        <sic>extravant</sic>
+                        <corr cert="high">extravagant</corr>
+                    </choice> Prices are paid for them<supplied cert="high">.</supplied><lb/>The
+                    Elephants <add place="superlinear">Teeth</add> thus dearly purchased are planted
+                    in the Ground in the <lb/>burial Places of the Grand Personages whose memory is
+                    honored and <lb/>their Hairs are held in esteem in a greater or less degree in
+                    proportion <lb/>to the Size of the Tooth planted at the Head of their deseased
+                    Ancestors.</p>
+                <p>The Hairs of the Elephants Tails, are worn round the Neck <lb/>in Rings of a
+                    single Hair<supplied cert="high">,</supplied>
+                    <add place="superlinear">few or</add> None<supplied cert="high">,</supplied> but
+                    Princes and Nobles are seen with them.</p>
+                <p><note place="left" hand="#author">Loanga</note>The Bay of Loanga is the next
+                    Place of Commerce to the South <lb/>of Mayumba being very extensive but rather
+                    Shallow although many <lb/>Ships may ride in it in twenty four Feet Water. As
+                    this Bay is not <lb/>well sheltered by its Southern Point from whence the Wind
+                        common<g ref="#typoHyphen"/><lb break="no"/>ly blows and from which quarter
+                    but obliquely from the Offing the <lb/>Swell of the Sea comes, it happens
+                    frequently that at the Full and <lb/>Change of the Moon. There heaves a very
+                    great and forcible Body <lb/>of rolling Waves into this Bay which break on the
+                    Beach in a trem<g ref="#typoHyphen"/><lb break="no"/>menduous Surf, and occasion
+                    so much agitation of the Ships at <lb/>Anchor as to menace the rupture of their
+                    Cables, or the striking of <lb/>the <del rendition="#erased">Ships</del> on the
+                    bottom. <metamark place="inline"><note place="left" hand="#author">These Remarks
+                            <lb/>are made here <lb/>because they are <lb/>not Extant elsewhere,
+                            <lb/>The Writer has been <lb/>twice at Loanga, <lb/>and the first time,
+                            <lb/>travelled by Land. <lb/>on foot, from near <lb/>Mayumba
+                            thither</note></metamark></p>
+                <p>Bovali is the Capital and Residence of the <lb/>Emperor and is <add
+                        place="superlinear">a</add> large Town about two Leagues in the
+                        Country<supplied cert="high">,</supplied> here <lb/>all the Trade is
+                    generally carried on, and Factories kept, by those who <lb/>go to this Place to
+                    purchase Negroes &amp; Elephants Teeth, although, <lb/>sometimes the Court
+                    grants the privilege of erecting them near the <lb/>Beach: But as the situations
+                    near the Sea, are unhealthy, it is <lb/>more adviseable to fix the Magazines at
+                    Booali.</p>
+                <p>Two thousand Slaves may be had here in one Year <lb/>and purchased with East
+                        India<supplied cert="high">,</supplied> Manchester or Rouen <choice>
+                        <orig>Manufactur</orig>
+                        <reg>Manufacture</reg>
+                    </choice>
+                    <lb/>of Cottons <choice>
+                        <abbr>&amp;.<hi rendition="#sup">c</hi></abbr>
+                        <expan>et cetera</expan>
+                    </choice><supplied cert="high">,</supplied> Arms either Flemmish or English,
+                    French, British <lb/>or Dutch Brandy, British Earthen Ware, Gun Powder<supplied
+                        cert="high">,</supplied> a few Beads <lb/>some good Cornal Drop Shott for
+                    the Chase, Knives &amp; hardware <choice>
+                        <abbr>&amp;.<hi rendition="#sup">ca</hi></abbr>
+                        <expan>et cetera</expan>
+                    </choice><supplied cert="high">.</supplied></p>
+                <p>We ought not to quit these remarks without mention<lb break="no"/>ing the
+                    Charracter of the Natives, whether Freemen or Slaves, They are <lb/>bold,
+                    enterprizing, treacherous<supplied cert="high">,</supplied> drunken and lazy.
+                    and it is here that <lb/>those Slaves are sold which are called at the Havana.
+                    the Congo<g ref="#typoHyphen"/><lb break="no"/>Mundungas, and Cost at this Place
+                    about Sixty or Seventy Dollars.</p>
+                <p><pb n="5v"/><note place="left" hand="#author">Malemba. <lb/>Called by the Natives
+                        <lb/>Tula Chimfuca <lb/>Lacacongo.</note>Proceeding Southwards from Loanga
+                    and prasing before <lb/>the Mouth of the River Cacongo which divides the Empire
+                    of <lb/>Loanaga from the Kingdom of Cacongo of which the Point called
+                    <lb/>Malemba is the Plan of Trafic; <subst>
+                        <del rendition="#ow">w</del>
+                        <add place="across">W</add>
+                    </subst>e find a fine healthy elevated <lb/>Plain where there is a Town with a
+                    Governor and other public <lb/>Officers establish for the preservation of good
+                    Order and distribution <lb/>of Justice, with moderaton and equity. Such is
+                    Malemba where <lb/>Factories are erected near enough to the Coast and in sight
+                    of the <lb/>Ships, and where all the Slaves are bought with Merchandize
+                    <lb/>similar to that mentioned at Loanga, and being of better quality <lb/>they
+                    may cost ten Dollars <choice>
+                        <abbr>p<hi rendition="#sup">r</hi></abbr>
+                        <expan>per</expan>
+                    </choice> head more.</p>
+                <p>Malemba is the principal Place of Trade on <lb/>all this Coast although it has no
+                    Port and only a small Bay for <lb/>landing in Boats. The Ships ride at Anchor at
+                    a considerable <lb/>distance from the Shore on the open Coast, but as the
+                    Climate <lb/>is mild and Storms very rare there is little or no danger.</p>
+                <p>Four or Five Thousand good Slaves are sold here <lb/>annually for Goods as above
+                    mentioned: Water and Fire-Wood <lb/>are plentiful, but neither at this Place nor
+                    any other on this Coast <lb/>are any Provisions to be had for their maintainance
+                    on their <lb/>passage to America or even whilst remaining here except a few
+                    <lb/>Cakes made from the Yucca, called here Canki.</p>
+                <p>The Government is kind to Strangers, affording them <lb/>protection and redress
+                    of grievances gratis. The Populace are <lb/>good humoured, obliging, and free
+                    from the Vices of Rancour &amp; Revenge <lb/>but the Shades in their Character,
+                    are drunkenness<supplied cert="high">,</supplied> laziness and a <lb/>great
+                    degree of Salaciousness amongst the Females.</p>
+                <p>Upon the whole, Malemba may fairly vie with <lb/>Banny or any other Place in
+                    Guinea for Trade<choice>
+                        <sic>.</sic>
+                        <corr type="deleted"/>
+                    </choice> &amp; is Superior in <lb/>respect to Suavity of Climate: The
+                    South-East Trade-Wind which <lb/>prevail on this Coast secures an easy transit
+                    to the American <lb/>Islands and makes the Navigation pleasant.</p>
+                <p><note place="left" hand="#author">Cabinda</note>Cabinda a few Leagues Southerly
+                    by from Malemba <lb/>has a fine commodious Bay and safe Anchorage with plenty of
+                    Fire <lb/>Wood and Fresh Water, where Ships may lie in better security than
+                    <lb/>any other Place on this Coast, and where about fifteen hundred <lb/>good
+                    Slaves may be produced yearly much in the same manner &amp; Price <lb/>as at
+                    Malemba. Cabinda being so commodious it may be asked <lb/>why it is not superior
+                    in Trade? The Answer is, That this superiority <lb/>is derived from the free
+                    intercourse with the internal Countries <lb/><note place="left" hand="#author"
+                        >from</note><lb/><pb n="6r"/>from whence the Slaves are bought, and as there
+                    are continually <lb/><note place="left" hand="#author">Cabinda continued
+                        <lb/>and why inferior <lb/>to Malemba in Trade</note>Wars existing amongst
+                    the different inland Nations who will not <lb/>suffer their Enemies or the
+                    Allies of those Enemies to pass through <lb/>their Dominions in their way to the
+                    Coast. Those who want to <lb/>have their Captives sold to the best advantage,
+                    nesesarily seek <lb/>other Roads through Countries where they find Peace and
+                    Protection <lb/>of property. The maritime Nations find it their Interest to have
+                    these <lb/>Roads leading to them open &amp; secure and procure these advantages
+                    <lb/>by all the means in their proper either by force, treaties or
+                        tributes<supplied cert="high">,</supplied><lb/>Now the Lacacongo Nation <add
+                        place="superlinear">of which Malumba is the Port</add> being more numerous,
+                    and more secure <lb/>from neighbouring Rivals,than sonhio (the Nation of
+                        Cabinda)<supplied cert="high">.</supplied>
+                    <lb/>The Paths are more open from the former to the Populous internal
+                    <lb/>Kingdoms, than to the latter: This being much the Case throughout
+                        <lb/><note place="left" hand="#author">General remarks <lb/>on the
+                        intercourse <lb/>between the Coast <lb/>and Inland Parts</note>the Coast of
+                    Guinea. The question amongst the Europeans is not <lb/>which is the most
+                    agreable Place. But is, Where are the best and <lb/>cheapest Slaves to be had in
+                    plenty and consequently go thither<supplied cert="high">.</supplied>
+                    <lb/>This concourse of Europeans causing an abundance of the conveniences
+                    <lb/>of life to be focused wherever they frequente; contributes much to the
+                    <lb/>opening of the intercourse between the Natives &amp; causes the prosperty
+                    <lb/>of the Sea Port.</p>
+                <p><note place="left" hand="#author">The River Congo <lb/>comparable with <lb/>The
+                        River of <lb/>Amazonas</note>We now come to the Great River Congo which
+                    gives <lb/>its name to great part of this Coast as well as the Country
+                    especially <lb/>amongst Europeans and Creolles of the West Indies.</p>
+                <p>This River may be compared with its opposite and <lb/>great Rival<supplied
+                        cert="high">,</supplied> The Marrañon in America, both being rather Arms
+                    <lb/>of the Ocean at their Mouths than<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> confined Waters between Banks <lb/>like the entrances of most other
+                    Rivers of the Earth.</p>
+                <p>Congo, or the River Zaire, discharges a prodigious <lb/>quantity of Fresh Water
+                    into the Southern Atlantic Ocean with a <lb/>most impetuous Current, carrying
+                    with it floating Islands composed <lb/>of matted Roots, Reeds, Earth, Grass
+                    &amp; some with Trees to eighty <lb/>or one hundred Leagues from its Mouth. The
+                    navigation into this River <lb/>up to the places of Trade is consequently
+                    difficult &amp; tedious<supplied cert="high">,</supplied>
+                    <lb/>Ships may asscend sixty Leagues near to the first <choice>
+                        <sic>Catarct</sic>
+                        <corr cert="high">Cataract</corr>
+                    </choice> &amp; <subst>
+                        <del rendition="#s"><gap unit="chars" quantity="3" reason="covered"/></del>
+                        <add place="superlinear"><choice>
+                                <abbr>evergl</abbr>
+                                <expan>everglades</expan>
+                            </choice></add>
+                    </subst><supplied cert="high">,</supplied> thousands <lb/>of Slaves may be
+                    purchased annually with nearly the same Assortments <lb/>as at Loanga &amp;
+                    Malemba, but the Climate is unfavourable to White <lb/>People<supplied
+                        cert="high">.</supplied></p>
+                <p><note place="left" hand="#author">Some remarks &amp; hints <lb/>on a possible
+                            connec<g ref="#typoHyphen"/><lb break="no"/>tion with the
+                    Niger</note>Various are the accounts and Opinions of Writers on <lb/>African
+                    Geography concerning the Famous River called by the Antients <lb/>the Niger,
+                    described by some, and guessed at by others, as running <lb/><note
+                        place="mBottom" hand="#author">through</note>
+                    <lb/><pb n="6v"/>Through the middle of Africa without giving any satisfactory
+                    Account <lb/><note place="left" hand="#author">Remarks <lb/>and <lb/>Opinions
+                        <lb/>on the <lb/>Course &amp; Exit of the <lb/>African River Niger</note>of
+                    its Source, Course or Exit. This River Niger or River of black Slaves <lb/>has
+                    occupied the Pens and Speculations of so many Geographers both Antients <lb/>and
+                    Moderns that the marvellous was brought into their assistance <lb/>to enable
+                    them to establish their Hypothesis. And many Fables invented <lb/>But the
+                    British African Association have by the Perseverance and <lb/>indefatigable
+                    Industry of their Traveller Mungo Park Esquire a <lb/>Scotch Gentleman well
+                    known and Credited; discovered the Head <lb/>and a great Part of the Course of
+                    that Famous River on which he <lb/>actually navigated as far as Silla beyond the
+                    City of Sego<supplied cert="high">,</supplied> the Capital <lb/>of the powerful
+                    Kingdom of Bambarra. And from good information <lb/>corroborated by various
+                    undoubted facts &amp; proofs he found that the Niger <lb/>continued its Course
+                    Easterly to Tumbuctoo, and from then Southerly <lb/>passing by Houssan a very
+                    large &amp; populous City. But no knowledge <lb/>of the remainder of this vast
+                    collection of African Waters can be had <lb/>with certainty. Reflecting on the
+                    necessity of some outlet for <lb/>these prodigious Stream, and on the Deluge
+                    poured on the Face of <lb/>the Earth between the Tropics every Year in the Rainy
+                    Seasons; Also <lb/>taking Cursory view of the quantity if fresh Water discharged
+                    by <lb/>the Nile, Senegal, Gambia and other Rivers in Africa now all <lb/>or
+                    most of them traced up to their Sources, or nearly so: taking also
+                    <lb/>Mosambique into the Account, we find none of them to throw <lb/>out a
+                    quantity of Water equal to that sent forth by the Rivers Congo, <lb/>Nor if we
+                    were to add the quantities dicharged by many of them <lb/>together it would not
+                    amount in the Agregate <subst>
+                        <del rendition="#s">of</del>
+                        <add place="superlinear">to a quantity equal to</add>
+                    </subst> this immense Drain <lb/>of South Guinea.</p>
+                <p>Considering al the foregoing Circumstances and <lb/>many more too tedious to be
+                    inserted here, We venture to hazard <lb/>an Opinion that the Congo is the Mouth
+                    of the Niger.</p>
+                <p>There remains now only one Independent Place of Trade <lb/><note place="left"
+                        hand="#author">Ambriz</note>for Slaves on the West Coast of Africa which is
+                    the Bay of Ambriz<supplied cert="high">.</supplied>
+                </p>
+                <p>This is an inconsiderable Place in Latitude Seven Degrees <lb/>and fifty One
+                    Minutes South only visited by a few small Vessells, <lb/>the Slaves bought here
+                    are of much the same qualities as at Malemba <lb/>&amp; somewhat cheaper, but
+                    they bring many small Slaves to Market <lb/>who are too Young to put to
+                    Work.</p>
+                <p>Beyong Ambriz to the South as far as Angola proper &amp; Benguda <lb/>the
+                    Portuguese have established Forts &amp; Settlements to the exclusion <lb/>of
+                    Foreigners.</p>
+                <p>Finis.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

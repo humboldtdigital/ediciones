@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="comoto">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Para comoto</title>
+                <editor>
+                    <persName>
+                        <surname>Kraller</surname>
+                        <forename>Kathrin</forename>
+                    </persName>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Primera edición de Proyecto Humboldt digital ProHD (<date>2021</date>).</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Atribución 4.0 Internacional (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellonska Krakau</institution>
+                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 1/3, Bl.
+                                195-196 (DE-611-HS-2849282)</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1802">1802</date>
+            </creation>
+            <langUsage>
+                <language ident="es">Español</language>
+            </langUsage>
+            <abstract xml:lang="de">
+                <p>Korrespondenz zwischen Alexander von Humboldt (linke Spalte) und einem
+                    Unbekannten (rechte Spalte). Die Korrespondenz diente Humboldt offenbar der
+                    Klärung von Fragen hinsichtlich seiner Beschäftigung mit verschiedenen
+                    Tropenkrankheiten.</p>
+            </abstract>
+            <abstract xml:lang="es">
+                <p>Correspondencia entre Alexander von Humboldt (columna izquierda) y una persona
+                    desconocida (columna derecha). Al parecer, la correspondencia le sirvió a
+                    Humboldt para aclarar cuestiones relativas a sus trabajos científicos sobre
+                    diversas enfermedades tropicales.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <table rows="0" cols="2">
+                        <head>
+                            <pb n="195r"/>
+                        </head>
+                        <row>
+                            <cell>1. Qué es la Epidemia de Vómito <lb/>más antigua en Veracruz, de
+                                la qual <lb/>hai noticia cierta? En los escritores <lb/>de la
+                                Conquista no veo quejas <lb/>del Clima de Veracruz o de S. Domingo. </cell>
+                            <cell>Para Comoto.<lb/><note hand="Humboldt, Alexander von">Los libros
+                                    Nordaméricanos citan <lb/>frequentemente el hecho que antes
+                                    <lb/>de 1725 no huvo Vómito en <lb/>Veracruz. Tiene esta
+                                    tradition <lb/>algún fundamento?</note></cell>
+                        </row>
+                        <row>
+                            <cell>2. En la época de salud de 1775-1795 <lb/>hasta el Navío Miño
+                                cessó el Vómi<lb break="no"/>to enteramente o huvo siempre uno y
+                                <lb/>otro enfermo de este mal?</cell>
+                            <cell>Para Comoto.</cell>
+                        </row>
+                        <row>
+                            <cell>3. Es probable que el empetrado tenía <lb/>influxo sobre la
+                                mayoría, un influxo <lb/>momentaneo como remedio de política?</cell>
+                            <cell>No.</cell>
+                        </row>
+                        <row>
+                            <cell>4. El Padre Alzate dice en la Carta a <lb/>la Académia de París
+                                que el Matloza,<lb/><unclear reason="illegible" cert="high"
+                                    >huatli</unclear> (la peste de 1736) es una especie <lb/>de
+                                Vómito, que no se di sino a los <lb/>Yndios. Otros negan la
+                                semejanza.<lb/>Saben los Médicos de Veracruz algo sobre <lb/>la
+                                differencia de ambas enferedades?</cell>
+                            <cell>No.</cell>
+                        </row>
+                        <row>
+                            <cell>5. Se conoce cerca de Veracruz (<choice>
+                                    <abbr>P<hi rendition="#sup">t<choice>
+                                                <sic>a</sic>
+                                                <corr cert="high">o</corr>
+                                            </choice></hi></abbr>
+                                    <expan>Puerto</expan>
+                                </choice>
+                                <lb/>Anton Lizardi?) algún otro fondeadero <lb/>bueno para dividir
+                                la Ciudad?</cell>
+                            <cell>La 5. Para Orta</cell>
+                        </row>
+                        <row>
+                            <cell>6. Se ha visto bajar el Thermometro <lb/>en Veracruz más de 13° <choice>
+                                    <abbr>Réaum.</abbr>
+                                    <expan>Réaumur</expan>
+                                </choice> que son <lb/>62° Fahrenheit. Los grandes Calores no ferán
+                                <lb/>amba de 25° <choice>
+                                    <abbr>R.</abbr>
+                                    <expan>Réaumur</expan>
+                                </choice> que son 89° a 93° <choice>
+                                    <abbr>Fahr.</abbr>
+                                    <expan>Fahrenheit</expan>
+                                </choice>
+                                <lb/>O Sube el <choice>
+                                    <abbr>Th.</abbr>
+                                    <expan>Thermometro</expan>
+                                </choice> muchas veces arriba de 30° <choice>
+                                    <abbr>R.</abbr>
+                                    <expan>Réaumur</expan>
+                                </choice>
+                                <lb/>o 100° <choice>
+                                    <abbr>Fahr.</abbr>
+                                    <expan>Fahrenheit</expan>
+                                </choice> (digo a la Sombra) como lo he <lb/>experimentado en
+                                Acapulco, el Orinoco <lb/>y Río de las Amazonas.</cell>
+                            <cell>La 6. Para Orta<lb/><note place="inline"
+                                    hand="#Humboldt, Alexander von">3637/363</note></cell>
+                        </row>
+                        <row>
+                            <cell>7. Qué número de habitantes hai en Veracruz <lb/>en Tiempos de más
+                                y de menos embarca<lb break="no"/>ciones?</cell>
+                            <cell>A la 7. como <choice>
+                                    <orig>160</orig>
+                                    <reg>16000</reg>
+                                </choice> sin contar la gen<lb break="no"/>te de Mar, <choice>
+                                    <abbr>q:<hi rendition="#sup">e</hi></abbr>
+                                    <expan>que</expan>
+                                </choice> puede regularse <lb/>en <choice>
+                                    <abbr>tpos</abbr>
+                                    <expan>tiempos</expan>
+                                </choice> corrientes de paz de 800 <lb/>a <choice>
+                                    <orig>10</orig>
+                                    <reg>1000</reg>
+                                </choice> hombres.</cell>
+                        </row>
+                        <row>
+                            <cell>8. Quánto da libere la Aduana de Veracruz <lb/>en Tiempos
+                                regulares de paz?</cell>
+                            <cell>8. Para Cuesta</cell>
+                        </row>
+                        <row>
+                            <cell><pb n="195v"/>9. Quánto Cacao necessita el Reyno <lb/>de <choice>
+                                    <abbr>N.E.</abbr>
+                                    <expan>Nueva España</expan>
+                                </choice> para su Consumo interior<choice>
+                                    <sic>.</sic>
+                                    <corr cert="high">?</corr>
+                                </choice>
+                                <lb/>Será arriba de 20000 fanegas?</cell>
+                            <cell>A la 9. Sin duda <choice>
+                                    <abbr>p.<hi rendition="#sup">r</hi>q.<hi rendition="#sup"
+                                        >e</hi></abbr>
+                                    <expan>porque</expan>
+                                </choice> entran <choice>
+                                    <orig>120</orig>
+                                    <reg>12000</reg>
+                                </choice>
+                                <choice>
+                                    <abbr>fan.<hi rendition="#sup">s</hi></abbr>
+                                    <expan>fanegas</expan>
+                                </choice>
+                                <lb/>de Maracaybo, <choice>
+                                    <orig>8</orig>
+                                    <reg>8000</reg>
+                                </choice> a <choice>
+                                    <orig>90</orig>
+                                    <reg>9000</reg>
+                                </choice> de tabasco, <lb/>
+                                <choice>
+                                    <orig>20</orig>
+                                    <reg>2000</reg>
+                                </choice> de Caracas, sin contar lo <choice>
+                                    <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                                    <expan>que</expan>
+                                </choice>
+                                <lb/>de Guayaquil entra <choice>
+                                    <abbr>p.<hi rendition="#sup">r</hi></abbr>
+                                    <expan>por</expan>
+                                </choice> Acapulco, <lb/>y de Soconusco <choice>
+                                    <abbr>p.<hi rendition="#sup">r</hi></abbr>
+                                    <expan>por</expan>
+                                </choice> tierra.<lb/></cell>
+                        </row>
+                        <row>
+                            <cell>10. Los caxones arpillados y toscos <lb/>son unas Caxas de Pandora
+                                que <lb/>son para mí el mayor tropiezo de la <lb/>Balanza. Sabemos
+                                que han llegado <lb/>por <subst>
+                                    <del rendition="#s">7000</del>
+                                    <add place="superlinear">350</add>
+                                </subst>/<choice>
+                                    <abbr>p.</abbr>
+                                    <expan>pesos</expan>
+                                </choice> de Chorizos y ignoramos <lb/>el mysterio de estas Caxas
+                                que <lb/>llega a 14 millones de pesos. Sé <lb/>mui bien que es
+                                impossible aprender<lb break="no"/>la sin mil vexaciones
+                                    inquisitoria<lb break="no"/>les. Pero Consideraciones generales
+                                <lb/>sobre el Consumo y la Población <lb/>enseñan muchas veces más
+                                que lis<lb break="no"/>tas de Aduana. Quánto le parece <lb/>a <choice>
+                                    <abbr>V.</abbr>
+                                    <expan>Veracruz</expan>
+                                </choice> que necessita la <choice>
+                                    <abbr>N.</abbr>
+                                    <expan>Nueva</expan>
+                                </choice> España <lb/>anualmente en lienzo <lb/>en Lana <lb/>en
+                                géneros de Seda <lb/>de Algodón <lb/>sea por Acapulco o por
+                                    Veracruz<supplied cert="high">?</supplied>
+                                <lb/>Me contentería de saberlo a un <lb/>par de 100000 <choice>
+                                    <abbr>p.</abbr>
+                                    <expan>pesos</expan>
+                                </choice> más o menos.</cell>
+                            <cell>A la 10. Los <choice>
+                                    <abbr>caxon.<hi rendition="#sup">s</hi></abbr>
+                                    <expan>caxones</expan>
+                                </choice> Arpillados son los <lb/><choice>
+                                    <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                                    <expan>que</expan>
+                                </choice> trahen la Sedería en general. <lb/>Los caxones toscos la
+                                    Quinquille<g ref="#typoHyphen"/><lb break="no"/>ría, cristales,
+                                Loza, o Pedernal, <lb/>Sombreros, Botas, Zapatos, Medi<g
+                                    ref="#typoHyphen"/><lb break="no"/>dicinas <choice>
+                                    <abbr>&amp;.<hi rendition="#sup">a</hi></abbr>
+                                    <expan>et cetera</expan>
+                                </choice><supplied cert="high">.</supplied> Los tercios Arpi<g
+                                    ref="#typoHyphen"/><lb break="no"/>llados la Lencería, las telas
+                                de <lb/>Algodón, las Piezas de Paños, <lb/>Bayetas, y otros tegidos.
+                                Los Ba<g ref="#typoHyphen"/><lb break="no"/>úles<supplied
+                                    cert="high">,</supplied> las Medias de Seda, y de <lb/>Algodón,
+                                Blondas y Encages, <lb/>Pañuelos, Bestidos y trages <lb/>de Moda, y
+                                cien menuden<g ref="#typoHyphen"/><lb break="no"/>cias de valón. Por
+                                separado <lb/>va el cómputo de los consu<g ref="#typoHyphen"/><lb
+                                    break="no"/>mos.</cell>
+                        </row>
+                        <row>
+                            <cell>11. Los 3500 jarrones de Grana son los <lb/>mismos que huvo 50
+                                años antes o <lb/>va en aumento este Ramo de agri<lb break="no"
+                                />cultura?</cell>
+                            <cell>A la 11. tiene algún aumen<lb break="no"/>to efectivamanete la
+                                    Grana<supplied cert="high">.</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>12. Cómo se llaman los Pueblos en <lb/>cuya cercanía se halla la
+                                Vainilla? <lb/>No se da algún cultivo al Bejuco <lb/><choice>
+                                    <abbr>p.c.</abbr>
+                                    <expan>por causa</expan>
+                                </choice> de reunir muchos mates de <lb/>él en los árboles vecinos?
+                                    <p>Con el infinito consumo que he visto <lb/>de Vainilla en
+                                    Italia, Francia y <lb/>Inglaterra no admira de la poca
+                                    <lb/>Exportación de 30000 <choice>
+                                        <abbr>p.</abbr>
+                                        <expan>pesos</expan>
+                                    </choice><supplied cert="high">.</supplied> Qué porta del
+                                    <lb/>mundo puede dar Vainilla a la Europa<supplied cert="high"
+                                        >?</supplied>
+                                    <lb/>A excepción de Veracruz no conosco Expor<lb break="no"
+                                    />tación de ella en la América Española. <lb/>Está aumentando la
+                                    Cosecha de Misantla?</p></cell>
+                            <cell>A la 12. Misantla, Colipa <lb/>Papantla, y Nautla al <choice>
+                                    <abbr>N.</abbr>
+                                    <expan>Norte</expan>
+                                </choice>
+                                <lb/>de Vera Cruz. Santiago y <lb/><choice>
+                                    <abbr>S.<hi rendition="#sup">n</hi></abbr>
+                                    <expan>San</expan>
+                                </choice> Andrés<supplied cert="high">,</supplied>
+                                <choice>
+                                    <orig>tuxtla</orig>
+                                    <reg>Tuxtla</reg>
+                                </choice> al <choice>
+                                    <abbr>S.</abbr>
+                                    <expan>Sur</expan>
+                                </choice> pero <lb/>los del <choice>
+                                    <abbr>N.</abbr>
+                                    <expan>Norte</expan>
+                                </choice> son los <choice>
+                                    <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                                    <expan>que</expan>
+                                </choice> más <lb/>dan. Ninguno otro <lb/>cultivo <choice>
+                                    <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                                    <expan>que</expan>
+                                </choice> arrimar dos Be<g ref="#typoHyphen"/><lb break="no"/>jucos
+                                a cada Árbol, y <choice>
+                                    <sic>tiner</sic>
+                                    <corr cert="high">tener</corr>
+                                </choice>
+                                <lb/>limpia la tierra.</cell>
+                        </row>
+                        <row>
+                            <cell>13. De qué pueblos viene tanta Zarza? <lb/>y la Purga de la qual
+                                la menor parte <lb/>es de Xalappa?</cell>
+                            <cell>A la 13. La Zarza viene de<seg type="comment"><orig/><note
+                                        xml:id="nfg2_jqm_rpb">→ 196r</note></seg></cell>
+                        </row>
+                        <row>
+                            <cell><pb n="196r"/>Sé que el valor del Tobaco ven<lb break="no"/>dido
+                                ha sido 1802 de 7687000 <choice>
+                                    <abbr>p.</abbr>
+                                    <expan>pesos</expan>
+                                </choice>
+                                <lb/>y el líquido 1801 - 3,993800 <choice>
+                                    <abbr>p.</abbr>
+                                    <expan>pesos</expan>
+                                </choice> y 1802 <lb/>de 4092600 <choice>
+                                    <abbr>p.</abbr>
+                                    <expan>pesos</expan>
+                                </choice><supplied cert="high">.</supplied> Quisiera saber la
+                                quantidad <lb/>de arrobas de Tabaco que se cosechan
+                                <lb/>regolarmente en Córdoba y Orizaba<supplied cert="high"
+                                    >,</supplied>
+                                <lb/>en quanto el Rey los paga y los vende?</cell>
+                            <cell>A la 14. Parece <choice>
+                                    <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                                    <expan>que</expan>
+                                </choice> son de <choice>
+                                    <orig>8</orig>
+                                    <reg>8000</reg>
+                                </choice> a <lb/><choice>
+                                    <orig>100</orig>
+                                    <reg>10000</reg>
+                                </choice> tercios de a 8 <choice>
+                                    <abbr>@</abbr>
+                                    <expan>arrobas</expan>
+                                </choice> en <lb/>Córdova y Orizava. El <lb/>Rey lo paga a 2 % <choice>
+                                    <abbr>r.<hi rendition="#sup">es</hi></abbr>
+                                    <expan>reales</expan>
+                                </choice>
+                                <lb/>lo vende a 10 <choice>
+                                    <abbr>r.<hi rendition="#sup">es</hi></abbr>
+                                    <expan>reales</expan>
+                                </choice> en <choice>
+                                    <abbr>N.</abbr>
+                                    <expan>Nueva</expan>
+                                </choice>
+                                <lb/>España y a 5 <choice>
+                                    <abbr>r.<hi rendition="#sup">es</hi></abbr>
+                                    <expan>reales</expan>
+                                </choice> en la <lb/>Provincia de Campeche. <lb/><note
+                                    place="inline" hand="#Humboldt, Alexander von"><del
+                                        rendition="#s">pas possible</del></note></cell>
+                        </row>
+                        <row>
+                            <cell><seg type="comment"><orig/><note xml:id="nxtj_ppl_rpb">ad
+                                        13</note></seg>los mismos Pueblos y parti<g
+                                    ref="#typoHyphen"/><lb break="no"/>dos de donde viene la Baini<g
+                                    ref="#typoHyphen"/><lb break="no"/>lla. Y la Purga viene de las
+                                <lb/>Jurisdiciones de Palapa, <lb/>Orizava, Córdoba, y <choice>
+                                    <abbr>S.<hi rendition="#sup">n</hi></abbr>
+                                    <expan>San</expan>
+                                </choice>
+                                <lb/>Andrés<supplied cert="high">.</supplied></cell>
+                            <cell>
+                                <note place="inline" hand="#Humboldt, Alexander von">16,000000
+                                    <lb/>13,800000</note>
+                            </cell>
+                        </row>
+                    </table>
+                    <lb> </lb>
+                    <note place="inline" hand="#Humboldt, Alexander von">
+                        <seg type="comment">
+                            <orig>
+                                <gap unit="lines" reason="insignificant"/>
+                            </orig>
+                            <note xml:id="nkvp_frl_rpb">Berechnungen Humboldts auf der unteren
+                                Seitenhälfte</note>
+                        </seg>
+                    </note>
+                </p>
+                <p>
+                    <pb n="196v"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

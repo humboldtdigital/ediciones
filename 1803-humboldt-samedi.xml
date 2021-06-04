@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="letter" xml:id="samedi">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Lettre à Pierre Lapie</title>
+                <editor>
+                    <persName>
+                        <surname>Kraller</surname>
+                        <forename>Kathrin</forename>
+                    </persName>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Primera edición de Proyecto Humboldt digital - ProHD (<date>2021</date>).</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Atribución 4.0 Internacional (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska Krakau</institution>
+                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <idno>
+                            <idno type="shelfmark">DE-611-HS-2991265 ; Nachlass Alexander von
+                                Humboldt Bd. 8/1 Bl. 246-281</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1803">1803</date>
+            </creation>
+            <langUsage>
+                <language ident="fr">Français</language>
+            </langUsage>
+            <abstract xml:lang="de">
+                <p>Brief von Alexander von Humboldt an den französischen Geographen und Kartographen
+                    Pierre Lapie. Thema des Briefs sind die geographischen Positionen kubanischer
+                    Städte. Dem Brief war ursprünglich ein Buch beigefügt.</p>
+            </abstract>
+            <abstract xml:lang="es">
+                <p>Carta de Alexander von Humboldt al geógrafo y cartógrafo Pierre Lapie. El tema de
+                    la carta es la posición geográfica de algunas ciudades cubanas. La carta fue
+                    escrita para el envío de un libro.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Humboldt, Alexander von</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Lapie, Pierre</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Samedi</dateline>
+                    <pb n="269v"/>
+                    <salute>à Monsieur <lb/>Mr Lapie <lb/><choice>
+                            <abbr>Lieut.</abbr>
+                            <expan>Lieutenant</expan>
+                        </choice>-Colonel <lb/>avec un livre</salute>
+                </opener>
+                <p><pb n="268r"/>En examinant si <choice>
+                        <abbr>Mr</abbr>
+                        <expan>Monsieur</expan>
+                    </choice> Poirson, <lb/>comme je le lui avois pré<g ref="#typoHyphen"/><lb
+                        break="no"/>scrit, a bien placé <hi rendition="#u">mes <lb/>positions</hi>,
+                    j'ose Vous prier<supplied cert="high">,</supplied>
+                    <lb/>mon cher ami, de vouloir <lb/>bien <unclear reason="illegible" cert="high"
+                        >aussi</unclear> ajouter partout <lb/>où la place le permet<supplied
+                        cert="high">,</supplied>
+                    <lb/>les points déterminés par les <lb/>officiers espagnols et renfermés
+                    <lb/>entre <choice>
+                        <abbr>p</abbr>
+                        <expan>pages</expan>
+                    </choice> 61-66<supplied cert="high">.</supplied> N'oubliez <lb/>pas que près de
+                    la Havane <lb/>et de la Trinidad Vous <lb/><pb n="268v"/>ne prendrez que les
+                    <lb/>différences des méridiens. On garde<g ref="#typoHyphen"/><lb break="no"/>ra
+                    mes positions absolues de <lb/>la Havane <choice>
+                        <abbr>long.</abbr>
+                        <expan>longitude</expan>
+                    </choice> 84° 42' <lb/>Managua village 84° 37' <lb/>Matanzas 83° 59' <lb/>la
+                    Trinidad 82° 21<supplied cert="high">'</supplied>. <lb/>Batabanó 84° 45'
+                    <lb/>Cap S. Antonio 87° <hi rendition="#u">17</hi><supplied cert="high"
+                        >'</supplied><choice>
+                        <sic>.</sic>
+                        <corr cert="high">,</corr>
+                    </choice>
+                    <lb/>et les points pris <hi rendition="#u">entre</hi>
+                    <lb/>Trinidad et Cabo S. Anto<lb break="no"/>nio seront accordés par <lb/>les
+                    différences à mes longi<lb break="no"/>tudes et latitudes<supplied cert="high"
+                        >.</supplied> Mais <lb/><add place="intralinear">au contraire</add> pour <hi
+                        rendition="#u">Santiago de Cuba</hi>
+                    <lb/>Guan<hi rendition="#u">ta</hi>namo <lb/><hi rendition="#u"><choice>
+                            <abbr>Pto</abbr>
+                            <expan>Puerto</expan>
+                        </choice> Maysí</hi>
+                    <lb/><pb n="269r"/><hi rendition="#u">Cabo de Cruz</hi>
+                    <lb/>suivez aveuglement les <lb/>tables espagnoles <hi rendition="#u"><choice>
+                            <abbr>p</abbr>
+                            <expan>pages</expan>
+                        </choice> 64-66</hi><supplied cert="high">.</supplied>
+                    <lb/>Ces tables méritent la <lb/>préférence pour <choice>
+                        <sic>toute</sic>
+                        <corr cert="high">tout</corr>
+                    </choice>
+                    <lb/>ce qui est à l'<hi rendition="#u">est</hi> de <lb/>Trinidad. Les <choice>
+                        <abbr>long.</abbr>
+                        <expan>longitudes</expan>
+                    </choice> des <lb/>tables espagnoles sont cal<g ref="#typoHyphen"/><lb
+                        break="no"/>culées sur Cádiz<supplied cert="high">.</supplied> Pour
+                    <lb/>réduire les <choice>
+                        <abbr>longit.</abbr>
+                        <expan>longitudes</expan>
+                    </choice>
+                    <del rendition="#s"><unclear reason="covered" cert="low">sur</unclear></del>
+                    <lb/>au méridien de Paris<supplied cert="high">,</supplied>
+                    <lb/>ajoutez <hi rendition="#u">8° 37' 37'</hi>'<supplied cert="high"
+                        >.</supplied></p>
+                <closer>Meilleures amitiés. Vous voyez <lb/>que nous avons d'excel<lb break="no"
+                    />lans matériaux. <signed>Humboldt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
