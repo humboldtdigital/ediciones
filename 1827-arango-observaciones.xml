@@ -60,6 +60,15 @@
             <langUsage>
                 <language ident="esp">Español</language>
             </langUsage>
+            <abstract xml:lang="de">
+                <p>Handschriftliche Anmerkungen und Korrekturen Francisco Arango y Parreños zu
+                    Humboldts "Essai politique sur l’île de Cube“" einem berühmten Dokument der
+                    frühen kubanischen Rezeption von Humboldts Werk.</p></abstract>
+            <abstract xml:lang="es">
+                <p>Notas manuscritas y correcciones de Francisco Arango y Parreños al "Essai
+                    politique sur l’île de Cube" de Humboldt, célebre documento de la temprana
+                    recepción cubana de la obra de Humboldt.</p>
+            </abstract>
         </profileDesc>
     </teiHeader>
     <text>
