@@ -61,10 +61,16 @@
             <langUsage>
                 <language ident="esp">Español</language>
             </langUsage>
-            <abstract>
+            <abstract xml:lang="es">
                 <p>Carta en la que Francisco de Arango y Parreño comunica a Alexander von Humboldt
                     el envío a través de su primo de unos comentarios al "Ensayo político sobre esta
                     Isla", y expresa su admiración por el "filósofo viajero".</p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>Brief, in dem Francisco de Arango y Parreño an Alexander von Humboldt
+                    kommuniziert die Übersendung einiger Kommentare zum "Ensayo político sobre esta
+                    Isla" durch seinen Cousin, und drückt seine Bewunderung für den "reisenden
+                    Philosophen" aus.</p>
             </abstract>
         </profileDesc>
     </teiHeader>
