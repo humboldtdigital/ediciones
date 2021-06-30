@@ -3,9 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Carta de Francisco de Arango y Parreño a Alexander von
-                    Humboldt</title>
-                <title type="sub" xml:lang="fre">À Monsieur Mr. le Baron A. Humboldt</title>
+                <title type="main">Carta de Francisco de Arango y Parreño a Alexander von Humboldt </title>
+                <title type="sub" xml:lang="fr">À Monsieur Mr. le Baron A. Humboldt</title>
                 <editor>
                     <persName ref="https://orcid.org/0000-0002-8916-4997">
                         <surname>Rojas Castro</surname>
