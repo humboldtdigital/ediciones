@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="letter" xml:id="H0018379">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="letter" xml:id="H0018379" xml:lang="de">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -59,7 +59,7 @@
                 </correspAction>
             </correspDesc>
             <langUsage>
-                <language ident="esp">Español</language>
+                <language ident="es">Español</language>
             </langUsage>
             <abstract xml:lang="es">
                 <p>Carta en la que Francisco de Arango y Parreño comunica a Alexander von Humboldt
