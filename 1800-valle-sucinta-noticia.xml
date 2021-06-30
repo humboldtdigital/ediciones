@@ -37,7 +37,6 @@
                             <idno type="uri">https://kalliope-verbund.info/DE-611-HS-2876915</idno>
                             <idno type="URLImages"
                                 >https://jbc.bj.uj.edu.pl/publication/367122</idno>
-                            <idno type="URLCatalogue">???</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
@@ -53,9 +52,9 @@
                 <date when="1800-08-03" cert="high"/>
             </creation>
             <langUsage>
-                <language ident="esp">Español</language>
+                <language ident="es">Español</language>
             </langUsage>
-            <abstract>
+            <abstract xml:lang="de">
                 <p>Ein gebundenes Manuskript mit Informationen zur Sklaverei, Zuckerproduktion und
                     zu verschiedenen weiteren Themen. Mit Anmerkungen Humboldts auf dem Umschlag und
                     im Text.</p>
