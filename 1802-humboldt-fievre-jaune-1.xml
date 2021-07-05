@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fièvre jaune 1</title>
+                <title type="main">Fièvre jaune 1</title>
                 <editor>
                     <persName>
                         <surname>Kraller</surname>
