@@ -71,6 +71,13 @@
                     Isla" durch seinen Cousin, und drückt seine Bewunderung für den "reisenden
                     Philosophen" aus.</p>
             </abstract>
+            <!-- Added by ARC on 06.07.2021 -->
+            <textClass>
+                <catRef scheme="#genre" target="#correspondence"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#topic" target="#politics"/>
+                <catRef scheme="#topic" target="#economy"/>
+            </textClass>
         </profileDesc>
     </teiHeader>
     <text>
