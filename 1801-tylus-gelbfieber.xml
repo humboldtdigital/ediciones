@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Considérations sur l’Atmosphere des Tropiques, regardée comme objet de la
-                    Pathologie chymique</title>
+                <title type="main">Considérations sur l’Atmosphere des Tropiques, regardée comme
+                    objet de la Pathologie chymique</title>
                 <editor>
                     <persName>
                         <surname>Tylus</surname>
@@ -46,8 +46,10 @@
                     <msIdentifier>
                         <institution>Biblioteka Jagiellonska Krakau</institution>
                         <collection>Nachlass Alexander von Humboldt</collection>
-                        <idno>Nachlass Alexander von Humboldt Bd. 1/3, Bl. 185-211
-                            (DE-611-HS-2849282)</idno>
+                        <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 1/3, Bl.
+                                185-211 (DE-611-HS-2849282)</idno>
+                        </idno>
                     </msIdentifier>
                 </msDesc>
             </sourceDesc>
