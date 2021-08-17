@@ -1,0 +1,127 @@
+<?teipublisher template="view-grid-prohd.html" odd="prohd.odd" view="page"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Das Team</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <head>Projektidee und Leitung</head>
+            <listPerson>  
+                    <person>
+                       <persName>
+                            <hi rend="bold">
+                                <ref target="https://www.bbaw.de/die-akademie/mitarbeiterinnen-mitarbeiter/kraft-tobias">Dr. Tobias Kraft</ref>
+                            </hi>
+                        </persName>
+                        <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                   </person>
+                </listPerson> 
+         </div>
+         <div>
+            <head>Mitantragssteller</head>
+            <listPerson>
+                  <person>
+                     <persName>
+                            <hi rend="bold">
+                                <ref target="https://www.bbaw.de/die-akademie/mitarbeiterinnen-mitarbeiter/ette-ottmar">Prof. Dr. Ottmar Ette</ref>
+                            </hi>
+                        </persName>
+                     <affiliation>Universität Potsdam</affiliation>
+                     <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                  </person>
+               </listPerson>
+         </div>
+         <div>
+            <head>Team Berlin</head>
+            <listPerson>
+               <person>
+                  <persName>
+                            <hi rend="bold">
+                                <ref target="https://www.bbaw.de/die-akademie/mitarbeiterinnen-mitarbeiter/kraller-kathrin">Dr. Kathrin Kraller</ref>
+                            </hi>
+                        </persName>
+                  <occupation>Wissenschaftliche Mitarbeiterin</occupation>
+                  <note>Projektkoordination, Editionsphilologie</note>
+               </person>
+               <person>
+                  <persName>
+                            <hi rend="bold">
+                                <ref target="https://www.bbaw.de/die-akademie/mitarbeiterinnen-mitarbeiter/rojas-castro-antonio">Dr. Antonio Rojas Castro</ref>
+                            </hi>
+                        </persName>
+                  <occupation>Wissenschaftlicher Mitarbeiter</occupation>
+                  <note>Digital Humanities, Editionsphilologie</note>
+               </person>
+               <person>
+                  <persName>
+                            <hi rend="bold">Arrate Cano Martín-Lara</hi>
+                        </persName>
+                  <occupation>Studentische Hilfskraft (bis Januar 2021)</occupation>
+               </person>
+               <person>
+                  <persName>
+                            <hi rend="bold">Juliana Hutai</hi>
+                        </persName>
+                  <occupation>Studentische Hilfskraft</occupation>
+               </person>
+               <person>
+                  <persName>
+                            <hi rend="bold">Violeta López</hi>
+                        </persName>
+                  <occupation>Studentische Hilfskraft</occupation>
+               </person>
+               <person>
+                  <persName>
+                            <hi rend="bold">Alina Mendt</hi>
+                        </persName>
+                  <occupation>Studentische Hilfskraft (bis September 2020)</occupation>
+               </person>
+               <person>
+                  <persName>
+                            <hi rend="bold">Zora Steiner</hi>
+                        </persName>
+                  <occupation>Studentische Hilfskraft (bis Dezember 2019)</occupation>
+               </person>
+            </listPerson>
+         </div>
+         <div>
+            <head>Team La Habana</head>
+            <listPerson>
+               <person>
+                  <persName>
+                            <hi rend="bold">Eritk Guerra</hi>
+                        </persName>
+                  <occupation>Director de Informática</occupation>
+                  <affiliation>Oficina del Historiador de La Ciudad de La Habana</affiliation>
+               </person>
+               <person>
+                  <persName>
+                            <hi rend="bold">Alaina Solernou Ferrer</hi>
+                        </persName>
+                  <occupation>Patrimonio Documental, Especialista de Gestión</occupation>
+                  <affiliation>Oficina del Historiador de La Ciudad de La Habana</affiliation>
+               </person>
+               <person>
+                  <persName>
+                            <hi rend="bold">Dra. Grisel Terrón</hi>
+                        </persName>
+                  <occupation>Patrimonio Documental, Directora</occupation>
+                  <affiliation>Oficina del Historiador de La Ciudad de La Habana</affiliation>
+               </person>
+            </listPerson>   
+         </div>
+      </body>
+  </text>
+</TEI>
