@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Example taxonomy for TEI Publisher demo files</title>
+            <title>ProHD's Taxonomy</title>
          </titleStmt>
          <publicationStmt>
             <p/>
@@ -14,25 +14,21 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="pb-taxonomy">
+            <!--Added by ARC on 06.07.2021
+            I deleted the hierachical estructure of genre-->
                <category xml:id="genre">
                   <catDesc>Genre of a text</catDesc>
                   <category xml:id="prose">
                      <catDesc>Prose</catDesc>
-                     <category xml:id="philosophy">
-                        <catDesc>Philosophy</catDesc>
-                     </category>
-                     <category xml:id="mathematics">
-                        <catDesc>Mathematics</catDesc>
-                     </category>
-                     <category xml:id="religion">
-                        <catDesc>Religion</catDesc>
-                     </category>
                   </category>
                   <category xml:id="correspondence">
-                     <catDesc>Letters and Correspondence</catDesc>
+                     <catDesc>Correspondence</catDesc>
                   </category>
                   <category xml:id="drama">
                      <catDesc>Drama</catDesc>
+                  </category>
+                  <category xml:id="poetry">
+                     <catDesc>Poetry</catDesc>
                   </category>
                </category>
                <category xml:id="form">
@@ -42,6 +38,22 @@
                   </category>
                   <category xml:id="print">
                      <catDesc>Print</catDesc>
+                  </category>
+               </category>
+               <!-- Added by ARC on 06.07.2021 -->
+               <category xml:id="topic">
+                  <catDesc>Topics</catDesc>
+                  <category xml:id="science">
+                     <catDesc>Science</catDesc>
+                  </category>
+                  <category xml:id="slavery">
+                     <catDesc>Slavery</catDesc>
+                  </category>
+                  <category xml:id="politics">
+                     <catDesc>Politics</catDesc>
+                  </category>
+                  <category xml:id="economy">
+                     <catDesc>Economy</catDesc>
                   </category>
                </category>
             </taxonomy>
