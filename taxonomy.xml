@@ -14,46 +14,124 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="pb-taxonomy">
-            <!--Added by ARC on 06.07.2021
-            I deleted the hierachical estructure of genre-->
                <category xml:id="genre">
-                  <catDesc>Genre of a text</catDesc>
-                  <category xml:id="prose">
-                     <catDesc>Prose</catDesc>
+                  <catDesc xml:lang="en">Genre</catDesc>
+                  <catDesc xml:lang="es">Género</catDesc>
+                  <catDesc xml:lang="de"></catDesc>
+                  <category xml:id="diaries">
+                     <catDesc xml:lang="en">Diaries</catDesc>
+                     <catDesc xml:lang="es">Diarios personales</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
+                  </category>
+                  <category xml:id="essays">
+                     <catDesc xml:lang="en">Essays</catDesc>
+                     <catDesc xml:lang="es">Ensayos</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
+                  </category>
+                  <category xml:id="notebooks">
+                     <catDesc xml:lang="en">Notebooks</catDesc>
+                     <catDesc xml:lang="es">Notas personales</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
                   </category>
                   <category xml:id="correspondence">
-                     <catDesc>Correspondence</catDesc>
+                     <catDesc xml:lang="en">Personal Correspondence</catDesc>
+                     <catDesc xml:lang="es">Cartas</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
                   </category>
-                  <category xml:id="drama">
-                     <catDesc>Drama</catDesc>
-                  </category>
-                  <category xml:id="poetry">
-                     <catDesc>Poetry</catDesc>
+                  <category xml:id="travelwriting">
+                     <catDesc xml:lang="en">Travel Writing</catDesc>
+                     <catDesc xml:lang="es">Narraciones de viajes</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
                   </category>
                </category>
                <category xml:id="form">
-                  <catDesc>Form</catDesc>
+                  <catDesc xml:lang="en">Form</catDesc>
+                  <catDesc xml:lang="es">Forma</catDesc>
+                  <catDesc xml:lang="de"></catDesc>
                   <category xml:id="manuscript">
-                     <catDesc>Manuscript</catDesc>
+                     <catDesc xml:lang="en">Manuscript</catDesc>
+                     <catDesc xml:lang="es">Manuscritos</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
                   </category>
                   <category xml:id="print">
-                     <catDesc>Print</catDesc>
+                     <catDesc xml:lang="en">Print</catDesc>
+                     <catDesc xml:lang="es">Impresos</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
                   </category>
                </category>
-               <!-- Added by ARC on 06.07.2021 -->
-               <category xml:id="topic">
-                  <catDesc>Topics</catDesc>
-                  <category xml:id="science">
-                     <catDesc>Science</catDesc>
+               <category xml:id="subjects">
+                  <catDesc xml:lang="en">Subjects</catDesc>
+                  <catDesc xml:lang="es">Materias</catDesc>
+                  <catDesc xml:lang="de"></catDesc>
+                  <category xml:id="climatology">
+                     <catDesc xml:lang="en">Climatology</catDesc>
+                     <catDesc xml:lang="es">Climatología</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
                   </category>
-                  <category xml:id="slavery">
-                     <catDesc>Slavery</catDesc>
+                  <category xml:id="colonialism">
+                     <catDesc xml:lang="en">Colonialism</catDesc>
+                     <catDesc xml:lang="es">Colonialismo</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
                   </category>
-                  <category xml:id="politics">
-                     <catDesc>Politics</catDesc>
+                  <category xml:id="demography">
+                     <catDesc xml:lang="en">Demography</catDesc>
+                     <catDesc xml:lang="es">Demografía</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
                   </category>
-                  <category xml:id="economy">
-                     <catDesc>Economy</catDesc>
+                  <category xml:id="economicconditions">
+                     <catDesc xml:lang="en">Economic conditions</catDesc>
+                     <catDesc xml:lang="es">Situación económica</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
+                  </category>
+                  <category xml:id="geography">
+                     <catDesc xml:lang="en">Geography</catDesc>
+                     <catDesc xml:lang="es">Geografía</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
+                  </category>
+                  <category xml:id="history">
+                     <catDesc xml:lang="en">History</catDesc>
+                     <catDesc xml:lang="es">Historia</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
+                     <category xml:id="medicine">
+                        <catDesc xml:lang="en">Medicine</catDesc>
+                        <catDesc xml:lang="es">Medicina</catDesc>
+                        <catDesc xml:lang="de"></catDesc>
+                     </category>
+                     <category xml:id="science">
+                        <catDesc xml:lang="en">Science</catDesc>
+                        <catDesc xml:lang="es">Ciencia</catDesc>
+                        <catDesc xml:lang="de"></catDesc>
+                     </category>
+                  </category>
+               </category>
+               <category xml:id="plantations">
+                  <catDesc xml:lang="en">Plantations</catDesc>
+                  <catDesc xml:lang="es">Plantaciones</catDesc>
+                  <catDesc xml:lang="de"></catDesc>
+                  <category xml:id="coffee">
+                     <catDesc xml:lang="en">Coffee</catDesc>
+                     <catDesc xml:lang="es">Café</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
+                  </category>
+                  <category xml:id="sugar">
+                     <catDesc xml:lang="en">Sugar</catDesc>
+                     <catDesc xml:lang="es">Azúcar</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
+                  </category>
+               </category>
+               <category xml:id="slavery">
+                  <catDesc xml:lang="en">Slavery</catDesc>
+                  <catDesc xml:lang="es">Esclavitud</catDesc>
+                  <catDesc xml:lang="de"></catDesc>
+                  <category xml:id="trade">
+                     <catDesc xml:lang="en">Trade</catDesc>
+                     <catDesc xml:lang="es">Comercio</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
+                  </category>
+                  <category xml:id="emancipation">
+                     <catDesc xml:lang="en">Emancipation</catDesc>
+                     <catDesc xml:lang="es">Emancipación</catDesc>
+                     <catDesc xml:lang="de"></catDesc>
                   </category>
                </category>
             </taxonomy>
