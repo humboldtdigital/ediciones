@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="Unbenannt">
+<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="Unbenannt">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -31,14 +32,17 @@
                             Kulturbesitz</institution>
                         <collection>Nachlass Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">Nachl. Alexander von Humboldt, gr. Kasten 2, Mappe 3, Nr. 3</idno>
+                            <idno type="shelfmark">Nachl. Alexander von Humboldt, gr. Kasten 2,
+                                Mappe 3, Nr. 3</idno>
                         </idno>
                     </msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <creation> </creation>
+            <creation>
+                <persName>Humboldt, von Alexander</persName>
+            </creation>
             <langUsage>
                 <language ident="fr">Französisch</language>
             </langUsage>
@@ -54,10 +58,14 @@
         <body>
             <div>
                 <p><pb n="1r"/>Esclaves</p>
-                <p>nous rét<add place="superlinear">r</add>ogradons comme partout<supplied cert="high">,</supplied><lb/>on ne veut plus en écrire <lb/><unclear reason="illegible" cert="high">ni</unclear> parler<supplied cert="high">,</supplied> les uns <choice>
+                <p>nous rét<add place="superlinear">r</add>ogradons comme partout<supplied
+                        cert="high">,</supplied><lb/>on ne veut plus en écrire <lb/><unclear
+                        reason="illegible" cert="high">ni</unclear> parler<supplied cert="high"
+                        >,</supplied> les uns <choice>
                         <orig>par <lb/>ce</orig>
                         <reg>parce</reg>
-                    </choice> qu'ils craignent qu'on <lb/>les accuse de sensiblerie<supplied cert="high">,</supplied><lb/>d'autres <choice>
+                    </choice> qu'ils craignent qu'on <lb/>les accuse de sensiblerie<supplied
+                        cert="high">,</supplied><lb/>d'autres <choice>
                         <orig>par ce</orig>
                         <reg>parce</reg>
                     </choice> qu'on <lb/>agite des colonies, <hi rendition="#u"><choice>
@@ -65,13 +73,19 @@
                             <corr cert="high">afflige</corr>
                         </choice></hi>
                     <lb/>les colons</p>
-                <p><gap unit="lines" quantity="2" reason="insignificant"/></p>
-                <p><pb n="1v"/>or!! <lb/>sur l'or des Îles <lb/>voyez <del rendition="#s"><gap unit="words" quantity="1" reason="illegible"/></del> Peter <lb/>Martyr
+                <p>
+                    <gap unit="lines" quantity="2" reason="insignificant"/>
+                </p>
+                <p><pb n="1v"/>or!! <lb/>sur l'or des Îles <lb/>voyez <del rendition="#s"><gap
+                            unit="words" quantity="1" reason="illegible"/></del> Peter <lb/>Martyr
                     1533 <choice>
                         <abbr>p</abbr>
                         <expan>page</expan>
                     </choice> 24 D. <lb/>et register <hi rendition="#uu">aurum</hi></p>
-                <p><pb n="2r"/><hi rendition="#uu">Inquisition</hi></p>
+                <p>
+                    <pb n="2r"/>
+                    <hi rendition="#uu">Inquisition</hi>
+                </p>
                 <p><choice>
                         <abbr>Mr</abbr>
                         <expan>Monsieur</expan>
@@ -96,7 +110,9 @@
                     <hi rendition="#u">quelques gouttes de <lb/>sang coupables</hi> versées de
                     <lb/>loin en loin."</p>
                 <p>alle Welt ist <hi rendition="#u">toll</hi>!!</p>
-                <p><pb n="2v"/></p>
+                <p>
+                    <pb n="2v"/>
+                </p>
                 <p><pb n="3r"/>Esclavage</p>
                 <p>Les colonies angloises en Amérique <lb/>ont vécu de 1680-1786 <lb/>en tout
                     2,130000 nègres <lb/>enregistrés<supplied cert="high">,</supplied> probablement
@@ -146,7 +162,10 @@
                         <lb/>Pensylvanie<lb/>Connecticut<note place="right" hand="#author">R.
                             Wilber<lb break="no"/>force <lb/>Gallatin</note>
                     <lb/>Danemark <lb/>Amérique</p>
-                <p><pb n="3v"/> <gap unit="pages" quantity="1" reason="insignificant"/></p>
+                <p>
+                    <pb n="3v"/>
+                    <gap unit="pages" quantity="1" reason="insignificant"/>
+                </p>
             </div>
         </body>
     </text>
