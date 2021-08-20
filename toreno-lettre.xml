@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="letter" xml:id="Unbenannt">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Brief von José María Queipo de Llano Ruiz de Saravía an Alexander
+                    von Humboldt</title>
+                <editor>
+                    <persName>
+                        <surname>Kraller</surname>
+                        <forename>Kathrin</forename>
+                    </persName>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2021</date>).</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Namensnennung 4.0 International (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Staatsbibliothek zu Berlin Preußischer
+                            Kulturbesitz</institution>
+                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <idno>
+                            <idno type="shelfmark">Nachl. Alexander von Humboldt, gr. Kasten 2,
+                                Mappe 3, Nr. 2</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">Französisch</language>
+            </langUsage>
+            <abstract xml:lang="de">
+                <p>Brief von José María Queipo de Llano Ruiz de Saravía an Alexander von
+                    Humboldt .</p>
+            </abstract>
+            <abstract xml:lang="es">
+                <p>Carta de José María Queipo de Llano Ruiz de Saravía a Alexander von Humboldt.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Queipo de Llano Ruiz de Saravía, José María</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Humboldt, Alexander von</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <p><pb n="1r"/>Si Monsieur Humboldt veut <lb/>avoir tout de suite <subst>
+                        <del rendition="#ow">de</del>
+                        <add place="across">les</add>
+                    </subst> renseignemens <lb/>qu'il désire sur l'île de Cuba, <lb/>il peut écrire
+                    au Général Don <lb/>José Zayas<supplied cert="high">,</supplied> député par
+                    cette île, <lb/>et je me charge avec beaucoup <lb/>de plaisir de lui faire
+                    passer cette <lb/>lettre par le <choice>
+                        <sic>courier</sic>
+                        <corr cert="high">courrier</corr>
+                    </choice> de Samedi <lb/>en l'engageant d'y donner une <lb/>réponse au
+                    plutôt.</p>
+                <p>Monsieur Humboldt doit <lb/>être persuadé que je saisirai <lb/>avec empressement
+                    toutes les occasions <lb/>de pouvoir lui témoigner mon désir <lb/>de lui être
+                    agréable, en lui renouvelant <lb/><pb n="1v"/>l'hommage de ma considération
+                    <lb/>la plus distinguée.</p>
+                <closer>
+                    <signed>Toreno</signed>
+                    <date>ce 6</date>.</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

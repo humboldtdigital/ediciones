@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="Unbenannt">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Notizen zum Thema Sklaverei </title>
+                <editor>
+                    <persName>
+                        <surname>Kraller</surname>
+                        <forename>Kathrin</forename>
+                    </persName>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2021</date>).</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Namensnennung 4.0 International (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Staatsbibliothek zu Berlin Preußischer
+                            Kulturbesitz</institution>
+                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <idno>
+                            <idno type="shelfmark">Nachl. Alexander von Humboldt, gr. Kasten 2, Mappe 3, Nr. 3</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation> </creation>
+            <langUsage>
+                <language ident="fr">Französisch</language>
+            </langUsage>
+            <abstract xml:lang="de">
+                <p>Notizen Humboldts zum Thema Sklaverei. </p>
+            </abstract>
+            <abstract xml:lang="es">
+                <p>Noticias de Alexander von Humboldt sobre el tema de la esclavitud. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><pb n="1r"/>Esclaves</p>
+                <p>nous rét<add place="superlinear">r</add>ogradons comme partout<supplied cert="high">,</supplied><lb/>on ne veut plus en écrire <lb/><unclear reason="illegible" cert="high">ni</unclear> parler<supplied cert="high">,</supplied> les uns <choice>
+                        <orig>par <lb/>ce</orig>
+                        <reg>parce</reg>
+                    </choice> qu'ils craignent qu'on <lb/>les accuse de sensiblerie<supplied cert="high">,</supplied><lb/>d'autres <choice>
+                        <orig>par ce</orig>
+                        <reg>parce</reg>
+                    </choice> qu'on <lb/>agite des colonies, <hi rendition="#u"><choice>
+                            <sic>affligé</sic>
+                            <corr cert="high">afflige</corr>
+                        </choice></hi>
+                    <lb/>les colons</p>
+                <p><gap unit="lines" quantity="2" reason="insignificant"/></p>
+                <p><pb n="1v"/>or!! <lb/>sur l'or des Îles <lb/>voyez <del rendition="#s"><gap unit="words" quantity="1" reason="illegible"/></del> Peter <lb/>Martyr
+                    1533 <choice>
+                        <abbr>p</abbr>
+                        <expan>page</expan>
+                    </choice> 24 D. <lb/>et register <hi rendition="#uu">aurum</hi></p>
+                <p><pb n="2r"/><hi rendition="#uu">Inquisition</hi></p>
+                <p><choice>
+                        <abbr>Mr</abbr>
+                        <expan>Monsieur</expan>
+                    </choice> de Maistre (Soirées de St. <choice>
+                        <abbr>Pétersb</abbr>
+                        <expan>Pétersbourg</expan>
+                    </choice>
+                    <lb/><choice>
+                        <abbr>T</abbr>
+                        <expan>Tome</expan>
+                    </choice> 2. <choice>
+                        <abbr>p</abbr>
+                        <expan>page</expan>
+                    </choice> 121) est irrité de ce que <lb/>"l'Angleterre reproche au Portugal
+                    <lb/>les arrêts de son inquisition <lb/><choice>
+                        <abbr>c.</abbr>
+                        <expan>c'est</expan>
+                    </choice> à <choice>
+                        <abbr>d.</abbr>
+                        <expan>dire</expan>
+                    </choice>
+                    <hi rendition="#u">quelques gouttes de <lb/>sang coupables</hi> versées de
+                    <lb/>loin en loin."</p>
+                <p>alle Welt ist <hi rendition="#u">toll</hi>!!</p>
+                <p><pb n="2v"/></p>
+                <p><pb n="3r"/>Esclavage</p>
+                <p>Les colonies angloises en Amérique <lb/>ont vécu de 1680-1786 <lb/>en tout
+                    2,130000 nègres <lb/>enregistrés<supplied cert="high">,</supplied> probablement
+                    3 <choice>
+                        <sic>millio</sic>
+                        <corr cert="high">millions</corr>
+                    </choice>
+                </p>
+                <p>on croit 1810 qu'encore à <lb/>cause des <choice>
+                        <abbr>Espagn</abbr>
+                        <expan>Espagnols</expan>
+                    </choice><supplied cert="high">,</supplied>
+                    <choice>
+                        <abbr>Port.</abbr>
+                        <expan>Portugais</expan>
+                    </choice> et <lb/>François on extrait annuelle<lb break="no"/>ment de l'Afrique
+                    oc. 80,000 <lb/>nègres</p>
+                <p><choice>
+                        <sic>Le</sic>
+                        <corr cert="high">La</corr>
+                    </choice> Jamaïque<supplied cert="high">,</supplied> Cube a reçu <lb/>de
+                    1655-1787 .. 676276 <lb/>nègres.</p>
+                <p><note place="left" hand="#Humboldt, Alexander von">150<unclear reason="illegible"
+                            cert="low">0</unclear>
+                        <lb/>900000 <lb/>7000000</note>schon 1769 in House of <lb/>representatifes
+                    of Massachu<lb break="no"/>sets wurde gefragt (lange <lb/>vor Congress von Wien)
+                    <lb/>"the <choice>
+                        <sic>unatural</sic>
+                        <corr cert="high">unnatural</corr>
+                    </choice> and unwar<lb break="no"/>rantable custom of <lb/>enslaving
+                        mankind<supplied cert="high">"</supplied>
+                    <lb/>Walsh <choice>
+                        <sic>appel</sic>
+                        <corr cert="high">appeal</corr>
+                    </choice> of <lb/>the <choice>
+                        <abbr>Un</abbr>
+                        <expan>United</expan>
+                    </choice>
+                    <choice>
+                        <abbr>St</abbr>
+                        <expan>States</expan>
+                    </choice> 1819 <choice>
+                        <abbr>p</abbr>
+                        <expan>page</expan>
+                    </choice> 312 <lb/>abschaffung <del rendition="#s"><gap unit="words"
+                            quantity="1" reason="illegible"/></del> des Handels <lb/>Virginie 1778
+                        <lb/>Pensylvanie<lb/>Connecticut<note place="right" hand="#author">R.
+                            Wilber<lb break="no"/>force <lb/>Gallatin</note>
+                    <lb/>Danemark <lb/>Amérique</p>
+                <p><pb n="3v"/> <gap unit="pages" quantity="1" reason="insignificant"/></p>
+            </div>
+        </body>
+    </text>
+</TEI>
