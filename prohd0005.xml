@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="H0019146">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0005">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Fièvre jaune 2</title>
+                <title type="main">IV Intendance de Veracruz</title>
                 <editor>
                     <persName>
                         <surname>Kraller</surname>
@@ -19,47 +19,50 @@
             </editionStmt>
             <publicationStmt>
                 <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
-                        Wissenschaften (BBAW)</ref></publisher>
+                    Wissenschaften (BBAW)</ref></publisher>
                 <pubPlace ref="http://www.geonames.org/2950159">Berlín</pubPlace>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                         Namensnennung 4.0 International (CC BY 4.0) </licence>
                 </availability>
             </publicationStmt>
+            <notesStmt>
+                <note type="editorial">Auf der Manuskriptseite (190r) befindet sich auf dem gesamten  linken
+                    Blattrand, im unteren Drittel der Seite sowie zwischen den beiden Textteilen
+                    eine nummerierte Liste mit Anmerkungen Humboldts. Da sie nur skizzenhaften
+                    Charakter haben und keinen direkten Textbezug aufweisen, wurde auf ihre
+                    Transkription verzichtet.</note>
+            </notesStmt>
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
                         <institution>Biblioteka Jagiellonska Krakau</institution>
                         <collection>Nachlass Alexander von Humboldt</collection>
-                        <idno>
-                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 1/3, Bl.
-                                185-211 (DE-611-HS-2849282)</idno>
-                        </idno>
+                        <idno>Nachlass Alexander von Humboldt Bd. 1/3, Bl. 185-211
+                            (DE-611-HS-2849282)</idno>
                     </msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <creation>
-                <persName>Humboldt, von Alexander</persName>
-                <date notBefore="1804">nach 1804</date>
+                <persName>Humboldt, Alexander von</persName>
+                <date notBefore="1801">nach 1801</date>
             </creation>
             <langUsage>
                 <language ident="fr">Französisch</language>
             </langUsage>
-             <abstract xml:lang="de">
-                <p>Notizen Humboldts zu Juan Manuel de Aréjulas Werk “Breve descripción de la fiebre
-                    amarilla padecida en Cádiz y pueblos comarcanos en 1800, en Medinasidonia en
-                    1801, en Maáaga en 1803, y en esta misma plaza y varias otras del reyno en
-                    1804”. Humboldt fasst die Thesen des Werks in Vorbereitung auf seine
-                    wissenschaftliche Abhandlung über das Gelbfieber zusammen.</p></abstract>
+            <abstract xml:lang="de">
+                <p>Humboldt beschreibt auf diesem Blatt Geographie, Klima und typische Produkte der Region Veracruz (heutiges Mexiko). Im letzten Absatz geht er auf dort herrschende Tropenkrankheiten ein.</p></abstract>
             <abstract xml:lang="es">
-                <p>Apuntes de Humboldt sobre la obra de Juan Manuel de Aréjula “Breve descripción de la fiebre amarilla padecida en Cádiz y pueblos comarcanos en 1800, en Medinasidonia en 1801, en Málaga en 1803, y en esta misma plaza y varias otras del reyno en 1804”. Humboldt resume las tesis de la obra en preparación de su tratado científico sobre la fiebre amarilla.</p>
+                <p>En esta hoja, Humboldt describe la geografía, el clima y los productos típicos de la region de Veracruz (actual México). En el último párrafo se dedica a las enfermedades tropicales que reinan allí.</p>
             </abstract>
             <textClass>
-                <catRef scheme="#genre" target="#notebooks"/>
+                <catRef scheme="#genre" target="#travelwriting"/>
                 <catRef scheme="#form" target="#manuscript"/>
-                <catRef scheme="#subject" target="#medicine"/>
+                <catRef scheme="#subject" target="#economicconditions"/>
+                <catRef scheme="#subject" target="#geography"/>
+                <catRef scheme="#subject" target="#climatology"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
@@ -191,42 +194,85 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="193r"/>
             <div>
-                <p><hi rendition="#u">Fièvre jaune</hi>
-                </p>
-                <p><note place="left" hand="#author">Aréjula breve descripción de<lb/>la fiebre
-                        amarilla padecida <lb/>en Cádiz en 1800 en Medina<lb/>Sidonia en 1801. en
-                        Málaga<lb/>en 1803. y 1804.<lb/></note><lb/>1. Il y eut vomito negro à Cádiz
-                    au commen<lb break="no"/>cement du 18<hi rendition="#sup">ème</hi> siècle, puis
-                    1733, <lb/>1734. 1764. (A <choice>
-                        <abbr>p</abbr>
-                        <expan>page</expan>
-                    </choice> 447.) <hi rendition="#uu">1800</hi>. 1801. </p>
-                <p>2. A ne croit pas que le contage se fixe aux <lb/>draps (ropas)<supplied
-                        cert="high">,</supplied> croit que le contage<lb/>ne se manifeste dans une
-                    personne quel<lb break="no"/>quefois que dans <hi rendition="#u">7-8</hi> mois
-                    (contagia <lb/>dos del año anterior !) <choice>
-                        <abbr>p</abbr>
-                        <expan>page</expan>
-                    </choice> 450.228.</p>
-                <p>3<supplied cert="high">.</supplied> à Philadelphie <choice>
-                        <abbr>f.</abbr>
-                        <expan>fièvre</expan>
-                    </choice>
+                <p><pb n="190r"/>IV <hi rendition="#uu">Intendance de Veracruz</hi> <space quantity="11" unit="chars"/>|156.000. |
+                    4141. | 38.</p>
+                <p>+ Cette Province s'étend le long du Golfe du Mexique depuis le Rio <lb/>Baraderas
+                    où des Crocodiles (de los Lagartos) jusqu'<del rendition="#s">au</del> à
+                        <lb/><add place="left">la grande rivière</add>
+                    <del rendition="#s">de le de des Rios</del> de Panuco, sur une longueur de plus
+                    de <space quantity="1" unit="words"/><supplied cert="high">.</supplied><lb/>Sa largeur n'est généralement
+                    que de 16 à 28 lieues. <del rendition="#s">Sa partie</del>
+                    <lb/><add place="left">Elle embrasse</add>
+                    <del rendition="#s"><add place="superlinear">occidentale</add>
+                        <add place="sublinear">orientale</add>
+                        <del rendition="#s"><gap reason="illegible" quantity="2" unit="words"/></del> occupe</del>
+                    <add place="superlinear">vers l'ouest</add> la pente <add place="superlinear">orientale</add> de la Cordillère d'Anahuac. <add place="superlinear">C'est
+                        lá que</add>
+                    <del rendition="#s">Dans l'</del>
+                    <lb/><del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del>
+                    <add place="superlinear">dans l'espace</add> de très peu d'heures les habitans
+                        <del rendition="#s">p</del>
+                    <add place="superlinear">peuvent</add> défendre de<lb break="no"/>puis <add place="left">la région</add> des neiges éternelles au climat brûlant de la
+                    côte. + La <lb/>majeure partie de l'Intendance de Veracruz <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> appartient
+                    aux <lb/><hi rendition="#u">tierras calientes</hi><note place="mBottom" hand="#author">*voyez plus haut <choice>
+                            <abbr>p.</abbr>
+                            <expan>page</expan>
+                        </choice></note>
+                    <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del><supplied cert="high">.</supplied> La Nature l'a <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del>
                     <choice>
-                        <abbr>j.</abbr>
-                        <expan>jaune</expan>
-                    </choice> ca 1699.1741.1747 <lb/>1762.<hi rendition="#u">1793</hi>.1796<supplied
-                        cert="high">.</supplied>1797.1798 et puis <lb/>toujours. Il meurt à
-                    Philadelphia au plus <lb/>3-4000 individ. de <choice>
-                        <abbr>f.</abbr>
-                        <expan>fièvre</expan>
+                        <sic>enrichi</sic>
+                        <corr cert="high">enrichie</corr>
+                    </choice> des produc<lb break="no"/>tions les plus précieuses de la zone
+                    torride. Elle fournit <lb/>au commerce mexicain: la Vanille (Epidendrusa
+                    Vanilla) dans le <lb/>district de <subst>
+                        <del rendition="#s">Misantla</del>
+                        <add place="superlinear">Panontla</add>
+                    </subst>, Nautla et S. Andres Tuxtla; la <lb/>(Convolvulus Jalappa) près de
+                    Colipa <add place="superlinear">et</add> Misantla; <del rendition="#s">la
+                        Sarsaparille (Smilax</del> le Piment <lb/>de Tabasco (Myrtus ) au Sudouest
+                    du Río Baraderas et <lb/>de Vittoria, du Tabac, du Sucre, de la Sarsaparille,
+                        <add place="superlinear">et</add> de l'excellent <lb/>coton. Malgré ces
+                    avantages naturels l'Intendance de <del rendition="#s"><gap reason="illegible" quantity="2" unit="words"/></del><lb/>Veracruz est <choice>
+                        <sic>du</sic>
+                        <corr cert="high">la</corr>
+                    </choice> plus négligée dans la culture. Sa population rela<g ref="#typoHyphen"/><lb break="no"/>tive égale à peine <choice>
+                        <sic>cell</sic>
+                        <corr cert="high">celle</corr>
+                    </choice> de <space quantity="1" unit="words"/> ce qui prouve que la popu<lb break="no"/>lation de la
+                    Nouvelle Espagne depuis <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del>
+                    <add place="superlinear">les</add> terres les plus <choice>
+                        <sic>reculés</sic>
+                        <corr cert="high">reculées</corr>
                     </choice>
+                    <lb/>est <choice>
+                        <sic><add place="left">demeuré</add></sic>
+                        <corr cert="high">demeurée</corr>
+                    </choice> concentrée sur le plateau central, tandis que les côtes
+                    <lb/>orientales et occidentales n'offrent que des régions inha<lb break="no"/>bitées.</p>
+                <p><gap reason="insignificant" unit="lines" quantity="6"/></p>
+                <p>L'Intendance de Veracruz <add place="superlinear">peut en ce moment <del rendition="#s">peut</del> être <choice>
+                            <sic>considéré</sic>
+                            <corr cert="high">considérée</corr>
+                        </choice></add> comme le site de la <lb/>fièvre jaune ou du vomissement noir
+                    (vomito prieto)<supplied cert="high">.</supplied> Je dis <lb/>en ce moment, car
+                    je suis persuadé que si le commerce actif <lb/>des Européens se <del rendition="#s">portait</del>
+                    <add place="left"><choice>
+                            <sic>dirigait</sic>
+                            <corr cert="high">dirigeait</corr>
+                        </choice></add> sur un autre port que sur celui <lb/>de la Veracruz, <del rendition="#s">l'accum</del>
+                    <del rendition="#s"><gap reason="illegible" quantity="4" unit="words"/></del> le
+                    concours d'étran<lb break="no"/>gers, surtout <subst>
+                        <del rendition="#s">de personnes</del>
+                        <add place="superlinear">d'individus</add>
+                    </subst>
                     <choice>
-                        <abbr>j.</abbr>
-                        <expan>jaune</expan>
-                    </choice> annuellement<supplied cert="high">.</supplied></p>
+                        <sic>nées</sic>
+                        <corr cert="high">nés</corr>
+                    </choice> sous un climat froid <lb/>et transférés, y développerait le germe de
+                    ces épidémies <lb/>funestes.</p>
+                <p><gap reason="insignificant" unit="lines" quantity="10"/></p>
+                <p><add place="left"><gap reason="insignificant" unit="lines" quantity="40"/></add></p>
             </div>
         </body>
     </text>

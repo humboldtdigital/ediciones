@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="H0019148">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0006">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -96,6 +96,7 @@
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subject" target="#climatology"/>
                 <catRef scheme="#subject" target="#medicine"/>
+                <catRef scheme="#subject" target="#history"/>
             </textClass>
         </profileDesc>
         <encodingDesc>

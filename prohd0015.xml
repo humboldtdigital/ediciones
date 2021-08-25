@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="H0018381">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0015">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -78,6 +78,8 @@
                 <catRef scheme="#subject" target="#slavery"/>
                 <catRef scheme="#subject" target="#sugar"/>
                 <catRef scheme="#subject" target="#trade"/>
+                <catRef scheme="#subject" target="#history"/>
+                <catRef scheme="#subject" target="#plantations"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
