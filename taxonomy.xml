@@ -59,7 +59,7 @@
                      <catDesc xml:lang="de">Drucke</catDesc>
                   </category>
                </category>
-               <category xml:id="subjects">
+               <category xml:id="subject">
                   <catDesc xml:lang="en">Subjects</catDesc>
                   <catDesc xml:lang="es">Materias</catDesc>
                   <catDesc xml:lang="de">Themen</catDesc>
