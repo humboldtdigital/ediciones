@@ -15,7 +15,7 @@
 # Editions
 
 - This repository contains the TEI editions encoded with ediarum.PROHD.edit as part of the Proyecto Humboldt Digital (2019-2021).
-- For further informaiton on the encoding principles, please visit [ediarum](https://www.ediarum.org/docs/ediarum.BASE.manual/) -- available in German and Spanish.
+- For further informaiton on the encoding principles, please visit ediarum -- available in [German](https://www.ediarum.org/docs/ediarum.BASE.manual/) and [Spanish](https://www.ediarum.org/docs/ediarum.BASE.manual_es/).
 - All TEI files are licensed with Creative Commons BY. 
 - For inquiries please contact antonio.rojas-castro[at]bbaw.de
 
