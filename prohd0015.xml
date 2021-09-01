@@ -84,124 +84,30 @@
             <classDecl>
                 <taxonomy xml:id="pb-taxonomy">
                     <category xml:id="genre">
-                        <catDesc xml:lang="en">Genre</catDesc>
-                        <catDesc xml:lang="es">Género</catDesc>
-                        <catDesc xml:lang="de">Genre</catDesc>
-                        <category xml:id="diaries">
-                            <catDesc xml:lang="en">Diaries</catDesc>
-                            <catDesc xml:lang="es">Diarios personales</catDesc>
-                            <catDesc xml:lang="de">Tagebücher</catDesc>
-                        </category>
-                        <category xml:id="essays">
-                            <catDesc xml:lang="en">Essays</catDesc>
-                            <catDesc xml:lang="es">Ensayos</catDesc>
-                            <catDesc xml:lang="de">Essays</catDesc>
-                        </category>
-                        <category xml:id="notebooks">
-                            <catDesc xml:lang="en">Notebooks</catDesc>
-                            <catDesc xml:lang="es">Notas personales</catDesc>
-                            <catDesc xml:lang="de">Notizen</catDesc>
-                        </category>
-                        <category xml:id="correspondence">
-                            <catDesc xml:lang="en">Personal Correspondence</catDesc>
-                            <catDesc xml:lang="es">Cartas</catDesc>
-                            <catDesc xml:lang="de">Briefe</catDesc>
-                        </category>
-                        <category xml:id="travelwriting">
-                            <catDesc xml:lang="en">Travel Writing</catDesc>
-                            <catDesc xml:lang="es">Narraciones de viajes</catDesc>
-                            <catDesc xml:lang="de">Reiseberichte</catDesc>
-                        </category>
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
                     </category>
                     <category xml:id="form">
-                        <catDesc xml:lang="en">Form</catDesc>
-                        <catDesc xml:lang="es">Forma</catDesc>
-                        <catDesc xml:lang="de">Publikationsform</catDesc>
-                        <category xml:id="manuscript">
-                            <catDesc xml:lang="en">Manuscript</catDesc>
-                            <catDesc xml:lang="es">Manuscritos</catDesc>
-                            <catDesc xml:lang="de">Handschriften</catDesc>
-                        </category>
-                        <category xml:id="print">
-                            <catDesc xml:lang="en">Print</catDesc>
-                            <catDesc xml:lang="es">Impresos</catDesc>
-                            <catDesc xml:lang="de">Drucke</catDesc>
-                        </category>
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
                     </category>
                     <category xml:id="subjects">
-                        <catDesc xml:lang="en">Subjects</catDesc>
-                        <catDesc xml:lang="es">Materias</catDesc>
-                        <catDesc xml:lang="de">Themen</catDesc>
-                        <category xml:id="climatology">
-                            <catDesc xml:lang="en">Climatology</catDesc>
-                            <catDesc xml:lang="es">Climatología</catDesc>
-                            <catDesc xml:lang="de">Klimatologie</catDesc>
-                        </category>
-                        <category xml:id="colonialism">
-                            <catDesc xml:lang="en">Colonialism</catDesc>
-                            <catDesc xml:lang="es">Colonialismo</catDesc>
-                            <catDesc xml:lang="de">Kolonialismus</catDesc>
-                        </category>
-                        <category xml:id="demography">
-                            <catDesc xml:lang="en">Demography</catDesc>
-                            <catDesc xml:lang="es">Demografía</catDesc>
-                            <catDesc xml:lang="de">Demografie</catDesc>
-                        </category>
-                        <category xml:id="economicconditions">
-                            <catDesc xml:lang="en">Economic conditions</catDesc>
-                            <catDesc xml:lang="es">Situación económica</catDesc>
-                            <catDesc xml:lang="de">Wirtschaftslage</catDesc>
-                        </category>
-                        <category xml:id="geography">
-                            <catDesc xml:lang="en">Geography</catDesc>
-                            <catDesc xml:lang="es">Geografía</catDesc>
-                            <catDesc xml:lang="de">Geografie</catDesc>
-                        </category>
-                        <category xml:id="history">
-                            <catDesc xml:lang="en">History</catDesc>
-                            <catDesc xml:lang="es">Historia</catDesc>
-                            <catDesc xml:lang="de">Geschichte</catDesc>
-                            <category xml:id="medicine">
-                                <catDesc xml:lang="en">Medicine</catDesc>
-                                <catDesc xml:lang="es">Medicina</catDesc>
-                                <catDesc xml:lang="de">Medizin</catDesc>
-                            </category>
-                            <category xml:id="science">
-                                <catDesc xml:lang="en">Science</catDesc>
-                                <catDesc xml:lang="es">Ciencia</catDesc>
-                                <catDesc xml:lang="de">Wissenschaft</catDesc>
-                            </category>
-                        </category>
-                    </category>
-                    <category xml:id="plantations">
-                        <catDesc xml:lang="en">Plantations</catDesc>
-                        <catDesc xml:lang="es">Plantaciones</catDesc>
-                        <catDesc xml:lang="de">Plantagen</catDesc>
-                        <category xml:id="coffee">
-                            <catDesc xml:lang="en">Coffee</catDesc>
-                            <catDesc xml:lang="es">Café</catDesc>
-                            <catDesc xml:lang="de">Kaffee</catDesc>
-                        </category>
-                        <category xml:id="sugar">
-                            <catDesc xml:lang="en">Sugar</catDesc>
-                            <catDesc xml:lang="es">Azúcar</catDesc>
-                            <catDesc xml:lang="de">Zucker</catDesc>
-                        </category>
-                    </category>
-                    <category xml:id="slavery">
-                        <catDesc xml:lang="en">Slavery</catDesc>
-                        <catDesc xml:lang="es">Esclavitud</catDesc>
-                        <catDesc xml:lang="de">Sklaverei</catDesc>
-                        <category xml:id="trade">
-                            <catDesc xml:lang="en">Trade</catDesc>
-                            <catDesc xml:lang="es">Comercio</catDesc>
-                            <catDesc xml:lang="de">Handel</catDesc>
-                        </category>
-                        <category xml:id="emancipation">
-                            <catDesc xml:lang="en">Emancipation</catDesc>
-                            <catDesc xml:lang="es">Emancipación</catDesc>
-                            <catDesc xml:lang="de">Emanzipation</catDesc>
-                        </category>
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
                     </category>
                 </taxonomy>
             </classDecl>
