@@ -60,7 +60,6 @@
                 <catRef scheme="#genre" target="#correspondence"/>
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subject" target="#medicine"/>
-                <catRef scheme="#subject" target="#history"/>
             </textClass>
         </profileDesc>
         <encodingDesc>

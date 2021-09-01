@@ -77,7 +77,6 @@
                 <catRef scheme="#subject" target="#geography"/>
                 <catRef scheme="#subject" target="#sugar"/>
                 <catRef scheme="#subject" target="#trade"/>
-                <catRef scheme="#subject" target="#history"/>
                 <catRef scheme="#subject" target="#plantations"/>
             </textClass>
         </profileDesc>

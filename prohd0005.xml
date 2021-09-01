@@ -60,7 +60,6 @@
             <textClass>
                 <catRef scheme="#genre" target="#travelwriting"/>
                 <catRef scheme="#form" target="#manuscript"/>
-                <catRef scheme="#subject" target="#economicconditions"/>
                 <catRef scheme="#subject" target="#geography"/>
                 <catRef scheme="#subject" target="#climatology"/>
             </textClass>
