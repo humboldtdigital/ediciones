@@ -70,6 +70,7 @@
                 <catRef scheme="#subject" target="#slavery"/>
                 <catRef scheme="#subject" target="#sugar"/>
                 <catRef scheme="#subject" target="#plantations"/>
+                <catRef scheme="#subject" target="#demography"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
