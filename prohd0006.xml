@@ -96,6 +96,7 @@
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subject" target="#climatology"/>
                 <catRef scheme="#subject" target="#medicine"/>
+                <catRef scheme="#genre" target="#essays"/>
             </textClass>
         </profileDesc>
         <encodingDesc>

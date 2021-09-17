@@ -62,9 +62,9 @@
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subject" target="#slavery"/>
                 <catRef scheme="#subject" target="#sugar"/>
-                <catRef scheme="#subject" target="#history"/>
                 <catRef scheme="#subject" target="#plantations"/>
                 <catRef scheme="#subject" target="#demography"/>
+                <catRef scheme="#genre" target="#essays"/>
             </textClass>
         </profileDesc>
         <encodingDesc>

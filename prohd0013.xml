@@ -62,6 +62,7 @@
                 <catRef scheme="#subject" target="#geography"/>
                 <catRef scheme="#subject" target="#slavery"/>
                 <catRef scheme="#subject" target="#trade"/>
+                <catRef scheme="#genre" target="#essays"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
