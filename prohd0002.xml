@@ -53,10 +53,10 @@
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName>Sheldon, Daniel</persName>
+                    <persName key="H0015848">Sheldon, Daniel (1820)</persName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Humboldt, Alexander von</persName>
+                    <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
                 </correspAction>
             </correspDesc>
             <textClass>

@@ -53,10 +53,11 @@
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName>Queipo de Llano Ruiz de Saravía, José María</persName>
+                    <persName key="ed_hzw_22q_grb">Queipo de Llano y Ruiz de Sarabia, José María
+                        (1786-1843)</persName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Humboldt, Alexander von</persName>
+                    <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
                 </correspAction>
             </correspDesc>
             <textClass>

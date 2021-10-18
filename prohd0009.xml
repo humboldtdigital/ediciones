@@ -56,10 +56,10 @@
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName>Humboldt, Alexander von</persName>
+                    <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Lapie, Pierre</persName>
+                    <persName key="H0004321">Lapie, Pierre (1779-1850)</persName>
                 </correspAction>
             </correspDesc>
             <textClass>
