@@ -41,20 +41,25 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <persName>Humboldt, von Alexander</persName>
-                <date notBefore="1804">nach 1804</date>
+                <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
+                <date notBefore="1804">1804</date>
             </creation>
             <langUsage>
                 <language ident="fr">Französisch</language>
             </langUsage>
-             <abstract xml:lang="de">
+            <abstract xml:lang="de">
                 <p>Notizen Humboldts zu Juan Manuel de Aréjulas Werk “Breve descripción de la fiebre
                     amarilla padecida en Cádiz y pueblos comarcanos en 1800, en Medinasidonia en
                     1801, en Maáaga en 1803, y en esta misma plaza y varias otras del reyno en
                     1804”. Humboldt fasst die Thesen des Werks in Vorbereitung auf seine
-                    wissenschaftliche Abhandlung über das Gelbfieber zusammen.</p></abstract>
+                    wissenschaftliche Abhandlung über das Gelbfieber zusammen.</p>
+            </abstract>
             <abstract xml:lang="es">
-                <p>Apuntes de Humboldt sobre la obra de Juan Manuel de Aréjula “Breve descripción de la fiebre amarilla padecida en Cádiz y pueblos comarcanos en 1800, en Medinasidonia en 1801, en Málaga en 1803, y en esta misma plaza y varias otras del reyno en 1804”. Humboldt resume las tesis de la obra en preparación de su tratado científico sobre la fiebre amarilla.</p>
+                <p>Apuntes de Humboldt sobre la obra de Juan Manuel de Aréjula “Breve descripción de
+                    la fiebre amarilla padecida en Cádiz y pueblos comarcanos en 1800, en
+                    Medinasidonia en 1801, en Málaga en 1803, y en esta misma plaza y varias otras
+                    del reyno en 1804”. Humboldt resume las tesis de la obra en preparación de su
+                    tratado científico sobre la fiebre amarilla.</p>
             </abstract>
             <textClass>
                 <catRef scheme="#genre" target="#notebooks"/>
