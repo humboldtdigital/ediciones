@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemata/prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
+<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">[Introducir datos]</title>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+                <editor>
+                    <surname>[Introducir datos]</surname>
+                    <forename>[Introducir datos]</forename></editor>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2022-2023</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>[Introducir datos]</institution>
+                        <collection>[Introducir datos, si fuera necesario]</collection>
+                        <idno>
+                            <idno type="shelfmark">[Introducir datos]</idno>
+                            <idno type="uri">[Introducir datos]</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc><p>[Introducir datos]</p></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>[Introducir datos]</creation>
+            <langUsage>
+                <language ident="">[Introducir datos]</language>
+            </langUsage>
+            <abstract xml:lang="es">
+                <p>[Introducir datos]</p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>[Introducir datos]</p>
+            </abstract>
+            <textClass>
+                <catRef></catRef>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>[Editar texto aquí]</p>
+            </div>
+        </body>
+    </text>
+</TEI>
