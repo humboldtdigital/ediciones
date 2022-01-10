@@ -56,6 +56,8 @@
             <textClass>
                 <catRef scheme="#genre" target="#correspondence"/>
                 <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#subject" target="#education"/>
+                <catRef scheme="#subject" target="#administration"/>
             </textClass>
             <langUsage>
                 <language ident="es">Español</language>
@@ -97,6 +99,8 @@
                         <category xml:id="slavery"/>
                         <category xml:id="trade"/>
                         <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
                     </category>
                 </taxonomy>
             </classDecl>
