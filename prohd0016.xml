@@ -110,7 +110,7 @@
                     <dateline>1827</dateline>
                     <salute><choice>
                             <abbr>S.</abbr>
-                            <expan>Señor</expan>
+                            <expan>Señor </expan>
                         </choice><choice>
                             <abbr>Exmo.</abbr>
                             <expan>Excelentísimo</expan>
@@ -146,7 +146,7 @@
                     </choice> relativo, <choice>
                         <orig>ála</orig>
                         <reg>a la</reg>
-                    </choice> la licencia que. pre<lb break="no"/>sentó la morena libre Ana del Toro
+                    </choice> licencia que. pre<lb break="no"/>sentó la morena libre Ana del Toro
                     para <lb/>establecer una escuela de primeras letras de <lb/>niñas de su color, y
                     así mismo sobre la <lb/>obra que se está <choice>
                         <orig>espendiendo</orig>
@@ -181,8 +181,8 @@
                         <abbr>p<hi rendition="#sup">a</hi></abbr>
                         <expan>para</expan>
                     </choice>
-                    <lb/>que se sirva V<choice>
-                        <abbr>.</abbr>
+                    <lb/>que se sirva <choice>
+                        <abbr>V.</abbr>
                         <expan>Vuestra</expan>
                     </choice>
                     <choice>
@@ -288,7 +288,7 @@
                     </choice> de Humboldt intitulada <lb/><hi rendition="#u">Ensayo <choice>
                             <sic>politico</sic>
                             <corr cert="high">político</corr>
-                        </choice> sobre la Isla de Cuba</hi>,<lb/>que igualmente gradua de peligroso
+                        </choice> sobre la Isla de Cuba</hi>,<lb/> que igualmente gradua de peligroso
                         <unclear reason="illegible" cert="low">otra<lb/></unclear><choice>
                         <orig><unclear reason="illegible" cert="low">corporacion</unclear></orig>
                         <reg>corporación</reg>
