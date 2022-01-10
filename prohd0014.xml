@@ -96,18 +96,14 @@
                         <category xml:id="demography"/>
                         <category xml:id="economicconditions"/>
                         <category xml:id="geography"/>
-                        <category xml:id="history">
-                            <category xml:id="medicine"/>
-                            <category xml:id="science"/>
-                        </category>
-                    </category>
-                    <category xml:id="plantations">
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
                         <category xml:id="coffee"/>
                         <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
                     </category>
-                    <category xml:id="slavery"/>
-                    <category xml:id="trade"/>
-                    <category xml:id="emancipation"/>
                 </taxonomy>
             </classDecl>
         </encodingDesc>
