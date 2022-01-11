@@ -103,6 +103,8 @@
                         <category xml:id="slavery"/>
                         <category xml:id="trade"/>
                         <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
                     </category>
                 </taxonomy>
             </classDecl>
