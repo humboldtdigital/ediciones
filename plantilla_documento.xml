@@ -10,8 +10,11 @@
                 <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
                 <editor>
-                    <surname>[Introducir datos]</surname>
-                    <forename>[Introducir datos]</forename></editor>
+                    <persName>
+                        <surname>[Introducir datos]</surname>
+                        <forename>[Introducir datos]</forename>
+                    </persName>
+                </editor>
             </titleStmt>
             <editionStmt>
                 <p>Proyecto Humboldt digital ProHD (<date>2022-2023</date>)</p>
@@ -19,6 +22,8 @@
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
                 <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
                         (CC BY 4.0)</licence>
