@@ -63,6 +63,7 @@
                 <language ident="es">Español</language>
             </langUsage>
             <abstract xml:lang="es">
+                <!-- esto requiere una revisión, porque más bien parece que la petición de Ana de Toro y la sobre la prohibición del Ensayo son dos actos separados -->
                 <p>Solicitud hecha al Gobernador y Capitán General sobre licencia que presentó la
                     morena libre Ana del Toro para establecer una escuela de primeras letras a niños
                     de color y utilizar como material de enseñanza el "Ensayo Político de la Isla de
@@ -83,19 +84,11 @@
                     </category>
                     <category xml:id="form">
                         <category xml:id="manuscript"/>
-                        <category xml:id="print"/>
                     </category>
                     <category xml:id="subjects">
-                        <category xml:id="climatology"/>
                         <category xml:id="colonialism"/>
                         <category xml:id="demography"/>
-                        <category xml:id="economicconditions"/>
-                        <category xml:id="geography"/>
-                        <category xml:id="medicine"/>
                         <category xml:id="science"/>
-                        <category xml:id="plantations"/>
-                        <category xml:id="coffee"/>
-                        <category xml:id="sugar"/>
                         <category xml:id="slavery"/>
                         <category xml:id="trade"/>
                         <category xml:id="emancipation"/>
@@ -108,7 +101,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1"/>
+            <pb n="1" facs="0001.xml"/>
             <div type="writingSession" n="1">
                 <opener>
                     <dateline>1827</dateline>
@@ -257,7 +250,7 @@
                         <expan>Excelentísimo</expan>
                     </choice>
                     <lb/>Ayuntamiento, <choice>
-                        <orig>compre- <lb/>hende</orig>
+                        <orig>compre<g ref="#typoHyphen"/><lb break="no"/>hende</orig>
                         <reg>comprende</reg>
                     </choice> dos particulares; <lb/>el <choice>
                         <abbr>prim.<hi rendition="#sup">o</hi></abbr>
@@ -278,7 +271,7 @@
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice> la morena libre 
-                    <lb/><pb n="2"/>Ana del Toro para establecer una <choice>
+                    <lb/><pb n="2" facs="0002.tif"/>Ana del Toro para establecer una <choice>
                         <orig>Escuela</orig>
                         <reg>escuela</reg>
                     </choice>
@@ -345,7 +338,7 @@
                     </choice>. <choice>
                         <abbr>V E.</abbr>
                         <expan>Vuestra Excelencia</expan>
-                    </choice> sin em <lb/>bargo resolverá lo que estime</p>
+                    </choice> sin em<lb break="no"/>bargo resolverá lo que estime</p>
                
             </div>
         </body>
