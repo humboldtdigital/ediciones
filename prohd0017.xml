@@ -114,7 +114,7 @@
         <body>
             <div>
                 <pb n="1"/>
-                <head><choice>
+                <p><choice>
                         <orig>Havana</orig>
                         <reg>Habana</reg>
                     </choice> 10 de <choice>
@@ -130,7 +130,7 @@
                         <orig>deTabacos</orig>
                         <reg>de Tabacos</reg>
                     </choice>
-                    <add place="right">ZZ</add></head>
+                    <add place="right">ZZ</add></p>
                 <p>Esta fue establecida <supplied cert="high">en el</supplied> año de 1769, hasta<lb/>
                     <choice>
                         <orig>cuio</orig>
@@ -172,7 +172,7 @@
                     </choice> clases<choice>
                         <sic>,</sic>
                         <corr/>
-                    </choice> es impuesta por los labrado-<lb/>res <choice>
+                    </choice> es impuesta por los labrado<lb break="no"/>res <choice>
                         <orig>deeste</orig>
                         <reg>de este</reg>
                     </choice> fruto, desde tiempo inmemorial,<lb/> y es diferente en cada uno de los
@@ -190,7 +190,7 @@
                     <choice>
                         <orig>deesencia</orig>
                         <reg>de esencia</reg>
-                    </choice> su nombra-<lb/>miento, mucho <choice>
+                    </choice> su nombra<lb break="no"/>miento, mucho <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
                     </choice>
@@ -240,7 +240,7 @@
                     </choice> fruto <choice>
                         <orig>asus</orig>
                         <reg>a sus</reg>
-                    </choice> cul-<lb/>tivadores al respecto de 4 <unclear cert="low"
+                    </choice> cul<lb break="no"/>tivadores al respecto de 4 <unclear cert="low"
                         reason="illegible"><choice>
                             <abbr>p.r</abbr>
                             <expan>por</expan>
