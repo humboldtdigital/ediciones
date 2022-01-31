@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
-<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_">
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_prohd00017">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">[Introducir datos]</title>
+                <title type="main">Factoría de tabacos</title>
                 <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
                 <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
                 <editor>
-                    <surname>Rojas Castro</surname>
-                    <forename>Antonio</forename></editor>
+                    <persName ref="https://orcid.org/0000-0002-8916-4997">
+                        <surname>Rojas Castro</surname>
+                        <forename>Antonio</forename>
+                    </persName>
+                </editor>
             </titleStmt>
             <editionStmt>
                 <p>Proyecto Humboldt digital ProHD (<date>2022</date>)</p>
@@ -27,19 +29,26 @@
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>[Introducir datos]</institution>
-                        <collection>[Introducir datos, si fuera necesario]</collection>
+                        <institution>Biblioteca Jagellónica</institution>
+                        <collection>Legado Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">[Introducir datos]</idno>
-                            <idno type="uri">[Introducir datos]</idno>
+                            <idno type="shelfmark">Bd. 3/1 Bl. 1-179</idno>
+                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2868341</idno>
+                            <idno type="URLImages">https://jbc.bj.uj.edu.pl/dlibra/publication/367139/edition/350047</idno>
                         </idno>
                     </msIdentifier>
-                    <physDesc><p>[Introducir datos]</p></physDesc>
+                    <physDesc>
+                        <p>Manuscrito autógrafo en buen estado de conservación de seis páginas de extensión seguidas de dos páginas en blanco; dimensiones desconocidas.</p>
+                    </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <creation>[Introducir datos]</creation>
+            <creation>
+                <persName>Humboldt, Alexander von (1769-1859)</persName>
+                <date when="1804">1804</date>
+                <placeName key="https://www.geonames.org/3553478" cert="medium">La Habana</placeName>    
+            </creation>
             <langUsage>
                 <language ident="es">Español</language>
             </langUsage>
@@ -50,7 +59,13 @@
                 <p>[Introducir datos]</p>
             </abstract>
             <textClass>
-                <catRef></catRef>
+                <catRef scheme="#genre" target="#notebooks"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#subject" target="#climatology"/>
+                <catRef scheme="#subject" target="#coffee"/>
+                <catRef scheme="#subject" target="#economicconditions"/>
+                <catRef scheme="#subject" target="#plantations"/>
+                <catRef scheme="#subject" target="#slavery"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
@@ -91,7 +106,10 @@
     <text>
         <body>
             <div>
-                <p></p>
+                <p>
+                
+                
+                </p>
             </div>
         </body>
     </text>
