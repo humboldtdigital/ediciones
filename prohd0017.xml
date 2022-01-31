@@ -68,10 +68,10 @@
                 <catRef scheme="#genre" target="#notebooks"/>
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subject" target="#climatology"/>
-                <catRef scheme="#subject" target="#coffee"/>
                 <catRef scheme="#subject" target="#economicconditions"/>
                 <catRef scheme="#subject" target="#plantations"/>
                 <catRef scheme="#subject" target="#slavery"/>
+                <catRef scheme="#subject" target="#tobacco"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
@@ -100,6 +100,7 @@
                         <category xml:id="coffee"/>
                         <category xml:id="sugar"/>
                         <category xml:id="slavery"/>
+                        <category xml:id="tobacco"/>
                         <category xml:id="trade"/>
                         <category xml:id="emancipation"/>
                         <category xml:id="education"/>
@@ -113,11 +114,49 @@
         <body>
             <div>
                 <pb n="1"/>
-                <head>Havana 1o? de? Ab.l de 1804.<lb/>
-                <add place="left">ZZ</add> Factoria deTabacos <add place="right">ZZ</add></head>
-                <p>Esta que establecida año de 1769?, hasta<lb/> cuio tiempo lacompañia decomercio
-                    insta<lb/> lada enla? la Hav.a probehia de tabacos a las<lb/> fabricas de España
-                    por contratas celebradas<lb/> con la R.l? Hacienda.</p>
+                <head><choice>
+                        <orig>Havana</orig>
+                        <reg>Habana</reg>
+                    </choice> 10 de <choice>
+                        <abbr>Ab.l</abbr>
+                        <expan>abril</expan>
+                    </choice> de 1804.<lb/>
+                    <add place="left">ZZ</add>
+                    <choice>
+                        <orig>Factoria</orig>
+                        <reg>Factoría</reg>
+                    </choice>
+                    <choice>
+                        <orig>deTabacos</orig>
+                        <reg>de Tabacos</reg>
+                    </choice>
+                    <add place="right">ZZ</add></head>
+                <p>Esta fue establecida <supplied cert="high">en el </supplied> año de 1769, hasta<lb/>
+                    <choice>
+                        <orig>cuio</orig>
+                        <reg>cuyo</reg>
+                    </choice> tiempo <choice>
+                        <orig>lacompañia</orig>
+                        <reg>la compañía</reg>
+                    </choice>
+                    <choice>
+                        <orig>decomercio</orig>
+                        <reg>de comercio</reg>
+                    </choice> insta<lb break="no"/>lada <choice>
+                        <orig>enla</orig>
+                        <reg>en la</reg>
+                    </choice> la <choice>
+                        <orig>Hav.a</orig>
+                        <reg>Habana</reg>
+                    </choice>
+                    <choice>
+                        <orig>probehia</orig>
+                        <reg>proveía</reg>
+                    </choice> de tabacos a las<lb/> fabricas de España por contratas celebradas<lb/>
+                    con la <choice>
+                        <abbr>R.l</abbr>
+                        <expan>Real</expan>
+                    </choice> Hacienda.</p>
                 <p>Fijada la Fact.a, lo fueron tambien los<lb/> precios señalados altabaco. La
                     nomenclatu<lb/> ra desus clases, es impuesta por los labrado-<lb/> res deeste
                     fruto?, desde tiempo inmemorial,<lb/> y es diferente en cada uno de los catorce
