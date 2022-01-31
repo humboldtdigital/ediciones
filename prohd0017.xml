@@ -131,7 +131,7 @@
                         <reg>de Tabacos</reg>
                     </choice>
                     <add place="right">ZZ</add></head>
-                <p>Esta fue establecida <supplied cert="high">en el </supplied> año de 1769, hasta<lb/>
+                <p>Esta fue establecida <supplied cert="high">en el</supplied> año de 1769, hasta<lb/>
                     <choice>
                         <orig>cuio</orig>
                         <reg>cuyo</reg>
@@ -157,18 +157,113 @@
                         <abbr>R.l</abbr>
                         <expan>Real</expan>
                     </choice> Hacienda.</p>
-                <p>Fijada la Fact.a, lo fueron tambien los<lb/> precios señalados altabaco. La
-                    nomenclatu<lb/> ra desus clases, es impuesta por los labrado-<lb/> res deeste
-                    fruto?, desde tiempo inmemorial,<lb/> y es diferente en cada uno de los catorce
-                    Parti<lb/> dos? de la Isla donde secultiva , considerando<lb/> se por lo mismo
-                    noser deesencia su nombra-<lb/> miento, mucho mas sabiendose que virtu-<lb/>
-                    alm.te? no hay mas que tres clases eneltaba<lb/> co, yson suprema, mediana, e
-                    infima. El<lb/> precio delaprimera nobaja de seis p.r cada<lb/> arroba, el de la
-                    mediana tresym.o, y el<lb/> de la infima dos ymedio: demodo que recivi<lb/> das?
-                    las tres clases, puede decirse que paga<lb/> el Rey cada arroba deste fruto?
-                    asuscul-<lb/> tivadores al respecto de 4 p.r? f.r?, que es el de<lb/> 16. cada
-                    quintal, precio exorvitantisimo?<lb/> comparado con elquetiene enlas
-                        demas<lb/><pb n="2"/> Probincias delmundo, dondese cultiva ycose<lb/>
+                <p>Fijada la <choice>
+                        <abbr>Fact.a</abbr>
+                        <expan>factoría</expan>
+                    </choice>, lo fueron <choice>
+                        <orig>tambien</orig>
+                        <reg>también</reg>
+                    </choice> los<lb/> precios señalados <choice>
+                        <orig>altabaco</orig>
+                        <reg>al tabaco</reg>
+                    </choice>. La nomenclatu<lb/>ra <choice>
+                        <orig>desus</orig>
+                        <reg>de sus</reg>
+                    </choice> clases<choice>
+                        <sic>,</sic>
+                        <corr/>
+                    </choice> es impuesta por los labrado-<lb/>res <choice>
+                        <orig>deeste</orig>
+                        <reg>de este</reg>
+                    </choice> fruto, desde tiempo inmemorial,<lb/> y es diferente en cada uno de los
+                    catorce <unclear cert="high" reason="illegible">Parti<lb/>dos</unclear> de la
+                    Isla donde <choice>
+                        <orig>secultiva</orig>
+                        <reg>se cultiva</reg>
+                    </choice>, <choice>
+                        <orig>considerando<lb/>se</orig>
+                        <reg>considerándose</reg>
+                    </choice> por lo mismo <choice>
+                        <orig>noser</orig>
+                        <reg>no ser</reg>
+                    </choice>
+                    <choice>
+                        <orig>deesencia</orig>
+                        <reg>de esencia</reg>
+                    </choice> su nombra-<lb/>miento, mucho <choice>
+                        <orig>mas</orig>
+                        <reg>más</reg>
+                    </choice>
+                    <choice>
+                        <orig>sabiendose</orig>
+                        <reg>sabiéndose</reg>
+                    </choice> que <unclear reason="illegible" cert="high"><choice>
+                            <abbr>virtu-<lb/>alm.te</abbr>
+                            <expan>virtualmente</expan>
+                        </choice></unclear> no hay <choice>
+                        <orig>mas</orig>
+                        <reg>más</reg>
+                    </choice> que tres clases <choice>
+                        <orig>enel</orig>
+                        <reg>en el</reg>
+                    </choice> taba<lb/>co, y son suprema, mediana, e <choice>
+                        <orig>infima</orig>
+                        <reg>ínfima</reg>
+                    </choice>. El<lb/> precio <choice>
+                        <orig>delaprimera</orig>
+                        <reg>de la primera</reg>
+                    </choice>
+                    <choice>
+                        <orig>nobaja</orig>
+                        <reg>no baja</reg>
+                    </choice> de seis <choice>
+                        <abbr>p.r</abbr>
+                        <expan>por</expan>
+                    </choice> cada<lb/> arroba, el de la mediana <choice>
+                        <abbr>tresym.o</abbr>
+                        <expan>tres y medio</expan>
+                    </choice>, y el<lb/> de la <choice>
+                        <orig>infima</orig>
+                        <reg>ínfima</reg>
+                    </choice> dos <choice>
+                        <orig>ymedio</orig>
+                        <reg>y medio</reg>
+                    </choice>: <choice>
+                        <orig>demodo</orig>
+                        <reg>de modo</reg>
+                    </choice> que <choice>
+                        <orig>recivi<lb/>das</orig>
+                        <reg>recibidas</reg>
+                    </choice> las tres clases, puede decirse que paga<lb/> el Rey cada arroba <choice>
+                        <orig>deste</orig>
+                        <reg>de este</reg>
+                    </choice> fruto <choice>
+                        <orig>asus</orig>
+                        <reg>a sus</reg>
+                    </choice> cul-<lb/>tivadores al respecto de 4 <unclear cert="low"
+                        reason="illegible"><choice>
+                            <abbr>p.r</abbr>
+                            <expan>por</expan>
+                        </choice></unclear>
+                    <unclear reason="illegible" cert="low"><choice>
+                            <abbr>f.r</abbr>
+                            <expan>factoría</expan>
+                        </choice></unclear>, que es el de<lb/> 16. cada quintal, precio <unclear
+                        cert="high" reason="illegible"><choice>
+                            <orig>exorvitantisimo</orig>
+                            <reg>exorbitantísimo</reg>
+                        </choice></unclear><lb/> comparado con <choice>
+                        <orig>elquetiene</orig>
+                        <reg>el que tiene</reg>
+                    </choice>
+                    <choice>
+                        <orig>enlas</orig>
+                        <reg>en las</reg>
+                    </choice>
+                    <choice>
+                        <orig>demas</orig>
+                        <reg>demás</reg>
+                    </choice><lb/><pb n="2"/> Probincias delmundo, dondese cultiva ycose<lb/>
                     cha.</p>
                 <p>Manufacturas.</p>
                 <p>Cada libra de tavaco polvo delgado exqui<lb/> sito con color, o sinel, cuesta
