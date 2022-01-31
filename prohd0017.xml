@@ -34,11 +34,17 @@
                         <idno>
                             <idno type="shelfmark">Bd. 3/1 Bl. 1-179</idno>
                             <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2868341</idno>
-                            <idno type="URLImages">https://jbc.bj.uj.edu.pl/dlibra/publication/367139/edition/350047</idno>
+                            <idno type="URLImages"
+                                >https://jbc.bj.uj.edu.pl/dlibra/publication/367139/edition/350047</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Manuscrito autógrafo en buen estado de conservación de seis páginas de extensión seguidas de dos páginas en blanco; dimensiones desconocidas. Forma parte del documento conocido como "Umschlag mit den Materialien für die Statistik von Kuba [Werk]". Doble numeración: una paginación original en tinta; otra en moderna en lápiz que solo numera los folios (123-124).</p>
+                        <p>Manuscrito autógrafo en buen estado de conservación de seis páginas de
+                            extensión seguidas de dos páginas en blanco; dimensiones desconocidas.
+                            Forma parte del documento conocido como "Umschlag mit den Materialien
+                            für die Statistik von Kuba [Werk]". Doble numeración: una paginación
+                            original en tinta; otra en moderna en lápiz que solo numera los folios
+                            (123-124).</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -47,7 +53,7 @@
             <creation>
                 <persName>Humboldt, Alexander von (1769-1859)</persName>
                 <date when="1804">1804</date>
-                <placeName key="https://www.geonames.org/3553478" cert="medium">La Habana</placeName>    
+                <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
             <langUsage>
                 <language ident="es">Español</language>
@@ -106,8 +112,151 @@
     <text>
         <body>
             <div>
-            <pb n="1"/>
-                
+                <pb n="1"/>
+                <head>Havana 1o? de? Ab.l de 1804.<lb/>
+                <add place="left">ZZ</add> Factoria deTabacos <add place="right">ZZ</add></head>
+                <p>Esta que establecida año de 1769?, hasta<lb/> cuio tiempo lacompañia decomercio
+                    insta<lb/> lada enla? la Hav.a probehia de tabacos a las<lb/> fabricas de España
+                    por contratas celebradas<lb/> con la R.l? Hacienda.</p>
+                <p>Fijada la Fact.a, lo fueron tambien los<lb/> precios señalados altabaco. La
+                    nomenclatu<lb/> ra desus clases, es impuesta por los labrado-<lb/> res deeste
+                    fruto?, desde tiempo inmemorial,<lb/> y es diferente en cada uno de los catorce
+                    Parti<lb/> dos? de la Isla donde secultiva , considerando<lb/> se por lo mismo
+                    noser deesencia su nombra-<lb/> miento, mucho mas sabiendose que virtu-<lb/>
+                    alm.te? no hay mas que tres clases eneltaba<lb/> co, yson suprema, mediana, e
+                    infima. El<lb/> precio delaprimera nobaja de seis p.r cada<lb/> arroba, el de la
+                    mediana tresym.o, y el<lb/> de la infima dos ymedio: demodo que recivi<lb/> das?
+                    las tres clases, puede decirse que paga<lb/> el Rey cada arroba deste fruto?
+                    asuscul-<lb/> tivadores al respecto de 4 p.r? f.r?, que es el de<lb/> 16. cada
+                    quintal, precio exorvitantisimo?<lb/> comparado con elquetiene enlas
+                        demas<lb/><pb n="2"/> Probincias delmundo, dondese cultiva ycose<lb/>
+                    cha.</p>
+
+                <p>Manufacturas.</p>
+
+                <p>Cada libra de tavaco polvo delgado exqui<lb/> sito con color, o sinel, cuesta
+                    almenos en esta<lb/> Factoria arazon de tres ym.o rr.? plata fuerte?,<lb/> sin
+                    incluir elvalor del embase, por q.e este<lb/> varia segun su calidad
+                    ytamaños.</p>
+                <p>Al mismo precio vale cada libra deta<lb/> baco Rapé del que se fabrica enesta
+                    casa.</p>
+                <p>La libra depolvo suave que llaman<lb/> cucarachero delquese gasta por las
+                    mugeres<lb/> dela Provicincia de Sevilla encada año como<lb/> 12002? lib.s?,
+                    tiene decosto como real ymedio pla<lb/> ta fuerte?.</p>
+                <p>La libra de cigarros sale costando al<lb/> Rey, con inclusion del valor de los
+                    cajones de<lb/> su embase 6 rr.d plata fuerte.</p>
+
+                <p>Cosechas</p>
+
+                <p>Consistieron estas año comun tomado deun?<lb/> quinquenio, hasta elpasado de 1794
+                    enla<lb/> cantidad de 29002? arrobas, plus minus ve.? mas?<lb/> desde entonces
+                    comenzaron adecaer por con<lb/> trariedad enlas estaciones deltiempo porla<lb/>
+                    guerra, que todos los gremios altera enesta<lb/> Islao porel considerable
+                    incremento que<lb/><pb n="3"/> dentro delamisma epoca han tomado las<lb/>
+                    Haciendas de Café, que antes aqui nose co-<lb/> nocian, y las q fabrican Azucar,
+                    conmo<lb/> tibo dela insurrecion del Guaxiro?. A este<lb/> principio sesiguio?
+                    elefecto? dehaver tomado<lb/> las tierras un valor nunca esperado: siendo?<lb/>
+                    deaqui?, que como el cultibo? detabacos es<lb/> tan conocidam.te expuesto a
+                    malograrse,<lb/> con cuio motibo ha estado siempre entre<lb/> gente indigente,
+                    sin mas capital que el<lb/> desus brazos, no pudiendo sufragar el ?<lb/> cido? ?
+                    que exigeron los dueños de las men<lb/> cionadas tierras por su arriendo, ha
+                    desen?<lb/> tado? muchos labrad.s detabaco desta ocu<lb/> pacion, saltando alas
+                    de tumbadores de<lb/> monte, Arrieros, Porteadores deleña, tegeros<lb/>
+                    mayorales de las Haciendas nuebas, yotras<lb/> varias enq.e han encontrado
+                    supasar? me?<lb/> nos equiboco? que el del cultibo deltabaco.<lb/> Por esto es
+                    elaumento tan crecido que de<lb/> cuatro años aesta p.te se ha impuesto?
+                    ato-<lb/> das las clases, con el fin de llamarles algre<lb/> mio por medio de
+                    este interes, vedadero con<lb/> ductor del hombre. Aun asi noseha logrado<lb/>
+                    cosecha quemerezca el nombre depujante;<lb/> al contrario la del año pro.m?
+                    anterior de? 803.,<lb/> no llegó a 3800 arro.S; la del anterior<lb/><pb n="4"/>
+                    4 de 802?, ni a 60000?, haviendose quedado las dos<lb/> proximas precedentes
+                    enpoco mas de 10000? ca<lb/> da una, por la tierra? seca, qe hace muchos
+                    años<lb/> experimenta esta Ysla. Enel actual que ha<lb/> llobido con
+                    regularidad, segun las noticias<lb/> destasmias?, juzgo excedera de 150000?
+                    arrobas.<lb/></p>
+                <p>Para cubrir todas las atenciones, q.e<lb/> son a cargo desta fact.a, y tambien
+                    elenor<lb/> me consumo que del cigarro se hace en toda<lb/> la Ysla, nose
+                    necesita menos que de 350000?<lb/> arr.s en cada año, siendo bastante aora?
+                    diez?,<lb/> lacantidad de 250000? para tener provistos<lb/> todos los puntos
+                    aquienes surte?, excepto?<lb/> el consumo que se hace de veinte leguas?
+                    tie-<lb/> rra adentro desta capital, hasta Cuba in<lb/> clusive donde nunca seha
+                    establecido el<lb/> estanco?</p>
+
+                <p>Distribucion</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>Arr.s</cell>
+                    </row>
+                    <row>
+                        <cell>A España ciento v.te y ocho mil<lb/>arro.s en hoja y polvo.</cell>
+                        <cell>128.000</cell>
+                    </row>
+                    <row>
+                        <cell>A Mexico dos mil doscientas y quaren.ta id</cell>
+                        <cell>2240</cell>
+                    </row>
+                    <row>
+                        <cell>A Lima nuebe mil doscientas id</cell>
+                        <cell>9.200</cell>
+                    </row>
+                    <row>
+                        <cell>Panama seismil id</cell>
+                        <cell>6000</cell>
+                    </row>
+                    <row>
+                        <cell>Cartagena id</cell>
+                        <cell>6000</cell>
+                    </row>
+                    <row>
+                        <cell>A Buenos ayres tres mil id</cell>
+                        <cell>3.000</cell>
+                    </row>
+                    <row>
+                        <cell>Caracas y Campeche mil id</cell>
+                        <cell>1.000</cell>
+                    </row>
+                    <row>
+                        <cell>Consumo dela Hav.a ochentamil</cell>
+                        <cell>80000</cell>
+                    </row>
+                    <row>
+                        <cell>Considerase ig al consumo al resto de la<lb/>Ysla dondese surten al
+                            campo</cell>
+                        <cell>80000</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>315440</cell>
+                    </row>
+                </table>
+                <pb n="5"/>
+                <p>cuio total asciende a trescientas quince mil<lb/> quatroz.tas y quaren.ta arr.s
+                    sin contar con<lb/> la merma y aberias que sufre este gene<lb/> ro que pasa a un
+                    diez por ciento, y consu<lb/> agregacion se completa el num.or de las<lb/>
+                    350000 que quedan calculadas.</p>
+                <p>Sueldos q el Rey paga<lb/> a los empleados en este<lb/> establecim.</p>
+                <p>Asciende la Nomina de los empleados<lb/> de num.0 a la cantid.d. de 43.2000 y de
+                    los<lb/> Factorias? del interior de la Ysla a 10.900<lb/> que reunidas forman la
+                    cantidad de<lb/> 54100 p.es</p>
+                <p>La manuntencion de 120 Negros es-<lb/> clabos de la Fact.a, mulas? y otros
+                    gastos<lb/> menores enella importa la suma de<lb/> 12000 p.s annuales.</p>
+                <p>Notas.</p>
+                <p>1.ª El año quese remitan a España las<lb/> 128000? arr.s de tabaco en rama y
+                    polbo<lb/> y que alli se consuman, debe ascender a<lb/> su valor p.a el rey,
+                    segun los precios a q.e<lb/> enla Peninsula se vende, a cinco millo-<lb/> nes de
+                    p.s ? descontados fletes, averias<lb/><pb n="6"/> y gastos de elaboracion en
+                    aquel ?o.no?</p>
+                <p>2.ª No puede señalarse, ni aun conapro<lb/> ximacion el producto que el Rey
+                    saque<lb/> de las Fac.os? que esta Fact.a embia alas Ad.<lb/> ministrac.es
+                    deAmerica, porq.e se ignora<lb/> el precio aque en cada pasage deaque<lb/> llas
+                    Provincias sevende.</p>
+                <p>3.ª Las ochenta mil arr.as quese dicen<lb/> consume la Poblacion de la Hav.ª y
+                    sus<lb/> inmediaciones deja al Rey, deducidas<lb/> mermas y costos de venta
+                    lazenviadas? de?<lb/> un ? de utilidad, sin poder aspirar amas<lb/> por no
+                    excitar alcontrabando en un Pais?<lb/> donde hasta q.e la Poblacion aumente<lb/>
+                    algomas alDuplo delaqese numera<lb/> persuade la rama? politica aquese<lb/>
+                    contemple, y aun alague a la exis-<lb/> tente.</p>
             </div>
         </body>
     </text>
