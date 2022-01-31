@@ -38,7 +38,7 @@
                         </idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Manuscrito autógrafo en buen estado de conservación de seis páginas de extensión seguidas de dos páginas en blanco; dimensiones desconocidas.</p>
+                        <p>Manuscrito autógrafo en buen estado de conservación de seis páginas de extensión seguidas de dos páginas en blanco; dimensiones desconocidas. Forma parte del documento conocido como "Umschlag mit den Materialien für die Statistik von Kuba [Werk]". Doble numeración: una paginación original en tinta; otra en moderna en lápiz que solo numera los folios (123-124).</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -106,10 +106,8 @@
     <text>
         <body>
             <div>
-                <p>
+            <pb n="1"/>
                 
-                
-                </p>
             </div>
         </body>
     </text>
