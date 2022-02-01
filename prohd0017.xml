@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_prohd00017">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd00017">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -263,20 +263,110 @@
                     <choice>
                         <orig>demas</orig>
                         <reg>demás</reg>
-                    </choice><lb/><pb n="2"/> Probincias delmundo, dondese cultiva ycose<lb/>
-                    cha.</p>
-                <p>Manufacturas.</p>
-                <p>Cada libra de tavaco polvo delgado exqui<lb/> sito con color, o sinel, cuesta
-                    almenos en esta<lb/> Factoria arazon de tres ym.o rr.? plata fuerte?,<lb/> sin
-                    incluir elvalor del embase, por q.e este<lb/> varia segun su calidad
-                    ytamaños.</p>
-                <p>Al mismo precio vale cada libra deta<lb/> baco Rapé del que se fabrica enesta
-                    casa.</p>
-                <p>La libra depolvo suave que llaman<lb/> cucarachero delquese gasta por las
-                    mugeres<lb/> dela Provicincia de Sevilla encada año como<lb/> 12002? lib.s?,
-                    tiene decosto como real ymedio pla<lb/> ta fuerte?.</p>
-                <p>La libra de cigarros sale costando al<lb/> Rey, con inclusion del valor de los
-                    cajones de<lb/> su embase 6 rr.d plata fuerte.</p>
+                    </choice><lb/><pb n="2"/>
+                    <choice>
+                        <orig>Probincias</orig>
+                        <reg>provincias</reg>
+                    </choice>
+                    <choice>
+                        <orig>delmundo</orig>
+                        <reg>de el mundo</reg>
+                    </choice>, <choice>
+                        <orig>dondese</orig>
+                        <reg>donde se</reg>
+                    </choice> cultiva y cose<lb/>cha.</p>
+                <p>Manufacturas<choice>
+                        <orig>.</orig>
+                        <reg/>
+                    </choice></p>
+                <p>Cada libra de <choice>
+                        <orig>tavaco</orig>
+                        <reg>tabaco</reg>
+                    </choice> polvo delgado exqui<lb/>sito con color, o <choice>
+                        <orig>sinel</orig>
+                        <reg>sin él</reg>
+                    </choice>, cuesta <choice>
+                        <orig>alRey</orig>
+                        <reg>al Rey</reg>
+                    </choice> en esta<lb/>
+                    <choice>
+                        <orig>Factoria</orig>
+                        <reg>factoría</reg>
+                    </choice>
+                    <choice>
+                        <orig>arazon</orig>
+                        <reg>a razón</reg>
+                    </choice> de tres <choice>
+                        <orig>ym.o</orig>
+                        <reg>y medio</reg>
+                    </choice>
+                    <choice>
+                        <abbr>rr.d</abbr>
+                        <expan>arrobas de</expan>
+                    </choice> plata fuerte,<lb/> sin incluir <choice>
+                        <orig>elvalor</orig>
+                        <reg>el valor</reg>
+                    </choice> del <choice>
+                        <orig>embase</orig>
+                        <reg>envase</reg>
+                    </choice>, <choice>
+                        <abbr>por q.e</abbr>
+                        <expan>porque</expan>
+                    </choice> este<lb/>
+                    <choice>
+                        <orig>varia</orig>
+                        <reg>varía</reg>
+                    </choice>
+                    <choice>
+                        <orig>segun</orig>
+                        <reg>según</reg>
+                    </choice> su calidad <choice>
+                        <orig>ytamaños</orig>
+                        <reg>y tamaños</reg>
+                    </choice>.</p>
+                <p>Al mismo precio sale cada libra de ta<lb/>baco <choice>
+                        <orig>Rapé</orig>
+                        <reg>rapé</reg>
+                    </choice> del que se fabrica <choice>
+                        <orig>enesta</orig>
+                        <reg>en esta</reg>
+                    </choice> casa.</p>
+                <p>La libra <choice>
+                        <orig>depolvo</orig>
+                        <reg>de polvo</reg>
+                    </choice> suave que llaman<lb/> cucarachero <choice>
+                        <orig>delquese</orig>
+                        <reg>del que se</reg>
+                    </choice> gasta por las <choice>
+                        <orig>mugeres</orig>
+                        <reg>mujeres</reg>
+                    </choice><lb/>
+                    <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice> Provicincia de Sevilla <choice>
+                        <orig>encada</orig>
+                        <reg>en cada</reg>
+                    </choice> año como<lb/>
+                    <unclear cert="high" reason="illegible">12002</unclear>
+                    <choice>
+                        <abbr>lib.s</abbr>
+                        <expan>libras</expan>
+                    </choice>, tiene decosto como real <choice>
+                        <orig>ymedio</orig>
+                        <reg>y medio</reg>
+                    </choice>
+                    <supplied cert="low">de</supplied> pla<lb/>ta fuerte.</p>
+                <p>La libra de cigarros sale costando al<lb/> Rey, con <choice>
+                        <orig>inclusion</orig>
+                        <reg>inclusión</reg>
+                    </choice> del valor de los cajones de<lb/> su <choice>
+                        <orig>embase</orig>
+                        <reg>envase</reg>
+                    </choice> 6 <choice>
+                        <orig>rr.d</orig>
+                        <reg>arrobas de</reg>
+                    </choice> plata fuerte.</p>
                 <p>Cosechas</p>
                 <p>Consistieron estas año comun tomado deun?<lb/> quinquenio, hasta elpasado de 1794
                     enla<lb/> cantidad de 29002? arrobas, plus minus ve.? mas?<lb/> desde entonces
