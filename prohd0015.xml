@@ -539,7 +539,7 @@
                         <reg>1804</reg>
                     </choice> están<supplied cert="high">,</supplied> desde entonces<supplied cert="high">,</supplied>
                     <choice>
-                        <orig>ex<add place="superlinear">c</add>en <lb/>tos</orig>
+                        <orig>ex<add place="superlinear">c</add>en<lb/>tos</orig>
                         <reg>exentos</reg>
                     </choice> de diezmos<supplied cert="high">,</supplied> y los Ingenios
                         viejos<supplied cert="high">,</supplied> que han quedado con esa pen
@@ -808,7 +808,7 @@
                             <abbr>caballer.s</abbr>
                             <expan>caballerías</expan>
                         </choice></measure> de caña, y no más.<choice>
-                        <orig> ___ ___ ___ <lb/>___ </orig>
+                        <orig>___ ___ ___<lb/>___</orig>
                         <reg> </reg>
                     </choice>Aún en los Ingenios viejos, hay pedazos de tierra <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
