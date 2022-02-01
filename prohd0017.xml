@@ -368,32 +368,114 @@
                         <reg>arrobas de</reg>
                     </choice> plata fuerte.</p>
                 <p>Cosechas</p>
-                <p>Consistieron estas año comun tomado deun?<lb/> quinquenio, hasta elpasado de 1794
-                    enla<lb/> cantidad de 29002? arrobas, plus minus ve.? mas?<lb/> desde entonces
-                    comenzaron adecaer por con<lb/> trariedad enlas estaciones deltiempo porla<lb/>
-                    guerra, que todos los gremios altera enesta<lb/> Islao porel considerable
-                    incremento que<lb/><pb n="3"/> dentro delamisma epoca han tomado las<lb/>
-                    Haciendas de Café, que antes aqui nose co-<lb/> nocian, y las q fabrican Azucar,
-                    conmo<lb/> tibo dela insurrecion del Guaxiro?. A este<lb/> principio sesiguio?
-                    elefecto? dehaver tomado<lb/> las tierras un valor nunca esperado: siendo?<lb/>
-                    deaqui?, que como el cultibo? detabacos es<lb/> tan conocidam.te expuesto a
-                    malograrse,<lb/> con cuio motibo ha estado siempre entre<lb/> gente indigente,
-                    sin mas capital que el<lb/> desus brazos, no pudiendo sufragar el ?<lb/> cido? ?
-                    que exigeron los dueños de las men<lb/> cionadas tierras por su arriendo, ha
-                    desen?<lb/> tado? muchos labrad.s detabaco desta ocu<lb/> pacion, saltando alas
-                    de tumbadores de<lb/> monte, Arrieros, Porteadores deleña, tegeros<lb/>
-                    mayorales de las Haciendas nuebas, yotras<lb/> varias enq.e han encontrado
-                    supasar? me?<lb/> nos equiboco? que el del cultibo deltabaco.<lb/> Por esto es
-                    elaumento tan crecido que de<lb/> cuatro años aesta p.te se ha impuesto?
-                    ato-<lb/> das las clases, con el fin de llamarles algre<lb/> mio por medio de
-                    este interes, vedadero con<lb/> ductor del hombre. Aun asi noseha logrado<lb/>
-                    cosecha quemerezca el nombre depujante;<lb/> al contrario la del año pro.m?
-                    anterior de? 803.,<lb/> no llegó a 3800 arro.S; la del anterior<lb/><pb n="4"/>
-                    4 de 802?, ni a 60000?, haviendose quedado las dos<lb/> proximas precedentes
-                    enpoco mas de 10000? ca<lb/> da una, por la tierra? seca, qe hace muchos
-                    años<lb/> experimenta esta Ysla. Enel actual que ha<lb/> llobido con
-                    regularidad, segun las noticias<lb/> destasmias?, juzgo excedera de 150000?
-                    arrobas.<lb/></p>
+                <p>Consistieron estas año <choice>
+                        <orig>comun</orig>
+                        <reg>común</reg>
+                    </choice> tomado <choice>
+                        <orig>deun</orig>
+                        <reg>de un</reg>
+                    </choice><lb/> quinquenio, hasta <choice>
+                        <orig>elpasado</orig>
+                        <reg>el pasado</reg>
+                    </choice> de 1794 <choice>
+                        <orig>enla</orig>
+                        <reg>en la</reg>
+                    </choice><lb/> cantidad de <unclear cert="high" reason="illegible"
+                        >29000</unclear> arrobas, <foreign xml:lang="la">plus minus</foreign>
+                    <unclear reason="illegible" cert="low">ve.</unclear> mas<lb/> desde entonces
+                    comenzaron <choice>
+                        <orig>adecaer</orig>
+                        <reg>a decaer</reg>
+                    </choice> por con<lb/>trariedad <choice>
+                        <orig>enlas</orig>
+                        <reg>en las</reg>
+                    </choice> estaciones <choice>
+                        <orig>deltiempo</orig>
+                        <reg>del tiempo</reg>
+                    </choice><choice>
+                        <sic/>
+                        <corr type="high">,</corr>
+                    </choice>
+                    <choice>
+                        <orig>porla</orig>
+                        <reg>por la</reg>
+                    </choice><lb/> guerra, que todos los gremios altera <choice>
+                        <orig>enesta</orig>
+                        <reg>en esta</reg>
+                    </choice><lb/> Isla<choice>
+                        <sic/>
+                        <corr type="high">,</corr>
+                    </choice>
+                    <choice>
+                        <orig>porel</orig>
+                        <reg>por el</reg>
+                    </choice> considerable incremento que<lb/><pb n="3"/> dentro <choice>
+                        <orig>delamisma</orig>
+                        <reg>de la misma</reg>
+                    </choice>
+                    <choice>
+                        <orig>epoca</orig>
+                        <reg>época</reg>
+                    </choice> han tomado las<lb/> Haciendas de Café, que antes <choice>
+                        <orig>aqui</orig>
+                        <reg>aquí</reg>
+                    </choice>
+                    <choice>
+                        <orig>nose</orig>
+                        <reg>no se</reg>
+                    </choice>
+                    <choice>
+                        <orig>co-<lb/>nocian</orig>
+                        <reg>conocían</reg>
+                    </choice>, y las <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> fabrican <choice>
+                        <orig>Azucar</orig>
+                        <reg>azúcar</reg>
+                    </choice>, <choice>
+                        <orig>conmo<lb/>tibo</orig>
+                        <reg>con motivo</reg>
+                    </choice>
+                    <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice>
+                    <choice>
+                        <orig>insurrecion</orig>
+                        <reg>insurrección</reg>
+                    </choice> del <unclear reason="illegible" cert="high"><choice>
+                            <orig>Guaxiro</orig>
+                            <reg>Guajiro</reg>
+                        </choice></unclear>. A este<lb/> principio <choice>
+                        <orig>sesiguio</orig>
+                        <reg>se siguió</reg>
+                    </choice>
+                    <choice>
+                        <orig>elefecto</orig>
+                        <reg>el efecto</reg>
+                    </choice> de <choice>
+                        <orig>haver</orig>
+                        <reg>haber</reg>
+                    </choice> tomado<lb/> las tierras un valor nunca esperado: <unclear cert="high"
+                        reason="illegible">siendo</unclear><lb/> deaqui?, que como el cultibo?
+                    detabacos es<lb/> tan conocidam.te expuesto a malograrse,<lb/> con cuio motibo
+                    ha estado siempre entre<lb/> gente indigente, sin mas capital que el<lb/> desus
+                    brazos, no pudiendo sufragar el ?<lb/> cido? ? que exigeron los dueños de las
+                    men<lb/> cionadas tierras por su arriendo, ha desen?<lb/> tado? muchos labrad.s
+                    detabaco desta ocu<lb/> pacion, saltando alas de tumbadores de<lb/> monte,
+                    Arrieros, Porteadores deleña, tegeros<lb/> mayorales de las Haciendas nuebas,
+                    yotras<lb/> varias enq.e han encontrado supasar? me?<lb/> nos equiboco? que el
+                    del cultibo deltabaco.<lb/> Por esto es elaumento tan crecido que de<lb/> cuatro
+                    años aesta p.te se ha impuesto? ato-<lb/> das las clases, con el fin de
+                    llamarles algre<lb/> mio por medio de este interes, vedadero con<lb/> ductor del
+                    hombre. Aun asi noseha logrado<lb/> cosecha quemerezca el nombre depujante;<lb/>
+                    al contrario la del año pro.m? anterior de? 803.,<lb/> no llegó a 3800 arro.S;
+                    la del anterior<lb/><pb n="4"/> 4 de 802?, ni a 60000?, haviendose quedado las
+                    dos<lb/> proximas precedentes enpoco mas de 10000? ca<lb/> da una, por la
+                    tierra? seca, qe hace muchos años<lb/> experimenta esta Ysla. Enel actual que
+                    ha<lb/> llobido con regularidad, segun las noticias<lb/> destasmias?, juzgo
+                    excedera de 150000? arrobas.<lb/></p>
                 <p>Para cubrir todas las atenciones, q.e<lb/> son a cargo desta fact.a, y tambien
                     elenor<lb/> me consumo que del cigarro se hace en toda<lb/> la Ysla, nose
                     necesita menos que de 350000?<lb/> arr.s en cada año, siendo bastante aora?
