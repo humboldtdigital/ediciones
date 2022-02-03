@@ -67,6 +67,7 @@
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subject" target="#climatology"/>
                 <catRef scheme="#subject" target="#economicconditions"/>
+                <!-- Mejor factories, en lugar de plantations-->
                 <catRef scheme="#subject" target="#plantations"/>
                 <catRef scheme="#subject" target="#slavery"/>
                 <catRef scheme="#subject" target="#tobacco"/>
