@@ -34,8 +34,7 @@
                         <idno>
                             <idno type="shelfmark">Bd. 3/1 Bl. 1-179</idno>
                             <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2868341</idno>
-                            <idno type="URLImages"
-                                >https://jbc.bj.uj.edu.pl/dlibra/publication/367139/edition/350047</idno>
+                            <idno type="URLImages">https://jbc.bj.uj.edu.pl/dlibra/publication/367139/edition/350047</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
@@ -244,8 +243,7 @@
                     </choice> fruto <choice>
                         <orig>asus</orig>
                         <reg>a sus</reg>
-                    </choice> cul<lb break="no"/>tivadores al respecto de 4 <unclear cert="low"
-                        reason="illegible">
+                    </choice> cul<lb break="no"/>tivadores al respecto de 4 <unclear cert="low" reason="illegible">
                         <choice>
                             <abbr>p.r</abbr>
                             <expan>por</expan>
@@ -256,8 +254,7 @@
                             <abbr>f.r</abbr>
                             <expan>factoría</expan>
                         </choice>
-                    </unclear>, que es el de<lb/> 16. cada quintal, precio <unclear cert="high"
-                        reason="illegible">
+                    </unclear>, que es el de<lb/> 16. cada quintal, precio <unclear cert="high" reason="illegible">
                         <choice>
                             <orig>exorvitantisimo</orig>
                             <reg>exorbitantísimo</reg>
@@ -480,13 +477,22 @@
                     </choice> de <choice>
                         <orig>haver</orig>
                         <reg>haber</reg>
-                    </choice> tomado<lb/> las tierras un valor nunca esperado: <unclear cert="high"
-                        reason="illegible">siendo</unclear>
+                    </choice> tomado<lb/> las tierras un valor nunca esperado: <unclear cert="high" reason="illegible">siendo</unclear>
                     <lb/>
                     <choice>
                         <orig>deaqui</orig>
                         <reg>de aquí</reg>
-                    </choice>, que como el cultibo? detabacos es<lb/> tan conocidam.te expuesto a
+                    </choice>, que como el <choice>
+                        <orig>cultibo</orig>
+                        <reg>cultivo</reg>
+                    </choice>
+                    <choice>
+                        <orig>detabacos</orig>
+                        <reg>de tabacos</reg>
+                    </choice> es<lb/> tan <choice>
+                        <abbr>conocidam.te</abbr>
+                        <expan>conocidamente</expan>
+                    </choice> expuesto a
                     malograrse,<lb/> con cuio motibo ha estado siempre entre<lb/> gente indigente,
                     sin mas capital que el<lb/> desus brazos, no pudiendo sufragar el ?<lb/> cido? ?
                     que exigeron los dueños de las men<lb/> cionadas tierras por su arriendo, ha
