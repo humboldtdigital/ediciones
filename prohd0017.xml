@@ -39,19 +39,19 @@
                         </idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Manuscrito autógrafo en buen estado de conservación de seis páginas de
-                            extensión seguidas de dos páginas en blanco; dimensiones desconocidas.
-                            Forma parte del documento conocido como "Umschlag mit den Materialien
-                            für die Statistik von Kuba [Werk]". Doble numeración: una paginación
-                            original en tinta; otra moderna en lápiz que solo numera los folios
-                            (123-124).</p>
+                        <p>Manuscrito autógrafo de autor desconocido, en buen estado de conservación y de seis páginas de
+                            extensión, seguidas por dos páginas en blanco; dimensiones también desconocidas.
+                            Forma parte del documento conocido como &quot;Umschlag mit den
+                            Materialien für die Statistik von Kuba [Werk]&quot;. Doble numeración:
+                            una paginación original en tinta; otra moderna en lápiz que solo numera
+                            los folios (123-124).</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <creation>
-                <persName>Humboldt, Alexander von (1769-1859)</persName>
+                <persName>Desconocido</persName>
                 <date when="1804-04-10">10 de abril de 1804</date>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
@@ -114,7 +114,8 @@
         <body>
             <div>
                 <pb n="1"/>
-                <p><choice>
+                <p>
+                    <choice>
                         <orig>Havana</orig>
                         <reg>Habana</reg>
                     </choice> 10 de <choice>
@@ -130,7 +131,8 @@
                         <orig>deTabacos</orig>
                         <reg>de Tabacos</reg>
                     </choice>
-                    <add place="right">ZZ</add></p>
+                    <add place="right">ZZ</add>
+                </p>
                 <p>Esta fue establecida <supplied cert="high">en el</supplied> año de 1769, hasta<lb/>
                     <choice>
                         <orig>cuio</orig>
@@ -197,10 +199,12 @@
                     <choice>
                         <orig>sabiendose</orig>
                         <reg>sabiéndose</reg>
-                    </choice> que <unclear reason="illegible" cert="high"><choice>
+                    </choice> que <unclear reason="illegible" cert="high">
+                        <choice>
                             <abbr>virtu-<lb/>alm.te</abbr>
                             <expan>virtualmente</expan>
-                        </choice></unclear> no hay <choice>
+                        </choice>
+                    </unclear> no hay <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
                     </choice> que tres clases <choice>
@@ -241,18 +245,25 @@
                         <orig>asus</orig>
                         <reg>a sus</reg>
                     </choice> cul<lb break="no"/>tivadores al respecto de 4 <unclear cert="low"
-                        reason="illegible"><choice>
+                        reason="illegible">
+                        <choice>
                             <abbr>p.r</abbr>
                             <expan>por</expan>
-                        </choice></unclear>
-                    <unclear reason="illegible" cert="low"><choice>
+                        </choice>
+                    </unclear>
+                    <unclear reason="illegible" cert="low">
+                        <choice>
                             <abbr>f.r</abbr>
                             <expan>factoría</expan>
-                        </choice></unclear>, que es el de<lb/> 16. cada quintal, precio <unclear
-                        cert="high" reason="illegible"><choice>
+                        </choice>
+                    </unclear>, que es el de<lb/> 16. cada quintal, precio <unclear cert="high"
+                        reason="illegible">
+                        <choice>
                             <orig>exorvitantisimo</orig>
                             <reg>exorbitantísimo</reg>
-                        </choice></unclear><lb/> comparado con <choice>
+                        </choice>
+                    </unclear>
+                    <lb/> comparado con <choice>
                         <orig>elquetiene</orig>
                         <reg>el que tiene</reg>
                     </choice>
@@ -263,7 +274,9 @@
                     <choice>
                         <orig>demas</orig>
                         <reg>demás</reg>
-                    </choice><lb/><pb n="2"/>
+                    </choice>
+                    <lb/>
+                    <pb n="2"/>
                     <choice>
                         <orig>Probincias</orig>
                         <reg>provincias</reg>
@@ -278,7 +291,8 @@
                 <p>Manufacturas<choice>
                         <orig>.</orig>
                         <reg/>
-                    </choice></p>
+                    </choice>
+                </p>
                 <p>Cada libra de <choice>
                         <orig>tavaco</orig>
                         <reg>tabaco</reg>
@@ -340,7 +354,8 @@
                     </choice> gasta por las <choice>
                         <orig>mugeres</orig>
                         <reg>mujeres</reg>
-                    </choice><lb/>
+                    </choice>
+                    <lb/>
                     <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
@@ -374,14 +389,16 @@
                     </choice> tomado <choice>
                         <orig>deun</orig>
                         <reg>de un</reg>
-                    </choice><lb/> quinquenio, hasta <choice>
+                    </choice>
+                    <lb/> quinquenio, hasta <choice>
                         <orig>elpasado</orig>
                         <reg>el pasado</reg>
                     </choice> de 1794 <choice>
                         <orig>enla</orig>
                         <reg>en la</reg>
-                    </choice><lb/> cantidad de <unclear cert="high" reason="illegible"
-                        >29000</unclear> arrobas, <foreign xml:lang="la">plus minus</foreign>
+                    </choice>
+                    <lb/> cantidad de <unclear cert="high" reason="illegible">29000</unclear>
+                    arrobas, <foreign xml:lang="la">plus minus</foreign>
                     <unclear reason="illegible" cert="low">ve.</unclear> mas<lb/> desde entonces
                     comenzaron <choice>
                         <orig>adecaer</orig>
@@ -392,24 +409,28 @@
                     </choice> estaciones <choice>
                         <orig>deltiempo</orig>
                         <reg>del tiempo</reg>
-                    </choice><choice>
+                    </choice>
+                    <choice>
                         <sic/>
                         <corr type="high">,</corr>
                     </choice>
                     <choice>
                         <orig>porla</orig>
                         <reg>por la</reg>
-                    </choice><lb/> guerra, que todos los gremios altera <choice>
+                    </choice>
+                    <lb/> guerra, que todos los gremios altera <choice>
                         <orig>enesta</orig>
                         <reg>en esta</reg>
-                    </choice><lb/> Isla<choice>
+                    </choice>
+                    <lb/> Isla<choice>
                         <sic/>
                         <corr type="high">,</corr>
                     </choice>
                     <choice>
                         <orig>porel</orig>
                         <reg>por el</reg>
-                    </choice> considerable incremento que<lb/><pb n="3"/> dentro <choice>
+                    </choice> considerable incremento que<lb/>
+                    <pb n="3"/> dentro <choice>
                         <orig>delamisma</orig>
                         <reg>de la misma</reg>
                     </choice>
@@ -444,10 +465,12 @@
                     <choice>
                         <orig>insurrecion</orig>
                         <reg>insurrección</reg>
-                    </choice> del <unclear reason="illegible" cert="high"><choice>
+                    </choice> del <unclear reason="illegible" cert="high">
+                        <choice>
                             <orig>Guaxiro</orig>
                             <reg>Guajiro</reg>
-                        </choice></unclear>. A este<lb/> principio <choice>
+                        </choice>
+                    </unclear>. A este<lb/> principio <choice>
                         <orig>sesiguio</orig>
                         <reg>se siguió</reg>
                     </choice>
@@ -458,24 +481,30 @@
                         <orig>haver</orig>
                         <reg>haber</reg>
                     </choice> tomado<lb/> las tierras un valor nunca esperado: <unclear cert="high"
-                        reason="illegible">siendo</unclear><lb/> deaqui?, que como el cultibo?
-                    detabacos es<lb/> tan conocidam.te expuesto a malograrse,<lb/> con cuio motibo
-                    ha estado siempre entre<lb/> gente indigente, sin mas capital que el<lb/> desus
-                    brazos, no pudiendo sufragar el ?<lb/> cido? ? que exigeron los dueños de las
-                    men<lb/> cionadas tierras por su arriendo, ha desen?<lb/> tado? muchos labrad.s
-                    detabaco desta ocu<lb/> pacion, saltando alas de tumbadores de<lb/> monte,
-                    Arrieros, Porteadores deleña, tegeros<lb/> mayorales de las Haciendas nuebas,
-                    yotras<lb/> varias enq.e han encontrado supasar? me?<lb/> nos equiboco? que el
-                    del cultibo deltabaco.<lb/> Por esto es elaumento tan crecido que de<lb/> cuatro
-                    años aesta p.te se ha impuesto? ato-<lb/> das las clases, con el fin de
-                    llamarles algre<lb/> mio por medio de este interes, vedadero con<lb/> ductor del
-                    hombre. Aun asi noseha logrado<lb/> cosecha quemerezca el nombre depujante;<lb/>
-                    al contrario la del año pro.m? anterior de? 803.,<lb/> no llegó a 3800 arro.S;
-                    la del anterior<lb/><pb n="4"/> 4 de 802?, ni a 60000?, haviendose quedado las
-                    dos<lb/> proximas precedentes enpoco mas de 10000? ca<lb/> da una, por la
-                    tierra? seca, qe hace muchos años<lb/> experimenta esta Ysla. Enel actual que
-                    ha<lb/> llobido con regularidad, segun las noticias<lb/> destasmias?, juzgo
-                    excedera de 150000? arrobas.<lb/></p>
+                        reason="illegible">siendo</unclear>
+                    <lb/>
+                    <choice>
+                        <orig>deaqui</orig>
+                        <reg>de aquí</reg>
+                    </choice>, que como el cultibo? detabacos es<lb/> tan conocidam.te expuesto a
+                    malograrse,<lb/> con cuio motibo ha estado siempre entre<lb/> gente indigente,
+                    sin mas capital que el<lb/> desus brazos, no pudiendo sufragar el ?<lb/> cido? ?
+                    que exigeron los dueños de las men<lb/> cionadas tierras por su arriendo, ha
+                    desen?<lb/> tado? muchos labrad.s detabaco desta ocu<lb/> pacion, saltando alas
+                    de tumbadores de<lb/> monte, Arrieros, Porteadores deleña, tegeros<lb/>
+                    mayorales de las Haciendas nuebas, yotras<lb/> varias enq.e han encontrado
+                    supasar? me?<lb/> nos equiboco? que el del cultibo deltabaco.<lb/> Por esto es
+                    elaumento tan crecido que de<lb/> cuatro años aesta p.te se ha impuesto?
+                    ato-<lb/> das las clases, con el fin de llamarles algre<lb/> mio por medio de
+                    este interes, vedadero con<lb/> ductor del hombre. Aun asi noseha logrado<lb/>
+                    cosecha quemerezca el nombre depujante;<lb/> al contrario la del año pro.m?
+                    anterior de? 803.,<lb/> no llegó a 3800 arro.S; la del anterior<lb/>
+                    <pb n="4"/> 4 de 802?, ni a 60000?, haviendose quedado las dos<lb/> proximas
+                    precedentes enpoco mas de 10000? ca<lb/> da una, por la tierra? seca, qe hace
+                    muchos años<lb/> experimenta esta Ysla. Enel actual que ha<lb/> llobido con
+                    regularidad, segun las noticias<lb/> destasmias?, juzgo excedera de 150000?
+                    arrobas.<lb/>
+                </p>
                 <p>Para cubrir todas las atenciones, q.e<lb/> son a cargo desta fact.a, y tambien
                     elenor<lb/> me consumo que del cigarro se hace en toda<lb/> la Ysla, nose
                     necesita menos que de 350000?<lb/> arr.s en cada año, siendo bastante aora?
@@ -546,8 +575,8 @@
                 <p>1.ª El año quese remitan a España las<lb/> 128000? arr.s de tabaco en rama y
                     polbo<lb/> y que alli se consuman, debe ascender a<lb/> su valor p.a el rey,
                     segun los precios a q.e<lb/> enla Peninsula se vende, a cinco millo-<lb/> nes de
-                    p.s ? descontados fletes, averias<lb/><pb n="6"/> y gastos de elaboracion en
-                    aquel ?o.no?</p>
+                    p.s ? descontados fletes, averias<lb/>
+                    <pb n="6"/> y gastos de elaboracion en aquel ?o.no?</p>
                 <p>2.ª No puede señalarse, ni aun conapro<lb/> ximacion el producto que el Rey
                     saque<lb/> de las Fac.os? que esta Fact.a embia alas Ad.<lb/> ministrac.es
                     deAmerica, porq.e se ignora<lb/> el precio aque en cada pasage deaque<lb/> llas
