@@ -120,7 +120,7 @@
                         <abbr>Ab.l</abbr>
                         <expan>abril</expan>
                     </choice> de 1804.<lb/>
-                    <add place="left">ZZ</add>
+                    <add place="left" hand="#H0012069">ZZ</add>
                     <choice>
                         <orig>Factoria</orig>
                         <reg>Factoría</reg>
@@ -129,7 +129,7 @@
                         <orig>deTabacos</orig>
                         <reg>de Tabacos</reg>
                     </choice>
-                    <add place="right">ZZ</add>
+                    <add place="right" hand="#H0012069">ZZ</add>
                 </p>
                 <p>Esta fue establecida <supplied cert="high">en el</supplied> año de 1769, hasta<lb/>
                     <choice>
@@ -676,61 +676,127 @@
                     tie-<lb/>rra adentro <choice>
                         <orig>desta</orig>
                         <reg>de esta</reg>
-                    </choice> capital, hasta Cuba in<lb/>clusive donde nunca <hi rendition="#u" hand="#H0012069"><choice>
-                        <orig>seha</orig>
-                        <reg>se ha</reg>
-                    </choice>
+                    </choice> capital, hasta Cuba in<lb/>clusive donde nunca <hi rendition="#u" hand="#H0012069">
+                        <choice>
+                            <orig>seha</orig>
+                            <reg>se ha</reg>
+                        </choice>
                     establecido el<lb/> estanco</hi>.</p>
-                <p>Distribucion</p>
+                <p>
+                    <choice>
+                        <orig>Distribucion</orig>
+                        <reg>Distribución</reg>
+                    </choice>
+                </p>
                 <table>
                     <row role="label">
                         <cell/>
-                        <cell>Arr.s</cell>
+                        <cell>
+                            <choice>
+                                <orig>Arr.s</orig>
+                                <reg>Arrobas</reg>
+                            </choice>
+                        </cell>
                     </row>
                     <row>
-                        <cell>A España ciento v.te y ocho mil<lb/>arro.s en hoja y polvo.</cell>
+                        <cell>A España ciento <choice>
+                                <abbr>v.te</abbr>
+                                <expan>veinte</expan>
+                            </choice> y ocho mil<lb/>
+                            <choice>
+                                <abbr>arro.s</abbr>
+                                <expan>arrobas</expan>
+                            </choice> en hoja y polvo.</cell>
                         <cell>128.000</cell>
                     </row>
                     <row>
-                        <cell>A Mexico dos mil doscientas y quaren.ta id</cell>
-                        <cell>2240</cell>
+                        <cell>A <choice>
+                                <orig>Mexico</orig>
+                                <reg>México</reg>
+                            </choice> dos mil doscientas y <choice>
+                                <abbr>quaren.ta</abbr>
+                                <expan>cuarenta</expan>
+                            </choice>
+                            <choice>
+                                <orig>id</orig>
+                                <reg>ídem</reg>
+                            </choice>
+                        </cell>
+                        <cell>2.240</cell>
                     </row>
                     <row>
-                        <cell>A Lima nuebe mil doscientas id</cell>
+                        <cell>A Lima <choice>
+                                <orig>nuebe</orig>
+                                <reg>nueve</reg>
+                            </choice> mil doscientas <choice>
+                                <orig>id</orig>
+                                <reg>ídem</reg>
+                            </choice>
+                        </cell>
                         <cell>9.200</cell>
                     </row>
                     <row>
-                        <cell>Panama seismil id</cell>
-                        <cell>6000</cell>
+                        <cell>Panama seis mil <choice>
+                                <orig>id</orig>
+                                <reg>ídem</reg>
+                            </choice>
+                        </cell>
+                        <cell>6.000</cell>
                     </row>
                     <row>
-                        <cell>Cartagena id</cell>
-                        <cell>6000</cell>
+                        <cell>Cartagena <choice>
+                                <orig>id</orig>
+                                <reg>ídem</reg>
+                            </choice>
+                        </cell>
+                        <cell>6.000</cell>
                     </row>
                     <row>
-                        <cell>A Buenos ayres tres mil id</cell>
+                        <cell>A Buenos <choice>
+                                <orig>ayres</orig>
+                                <reg>Aires</reg>
+                            </choice> tres mil <choice>
+                                <orig>id</orig>
+                                <reg>ídem</reg>
+                            </choice>
+                        </cell>
                         <cell>3.000</cell>
                     </row>
                     <row>
-                        <cell>Caracas y Campeche mil id</cell>
+                        <cell>Caracas y Campeche mil <choice>
+                                <orig>id</orig>
+                                <reg>ídem</reg>
+                            </choice>
+                        </cell>
                         <cell>1.000</cell>
                     </row>
                     <row>
-                        <cell>Consumo dela Hav.a ochentamil</cell>
-                        <cell>80000</cell>
+                        <cell>Consumo de la <choice>
+                                <abbr>Hav.a</abbr>
+                                <reg>Habana</reg>
+                            </choice> ochenta mil</cell>
+                        <cell>80.000</cell>
                     </row>
                     <row>
-                        <cell>Considerase ig al consumo al resto de la<lb/>
+                        <cell>
+                            <choice>
+                                <orig>Considerase</orig>
+                                <reg>Considérase</reg>
+                            </choice> ig<supplied cert="high">ual</supplied>
+                            <choice>
+                                <sic>al</sic>
+                                <corr>el</corr>
+                            </choice> consumo al resto de la<lb/>
                             <choice>
                                 <orig>Ysla</orig>
                                 <reg>isla</reg>
-                            </choice> dondese surten al
+                            </choice> donde se surten al
                             campo</cell>
-                        <cell>80000</cell>
+                        <cell>80.000</cell>
                     </row>
                     <row>
                         <cell/>
-                        <cell>315440</cell>
+                        <cell>315.440</cell>
                     </row>
                 </table>
                 <pb n="5"/>
