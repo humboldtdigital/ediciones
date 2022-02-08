@@ -865,31 +865,127 @@
                         <orig>Ysla</orig>
                         <reg>isla</reg>
                     </choice> a 10.900<lb/> que reunidas forman la
-                    cantidad de<lb/> <hi rendition="#u" hand="#H0012069">54.100</hi> <choice>
+                    cantidad de<lb/>
+                    <hi rendition="#u" hand="#H0012069">54.100</hi>
+                    <choice>
                         <abbr>p.os</abbr>
                         <expan>pesos</expan>
-                    </choice>
+                    </choice>.
                     <note place="inline" hand="#H0012069">Voilà <gap unit="words" quantity="5" reason="illegible"/>
-                        <lb/> 43.200<lb/> <hi hand="#H0012069" rendition="#u">10.900</hi><lb/>54.100 </note>
+                        <lb/> 43.200<lb/>
+                        <hi hand="#H0012069" rendition="#u">10.900</hi>
+                        <lb/>54.100 </note>
                 </p>
-                <p>La manuntencion de 120 Negros es-<lb/> clabos de la <choice>
+                <p>La <choice>
+                        <orig>manutencion</orig>
+                        <reg>manutención</reg>
+                    </choice> de 120 <choice>
+                        <orig>Negros</orig>
+                        <reg>negros</reg>
+                    </choice>
+                    <choice>
+                        <orig>es-<lb/>clabos</orig>
+                        <reg>esclavos</reg>
+                    </choice> de la <choice>
                         <abbr>Fact.a</abbr>
                         <expan>factoría</expan>
-                    </choice>, mulas? y otros
-                    gastos<lb/> menores enella importa la suma de<lb/> 12000 p.s annuales.</p>
-                <p>Notas.</p>
-                <p>1.ª El año quese remitan a España las<lb/> 128000? arr.s de tabaco en rama y
-                    polbo<lb/> y que alli se consuman, debe ascender a<lb/> su valor p.a el rey,
-                    segun los precios a q.e<lb/> enla Peninsula se vende, a cinco millo-<lb/> nes de
-                    p.s ? descontados fletes, averias<lb/>
-                    <pb n="6"/> y gastos de elaboracion en aquel ?o.no?</p>
-                <p>2.ª No puede señalarse, ni aun conapro<lb/> ximacion el producto que el Rey
-                    saque<lb/> de las Fac.os? que esta <choice>
+                    </choice>, <unclear reason="illegible" cert="low">mulas</unclear> y otros
+                    gastos<lb/> menores en ella importa la suma de<lb/>
+                    <unclear cert="high" reason="illegible">12.000</unclear> p.s annuales.</p>
+                <p>Notas<choice>
+                        <sic>.</sic>
+                        <corr type="deleted"></corr>
+                    </choice>
+                </p>
+                <p>1.ª El año <choice>
+                        <orig>quese</orig>
+                        <reg>que se</reg>
+                    </choice> remitan a España las<lb/>
+                    <unclear cert="high" reason="illegible">128.000</unclear>
+                    <choice>
+                        <abbr>arr.s</abbr>
+                        <reg>arrobas</reg>
+                    </choice> de tabaco en rama y
+                    <choice>
+                        <orig>polbo</orig>
+                        <reg>polvo</reg>
+                    </choice>
+                    <lb/> y que <choice>
+                        <orig>alli</orig>
+                        <reg>allí</reg>
+                    </choice> se consuman, debe ascender<lb/> su valor <choice>
+                        <abbr>p.a</abbr>
+                        <expan>para</expan>
+                    </choice> el rey,
+                    <choice>
+                        <orig>segun</orig>
+                        <reg>según</reg>
+                    </choice> los precios a <choice>
+                        <abbr>q.e</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/> en la <choice>
+                        <orig>Peninsula</orig>
+                        <reg>península</reg>
+                    </choice> se vende, a cinco millo-<lb/>nes de
+                   <choice>
+                        <abbr>p.s</abbr>
+                        <expan>pesos</expan>
+                    </choice>
+                    <gap unit="words" quantity="1" reason="illegible"></gap> descontados fletes, <choice>
+                        <orig>averias</orig>
+                        <reg>averías</reg>
+                    </choice>
+                    <lb/>
+                    <pb n="125v"/> y gastos de <choice>
+                        <orig>elaboracion</orig>
+                        <reg>elaboración</reg>
+                    </choice> en aquel <choice>
+                        <abbr>Do.no</abbr>
+                        <expan>
+                            <gap unit="words" quantity="1" reason="illegible"></gap>
+                        </expan>
+                    </choice>
+                </p>
+                <p>2.ª No puede señalarse, ni aun con <choice>
+                        <orig>apro<lb/>ximacion</orig>
+                        <reg>aproximación</reg>
+                    </choice> el producto que el <choice>
+                        <orig>Rey</orig>
+                        <reg>rey</reg>
+                    </choice>
+                    saque<lb/> de los <choice>
+                        <abbr>Tav.os</abbr>
+                        <expan>tabacos</expan>
+                    </choice> que esta <choice>
                         <abbr>Fact.a</abbr>
                         <expan>factoría</expan>
-                    </choice> embia alas Ad.<lb/> ministrac.es
-                    deAmerica, porq.e se ignora<lb/> el precio aque en cada pasage deaque<lb/> llas
-                    Provincias sevende.</p>
+                    </choice>
+                    <choice>
+                        <orig>embia</orig>
+                        <reg>envía</reg>
+                    </choice> a las <choice>
+                        <abbr>Ad-<lb/>ministrac.es</abbr>
+                        <expan>administraciones</expan>
+                    </choice>
+                    de <choice>
+                        <orig>America</orig>
+                        <reg>América</reg>
+                    </choice>, <choice>
+                        <abbr>porq.e</abbr>
+                        <expan>porque</expan>
+                    </choice> se ignora<lb/> el precio aque en cada <choice>
+                        <orig>pasage</orig>
+                        <reg>pasaje</reg>
+                    </choice>
+                    <choice>
+                        <orig>deaque<lb/>llas</orig>
+                        <reg>de aquellas</reg>
+                    </choice>
+                    <choice>
+                        <orig>Provincias</orig>
+                        <reg>provincias</reg>
+                    </choice> <choice><orig>sevende</orig><reg>se vende</reg></choice>.</p>
                 <p>3.ª Las ochenta mil arr.as quese dicen<lb/> consume la Poblacion de la Hav.ª y
                     sus<lb/> inmediaciones deja al Rey, deducidas<lb/> mermas y costos de venta
                     lazenviadas? de?<lb/> un ? de utilidad, sin poder aspirar amas<lb/> por no
