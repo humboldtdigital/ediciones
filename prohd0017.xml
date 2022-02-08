@@ -614,10 +614,10 @@
                         <orig>mas</orig>
                         <reg>más</reg>
                     </corr> de <unclear cert="low" reason="illegible">10000</unclear> ca<lb/>da una, por la <unclear cert="high" reason="illegible">tierra</unclear> seca, qe hace
-                    muchos años<lb/> experimenta esta <corr>
+                    muchos años<lb/> experimenta esta <choice>
                         <orig>Ysla</orig>
                         <reg>isla</reg>
-                    </corr>. <choice>
+                    </choice>. <choice>
                         <orig>Enel</orig>
                         <reg>En el</reg>
                     </choice> actual que ha<lb/>
@@ -634,16 +634,53 @@
                             <orig>destasmias</orig>
                             <reg>de estas mías</reg>
                         </choice>
-                    </unclear>, juzgo <choice><orig>excedera</orig><reg>excederá</reg></choice> de 150000?
+                    </unclear>, juzgo <choice>
+                        <orig>excedera</orig>
+                        <reg>excederá</reg>
+                    </choice> de <unclear cert="low" reason="illegible">150000</unclear>
                     arrobas.<lb/>
                 </p>
-                <p>Para cubrir todas las atenciones, q.e<lb/> son a cargo desta fact.a, y tambien
-                    elenor<lb/> me consumo que del cigarro se hace en toda<lb/> la Ysla, nose
-                    necesita menos que de 350000?<lb/> arr.s en cada año, siendo bastante aora?
-                    diez?,<lb/> lacantidad de 250000? para tener provistos<lb/> todos los puntos
-                    aquienes surte?, excepto?<lb/> el consumo que se hace de veinte leguas?
-                    tie-<lb/> rra adentro desta capital, hasta Cuba in<lb/> clusive donde nunca seha
-                    establecido el<lb/> estanco?</p>
+                <p>Para cubrir todas las atenciones, <choice>
+                        <abbr>q.e</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/> son a cargo <choice>
+                        <orig>desta</orig>
+                        <reg>de esta</reg>
+                    </choice>
+                    <choice>
+                        <abbr>Fact.a</abbr>
+                        <expan>factoría</expan>
+                    </choice>, y <choice>
+                        <orig>tambien</orig>
+                        <reg>también</reg>
+                    </choice>
+                    el enor<lb/>me consumo que del cigarro se hace en toda<lb/> la <choice>
+                        <orig>Ysla</orig>
+                        <reg>isla</reg>
+                    </choice>, no se
+                    necesita menos que de <unclear cert="low" reason="illegible">350000</unclear>
+                    <lb/>
+                    <choice>
+                        <abbr>arr.s</abbr>
+                        <reg>arrobas</reg>
+                    </choice> en cada año, siendo bastante <choice>
+                        <orig>aora</orig>
+                        <reg>ahora</reg>
+                    </choice>
+                    diez,<lb/> la cantidad de <unclear cert="low" reason="illegible">250000</unclear> para tener provistos<lb/> todos los puntos
+                    <choice>
+                        <orig>aquienes</orig>
+                        <reg>a quienes</reg>
+                    </choice> surte, excepto<lb/> el consumo que se hace de veinte leguas
+                    tie-<lb/>rra adentro <choice>
+                        <orig>desta</orig>
+                        <reg>de esta</reg>
+                    </choice> capital, hasta Cuba in<lb/>clusive donde nunca <hi rendition="#u" hand="#H0012069"><choice>
+                        <orig>seha</orig>
+                        <reg>se ha</reg>
+                    </choice>
+                    establecido el<lb/> estanco</hi>.</p>
                 <p>Distribucion</p>
                 <table>
                     <row role="label">
@@ -683,7 +720,11 @@
                         <cell>80000</cell>
                     </row>
                     <row>
-                        <cell>Considerase ig al consumo al resto de la<lb/>Ysla dondese surten al
+                        <cell>Considerase ig al consumo al resto de la<lb/>
+                            <choice>
+                                <orig>Ysla</orig>
+                                <reg>isla</reg>
+                            </choice> dondese surten al
                             campo</cell>
                         <cell>80000</cell>
                     </row>
@@ -699,9 +740,15 @@
                     350000 que quedan calculadas.</p>
                 <p>Sueldos q el Rey paga<lb/> a los empleados en este<lb/> establecim.</p>
                 <p>Asciende la Nomina de los empleados<lb/> de num.0 a la cantid.d. de 43.2000 y de
-                    los<lb/> Factorias? del interior de la Ysla a 10.900<lb/> que reunidas forman la
+                    los<lb/> Factorias? del interior de la <choice>
+                        <orig>Ysla</orig>
+                        <reg>isla</reg>
+                    </choice> a 10.900<lb/> que reunidas forman la
                     cantidad de<lb/> 54100 p.es</p>
-                <p>La manuntencion de 120 Negros es-<lb/> clabos de la Fact.a, mulas? y otros
+                <p>La manuntencion de 120 Negros es-<lb/> clabos de la <choice>
+                        <abbr>Fact.a</abbr>
+                        <expan>factoría</expan>
+                    </choice>, mulas? y otros
                     gastos<lb/> menores enella importa la suma de<lb/> 12000 p.s annuales.</p>
                 <p>Notas.</p>
                 <p>1.ª El año quese remitan a España las<lb/> 128000? arr.s de tabaco en rama y
@@ -710,7 +757,10 @@
                     p.s ? descontados fletes, averias<lb/>
                     <pb n="6"/> y gastos de elaboracion en aquel ?o.no?</p>
                 <p>2.ª No puede señalarse, ni aun conapro<lb/> ximacion el producto que el Rey
-                    saque<lb/> de las Fac.os? que esta Fact.a embia alas Ad.<lb/> ministrac.es
+                    saque<lb/> de las Fac.os? que esta <choice>
+                        <abbr>Fact.a</abbr>
+                        <expan>factoría</expan>
+                    </choice> embia alas Ad.<lb/> ministrac.es
                     deAmerica, porq.e se ignora<lb/> el precio aque en cada pasage deaque<lb/> llas
                     Provincias sevende.</p>
                 <p>3.ª Las ochenta mil arr.as quese dicen<lb/> consume la Poblacion de la Hav.ª y
