@@ -53,7 +53,7 @@
         </fileDesc>
         <profileDesc>
             <creation><!-- falta persName = NN-->
-                <persName>N.N.</persName><!-- falta poner Humboldt -->
+                <persName>N.N.</persName>
                 <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
                 <date when="1804-04-10">10 de abril de 1804</date>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
@@ -117,8 +117,6 @@
     <text>
         <body>
             <div>
-                <!-- pb 125r facs="prohd0017-125.tif" -->
-                <!-- fw 1-->
                 <pb n="123r" facs="prohd0017_1.tif"/>
                 <p>
                     <choice>
