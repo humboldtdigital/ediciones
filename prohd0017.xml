@@ -828,14 +828,50 @@
                         <abbr>num.o</abbr>
                         <expan>número</expan>
                     </choice> de las<lb/>
-                   <unclear cert="high" reason="illegible">350.000</unclear> que quedan calculadas.</p>
-                <p>Sueldos q el Rey paga<lb/> a los empleados en este<lb/> establecim.</p>
-                <p>Asciende la Nomina de los empleados<lb/> de num.0 a la cantid.d. de 43.2000 y de
-                    los<lb/> Factorias? del interior de la <choice>
+                    <unclear cert="high" reason="illegible">350.000</unclear> que quedan calculadas.</p>
+                <p>Sueldos <choice>
+                        <abbr>q</abbr>
+                        <expan>que</expan>
+                    </choice> el Rey paga<lb/> a los empleados en este<lb/>
+                    <choice>
+                        <abbr>establecim.to</abbr>
+                        <expan>establecimiento</expan>
+                    </choice>
+                </p>
+                <p>Asciende la <choice>
+                        <orig>Nomina</orig>
+                        <reg>nómina</reg>
+                    </choice> de los empleados<lb/> de <unclear cert="low" reason="illegible">
+                        <choice>
+                            <orig>num.o</orig>
+                            <reg>número</reg>
+                        </choice>
+                    </unclear> a la <choice>
+                        <abbr>cantid.d</abbr>
+                        <reg>cantidad</reg>
+                    </choice> de 43.2000 <unclear cert="low" reason="illegible">
+                        <choice>
+                            <abbr>p.os</abbr>
+                            <expan>pesos</expan>
+                        </choice>
+                    </unclear> y de
+                    los<lb/>
+                    <unclear cert="high" reason="illegible">
+                        <choice>
+                            <orig>Factorias</orig>
+                            <reg>factorías</reg>
+                        </choice>
+                    </unclear> del interior de la <choice>
                         <orig>Ysla</orig>
                         <reg>isla</reg>
                     </choice> a 10.900<lb/> que reunidas forman la
-                    cantidad de<lb/> 54100 p.es</p>
+                    cantidad de<lb/> <hi rendition="#u" hand="#H0012069">54.100</hi> <choice>
+                        <abbr>p.os</abbr>
+                        <expan>pesos</expan>
+                    </choice>
+                    <note place="inline" hand="#H0012069">Voilà <gap unit="words" quantity="5" reason="illegible"/>
+                        <lb/> 43.200<lb/> <hi hand="#H0012069" rendition="#u">10.900</hi><lb/>54.100 </note>
+                </p>
                 <p>La manuntencion de 120 Negros es-<lb/> clabos de la <choice>
                         <abbr>Fact.a</abbr>
                         <expan>factoría</expan>
