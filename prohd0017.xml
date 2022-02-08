@@ -576,7 +576,7 @@
                         <reg>el aumento</reg>
                     </choice> tan crecido que de<lb/> cuatro años a esta <choice>
                         <abbr>p.te</abbr>
-                        <reg>parte</reg>
+                        <expan>parte</expan>
                     </choice> se ha <choice>
                         <sic>mipuesto</sic>
                         <corr>impuesto</corr>
@@ -616,12 +616,12 @@
                     <choice>
                         <sic>proximas</sic>
                         <corr type="deleted"/>
-                    </choice> precedentes en poco <corr>
+                    </choice> precedentes en poco <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
-                    </corr> de <unclear cert="low" reason="illegible">10000</unclear> ca<lb/>da una,
-                    por la <unclear cert="high" reason="illegible">tierra</unclear> seca, qe hace
-                    muchos años<lb/> experimenta esta <choice>
+                    </choice> de <unclear cert="low" reason="illegible">10000</unclear> ca<lb/>da
+                    una, por la <unclear cert="high" reason="illegible">tierra</unclear> seca, qe
+                    hace muchos años<lb/> experimenta esta <choice>
                         <orig>Ysla</orig>
                         <reg>isla</reg>
                     </choice>. <choice>
@@ -668,7 +668,7 @@
                     <lb/>
                     <choice>
                         <abbr>arr.s</abbr>
-                        <reg>arrobas</reg>
+                        <expan>arrobas</expan>
                     </choice> en cada año, siendo bastante <choice>
                         <orig>aora</orig>
                         <reg>ahora</reg>
@@ -777,7 +777,7 @@
                     <row>
                         <cell>Consumo de la <choice>
                                 <abbr>Hav.a</abbr>
-                                <reg>Habana</reg>
+                                <expan>Habana</expan>
                             </choice> ochenta mil</cell>
                         <cell>80.000</cell>
                     </row>
@@ -850,7 +850,7 @@
                         </choice>
                     </unclear> a la <choice>
                         <abbr>cantid.d</abbr>
-                        <reg>cantidad</reg>
+                        <expan>cantidad</expan>
                     </choice> de 43.2000 <unclear cert="low" reason="illegible">
                         <choice>
                             <abbr>p.os</abbr>
@@ -904,7 +904,7 @@
                     <unclear cert="high" reason="illegible">128.000</unclear>
                     <choice>
                         <abbr>arr.s</abbr>
-                        <reg>arrobas</reg>
+                        <expan>arrobas</expan>
                     </choice> de tabaco en rama y <choice>
                         <orig>polbo</orig>
                         <reg>polvo</reg>
