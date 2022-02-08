@@ -47,10 +47,9 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <creation>
-            <!-- falta persName = NN--> 
-                <persName>N.N.</persName>
-                <!-- falta poner Humboldt -->
+            <creation><!-- falta persName = NN-->
+                <persName>N.N.</persName><!-- falta poner Humboldt -->
+                <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
                 <date when="1804-04-10">10 de abril de 1804</date>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
@@ -111,9 +110,7 @@
     </teiHeader>
     <text>
         <body>
-            <div>
-            <!-- pb 125r -->
-            <!-- fw 1-->
+            <div><!-- pb 125r facs="prohd0017-125.tif" --><!-- fw 1-->
                 <pb n="1"/>
                 <p>
                     <choice>
@@ -496,18 +493,116 @@
                         <expan>conocidamente</expan>
                     </choice> expuesto a
                     malograrse,<lb/> con cuio motibo ha estado siempre entre<lb/> gente indigente,
-                    sin mas capital que el<lb/> desus brazos, no pudiendo sufragar el ?<lb/> cido? ?
-                    que exigeron los dueños de las men<lb/> cionadas tierras por su arriendo, ha
-                    desen?<lb/> tado? muchos labrad.s detabaco desta ocu<lb/> pacion, saltando alas
-                    de tumbadores de<lb/> monte, Arrieros, Porteadores deleña, tegeros<lb/>
-                    mayorales de las Haciendas nuebas, yotras<lb/> varias enq.e han encontrado
-                    supasar? me?<lb/> nos equiboco? que el del cultibo deltabaco.<lb/> Por esto es
-                    elaumento tan crecido que de<lb/> cuatro años aesta p.te se ha impuesto?
-                    ato-<lb/> das las clases, con el fin de llamarles algre<lb/> mio por medio de
-                    este interes, vedadero con<lb/> ductor del hombre. Aun asi noseha logrado<lb/>
-                    cosecha quemerezca el nombre depujante;<lb/> al contrario la del año pro.m?
-                    anterior de? 803.,<lb/> no llegó a 3800 arro.S; la del anterior<lb/>
-                    <pb n="4"/> 4 de 802?, ni a 60000?, haviendose quedado las dos<lb/> proximas
+                    sin <choice>
+                        <orig>mas</orig>
+                        <reg>más</reg>
+                    </choice> capital que el<lb/>
+                    <choice>
+                        <orig>desus</orig>
+                        <reg>de sus</reg>
+                    </choice> brazos, no pudiendo sufragar el <gap unit="words" reason="illegible" quantity="1"/>
+                    <lb/>cido <gap reason="illegible" unit="words" quantity="1"/>
+                    que exigeron los dueños de las men<lb/>cionadas tierras por su arriendo, ha
+                    <unclear reason="illegible" cert="low">desen<lb/>tado</unclear> muchos <choice>
+                        <abbr>labrad.s</abbr>
+                        <expan>labradores</expan>
+                    </choice>
+                    <choice>
+                        <orig>detabaco</orig>
+                        <reg>de tabaco</reg>
+                    </choice>
+                    <choice>
+                        <orig>desta</orig>
+                        <reg>de esta</reg>
+                    </choice>
+                    <choice>
+                        <orig>ocu<lb/>pacion</orig>
+                        <reg>ocupación</reg>
+                    </choice>, saltando <choice>
+                        <orig>alas</orig>
+                        <reg>a las</reg>
+                    </choice>
+                    de tumbadores de<lb/> monte, <choice>
+                        <orig>Arrieros</orig>
+                        <reg>arrieros</reg>
+                    </choice>, <choice>
+                        <orig>Porteadores</orig>
+                        <reg>porteadores</reg>
+                    </choice>
+                    <choice>
+                        <orig>deleña</orig>
+                        <reg>de leña</reg>
+                    </choice>, <choice>
+                        <orig>tegeros</orig>
+                        <reg>tejeros</reg>
+                    </choice>
+                    <lb/>
+                    mayorales de las <choice>
+                        <orig>Haciendas</orig>
+                        <reg>haciendas</reg>
+                    </choice>
+                    <choice>
+                        <orig>nuebas</orig>
+                        <reg>nuevas</reg>
+                    </choice>, <choice>
+                        <orig>yotras</orig>
+                        <reg>y otras</reg>
+                    </choice>
+                    <lb/> varias en <choice>
+                        <abbr>q.e</abbr>
+                        <expan>que</expan>
+                    </choice> han encontrado
+                    su <unclear cert="high" reason="illegible">pasar</unclear> me<lb/>nos <choice>
+                        <orig>equiboco</orig>
+                        <reg>equívoco</reg>
+                    </choice> que el del <choice>
+                        <orig>cultibo</orig>
+                        <reg>cultivo</reg>
+                    </choice>
+                    <choice>
+                        <orig>deltabaco</orig>
+                        <reg>del tabaco</reg>
+                    </choice>.<lb/> Por esto es
+                    <choice>
+                        <orig>elaumento</orig>
+                        <reg>el aumento</reg>
+                    </choice> tan crecido que de<lb/> cuatro años a esta <choice>
+                        <abbr>p.te</abbr>
+                        <reg>parte</reg>
+                    </choice> se ha <choice>
+                        <sic>mipuesto</sic>
+                        <corr>impuesto</corr>
+                    </choice>
+                    a to-<lb/>das las clases, con el fin de llamarles al gre<lb/>mio por medio de
+                    este <choice>
+                        <orig>interes</orig>
+                        <reg>interés</reg>
+                    </choice>, vedadero con<lb/>ductor del hombre. Aun <choice>
+                        <orig>asi</orig>
+                        <reg>así</reg>
+                    </choice>
+                    <choice>
+                        <orig>noseha</orig>
+                        <reg>no se ha</reg>
+                    </choice> logrado<lb/>
+                    cosecha <choice>
+                        <orig>quemerezca</orig>
+                        <reg>que merezca</reg>
+                    </choice> el nombre de pujante;<lb/> al contrario la del año <choice>
+                        <sic>prox.mo</sic>
+                        <corr type="deleted"/>
+                    </choice>
+                    anterior de <supplied cert="high">1</supplied>803<choice>
+                        <sic>.</sic>
+                        <corr type="deleted"/>
+                    </choice>,<lb/> no llegó a <unclear cert="low" reason="illegible">38000</unclear>
+                    <choice>
+                        <orig>arro.S</orig>
+                        <reg>arrobas</reg>
+                    </choice>
+                    <note place="mBottom" hand="#H0012069">38,000?</note>; la del anterior<lb/>
+                    <pb n="124v" facs="prohd00017_4.tif"/>
+                    <fw type="folNum">4</fw> de <supplied cert="high">1</supplied>802, ni a 60000?, haviendose quedado las dos<lb/> proximas
                     precedentes enpoco mas de 10000? ca<lb/> da una, por la tierra? seca, qe hace
                     muchos años<lb/> experimenta esta Ysla. Enel actual que ha<lb/> llobido con
                     regularidad, segun las noticias<lb/> destasmias?, juzgo excedera de 150000?
