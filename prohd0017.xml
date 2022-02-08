@@ -799,11 +799,36 @@
                         <cell>315.440</cell>
                     </row>
                 </table>
-                <pb n="5"/>
-                <p>cuio total asciende a trescientas quince mil<lb/> quatroz.tas y quaren.ta arr.s
-                    sin contar con<lb/> la merma y aberias que sufre este gene<lb/> ro que pasa a un
-                    diez por ciento, y consu<lb/> agregacion se completa el num.or de las<lb/>
-                    350000 que quedan calculadas.</p>
+                <pb n="125r" facs="prohd00017-5.tif"/>
+                <fw type="folNum">5</fw>
+                <p>
+                    <choice>
+                        <orig>Cuio</orig>
+                        <reg>cuyo</reg>
+                    </choice> total asciende a trescientas quince mil<lb/>
+                    <choice>
+                        <abbr>quatroz.tas</abbr>
+                        <expan>cuatrocientas</expan>
+                    </choice> y <choice>
+                        <abbr>quar.ta</abbr>
+                        <expan>cuarenta</expan>
+                    </choice>
+                    <choice>
+                        <abbr>arr.s</abbr>
+                        <expan>arrobas</expan>
+                    </choice>
+                    sin contar con<lb/> la merma y <choice>
+                        <orig>aberias</orig>
+                        <reg>averías</reg>
+                    </choice> que sufre este <choice>
+                        <orig>gene<lb/>ro</orig>
+                        <reg>género</reg>
+                    </choice> que pasa a un
+                    diez por ciento, y con su<lb/> agregacion se completa el <choice>
+                        <abbr>num.o</abbr>
+                        <expan>número</expan>
+                    </choice> de las<lb/>
+                   <unclear cert="high" reason="illegible">350.000</unclear> que quedan calculadas.</p>
                 <p>Sueldos q el Rey paga<lb/> a los empleados en este<lb/> establecim.</p>
                 <p>Asciende la Nomina de los empleados<lb/> de num.0 a la cantid.d. de 43.2000 y de
                     los<lb/> Factorias? del interior de la <choice>
