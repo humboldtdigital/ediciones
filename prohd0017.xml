@@ -602,10 +602,39 @@
                     </choice>
                     <note place="mBottom" hand="#H0012069">38,000?</note>; la del anterior<lb/>
                     <pb n="124v" facs="prohd00017_4.tif"/>
-                    <fw type="folNum">4</fw> de <supplied cert="high">1</supplied>802, ni a 60000?, haviendose quedado las dos<lb/> proximas
-                    precedentes enpoco mas de 10000? ca<lb/> da una, por la tierra? seca, qe hace
-                    muchos años<lb/> experimenta esta Ysla. Enel actual que ha<lb/> llobido con
-                    regularidad, segun las noticias<lb/> destasmias?, juzgo excedera de 150000?
+                    <fw type="folNum">4</fw> de <supplied cert="high">1</supplied>802, ni a <unclear cert="low" reason="illegible">60000</unclear>, <choice>
+                        <orig>haviendose</orig>
+                        <reg>habiéndose</reg>
+                    </choice> quedado las dos<lb/>
+                    <choice>
+                        <sic>proximas</sic>
+                        <corr type="deleted"/>
+                    </choice>
+                    precedentes en poco <corr>
+                        <orig>mas</orig>
+                        <reg>más</reg>
+                    </corr> de <unclear cert="low" reason="illegible">10000</unclear> ca<lb/>da una, por la <unclear cert="high" reason="illegible">tierra</unclear> seca, qe hace
+                    muchos años<lb/> experimenta esta <corr>
+                        <orig>Ysla</orig>
+                        <reg>isla</reg>
+                    </corr>. <choice>
+                        <orig>Enel</orig>
+                        <reg>En el</reg>
+                    </choice> actual que ha<lb/>
+                    <choice>
+                        <orig>llobido</orig>
+                        <reg>llovido</reg>
+                    </choice> con
+                    regularidad, <choice>
+                        <orig>segun</orig>
+                        <reg>según</reg>
+                    </choice> las noticias<lb/>
+                    <unclear cert="high" reason="illegible">
+                        <choice>
+                            <orig>destasmias</orig>
+                            <reg>de estas mías</reg>
+                        </choice>
+                    </unclear>, juzgo <choice><orig>excedera</orig><reg>excederá</reg></choice> de 150000?
                     arrobas.<lb/>
                 </p>
                 <p>Para cubrir todas las atenciones, q.e<lb/> son a cargo desta fact.a, y tambien
