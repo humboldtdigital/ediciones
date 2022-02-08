@@ -119,7 +119,7 @@
             <div>
                 <!-- pb 125r facs="prohd0017-125.tif" -->
                 <!-- fw 1-->
-                <pb n="1"/>
+                <pb n="123r" facs="prohd0017_1.tif"/>
                 <p>
                     <choice>
                         <orig>Havana</orig>
@@ -244,7 +244,10 @@
                     </choice> que <choice>
                         <orig>recivi<lb/>das</orig>
                         <reg>recibidas</reg>
-                    </choice> las tres clases, puede decirse que paga<lb/> el Rey cada arroba <choice>
+                    </choice> las tres clases, puede decirse que paga<lb/> el <choice>
+                        <orig>Rey</orig>
+                        <reg>rey</reg>
+                    </choice> cada arroba <choice>
                         <orig>deste</orig>
                         <reg>de este</reg>
                     </choice> fruto <choice>
@@ -282,7 +285,7 @@
                         <reg>demás</reg>
                     </choice>
                     <lb/>
-                    <pb n="2"/>
+                    <pb n="123v" facs="prohd0017_2.tif"/><fw type="folNum">2</fw>
                     <choice>
                         <orig>Probincias</orig>
                         <reg>provincias</reg>
@@ -307,7 +310,7 @@
                         <reg>sin él</reg>
                     </choice>, cuesta <choice>
                         <orig>alRey</orig>
-                        <reg>al Rey</reg>
+                        <reg>al rey</reg>
                     </choice> en esta<lb/>
                     <choice>
                         <orig>Factoria</orig>
@@ -378,7 +381,11 @@
                         <reg>y medio</reg>
                     </choice>
                     <supplied cert="low">de</supplied> pla<lb/>ta fuerte.</p>
-                <p>La libra de cigarros sale costando al<lb/> Rey, con <choice>
+                <p>La libra de cigarros sale costando al<lb/>
+                    <choice>
+                        <orig>Rey</orig>
+                        <reg>rey</reg>
+                    </choice>, con <choice>
                         <orig>inclusion</orig>
                         <reg>inclusión</reg>
                     </choice> del valor de los cajones de<lb/> su <choice>
@@ -436,14 +443,21 @@
                         <orig>porel</orig>
                         <reg>por el</reg>
                     </choice> considerable incremento que<lb/>
-                    <pb n="3"/> dentro <choice>
+                    <pb n="124r" facs="prohd0017_3.tif"/><fw type="folNum">3</fw> dentro <choice>
                         <orig>delamisma</orig>
                         <reg>de la misma</reg>
                     </choice>
                     <choice>
                         <orig>epoca</orig>
                         <reg>época</reg>
-                    </choice> han tomado las<lb/> Haciendas de Café, que antes <choice>
+                    </choice> han tomado las<lb/>
+                    <choice>
+                        <orig>Haciendas</orig>
+                        <reg>haciendas</reg>
+                    </choice> de <choice>
+                        <orig>Café</orig>
+                        <reg>café</reg>
+                    </choice>, que antes <choice>
                         <orig>aqui</orig>
                         <reg>aquí</reg>
                     </choice>
@@ -607,7 +621,7 @@
                         <reg>arrobas</reg>
                     </choice>
                     <note place="mBottom" hand="#H0012069">38,000?</note>; la del anterior<lb/>
-                    <pb n="124v" facs="prohd00017_4.tif"/>
+                    <pb n="124v" facs="prohd0017_4.tif"/>
                     <fw type="folNum">4</fw> de <supplied cert="high">1</supplied>802, ni a <unclear
                         cert="low" reason="illegible">60000</unclear>, <choice>
                         <orig>haviendose</orig>
@@ -802,7 +816,7 @@
                         <cell>315.440</cell>
                     </row>
                 </table>
-                <pb n="125r" facs="prohd00017-5.tif"/>
+                <pb n="125r" facs="prohd0017_5.tif"/>
                 <fw type="folNum">5</fw>
                 <p>
                     <choice>
@@ -834,7 +848,10 @@
                 <p>Sueldos <choice>
                         <abbr>q</abbr>
                         <expan>que</expan>
-                    </choice> el Rey paga<lb/> a los empleados en este<lb/>
+                    </choice> el <choice>
+                        <orig>Rey</orig>
+                        <reg>rey</reg>
+                    </choice> paga<lb/> a los empleados en este<lb/>
                     <choice>
                         <abbr>establecim.to</abbr>
                         <expan>establecimiento</expan>
@@ -934,7 +951,7 @@
                         <reg>averías</reg>
                     </choice>
                     <lb/>
-                    <pb n="125v"/> y gastos de <choice>
+                    <pb n="125v" facs="prohd0017_6.tif"/> y gastos de <choice>
                         <orig>elaboracion</orig>
                         <reg>elaboración</reg>
                     </choice> en aquel <choice>
