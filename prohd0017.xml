@@ -34,14 +34,19 @@
                         <idno>
                             <idno type="shelfmark">Bd. 3/1 Bl. 1-179</idno>
                             <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2868341</idno>
-                            <idno type="URLImages">https://jbc.bj.uj.edu.pl/dlibra/publication/367139/edition/350047</idno>
+                            <idno type="URLImages"
+                                >https://jbc.bj.uj.edu.pl/dlibra/publication/367139/edition/350047</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Manuscrito autógrafo de autor desconocido, en buen estado de conservación y de seis páginas de extensión, seguidas por dos páginas en blanco; dimensiones también desconocidas. Forma parte del documento conocido como &quot;Umschlag mit den
-                            Materialien für die Statistik von Kuba [Werk]&quot;. Doble numeración:
-                            una paginación original en tinta; otra moderna en lápiz que solo numera
-                            los folios (123-124). Contiene algunas adiciones en tinta negra al inicio del documento por Alexander von Humboldt.</p>
+                        <p>Manuscrito autógrafo de autor desconocido, en buen estado de conservación
+                            y de seis páginas de extensión, seguidas por dos páginas en blanco;
+                            dimensiones también desconocidas. Forma parte del documento conocido
+                            como &quot;Umschlag mit den Materialien für die Statistik von Kuba
+                            [Werk]&quot;. Doble numeración: una paginación original en tinta; otra
+                            moderna en lápiz que solo numera los folios (123-124). Contiene algunas
+                            adiciones en tinta negra al inicio del documento por Alexander von
+                            Humboldt.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -66,7 +71,8 @@
                 <catRef scheme="#genre" target="#notebooks"/>
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subject" target="#climatology"/>
-                <catRef scheme="#subject" target="#economicconditions"/><!-- Mejor factories, en lugar de plantations-->
+                <catRef scheme="#subject" target="#economicconditions"/>
+                <!-- Mejor factories, en lugar de plantations-->
                 <catRef scheme="#subject" target="#plantations"/>
                 <catRef scheme="#subject" target="#slavery"/>
                 <catRef scheme="#subject" target="#tobacco"/>
@@ -110,7 +116,9 @@
     </teiHeader>
     <text>
         <body>
-            <div><!-- pb 125r facs="prohd0017-125.tif" --><!-- fw 1-->
+            <div>
+                <!-- pb 125r facs="prohd0017-125.tif" -->
+                <!-- fw 1-->
                 <pb n="1"/>
                 <p>
                     <choice>
@@ -242,7 +250,8 @@
                     </choice> fruto <choice>
                         <orig>asus</orig>
                         <reg>a sus</reg>
-                    </choice> cul<lb break="no"/>tivadores al respecto de 4 <unclear cert="low" reason="illegible">
+                    </choice> cul<lb break="no"/>tivadores al respecto de 4 <unclear cert="low"
+                        reason="illegible">
                         <choice>
                             <abbr>p.r</abbr>
                             <expan>por</expan>
@@ -253,7 +262,8 @@
                             <abbr>f.r</abbr>
                             <expan>factoría</expan>
                         </choice>
-                    </unclear>, que es el de<lb/> 16. cada quintal, precio <unclear cert="high" reason="illegible">
+                    </unclear>, que es el de<lb/> 16. cada quintal, precio <unclear cert="high"
+                        reason="illegible">
                         <choice>
                             <orig>exorvitantisimo</orig>
                             <reg>exorbitantísimo</reg>
@@ -476,7 +486,8 @@
                     </choice> de <choice>
                         <orig>haver</orig>
                         <reg>haber</reg>
-                    </choice> tomado<lb/> las tierras un valor nunca esperado: <unclear cert="high" reason="illegible">siendo</unclear>
+                    </choice> tomado<lb/> las tierras un valor nunca esperado: <unclear cert="high"
+                        reason="illegible">siendo</unclear>
                     <lb/>
                     <choice>
                         <orig>deaqui</orig>
@@ -491,19 +502,19 @@
                     </choice> es<lb/> tan <choice>
                         <abbr>conocidam.te</abbr>
                         <expan>conocidamente</expan>
-                    </choice> expuesto a
-                    malograrse,<lb/> con cuio motibo ha estado siempre entre<lb/> gente indigente,
-                    sin <choice>
+                    </choice> expuesto a malograrse,<lb/> con cuio motibo ha estado siempre
+                    entre<lb/> gente indigente, sin <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
                     </choice> capital que el<lb/>
                     <choice>
                         <orig>desus</orig>
                         <reg>de sus</reg>
-                    </choice> brazos, no pudiendo sufragar el <gap unit="words" reason="illegible" quantity="1"/>
-                    <lb/>cido <gap reason="illegible" unit="words" quantity="1"/>
-                    que exigeron los dueños de las men<lb/>cionadas tierras por su arriendo, ha
-                    <unclear reason="illegible" cert="low">desen<lb/>tado</unclear> muchos <choice>
+                    </choice> brazos, no pudiendo sufragar el <gap unit="words" reason="illegible"
+                        quantity="1"/>
+                    <lb/>cido <gap reason="illegible" unit="words" quantity="1"/> que exigeron los
+                    dueños de las men<lb/>cionadas tierras por su arriendo, ha <unclear
+                        reason="illegible" cert="low">desen<lb/>tado</unclear> muchos <choice>
                         <abbr>labrad.s</abbr>
                         <expan>labradores</expan>
                     </choice>
@@ -521,8 +532,7 @@
                     </choice>, saltando <choice>
                         <orig>alas</orig>
                         <reg>a las</reg>
-                    </choice>
-                    de tumbadores de<lb/> monte, <choice>
+                    </choice> de tumbadores de<lb/> monte, <choice>
                         <orig>Arrieros</orig>
                         <reg>arrieros</reg>
                     </choice>, <choice>
@@ -536,8 +546,7 @@
                         <orig>tegeros</orig>
                         <reg>tejeros</reg>
                     </choice>
-                    <lb/>
-                    mayorales de las <choice>
+                    <lb/> mayorales de las <choice>
                         <orig>Haciendas</orig>
                         <reg>haciendas</reg>
                     </choice>
@@ -551,8 +560,8 @@
                     <lb/> varias en <choice>
                         <abbr>q.e</abbr>
                         <expan>que</expan>
-                    </choice> han encontrado
-                    su <unclear cert="high" reason="illegible">pasar</unclear> me<lb/>nos <choice>
+                    </choice> han encontrado su <unclear cert="high" reason="illegible"
+                        >pasar</unclear> me<lb/>nos <choice>
                         <orig>equiboco</orig>
                         <reg>equívoco</reg>
                     </choice> que el del <choice>
@@ -562,8 +571,7 @@
                     <choice>
                         <orig>deltabaco</orig>
                         <reg>del tabaco</reg>
-                    </choice>.<lb/> Por esto es
-                    <choice>
+                    </choice>.<lb/> Por esto es <choice>
                         <orig>elaumento</orig>
                         <reg>el aumento</reg>
                     </choice> tan crecido que de<lb/> cuatro años a esta <choice>
@@ -572,9 +580,8 @@
                     </choice> se ha <choice>
                         <sic>mipuesto</sic>
                         <corr>impuesto</corr>
-                    </choice>
-                    a to-<lb/>das las clases, con el fin de llamarles al gre<lb/>mio por medio de
-                    este <choice>
+                    </choice> a to-<lb/>das las clases, con el fin de llamarles al gre<lb/>mio por
+                    medio de este <choice>
                         <orig>interes</orig>
                         <reg>interés</reg>
                     </choice>, vedadero con<lb/>ductor del hombre. Aun <choice>
@@ -584,36 +591,36 @@
                     <choice>
                         <orig>noseha</orig>
                         <reg>no se ha</reg>
-                    </choice> logrado<lb/>
-                    cosecha <choice>
+                    </choice> logrado<lb/> cosecha <choice>
                         <orig>quemerezca</orig>
                         <reg>que merezca</reg>
                     </choice> el nombre de pujante;<lb/> al contrario la del año <choice>
                         <sic>prox.mo</sic>
                         <corr type="deleted"/>
-                    </choice>
-                    anterior de <supplied cert="high">1</supplied>803<choice>
+                    </choice> anterior de <supplied cert="high">1</supplied>803<choice>
                         <sic>.</sic>
                         <corr type="deleted"/>
-                    </choice>,<lb/> no llegó a <unclear cert="low" reason="illegible">38000</unclear>
+                    </choice>,<lb/> no llegó a <unclear cert="low" reason="illegible"
+                        >38000</unclear>
                     <choice>
                         <orig>arro.S</orig>
                         <reg>arrobas</reg>
                     </choice>
                     <note place="mBottom" hand="#H0012069">38,000?</note>; la del anterior<lb/>
                     <pb n="124v" facs="prohd00017_4.tif"/>
-                    <fw type="folNum">4</fw> de <supplied cert="high">1</supplied>802, ni a <unclear cert="low" reason="illegible">60000</unclear>, <choice>
+                    <fw type="folNum">4</fw> de <supplied cert="high">1</supplied>802, ni a <unclear
+                        cert="low" reason="illegible">60000</unclear>, <choice>
                         <orig>haviendose</orig>
                         <reg>habiéndose</reg>
                     </choice> quedado las dos<lb/>
                     <choice>
                         <sic>proximas</sic>
                         <corr type="deleted"/>
-                    </choice>
-                    precedentes en poco <corr>
+                    </choice> precedentes en poco <corr>
                         <orig>mas</orig>
                         <reg>más</reg>
-                    </corr> de <unclear cert="low" reason="illegible">10000</unclear> ca<lb/>da una, por la <unclear cert="high" reason="illegible">tierra</unclear> seca, qe hace
+                    </corr> de <unclear cert="low" reason="illegible">10000</unclear> ca<lb/>da una,
+                    por la <unclear cert="high" reason="illegible">tierra</unclear> seca, qe hace
                     muchos años<lb/> experimenta esta <choice>
                         <orig>Ysla</orig>
                         <reg>isla</reg>
@@ -624,8 +631,7 @@
                     <choice>
                         <orig>llobido</orig>
                         <reg>llovido</reg>
-                    </choice> con
-                    regularidad, <choice>
+                    </choice> con regularidad, <choice>
                         <orig>segun</orig>
                         <reg>según</reg>
                     </choice> las noticias<lb/>
@@ -654,12 +660,11 @@
                     </choice>, y <choice>
                         <orig>tambien</orig>
                         <reg>también</reg>
-                    </choice>
-                    el enor<lb/>me consumo que del cigarro se hace en toda<lb/> la <choice>
+                    </choice> el enor<lb/>me consumo que del cigarro se hace en toda<lb/> la <choice>
                         <orig>Ysla</orig>
                         <reg>isla</reg>
-                    </choice>, no se
-                    necesita menos que de <unclear cert="low" reason="illegible">350000</unclear>
+                    </choice>, no se necesita menos que de <unclear cert="low" reason="illegible"
+                        >350000</unclear>
                     <lb/>
                     <choice>
                         <abbr>arr.s</abbr>
@@ -667,21 +672,20 @@
                     </choice> en cada año, siendo bastante <choice>
                         <orig>aora</orig>
                         <reg>ahora</reg>
-                    </choice>
-                    diez,<lb/> la cantidad de <unclear cert="low" reason="illegible">250000</unclear> para tener provistos<lb/> todos los puntos
-                    <choice>
+                    </choice> diez,<lb/> la cantidad de <unclear cert="low" reason="illegible"
+                        >250000</unclear> para tener provistos<lb/> todos los puntos <choice>
                         <orig>aquienes</orig>
                         <reg>a quienes</reg>
                     </choice> surte, excepto<lb/> el consumo que se hace de veinte leguas
                     tie-<lb/>rra adentro <choice>
                         <orig>desta</orig>
                         <reg>de esta</reg>
-                    </choice> capital, hasta Cuba in<lb/>clusive donde nunca <hi rendition="#u" hand="#H0012069">
+                    </choice> capital, hasta Cuba in<lb/>clusive donde nunca <hi rendition="#u"
+                        hand="#H0012069">
                         <choice>
                             <orig>seha</orig>
                             <reg>se ha</reg>
-                        </choice>
-                    establecido el<lb/> estanco</hi>.</p>
+                        </choice> establecido el<lb/> estanco</hi>.</p>
                 <p>
                     <choice>
                         <orig>Distribucion</orig>
@@ -790,8 +794,7 @@
                             <choice>
                                 <orig>Ysla</orig>
                                 <reg>isla</reg>
-                            </choice> donde se surten al
-                            campo</cell>
+                            </choice> donde se surten al campo</cell>
                         <cell>80.000</cell>
                     </row>
                     <row>
@@ -816,19 +819,18 @@
                     <choice>
                         <abbr>arr.s</abbr>
                         <expan>arrobas</expan>
-                    </choice>
-                    sin contar con<lb/> la merma y <choice>
+                    </choice> sin contar con<lb/> la merma y <choice>
                         <orig>aberias</orig>
                         <reg>averías</reg>
                     </choice> que sufre este <choice>
                         <orig>gene<lb/>ro</orig>
                         <reg>género</reg>
-                    </choice> que pasa a un
-                    diez por ciento, y con su<lb/> agregacion se completa el <choice>
+                    </choice> que pasa a un diez por ciento, y con su<lb/> agregacion se completa el <choice>
                         <abbr>num.o</abbr>
                         <expan>número</expan>
                     </choice> de las<lb/>
-                    <unclear cert="high" reason="illegible">350.000</unclear> que quedan calculadas.</p>
+                    <unclear cert="high" reason="illegible">350.000</unclear> que quedan
+                    calculadas.</p>
                 <p>Sueldos <choice>
                         <abbr>q</abbr>
                         <expan>que</expan>
@@ -854,8 +856,7 @@
                             <abbr>p.os</abbr>
                             <expan>pesos</expan>
                         </choice>
-                    </unclear> y de
-                    los<lb/>
+                    </unclear> y de los<lb/>
                     <unclear cert="high" reason="illegible">
                         <choice>
                             <orig>Factorias</orig>
@@ -864,14 +865,13 @@
                     </unclear> del interior de la <choice>
                         <orig>Ysla</orig>
                         <reg>isla</reg>
-                    </choice> a 10.900<lb/> que reunidas forman la
-                    cantidad de<lb/>
+                    </choice> a 10.900<lb/> que reunidas forman la cantidad de<lb/>
                     <hi rendition="#u" hand="#H0012069">54.100</hi>
                     <choice>
                         <abbr>p.os</abbr>
                         <expan>pesos</expan>
-                    </choice>.
-                    <note place="inline" hand="#H0012069">Voilà <gap unit="words" quantity="5" reason="illegible"/>
+                    </choice>. <note place="inline" hand="#H0012069">Voilà <gap unit="words"
+                            quantity="5" reason="illegible"/>
                         <lb/> 43.200<lb/>
                         <hi hand="#H0012069" rendition="#u">10.900</hi>
                         <lb/>54.100 </note>
@@ -894,7 +894,7 @@
                     <unclear cert="high" reason="illegible">12.000</unclear> p.s annuales.</p>
                 <p>Notas<choice>
                         <sic>.</sic>
-                        <corr type="deleted"></corr>
+                        <corr type="deleted"/>
                     </choice>
                 </p>
                 <p>1.ª El año <choice>
@@ -905,8 +905,7 @@
                     <choice>
                         <abbr>arr.s</abbr>
                         <reg>arrobas</reg>
-                    </choice> de tabaco en rama y
-                    <choice>
+                    </choice> de tabaco en rama y <choice>
                         <orig>polbo</orig>
                         <reg>polvo</reg>
                     </choice>
@@ -916,8 +915,7 @@
                     </choice> se consuman, debe ascender<lb/> su valor <choice>
                         <abbr>p.a</abbr>
                         <expan>para</expan>
-                    </choice> el rey,
-                    <choice>
+                    </choice> el rey, <choice>
                         <orig>segun</orig>
                         <reg>según</reg>
                     </choice> los precios a <choice>
@@ -927,12 +925,11 @@
                     <lb/> en la <choice>
                         <orig>Peninsula</orig>
                         <reg>península</reg>
-                    </choice> se vende, a cinco millo-<lb/>nes de
-                   <choice>
+                    </choice> se vende, a cinco millo-<lb/>nes de <choice>
                         <abbr>p.s</abbr>
                         <expan>pesos</expan>
                     </choice>
-                    <gap unit="words" quantity="1" reason="illegible"></gap> descontados fletes, <choice>
+                    <gap unit="words" quantity="1" reason="illegible"/> descontados fletes, <choice>
                         <orig>averias</orig>
                         <reg>averías</reg>
                     </choice>
@@ -943,7 +940,7 @@
                     </choice> en aquel <choice>
                         <abbr>Do.no</abbr>
                         <expan>
-                            <gap unit="words" quantity="1" reason="illegible"></gap>
+                            <gap unit="words" quantity="1" reason="illegible"/>
                         </expan>
                     </choice>
                 </p>
@@ -953,8 +950,7 @@
                     </choice> el producto que el <choice>
                         <orig>Rey</orig>
                         <reg>rey</reg>
-                    </choice>
-                    saque<lb/> de los <choice>
+                    </choice> saque<lb/> de los <choice>
                         <abbr>Tav.os</abbr>
                         <expan>tabacos</expan>
                     </choice> que esta <choice>
@@ -967,8 +963,7 @@
                     </choice> a las <choice>
                         <abbr>Ad-<lb/>ministrac.es</abbr>
                         <expan>administraciones</expan>
-                    </choice>
-                    de <choice>
+                    </choice> de <choice>
                         <orig>America</orig>
                         <reg>América</reg>
                     </choice>, <choice>
@@ -999,19 +994,17 @@
                     </choice> de la <choice>
                         <abbr>Hav.a</abbr>
                         <expan>Habana</expan>
-                    </choice> y
-                    sus<lb/> inmediaciones deja al <choice>
+                    </choice> y sus<lb/> inmediaciones deja al <choice>
                         <orig>Rey</orig>
                         <reg>rey</reg>
-                    </choice>, deducidas<lb/> mermas y costos de venta
-                    <unclear cert="low" reason="illegible">latenviadas</unclear>
+                    </choice>, deducidas<lb/> mermas y costos de venta <unclear cert="low"
+                        reason="illegible">latenviadas</unclear>
                     <unclear cert="high" reason="illegible">de</unclear>
-                    <lb/> un <gap unit="words" reason="illegible"></gap> de utilidad, sin poder aspirar <choice>
+                    <lb/> un <gap unit="words" reason="illegible"/> de utilidad, sin poder aspirar <choice>
                         <orig>amas</orig>
                         <reg>a más</reg>
                     </choice>
-                    <lb/> por no
-                    excitar al contrabando en un <choice>
+                    <lb/> por no excitar al contrabando en un <choice>
                         <orig>Pais</orig>
                         <reg>país</reg>
                     </choice>
@@ -1040,8 +1033,7 @@
                         <orig>aquese</orig>
                         <reg>a que se</reg>
                     </choice>
-                    <lb/>
-                    contemple, y aun <choice>
+                    <lb/> contemple, y aun <choice>
                         <orig>alague</orig>
                         <reg>halague</reg>
                     </choice> a la exis-<lb/>tente.</p>
