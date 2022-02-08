@@ -985,13 +985,66 @@
                     <choice>
                         <orig>Provincias</orig>
                         <reg>provincias</reg>
-                    </choice> <choice><orig>sevende</orig><reg>se vende</reg></choice>.</p>
-                <p>3.ª Las ochenta mil arr.as quese dicen<lb/> consume la Poblacion de la Hav.ª y
-                    sus<lb/> inmediaciones deja al Rey, deducidas<lb/> mermas y costos de venta
-                    lazenviadas? de?<lb/> un ? de utilidad, sin poder aspirar amas<lb/> por no
-                    excitar alcontrabando en un Pais?<lb/> donde hasta q.e la Poblacion aumente<lb/>
-                    algomas alDuplo delaqese numera<lb/> persuade la rama? politica aquese<lb/>
-                    contemple, y aun alague a la exis-<lb/> tente.</p>
+                    </choice>
+                    <choice>
+                        <orig>sevende</orig>
+                        <reg>se vende</reg>
+                    </choice>.</p>
+                <p>3.ª Las ochenta mil <choice>
+                        <orig>arr.as</orig>
+                        <reg>arrobas</reg>
+                    </choice> que se dicen<lb/> consume la <choice>
+                        <orig>Poblacion</orig>
+                        <reg>población</reg>
+                    </choice> de la <choice>
+                        <abbr>Hav.a</abbr>
+                        <expan>Habana</expan>
+                    </choice> y
+                    sus<lb/> inmediaciones deja al <choice>
+                        <orig>Rey</orig>
+                        <reg>rey</reg>
+                    </choice>, deducidas<lb/> mermas y costos de venta
+                    <unclear cert="low" reason="illegible">latenviadas</unclear>
+                    <unclear cert="high" reason="illegible">de</unclear>
+                    <lb/> un <gap unit="words" reason="illegible"></gap> de utilidad, sin poder aspirar <choice>
+                        <orig>amas</orig>
+                        <reg>a más</reg>
+                    </choice>
+                    <lb/> por no
+                    excitar al contrabando en un <choice>
+                        <orig>Pais</orig>
+                        <reg>país</reg>
+                    </choice>
+                    <lb/> donde hasta <choice>
+                        <abbr>q.e</abbr>
+                        <expan>que</expan>
+                    </choice> la <choice>
+                        <orig>Poblacion</orig>
+                        <reg>población</reg>
+                    </choice> aumente<lb/>
+                    <choice>
+                        <orig>algomas</orig>
+                        <reg>algo más</reg>
+                    </choice>
+                    <choice>
+                        <orig>delDuplo</orig>
+                        <reg>del duplo</reg>
+                    </choice> de la <choice>
+                        <orig>q.e</orig>
+                        <reg>que</reg>
+                    </choice> se numera<lb/> persuade la rama <choice>
+                        <orig>politica</orig>
+                        <reg>política</reg>
+                    </choice>
+                    <choice>
+                        <orig>aquese</orig>
+                        <reg>a que se</reg>
+                    </choice>
+                    <lb/>
+                    contemple, y aun <choice>
+                        <orig>alague</orig>
+                        <reg>halague</reg>
+                    </choice> a la exis-<lb/>tente.</p>
             </div>
         </body>
     </text>
