@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="letter" xml:id="prohd0002">
+<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" type="letter" xml:id="prohd0002">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -93,6 +91,8 @@
                         <category xml:id="slavery"/>
                         <category xml:id="trade"/>
                         <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
                     </category>
                 </taxonomy>
             </classDecl>
@@ -101,9 +101,11 @@
     <text>
         <body>
             <div type="writingSession">
-                <p><pb n="1r"/>I have not at hand the means of <lb/>verifying the calculations
+                <p>
+                    <pb n="1r" facs="bjk-nah-bd8bl246-281-02-v1.tif"/>I have not at hand the means of <lb/>verifying the calculations
                     contained in your note, <lb/>which after having shown to <choice>
-                        <abbr>M.<hi rendition="#sup">r</hi></abbr>
+                        <abbr>M.<hi rendition="#sup">r</hi>
+                        </abbr>
                         <expan>Mister</expan>
                     </choice> Gallatin, I have now <lb/>the pleasure to return. So far as the United
                     States <lb/>are concerned, the note which he has furnished, and <lb/>which is
@@ -111,7 +113,8 @@
                     taken from Africa <lb/>to furnish the stock of those we possess. Has <lb/>not
                     the waste also been much less in the Spanish <lb/>and Portuguese colonies, than
                     in <add place="superlinear">these which remain in the hands of</add> the
-                    English? <lb/><choice>
+                    English? <lb/>
+                    <choice>
                         <orig>and</orig>
                         <reg>And</reg>
                     </choice> will not the rule of proportion drawn from <lb/>Jamaica, when applied
@@ -120,18 +123,25 @@
                     present number of slaves in <lb/>that islands rated too low. Since the trade has
                     <lb/>been kept open there (I believe 15 years) the annual <lb/>importation of
                     slaves has been very considerable, <lb/>and lately, at least 20,000 a year.</p>
-                <p>You are perhaps aware that Colquhoun is <lb/><pb n="1v"/>a little given to
+                <p>You are perhaps aware that Colquhoun is <lb/>
+                    <pb n="1v"/>a little given to
                     exaggeration and that his <lb/>calculations must be received with some
                     allowance.</p>
                 <p>With the greatest considerations &amp; regard <lb/>I have the honor to be, my
-                    dear Sir, <lb/>your most obedient servant <lb/>D. Sheldon <lb/><date>Friday 31
-                        May</date></p>
-                <p><pb n="2r"/><choice>
-                        <abbr>M.<hi rendition="#sup">r</hi></abbr>
+                    dear Sir, <lb/>your most obedient servant <lb/>D. Sheldon <lb/>
+                    <date>Friday 31
+                        May</date>
+                </p>
+                <p>
+                    <pb n="2r"/>
+                    <choice>
+                        <abbr>M.<hi rendition="#sup">r</hi>
+                        </abbr>
                         <expan>Mister</expan>
                     </choice> Sheldon has the honor to enclose <lb/>the note respecting the
                     population of the United <lb/>States which he promised to <choice>
-                        <abbr>M.<hi rendition="#sup">r</hi></abbr>
+                        <abbr>M.<hi rendition="#sup">r</hi>
+                        </abbr>
                         <expan>Monsieur</expan>
                     </choice> de Humboldt. It <lb/>shows that the proportions between the sexes are
                     <lb/>nearly the same among the slaves as in the white <lb/>population. In the
@@ -143,10 +153,15 @@
                     although <lb/>this class receives an increase by manumissions <lb/>continually,
                     its total increase is less than that of <lb/>any other; a striking proof of the
                     smaller number <lb/>of cildren produced by the women belonging to it. </p>
-                <p><date>Tuesday 25.<hi rendition="#sup">th</hi> May</date></p>
-                <p><pb n="2v"/>
-                    <gap unit="pages" quantity="1" reason="empty"/></p>
-                <p><pb n="3r"/>On comparing the result of this Census, with that of 1810, the
+                <p>
+                    <date>Tuesday 25.<hi rendition="#sup">th</hi> May</date>
+                </p>
+                <p>
+                    <pb n="2v"/>
+                    <gap unit="pages" quantity="1" reason="empty"/>
+                </p>
+                <p>
+                    <pb n="3r"/>On comparing the result of this Census, with that of 1810, the
                     following proportions are found:</p>
                 <p>
                     <table rows="4" cols="3">
@@ -162,7 +177,8 @@
                         <row>
                             <cell>The <hi rendition="#u">white</hi>
                                 <choice>
-                                    <abbr>popul.<hi rendition="#sup">n</hi></abbr>
+                                    <abbr>popul.<hi rendition="#sup">n</hi>
+                                    </abbr>
                                     <expan>population</expan>
                                 </choice> .. in 1810 was 5,862,093;</cell>
                             <cell>- in 1820, … 7,856,082;</cell>
@@ -181,12 +197,14 @@
                                 </choice>. <choice>
                                     <sic>*</sic>
                                     <corr type="deleted"/>
-                                </choice></cell>
+                                </choice>
+                            </cell>
                         </row>
                         <row>
                             <cell>The <hi rendition="#u">free colored</hi>
                                 <choice>
-                                    <abbr>popul.<hi rendition="#sup">a</hi></abbr>
+                                    <abbr>popul.<hi rendition="#sup">a</hi>
+                                    </abbr>
                                     <expan>population</expan>
                                 </choice> in 1810 was 186,446;</cell>
                             <cell>- in 1820, …. 238,029;</cell>
@@ -204,12 +222,14 @@
                     </choice>, <lb/>this population (the <hi rendition="#u">white</hi>) has
                     increased in the <hi rendition="#u">slave-states</hi> at a less rate than the
                         <hi rendition="#u">slave-<choice>
-                            <abbr>populat<hi rendition="#sup">n</hi></abbr>
+                            <abbr>populat<hi rendition="#sup">n</hi>
+                            </abbr>
                             <expan>population</expan>
-                        </choice></hi>
+                        </choice>
+                    </hi>
                     <lb/>in the same states. Thus, the <hi rendition="#u">white</hi> population in
-                    those states (Delaware, Maryland, Virginia,<lb/><note place="left"
-                        hand="#Humboldt, Alexander von">tournez</note>: North-Carolina,
+                    those states (Delaware, Maryland, Virginia,<lb/>
+                    <note place="left" hand="#Humboldt, Alexander von">tournez</note>: North-Carolina,
                     South-Carolina, Georgia, Alabama, Mississippi, Louisiana, Missouri, Kentucky,
                     <lb/>Tennessee, the Territory of <choice>
                         <orig>Arkansour</orig>
@@ -219,48 +239,62 @@
                         <abbr>p.<hi rendition="#sup">r</hi>%</abbr>
                         <expan>percent</expan>
                     </choice>, and at the same epochs, the <hi rendition="#u">slave-<choice>
-                            <abbr>popul.<hi rendition="#sup">n</hi></abbr>
+                            <abbr>popul.<hi rendition="#sup">n</hi>
+                            </abbr>
                             <expan>population</expan>
-                        </choice></hi><lb/><note place="left" hand="#author"><hi rendition="#u"
-                            >Cuba</hi></note>was 1,163,794, and 1,512,331 repectively, making an
+                        </choice>
+                    </hi>
+                    <lb/>
+                    <note place="left" hand="#author">
+                        <hi rendition="#u">Cuba</hi>
+                    </note>was 1,163,794, and 1,512,331 repectively, making an
                     increase of 30 <choice>
                         <abbr>p.<hi rendition="#sup">r</hi>%</abbr>
                         <expan>percent</expan>
                     </choice>, a proof both that the <lb/>slaves are generally well-treated, and
                     that the climate is more congenial to them than to the whites. <lb/>The residue
                     of the slaves, constituting the whole slave-population of the United States, are
-                    thinly scattered <lb/>through three or four of the other States, <gap
-                        unit="words" quantity="1" reason="illegible"/> the remnants of those which
+                    thinly scattered <lb/>through three or four of the other States, <gap unit="words" quantity="1" reason="illegible"/> the remnants of those which
                     existed before slavery was <lb/>there abolished, and are yearly diminuishing in
                     numbers, theirchildren being born free.</p>
-                <p><pb n="3v"/><choice>
+                <p>
+                    <pb n="3v"/>
+                    <choice>
                         <sic>Esclave</sic>
                         <corr cert="high">Esclaves</corr>
-                    </choice> des <lb/>Étas Unis <lb/><hi rendition="#uu">Cuba</hi></p>
+                    </choice> des <lb/>Étas Unis <lb/>
+                    <hi rendition="#uu">Cuba</hi>
+                </p>
                 <p>Souvent si mal <unclear reason="illegible" cert="high">imprimé</unclear>
                     <gap reason="lost" unit="words"/>
-                    <lb/>exemple un vrai nombre 5,3 <gap unit="words" reason="lost"/><lb/>donne
+                    <lb/>exemple un vrai nombre 5,3 <gap unit="words" reason="lost"/>
+                    <lb/>donne
                     5,308844. Seybert (<gap unit="words" quantity="1" reason="illegible"/>
                     <gap unit="words" reason="lost"/>
-                    <lb/>Mr Harvey <del rendition="#s">donne</del> (<gap reason="illegible"
-                        unit="words" quantity="1"/> Phil<gap unit="words" reason="lost"/><lb/>5.309
+                    <lb/>Mr Harvey <del rendition="#s">donne</del> (<gap reason="illegible" unit="words" quantity="1"/> Phil<gap unit="words" reason="lost"/>
+                    <lb/>5.309
                     758.</p>
                 <p>Mr Harvey donne les <gap unit="chars" quantity="2" reason="illegible"/>
-                    <gap reason="lost" unit="words"/><lb/>accroissement de la p<supplied cert="high"
-                        >opulation</supplied>
+                    <gap reason="lost" unit="words"/>
+                    <lb/>accroissement de la p<supplied cert="high">opulation</supplied>
                     <gap unit="words" reason="lost"/>
                     <lb/>
-                    <gap unit="words" quantity="1" reason="illegible"/>(p 41-55) <gap unit="words"
-                        quantity="1" reason="illegible"/>
+                    <gap unit="words" quantity="1" reason="illegible"/>(p 41-55) <gap unit="words" quantity="1" reason="illegible"/>
                     <gap unit="words" reason="lost"/>
-                    <lb/>de 35, I. 36, I <gap unit="words" reason="lost"/><lb/>qui commence à <gap
-                        unit="words" reason="lost"/>
+                    <lb/>de 35, I. 36, I <gap unit="words" reason="lost"/>
+                    <lb/>qui commence à <gap unit="words" reason="lost"/>
                     <lb/>qui de 2 à 3 <gap unit="words" quantity="1" reason="illegible"/>
-                    <lb/>de l'accroissement <gap unit="words" reason="lost"/></p>
-                <p><pb n="4r"/>
-                    <gap unit="pages" quantity="1" reason="empty"/></p>
-                <p><pb n="4v"/><gap unit="pages" quantity="1" reason="empty"/></p>
+                    <lb/>de l'accroissement <gap unit="words" reason="lost"/>
+                </p>
+                <p>
+                    <pb n="4r"/>
+                    <gap unit="pages" quantity="1" reason="empty"/>
+                </p>
+                <p>
+                    <pb n="4v"/>
+                    <gap unit="pages" quantity="1" reason="empty"/>
+                </p>
             </div>
         </body>
     </text>
-</TEI>
+</tei:TEI>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="letter" xml:id="prohd0014">
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" type="letter"
+    xml:id="prohd0014">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,8 +19,10 @@
                 <p>Primera edición de Proyecto Humboldt digital - ProHD (<date>2020</date>).</p>
             </editionStmt>
             <publicationStmt>
-                <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
-                        Wissenschaften (BBAW)</ref></publisher>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften (BBAW)</ref>
+                </publisher>
                 <pubPlace ref="http://www.geonames.org/2950159">Berlín</pubPlace>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
@@ -98,6 +100,7 @@
                         <category xml:id="geography"/>
                         <category xml:id="medicine"/>
                         <category xml:id="science"/>
+                        <category xml:id="plantations"/>
                         <category xml:id="coffee"/>
                         <category xml:id="sugar"/>
                         <category xml:id="slavery"/>
@@ -116,18 +119,25 @@
             <fw type="folNum">68.</fw>
             <div type="writingSession">
                 <opener>
-                    <salute>Mi muy apreciable <unclear reason="illegible" cert="high"><choice>
-                                <abbr>ami<hi rendition="#sup">go</hi></abbr>
+                    <salute>Mi muy apreciable <unclear reason="illegible" cert="high">
+                            <choice>
+                                <abbr>ami<hi rendition="#sup">go</hi>
+                                </abbr>
                                 <expan>amigo</expan>
-                            </choice></unclear> y <unclear reason="illegible" cert="low"><choice>
-                                <abbr>s<hi rendition="#sup">eñ</hi></abbr>
+                            </choice>
+                        </unclear> y <unclear reason="illegible" cert="low">
+                            <choice>
+                                <abbr>s<hi rendition="#sup">eñ</hi>
+                                </abbr>
                                 <expan>señor</expan>
-                            </choice></unclear>:</salute>
+                            </choice>
+                        </unclear>:</salute>
                 </opener>
                 <p>encargué a mi primo <choice>
                         <abbr>q</abbr>
                         <expan>que</expan>
-                    </choice><lb/> anticipase a <choice>
+                    </choice>
+                    <lb/> anticipase a <choice>
                         <abbr>V.</abbr>
                         <expan>Usted</expan>
                     </choice>
@@ -139,11 +149,13 @@
                         <abbr>q</abbr>
                         <expan>que</expan>
                     </choice> me hace<lb/> en su preciosísimo <bibl>Ensayo sobre esta Isla</bibl>, y
-                    le añadí al propio ti<g ref="#typoHyphen"/><lb/>empo <choice>
+                    le añadí al propio ti<g ref="#typoHyphen"/>
+                    <lb/>empo <choice>
                         <abbr>q</abbr>
                         <expan>que</expan>
                     </choice> le ofreciera de mi parte algunas observaciones <choice>
-                        <abbr>sob<hi rendition="#sup">e</hi></abbr>
+                        <abbr>sob<hi rendition="#sup">e</hi>
+                        </abbr>
                         <expan>sobre</expan>
                     </choice> los<lb/> principales hechos <choice>
                         <abbr>q</abbr>
@@ -151,9 +163,9 @@
                     </choice> se mientan en la obra<choice>
                         <orig>--</orig>
                         <reg>.</reg>
-                    </choice> Me la pres<g ref="#typoHyphen"/><lb/>taron por desgracia con término
-                    muy angustiado, y en esa<lb/> precipitación, no sé si me habré excedido, o si he
-                    dejado de decir<lb/> todo lo <choice>
+                    </choice> Me la pres<g ref="#typoHyphen"/>
+                    <lb/>taron por desgracia con término muy angustiado, y en esa<lb/>
+                    precipitación, no sé si me habré excedido, o si he dejado de decir<lb/> todo lo <choice>
                         <abbr>q</abbr>
                         <expan>que</expan>
                     </choice> podía<choice>
@@ -166,22 +178,25 @@
                         <abbr>q</abbr>
                         <expan>que</expan>
                     </choice> no he tenido otro estímulo <choice>
-                        <abbr>p<hi rendition="#sup">a</hi></abbr>
+                        <abbr>p<hi rendition="#sup">a</hi>
+                        </abbr>
                         <expan>para</expan>
                     </choice> entender esas<lb/> notas y enviar esos documentos, <choice>
                         <abbr>q</abbr>
                         <expan>que</expan>
-                    </choice> el de mi eterna amis<g ref="#typoHyphen"/><lb/>tad y sincera gratitud
-                    al filósofo viajero <choice>
+                    </choice> el de mi eterna amis<g ref="#typoHyphen"/>
+                    <lb/>tad y sincera gratitud al filósofo viajero <choice>
                         <abbr>q</abbr>
                         <expan>que</expan>
-                    </choice> admi<unclear reason="illegible" cert="low">ran</unclear><lb/> todas
-                    las naciones cultas, y tan de veras estima este<lb/> en <choice>
-                        <abbr>ap.<hi rendition="#sup">do</hi></abbr>
+                    </choice> admi<unclear reason="illegible" cert="low">ran</unclear>
+                    <lb/> todas las naciones cultas, y tan de veras estima este<lb/> en <choice>
+                        <abbr>ap.<hi rendition="#sup">do</hi>
+                        </abbr>
                         <expan>apasionado</expan>
                     </choice>
                     <choice>
-                        <abbr>serv.<hi rendition="#sup">r</hi></abbr>
+                        <abbr>serv.<hi rendition="#sup">r</hi>
+                        </abbr>
                         <expan>servidor</expan>
                     </choice>
                     <choice>
@@ -199,24 +214,31 @@
                     <choice>
                         <abbr>b.</abbr>
                         <expan>besa.</expan>
-                    </choice></p>
+                    </choice>
+                </p>
                 <closer>
-                    <signed><choice>
-                            <abbr>Fran.<hi rendition="#sup">co</hi></abbr>
+                    <signed>
+                        <choice>
+                            <abbr>Fran.<hi rendition="#sup">co</hi>
+                            </abbr>
                             <expan>Francisco</expan>
                         </choice> de Arango</signed>
-                    <dateline><choice>
-                            <abbr>Hav.<hi rendition="#sup">a</hi></abbr>
+                    <dateline>
+                        <choice>
+                            <abbr>Hav.<hi rendition="#sup">a</hi>
+                            </abbr>
                             <expan>La Habana</expan>
                         </choice> 30 de julio de <supplied cert="high">18</supplied>27</dateline>
                 </closer>
             </div>
             <postscript>
-                <p><choice>
-                        <abbr>P.<hi rendition="#sup">a</hi></abbr>
+                <p>
+                    <choice>
+                        <abbr>P.<hi rendition="#sup">a</hi>
+                        </abbr>
                         <expan>Para</expan>
                     </choice> Barón von Humboldt</p>
             </postscript>
         </body>
     </text>
-</TEI>
+</tei:TEI>
