@@ -83,6 +83,7 @@
                     der Sklaven.</p>
             </abstract>
             <textClass>
+                <!-- quizás el género sería informe o report -->
                 <catRef scheme="#genre" target="#notebooks"/>
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subject" target="#climatology"/>
