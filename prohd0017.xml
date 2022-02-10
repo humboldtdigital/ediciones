@@ -71,7 +71,15 @@
                     manutención de los esclavos.</p>
             </abstract>
             <abstract xml:lang="de">
-                <p>Bericht über Preise, Produktion, Verbrauch, Vertrieb und Kosten einer 1769 in Havanna gegründeten Tabakfabrik. Nachdem die Beziehung zwischen der Fabrik und dem königlichen Schatzamt geklärt ist, werden die Regulierung der Tabakpreise und ihre Arten erläutert, die Witterungsbedingungen und die politischen Unruhen mit dem Rückgang der Produktion in Verbindung gebracht und festgestellt, dass die Produktion nicht ausreicht, um den Verbrauch auf der Insel, in Spanien und in anderen Kolonien zu decken. Schließlich werden die Kosten der Fabrik erörtert, einschließlich der Lohnkosten für die Angestellten und den Unterhalt der Sklaven.</p>
+                <p>Bericht über Preise, Produktion, Verbrauch, Vertrieb und Kosten einer 1769 in
+                    Havanna gegründeten Tabakfabrik. Nachdem die Beziehung zwischen der Fabrik und
+                    dem königlichen Schatzamt geklärt ist, werden die Regulierung der Tabakpreise
+                    und ihre Arten erläutert, die Witterungsbedingungen und die politischen Unruhen
+                    mit dem Rückgang der Produktion in Verbindung gebracht und festgestellt, dass
+                    die Produktion nicht ausreicht, um den Verbrauch auf der Insel, in Spanien und
+                    in anderen Kolonien zu decken. Schließlich werden die Kosten der Fabrik
+                    erörtert, einschließlich der Lohnkosten für die Angestellten und den Unterhalt
+                    der Sklaven.</p>
             </abstract>
             <textClass>
                 <catRef scheme="#genre" target="#notebooks"/>
@@ -129,7 +137,7 @@
                         <orig>Havana</orig>
                         <reg>Habana</reg>
                     </choice> 10 de <choice>
-                        <abbr>Ab.l</abbr>
+                        <abbr>Ab.<hi rendition="#sup">l</hi></abbr>
                         <expan>abril</expan>
                     </choice> de 1804.<lb/>
                     <add place="left" hand="#H0012069">ZZ</add>
@@ -169,11 +177,11 @@
                         <orig>fabricas</orig>
                         <reg>fábricas</reg>
                     </choice> de España por contratas celebradas<lb/> con la <choice>
-                        <abbr>R.l</abbr>
+                        <abbr>R.<hi rendition="#sup">l</hi></abbr>
                         <expan>Real</expan>
                     </choice> Hacienda.</p>
                 <p>Fijada la <choice>
-                        <abbr>Fact.a</abbr>
+                        <abbr>Fact.<hi rendition="#sup">a</hi></abbr>
                         <expan>factoría</expan>
                     </choice>, lo fueron <choice>
                         <orig>tambien</orig>
@@ -214,7 +222,7 @@
                         <reg>sabiéndose</reg>
                     </choice> que <unclear reason="illegible" cert="high">
                         <choice>
-                            <abbr>virtu<g ref="#typoHyphen"/><lb/>alm.te</abbr>
+                            <abbr>virtu<g ref="#typoHyphen"/><lb/>alm.<hi rendition="#sup">te</hi></abbr>
                             <expan>virtualmente</expan>
                         </choice>
                     </unclear> no hay <choice>
@@ -234,10 +242,10 @@
                         <orig>nobaja</orig>
                         <reg>no baja</reg>
                     </choice> de seis <choice>
-                        <abbr>p.r</abbr>
+                        <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
                     </choice> cada<lb/> arroba, el de la mediana <choice>
-                        <abbr>tresym.o</abbr>
+                        <abbr>tresym.<hi rendition="#sup">o</hi></abbr>
                         <expan>tres y medio</expan>
                     </choice>, y el<lb/> de la <choice>
                         <orig>infima</orig>
@@ -263,13 +271,13 @@
                     </choice> cul<lb break="no"/>tivadores al respecto de 4 <unclear cert="low"
                         reason="illegible">
                         <choice>
-                            <abbr>p.r</abbr>
+                            <abbr>p.<hi rendition="#sup">r</hi></abbr>
                             <expan>por</expan>
                         </choice>
                     </unclear>
                     <unclear reason="illegible" cert="low">
                         <choice>
-                            <abbr>f.r</abbr>
+                            <abbr>f.<hi rendition="#sup">r</hi></abbr>
                             <expan>factoría</expan>
                         </choice>
                     </unclear>, que es el de<lb/> 16. cada quintal, precio <unclear cert="high"
@@ -331,7 +339,7 @@
                         <reg>y medio</reg>
                     </choice>
                     <choice>
-                        <abbr>rr.d</abbr>
+                        <abbr>rr.<hi rendition="#sup">de</hi></abbr>
                         <expan>arrobas de</expan>
                     </choice> plata fuerte,<lb/> sin incluir <choice>
                         <orig>elvalor</orig>
@@ -340,7 +348,7 @@
                         <orig>embase</orig>
                         <reg>envase</reg>
                     </choice>, <choice>
-                        <abbr>por q.e</abbr>
+                        <abbr>por q.<hi rendition="#sup">e</hi></abbr>
                         <expan>porque</expan>
                     </choice> este<lb/>
                     <choice>
@@ -381,7 +389,7 @@
                     </choice> año como<lb/>
                     <unclear cert="high" reason="illegible">12002</unclear>
                     <choice>
-                        <abbr>lib.s</abbr>
+                        <abbr>lib.<hi rendition="#sup">s</hi></abbr>
                         <expan>libras</expan>
                     </choice>, tiene decosto como real <choice>
                         <orig>ymedio</orig>
@@ -521,7 +529,7 @@
                         <orig>detabacos</orig>
                         <reg>de tabacos</reg>
                     </choice> es<lb/> tan <choice>
-                        <abbr>conocidam.te</abbr>
+                        <abbr>conocidam.<hi rendition="#sup">te</hi></abbr>
                         <expan>conocidamente</expan>
                     </choice> expuesto a malograrse,<lb/> con cuio motibo ha estado siempre
                     entre<lb/> gente indigente, sin <choice>
@@ -536,7 +544,7 @@
                     <lb/>cido <gap reason="illegible" unit="words" quantity="1"/> que exigeron los
                     dueños de las men<lb/>cionadas tierras por su arriendo, ha <unclear
                         reason="illegible" cert="low">desen<lb/>tado</unclear> muchos <choice>
-                        <abbr>labrad.s</abbr>
+                            <abbr>labrad.<hi rendition="#sup">s</hi></abbr>
                         <expan>labradores</expan>
                     </choice>
                     <choice>
@@ -579,7 +587,7 @@
                         <reg>y otras</reg>
                     </choice>
                     <lb/> varias en <choice>
-                        <abbr>q.e</abbr>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> han encontrado su <unclear cert="high" reason="illegible"
                         >pasar</unclear> me<lb/>nos <choice>
@@ -596,7 +604,7 @@
                         <orig>elaumento</orig>
                         <reg>el aumento</reg>
                     </choice> tan crecido que de<lb/> cuatro años a esta <choice>
-                        <abbr>p.te</abbr>
+                        <abbr>p.<hi rendition="#sup">te</hi></abbr>
                         <expan>parte</expan>
                     </choice> se ha <choice>
                         <sic>mipuesto</sic>
@@ -668,7 +676,7 @@
                     arrobas.<lb/>
                 </p>
                 <p>Para cubrir todas las atenciones, <choice>
-                        <abbr>q.e</abbr>
+                    <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice>
                     <lb/> son a cargo <choice>
@@ -676,7 +684,7 @@
                         <reg>de esta</reg>
                     </choice>
                     <choice>
-                        <abbr>Fact.a</abbr>
+                        <abbr>Fact.<hi rendition="#sup">a</hi></abbr>
                         <expan>factoría</expan>
                     </choice>, y <choice>
                         <orig>tambien</orig>
@@ -688,7 +696,7 @@
                         >35.0000</unclear>
                     <lb/>
                     <choice>
-                        <abbr>arr.s</abbr>
+                        <abbr>arr.<hi rendition="#sup">s</hi></abbr>
                         <expan>arrobas</expan>
                     </choice> en cada año, siendo bastante <choice>
                         <orig>aora</orig>
@@ -725,11 +733,11 @@
                     </row>
                     <row>
                         <cell>A España ciento <choice>
-                                <abbr>v.te</abbr>
+                            <abbr>v.<hi rendition="#sup">te</hi></abbr>
                                 <expan>veinte</expan>
                             </choice> y ocho mil<lb/>
                             <choice>
-                                <abbr>arro.s</abbr>
+                                <abbr>arro.<hi rendition="#sup">s</hi></abbr>
                                 <expan>arrobas</expan>
                             </choice> en hoja y polvo.</cell>
                         <cell>128.000</cell>
@@ -739,7 +747,7 @@
                                 <orig>Mexico</orig>
                                 <reg>México</reg>
                             </choice> dos mil doscientas y <choice>
-                                <abbr>quaren.ta</abbr>
+                                <abbr>quaren.<hi rendition="#sup">ta</hi></abbr>
                                 <expan>cuarenta</expan>
                             </choice>
                             <choice>
@@ -797,7 +805,7 @@
                     </row>
                     <row>
                         <cell>Consumo de la <choice>
-                                <abbr>Hav.a</abbr>
+                            <abbr>Hav.<hi rendition="#sup">a</hi></abbr>
                                 <expan>Habana</expan>
                             </choice> ochenta mil</cell>
                         <cell>80.000</cell>
@@ -831,14 +839,14 @@
                         <reg>cuyo</reg>
                     </choice> total asciende a trescientas quince mil<lb/>
                     <choice>
-                        <abbr>quatroz.tas</abbr>
+                        <abbr>quatroz.<hi rendition="#sup">tas</hi></abbr>
                         <expan>cuatrocientas</expan>
                     </choice> y <choice>
-                        <abbr>quar.ta</abbr>
+                        <abbr>quar.<hi rendition="#sup">ta</hi></abbr>
                         <expan>cuarenta</expan>
                     </choice>
                     <choice>
-                        <abbr>arr.s</abbr>
+                        <abbr>arr.<hi rendition="#sup">s</hi></abbr>
                         <expan>arrobas</expan>
                     </choice> sin contar con<lb/> la merma y <choice>
                         <orig>aberias</orig>
@@ -847,7 +855,7 @@
                         <orig>gene<lb/>ro</orig>
                         <reg>género</reg>
                     </choice> que pasa a un diez por ciento, y con su<lb/> agregacion se completa el <choice>
-                        <abbr>num.o</abbr>
+                        <abbr>num.<hi rendition="#sup">o</hi></abbr>
                         <expan>número</expan>
                     </choice> de las<lb/>
                     <unclear cert="high" reason="illegible">350.000</unclear> que quedan
@@ -860,7 +868,7 @@
                         <reg>rey</reg>
                     </choice> paga<lb/> a los empleados en este<lb/>
                     <choice>
-                        <abbr>establecim.to</abbr>
+                        <abbr>establecim.<hi rendition="#sup">to</hi></abbr>
                         <expan>establecimiento</expan>
                     </choice>
                 </p>
@@ -873,11 +881,11 @@
                             <reg>número</reg>
                         </choice>
                     </unclear> a la <choice>
-                        <abbr>cantid.d</abbr>
+                        <abbr>cantid.<hi rendition="#sup">d</hi></abbr>
                         <expan>cantidad</expan>
                     </choice> de 43.2000 <unclear cert="low" reason="illegible">
                         <choice>
-                            <abbr>p.os</abbr>
+                            <abbr>p.<hi rendition="#sup">os</hi></abbr>
                             <expan>pesos</expan>
                         </choice>
                     </unclear> y de los<lb/>
@@ -892,7 +900,7 @@
                     </choice> a 10.900<lb/> que reunidas forman la cantidad de<lb/>
                     <hi rendition="#u" hand="#H0012069">54.100</hi>
                     <choice>
-                        <abbr>p.os</abbr>
+                        <abbr>p.<hi rendition="#sup">os</hi></abbr>
                         <expan>pesos</expan>
                     </choice>. <note place="inline" hand="#H0012069">Voilà <gap unit="words"
                             quantity="5" reason="illegible"/>
@@ -911,7 +919,7 @@
                         <orig>es<g ref="#typoHyphen"/><lb/>clabos</orig>
                         <reg>esclavos</reg>
                     </choice> de la <choice>
-                        <abbr>Fact.a</abbr>
+                        <abbr>Fact.<hi rendition="#sup">a</hi></abbr>
                         <expan>factoría</expan>
                     </choice>, <unclear reason="illegible" cert="low">mulas</unclear> y otros
                     gastos<lb/> menores en ella importa la suma de<lb/>
@@ -927,7 +935,7 @@
                     </choice> remitan a España las<lb/>
                     <unclear cert="high" reason="illegible">128.000</unclear>
                     <choice>
-                        <abbr>arr.s</abbr>
+                        <abbr>arr.<hi rendition="#sup">s</hi></abbr>
                         <expan>arrobas</expan>
                     </choice> de tabaco en rama y <choice>
                         <orig>polbo</orig>
@@ -937,20 +945,20 @@
                         <orig>alli</orig>
                         <reg>allí</reg>
                     </choice> se consuman, debe ascender<lb/> su valor <choice>
-                        <abbr>p.a</abbr>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
                         <expan>para</expan>
                     </choice> el rey, <choice>
                         <orig>segun</orig>
                         <reg>según</reg>
                     </choice> los precios a <choice>
-                        <abbr>q.e</abbr>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice>
                     <lb/> en la <choice>
                         <orig>Peninsula</orig>
                         <reg>península</reg>
                     </choice> se vende, a cinco millo<g ref="#typoHyphen"/><lb/>nes de <choice>
-                        <abbr>p.s</abbr>
+                        <abbr>p.<hi rendition="#sup">s</hi></abbr>
                         <expan>pesos</expan>
                     </choice>
                     <gap unit="words" quantity="1" reason="illegible"/> descontados fletes, <choice>
@@ -962,7 +970,7 @@
                         <orig>elaboracion</orig>
                         <reg>elaboración</reg>
                     </choice> en aquel <choice>
-                        <abbr>Do.no</abbr>
+                        <abbr>Do.<hi rendition="#sup">no</hi></abbr>
                         <expan>
                             <gap unit="words" quantity="1" reason="illegible"/>
                         </expan>
@@ -975,23 +983,23 @@
                         <orig>Rey</orig>
                         <reg>rey</reg>
                     </choice> saque<lb/> de los <choice>
-                        <abbr>Tav.os</abbr>
+                        <abbr>Tav.<hi rendition="#sup">os</hi></abbr>
                         <expan>tabacos</expan>
                     </choice> que esta <choice>
-                        <abbr>Fact.a</abbr>
+                        <abbr>Fact.<hi rendition="#sup">a</hi></abbr>
                         <expan>factoría</expan>
                     </choice>
                     <choice>
                         <orig>embia</orig>
                         <reg>envía</reg>
                     </choice> a las <choice>
-                        <abbr>Ad<g ref="#typoHyphen"/><lb/>ministrac.es</abbr>
+                        <abbr>Ad<g ref="#typoHyphen"/><lb/>ministrac.<hi rendition="#sup">es</hi></abbr>
                         <expan>administraciones</expan>
                     </choice> de <choice>
                         <orig>America</orig>
                         <reg>América</reg>
                     </choice>, <choice>
-                        <abbr>porq.e</abbr>
+                        <abbr>porq.<hi rendition="#sup">e</hi></abbr>
                         <expan>porque</expan>
                     </choice> se ignora<lb/> el precio aque en cada <choice>
                         <orig>pasage</orig>
@@ -1016,7 +1024,7 @@
                         <orig>Poblacion</orig>
                         <reg>población</reg>
                     </choice> de la <choice>
-                        <abbr>Hav.a</abbr>
+                        <abbr>Hav.<hi rendition="#sup">a</hi></abbr>
                         <expan>Habana</expan>
                     </choice> y sus<lb/> inmediaciones deja al <choice>
                         <orig>Rey</orig>
@@ -1033,7 +1041,7 @@
                         <reg>país</reg>
                     </choice>
                     <lb/> donde hasta <choice>
-                        <abbr>q.e</abbr>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> la <choice>
                         <orig>Poblacion</orig>
