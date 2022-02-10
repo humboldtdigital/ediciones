@@ -59,6 +59,7 @@
             </creation>
             <langUsage>
                 <language ident="es">Español</language>
+                <language ident="fr">Français</language>
             </langUsage>
             <abstract xml:lang="es">
                 <p>Informe sobre precios, producción, consumo, distribución y costes de una factoría
