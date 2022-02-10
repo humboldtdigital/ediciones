@@ -39,20 +39,19 @@
                         </idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Manuscrito autógrafo de autor desconocido, en buen estado de conservación
-                            y de seis páginas de extensión, seguidas por dos páginas en blanco;
-                            dimensiones también desconocidas. Forma parte del documento conocido
-                            como &quot;Umschlag mit den Materialien für die Statistik von Kuba
+                        <p>Manuscrito autógrafo de autor desconocido en buen estado de conservación
+                            y de seis páginas de extensión. Forma parte del documento conocido como
+                            &quot;Umschlag mit den Materialien für die Statistik von Kuba
                             [Werk]&quot;. Doble numeración: una paginación original en tinta; otra
                             moderna en lápiz que solo numera los folios (123-124). Contiene algunas
-                            adiciones en tinta negra al inicio del documento por Alexander von
-                            Humboldt.</p>
+                            adiciones en tinta negra al inicio del documento, en los márgenes y al
+                            final del texto en francés por Alexander von Humboldt.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <creation><!-- falta persName = NN-->
+            <creation>
                 <persName>N.N.</persName>
                 <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
                 <date when="1804-04-10">10 de abril de 1804</date>
@@ -72,10 +71,9 @@
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subject" target="#climatology"/>
                 <catRef scheme="#subject" target="#economicconditions"/>
-                <!-- Mejor factories, en lugar de plantations-->
-                <catRef scheme="#subject" target="#plantations"/>
                 <catRef scheme="#subject" target="#slavery"/>
                 <catRef scheme="#subject" target="#tobacco"/>
+                <catRef scheme="#subject" target="#factories"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
@@ -108,6 +106,7 @@
                         <category xml:id="trade"/>
                         <category xml:id="emancipation"/>
                         <category xml:id="education"/>
+                        <category xml:id="factories"/>
                         <category xml:id="administration"/>
                     </category>
                 </taxonomy>
@@ -592,8 +591,8 @@
                     </choice> se ha <choice>
                         <sic>mipuesto</sic>
                         <corr>impuesto</corr>
-                    </choice> a to<g ref="#typoHyphen"/><lb/>das las clases, con el fin de llamarles al gre<lb/>mio por
-                    medio de este <choice>
+                    </choice> a to<g ref="#typoHyphen"/><lb/>das las clases, con el fin de llamarles
+                    al gre<lb/>mio por medio de este <choice>
                         <orig>interes</orig>
                         <reg>interés</reg>
                     </choice>, vedadero con<lb/>ductor del hombre. Aun <choice>
@@ -688,8 +687,8 @@
                         >250000</unclear> para tener provistos<lb/> todos los puntos <choice>
                         <orig>aquienes</orig>
                         <reg>a quienes</reg>
-                    </choice> surte, excepto<lb/> el consumo que se hace de veinte leguas
-                    tie<g ref="#typoHyphen"/><lb/>rra adentro <choice>
+                    </choice> surte, excepto<lb/> el consumo que se hace de veinte leguas tie<g
+                        ref="#typoHyphen"/><lb/>rra adentro <choice>
                         <orig>desta</orig>
                         <reg>de esta</reg>
                     </choice> capital, hasta Cuba in<lb/>clusive donde nunca <hi rendition="#u"
