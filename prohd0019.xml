@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?><?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_t3r_r2n_lsb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Nota por el Rancho comprado por el Señor Barón de
+                    Humboldt</title>
+                <editor>
+                    <persName ref="http://viaf.org/viaf/205809746">
+                        <surname>Kraft</surname>
+                        <forename>Tobias</forename>
+                    </persName>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2022</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p/>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellonska</institution>
+                        <collection>Nachl. Alexander von Humboldt</collection>
+                        <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl.
+                                166</idno>
+                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2878510</idno>
+                            <idno type="URLImages">http://jbc.bj.uj.edu.pl/dlibra/publication/367149/content</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Manuscrito autógrafo de autor desconocido (probablemente Juan Emanuel Caxigas) en buen estado de conservación y de una página de extensión. Forma parte del documento conocido como "Umschlag mit den Materialien für die Statistik von Kuba". Doble numeración: una paginación original en tinta; otra moderna en lápiz que solo numera el folio (166).
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="H0012966">Caxigas, Juan Emanuel (um 1799)</persName>
+                <placeName key="H0007693">Cumaná [Cumana] (Nordöstliche Hafenstadt und Provinz im
+                    heutigen Venezuela)</placeName>
+                <date notBefore="1799-07-16" notAfter="1799-07-31" cert="high"/>
+            </creation>
+            <abstract xml:lang="es">
+                <p>Al iniciar su famoso viaje por las Américas (1799-1804), Alexander von Humboldt y
+                    su acompañante Aimé Bonpland partieron desde La Coruña el 5 de junio de 1799 y
+                    llegaron a Cumaná (hoy en día Venezuela) el 16 de julio del mismo año. Debido a
+                    un brote de epidemia (fiebre amarilla) en el barco, no continuaron el viaje a
+                    Cuba como estaba previsto. La nota corresponde a los gastos y el consumo
+                    (rancho) que Humboldt acumuló durante su viaje de 41 dias en barco a bordo de la
+                    corveta española „Pizarro“. La suma de la cuenta se vuelve a mencionar en el
+                    tomo II y VI de los diarios de viaje americano, en una nota dedicada a los
+                    „Reisekosten“ (gastos de viaje), donde Humboldt menciona haber pagado „500
+                    Piaster [pesos reales]“ al capitán del barco (<ref target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000206">fol. 106v</ref>). Se considera que este
+                    capitán, Juan Emanuel Caxigas, es también el autor de esta nota. </p>
+                <p>Sin embargo, soprende que Humboldt guardó la „Nota por el rancho“ en el „Umschlag
+                    mit den Materialien für die Statistik von Kuba“ (“Sobre con los materiales para
+                    las políticas de Cuba“). También es posible (aún menos probable) que la nota se
+                    refiere a otros gastos: En su diario, Humboldt precisa el costo del „passage de
+                    Veracruz à la Havana dans la fregatte O.“ (<ref target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000201">fol.
+                        104r</ref>), con el cual comienza su segunda estadía en Cuba, con la misma
+                    cantidad de 500 pesos. </p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>Zu Beginn seiner berühmten Amerikareise (1799-1804) stachen Alexander von
+                    Humboldt und sein Begleiter Aimé Bonpland am 5. Juni 1799 von La Coruña aus in
+                    See und kamen am 16. Juli desselben Jahres in Cumaná (im heutigen Venezuela) an.
+                    Wegen des Ausbruchs einer Epidemie (Gelbfieber) auf dem Schiff konnten sie ihre
+                    Reise nach Kuba nicht wie geplant fortsetzen. Die „Nota por el Rancho“
+                    entspricht den Ausgaben und dem Verbrauch (Rancho), die Humboldt während seiner
+                    41-tägigen Schiffsreise an Bord der spanischen Korvette "Pizarro" anhäufte.
+                    Derselbe Betrag wird in Band II und VI der amerikanischen Reisetagebücher in
+                    einer Notiz zu den "Reisekosten" wieder erwähnt, wo Humboldt angibt, dass er
+                    „500 Piaster [echte Pesos]“ an den Schiffskapitän gezahlt hat (<ref target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000206">Bl. 106v</ref>). Dieser
+                    Kapitän, Juan Emanuel Caxigas, wird auch als Autor dieser Notiz angesehen. </p>
+                <p>Erstaunlich ist jedoch, dass Humboldt die „Nota por el rancho“ im „Umschlag mit
+                    den Materialien für die Statistik von Kuba“ aufbewahrt hat. Es ist auch möglich
+                    (noch unwahrscheinlicher), dass sich die Notiz auf andere Ausgaben bezieht: In
+                    seinem Tagebuch gibt Humboldt die Kosten für die „passage de Veracruz à la
+                    Havana dans la fregatte O“ an. (<ref target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000201">Bl.
+                        104r</ref>), mit dem er seinen zweiten Aufenthalt in Kuba beginnt, mit dem
+                    gleichen Betrag von 500 Pesos. </p>
+            </abstract>
+            <langUsage>
+                <language ident="es">Español</language>
+
+            </langUsage>
+            <textClass>
+                <catRef scheme="#genre" target="#notebooks"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#subject" target="#trip"/>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                        <category xml:id="explorationtravel"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <p><pb n="166r" facs="prohd0019_166r.tif"/><fw type="folNum">2</fw></p>
+                <p>
+                    <table rows="20" cols="6">
+                        <head>Nota del Rancho comprado <choice>
+                                <abbr>p<hi rendition="#sup">r</hi>.</abbr>
+                                <expan>por</expan>
+                            </choice> el <choice>
+                                <abbr>S<hi rendition="#sup">or</hi></abbr>
+                                <expan>Senor</expan>
+                            </choice> Baron <add place="intralinear">de</add>
+                            <choice>
+                                <sic>Homboldt</sic>
+                                <corr cert="high">Humboldt</corr>
+                            </choice></head>
+                        <row>
+                            <cell>Por</cell>
+                            <cell>60 </cell>
+                            <cell>Gallinas</cell>
+                            <cell>…</cell>
+                            <cell>à 8 <choice>
+                                    <abbr>r.</abbr>
+                                    <expan>reales</expan>
+                                </choice></cell>
+                            <cell rendition="#right">60,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell>30</cell>
+                            <cell>
+                                    Pollos
+                                </cell>
+                            <cell>…</cell>
+                            <cell>à 5 <choice>
+                                    <abbr>r</abbr>
+                                    <expan>reales</expan>
+                                </choice> y 6 <choice>
+                                    <abbr>r</abbr>
+                                    <expan>reales</expan>
+                                </choice> pesos</cell>
+                            <cell rendition="#right">10,3<supplied cert="high">0</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell>10</cell>
+                            <cell>Patos</cell>
+                            <cell>…</cell>
+                            <cell>en <choice>
+                                    <abbr>"</abbr>
+                                    <expan>6 <choice>
+                                            <abbr>r</abbr>
+                                            <expan>reales</expan>
+                                        </choice> pesos</expan>
+                                </choice></cell>
+                            <cell rendition="#right">9,4<supplied cert="high">0</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell/>
+                            <cell><choice>
+                                    <abbr>Conduc<hi rendition="#sup">on</hi></abbr>
+                                    <expan>Conducción</expan>
+                                </choice> al Muelle y Embarque </cell>
+                            <cell>…</cell>
+                            <cell/>
+                            <cell rendition="#right">1,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell>400</cell>
+                            <cell>Huevos</cell>
+                            <cell>…</cell>
+                            <cell>en</cell>
+                            <cell rendition="#right">8,4<supplied cert="high">0</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell>36</cell>
+                            <cell>Botellas Vino <choice>
+                                    <orig>frances</orig>
+                                    <reg>francés</reg>
+                                </choice></cell>
+                            <cell>…</cell>
+                            <cell>à <subst>
+                                    <del rendition="#ow">6</del>
+                                    <add place="across">7</add>
+                                </subst>,4 pesos</cell>
+                            <cell rendition="#right">21,6<supplied cert="high">0</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell>12</cell>
+                            <cell><choice>
+                                    <abbr>lib.<hi rendition="#sup">s</hi></abbr>
+                                    <expan>libras</expan>
+                                </choice> de Chocolate</cell>
+                            <cell>…</cell>
+                            <cell>a 6 <choice>
+                                    <abbr>r.</abbr>
+                                    <expan>reales</expan>
+                                </choice>
+                            </cell>
+                            <cell rendition="#right">9,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell>1</cell>
+                            <cell>Cuenta de Rancho pagada a Roig y Oliver</cell>
+                            <cell/>
+                            <cell>…</cell>
+                            <cell rendition="#right">88,3<supplied cert="high">0</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell/>
+                            <cell>Biscochos de Mallorca, y Candado <choice>
+                                    <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                                    <expan>para</expan>
+                                </choice> la <choice>
+                                    <abbr>Bis.<hi rendition="#sup">a</hi></abbr>
+                                    <expan>Biscochea</expan>
+                                </choice></cell>
+                            <cell/>
+                            <cell>…</cell>
+                            <cell rendition="#right">4,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell/>
+                            <cell>mandados del Rancho y llevarlo a Bordo</cell>
+                            <cell/>
+                            <cell>…</cell>
+                            <cell rendition="#right">3,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell/>
+                            <cell>Por Carne fresca</cell>
+                            <cell>…</cell>
+                            <cell>…</cell>
+                            <cell rendition="#right">3,4<supplied cert="high">0</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell/>
+                            <cell>Por Verduras</cell>
+                            <cell>…</cell>
+                            <cell>…</cell>
+                            <cell rendition="#right">6,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell/>
+                            <cell>Por una <choice>
+                                    <abbr>Libr.<hi rendition="#sup">a</hi></abbr>
+                                    <expan>Libra</expan>
+                                </choice> de Tee, 2 frascos de fruta y <lb/>una Botijuela de
+                                alcaparras en …</cell>
+                            <cell>}</cell>
+                            <cell>…</cell>
+                            <cell rendition="#right">8,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>"</cell>
+                            <cell/>
+                            <cell>Por mandado y <choice>
+                                    <abbr>Conduc<hi rendition="#sup">on</hi></abbr>
+                                    <expan>Conducción</expan>
+                                </choice> a Bordo de las <lb/><choice>
+                                    <orig>ultimas</orig>
+                                    <reg>últimas</reg>
+                                </choice> menudencias …</cell>
+                            <cell>}</cell>
+                            <cell/>
+                            <cell rendition="#right">2,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell rendition="#right">_______</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell><choice>
+                                    <abbr>P.<hi rendition="#sup">s</hi></abbr>
+                                    <expan>Pesos</expan>
+                                </choice></cell>
+                            <cell rendition="#right">234,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell>Por el Pasaje</cell>
+                            <cell>…</cell>
+                            <cell/>
+                            <cell rendition="#right">150,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell><choice>
+                                    <abbr>Id</abbr>
+                                    <expan>Idem</expan>
+                                </choice> del Criado</cell>
+                            <cell>…</cell>
+                            <cell/>
+                            <cell rendition="#right">25,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell>Flete de los Cajones a <subst>
+                                    <del rendition="#ow">1</del>
+                                    <add place="across">3</add>
+                                </subst>
+                                <gap reason="illegible" unit="chars" quantity="1"/>
+                                <choice>
+                                    <abbr>p.<hi rendition="#sup">s</hi></abbr>
+                                    <expan>pesos</expan>
+                                </choice></cell>
+                            <cell>…</cell>
+                            <cell/>
+                            <cell rendition="#right">91,<supplied cert="high">00</supplied></cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell rendition="#right">_______</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell><choice>
+                                    <abbr>P.<hi rendition="#sup">s</hi></abbr>
+                                    <expan>Pesos</expan>
+                                </choice></cell>
+                            <cell rendition="#right">500,<supplied cert="high">00</supplied></cell>
+                        </row>
+                    </table>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
