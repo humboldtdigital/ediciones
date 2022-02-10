@@ -205,7 +205,7 @@
                         <reg>sabiéndose</reg>
                     </choice> que <unclear reason="illegible" cert="high">
                         <choice>
-                            <abbr>virtu-<lb/>alm.te</abbr>
+                            <abbr>virtu<g ref="#typoHyphen"/><lb/>alm.te</abbr>
                             <expan>virtualmente</expan>
                         </choice>
                     </unclear> no hay <choice>
@@ -464,7 +464,7 @@
                         <reg>no se</reg>
                     </choice>
                     <choice>
-                        <orig>co-<lb/>nocian</orig>
+                        <orig>co<g ref="#typoHyphen"/><lb/>nocian</orig>
                         <reg>conocían</reg>
                     </choice>, y las <choice>
                         <abbr>q.</abbr>
@@ -592,7 +592,7 @@
                     </choice> se ha <choice>
                         <sic>mipuesto</sic>
                         <corr>impuesto</corr>
-                    </choice> a to-<lb/>das las clases, con el fin de llamarles al gre<lb/>mio por
+                    </choice> a to<g ref="#typoHyphen"/><lb/>das las clases, con el fin de llamarles al gre<lb/>mio por
                     medio de este <choice>
                         <orig>interes</orig>
                         <reg>interés</reg>
@@ -689,7 +689,7 @@
                         <orig>aquienes</orig>
                         <reg>a quienes</reg>
                     </choice> surte, excepto<lb/> el consumo que se hace de veinte leguas
-                    tie-<lb/>rra adentro <choice>
+                    tie<g ref="#typoHyphen"/><lb/>rra adentro <choice>
                         <orig>desta</orig>
                         <reg>de esta</reg>
                     </choice> capital, hasta Cuba in<lb/>clusive donde nunca <hi rendition="#u"
@@ -899,7 +899,7 @@
                         <reg>negros</reg>
                     </choice>
                     <choice>
-                        <orig>es-<lb/>clabos</orig>
+                        <orig>es<g ref="#typoHyphen"/><lb/>clabos</orig>
                         <reg>esclavos</reg>
                     </choice> de la <choice>
                         <abbr>Fact.a</abbr>
@@ -940,7 +940,7 @@
                     <lb/> en la <choice>
                         <orig>Peninsula</orig>
                         <reg>península</reg>
-                    </choice> se vende, a cinco millo-<lb/>nes de <choice>
+                    </choice> se vende, a cinco millo<g ref="#typoHyphen"/><lb/>nes de <choice>
                         <abbr>p.s</abbr>
                         <expan>pesos</expan>
                     </choice>
@@ -976,7 +976,7 @@
                         <orig>embia</orig>
                         <reg>envía</reg>
                     </choice> a las <choice>
-                        <abbr>Ad-<lb/>ministrac.es</abbr>
+                        <abbr>Ad<g ref="#typoHyphen"/><lb/>ministrac.es</abbr>
                         <expan>administraciones</expan>
                     </choice> de <choice>
                         <orig>America</orig>
@@ -1051,7 +1051,7 @@
                     <lb/> contemple, y aun <choice>
                         <orig>alague</orig>
                         <reg>halague</reg>
-                    </choice> a la exis-<lb/>tente.</p>
+                    </choice> a la exis<g ref="#typoHyphen"/><lb/>tente.</p>
             </div>
         </body>
     </text>
