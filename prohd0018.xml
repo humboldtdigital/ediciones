@@ -59,7 +59,8 @@
                 <language ident="fr">Francés</language>
             </langUsage>
             <abstract xml:lang="es">
-                <p/>
+                <p>Observaciones críticas de un autor desconocido sobre la situación de los esclavos
+                    en los ingenios azucareros. Con dos notas marginales de Humboldt.</p>
             </abstract>
             <abstract xml:lang="de">
                 <p>Kritische Bemerkungen eines unbekannten Verfassers über die Situation der Sklaven
@@ -197,8 +198,8 @@
                     <choice>
                         <orig>goviernos</orig>
                         <reg>gobiernos</reg>
-                    </choice> siempre embaraza<g ref="#typoHyphen"/><lb break="no"/>dos y confusos en
-                    este ramo importante, em<g ref="#typoHyphen"/><lb break="no"/>pleando ya la
+                    </choice> siempre embaraza<g ref="#typoHyphen"/><lb break="no"/>dos y confusos
+                    en este ramo importante, em<g ref="#typoHyphen"/><lb break="no"/>pleando ya la
                     dulzura, ya la severidad<supplied cert="high">,</supplied><lb/>
                     <pb n="152v" facs="prohd0018_152v.tif"/>ya la fuerza para mantener un derecho <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
@@ -476,8 +477,8 @@
                     </choice>, <choice>
                         <orig>ò</orig>
                         <reg>o</reg>
-                    </choice> capa<g ref="#typoHyphen"/><lb break="no"/>taces de semejantes trabajos.
-                    Su rusticidad<lb/> es conocida, y basta verles <choice>
+                    </choice> capa<g ref="#typoHyphen"/><lb break="no"/>taces de semejantes
+                    trabajos. Su rusticidad<lb/> es conocida, y basta verles <choice>
                         <orig>à</orig>
                         <reg>a</reg>
                     </choice> todas horas<lb/> armados de <choice>
@@ -612,8 +613,8 @@
                         <reg>elección</reg>
                     </choice> de una compañera de sus miserias. </p>
                 <pb n="155r" facs="prohd0018_155r.tif"/>
-                <p>En el sistema que constantemente han segui<g ref="#typoHyphen"/><lb break="no"/>do
-                    nuestros <choice>
+                <p>En el sistema que constantemente han segui<g ref="#typoHyphen"/><lb break="no"
+                    />do nuestros <choice>
                         <orig>Ingenios</orig>
                         <reg>ingenios</reg>
                     </choice> y sigue la mayor<lb/> parte <choice>
@@ -658,8 +659,8 @@
                     </choice> fuertes que<lb/> se pudieran formar, <choice>
                         <orig>por que</orig>
                         <reg>porque</reg>
-                    </choice> nos des<g ref="#typoHyphen"/><lb break="no"/>mentirà el material examen
-                    que haga<lb/>
+                    </choice> nos des<g ref="#typoHyphen"/><lb break="no"/>mentirà el material
+                    examen que haga<lb/>
                     <choice>
                         <orig>qualquiera</orig>
                         <reg>cualquiera</reg>
