@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?><?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_t3r_r2n_lsb">
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?><?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0019">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,7 +25,8 @@
                 <pubPlace>Berlín</pubPlace>
                 <pubPlace>La Habana</pubPlace>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <notesStmt>
@@ -41,12 +43,16 @@
                             <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl.
                                 166</idno>
                             <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2878510</idno>
-                            <idno type="URLImages">http://jbc.bj.uj.edu.pl/dlibra/publication/367149/content</idno>
+                            <idno type="URLImages"
+                                >http://jbc.bj.uj.edu.pl/dlibra/publication/367149/content</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Manuscrito autógrafo de autor desconocido (probablemente Juan Emanuel Caxigas) en buen estado de conservación y de una página de extensión. Forma parte del documento conocido como "Umschlag mit den Materialien für die Statistik von Kuba". Doble numeración: una paginación original en tinta; otra moderna en lápiz que solo numera el folio (166).
-                        </p>
+                        <p>Manuscrito autógrafo de autor desconocido (probablemente Juan Emanuel
+                            Caxigas) en buen estado de conservación y de una página de extensión.
+                            Forma parte del documento conocido como "Umschlag mit den Materialien
+                            für die Statistik von Kuba". Doble numeración: una paginación original
+                            en tinta; otra moderna en lápiz que solo numera el folio (166). </p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -68,13 +74,16 @@
                     corveta española „Pizarro“. La suma de la cuenta se vuelve a mencionar en el
                     tomo II y VI de los diarios de viaje americano, en una nota dedicada a los
                     „Reisekosten“ (gastos de viaje), donde Humboldt menciona haber pagado „500
-                    Piaster [pesos reales]“ al capitán del barco (<ref target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000206">fol. 106v</ref>). Se considera que este
-                    capitán, Juan Emanuel Caxigas, es también el autor de esta nota. </p>
+                    Piaster [pesos reales]“ al capitán del barco (<ref
+                        target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000206">fol.
+                        106v</ref>). Se considera que este capitán, Juan Emanuel Caxigas, es también
+                    el autor de esta nota. </p>
                 <p>Sin embargo, soprende que Humboldt guardó la „Nota por el rancho“ en el „Umschlag
                     mit den Materialien für die Statistik von Kuba“ (“Sobre con los materiales para
                     las políticas de Cuba“). También es posible (aún menos probable) que la nota se
                     refiere a otros gastos: En su diario, Humboldt precisa el costo del „passage de
-                    Veracruz à la Havana dans la fregatte O.“ (<ref target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000201">fol.
+                    Veracruz à la Havana dans la fregatte O.“ (<ref
+                        target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000201">fol.
                         104r</ref>), con el cual comienza su segunda estadía en Cuba, con la misma
                     cantidad de 500 pesos. </p>
             </abstract>
@@ -88,28 +97,32 @@
                     41-tägigen Schiffsreise an Bord der spanischen Korvette "Pizarro" anhäufte.
                     Derselbe Betrag wird in Band II und VI der amerikanischen Reisetagebücher in
                     einer Notiz zu den "Reisekosten" wieder erwähnt, wo Humboldt angibt, dass er
-                    „500 Piaster [echte Pesos]“ an den Schiffskapitän gezahlt hat (<ref target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000206">Bl. 106v</ref>). Dieser
-                    Kapitän, Juan Emanuel Caxigas, wird auch als Autor dieser Notiz angesehen. </p>
+                    „500 Piaster [echte Pesos]“ an den Schiffskapitän gezahlt hat (<ref
+                        target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000206">Bl.
+                        106v</ref>). Dieser Kapitän, Juan Emanuel Caxigas, wird auch als Autor
+                    dieser Notiz angesehen. </p>
                 <p>Erstaunlich ist jedoch, dass Humboldt die „Nota por el rancho“ im „Umschlag mit
                     den Materialien für die Statistik von Kuba“ aufbewahrt hat. Es ist auch möglich
                     (noch unwahrscheinlicher), dass sich die Notiz auf andere Ausgaben bezieht: In
                     seinem Tagebuch gibt Humboldt die Kosten für die „passage de Veracruz à la
-                    Havana dans la fregatte O“ an. (<ref target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000201">Bl.
+                    Havana dans la fregatte O“ an. (<ref
+                        target="http://resolver.staatsbibliothek-berlin.de/SBB0001527300000201">Bl.
                         104r</ref>), mit dem er seinen zweiten Aufenthalt in Kuba beginnt, mit dem
                     gleichen Betrag von 500 Pesos. </p>
             </abstract>
             <langUsage>
                 <language ident="es">Español</language>
-
             </langUsage>
             <textClass>
                 <catRef scheme="#genre" target="#notebooks"/>
                 <catRef scheme="#form" target="#manuscript"/>
+                <!-- to do: revisar esta categoría -->
                 <catRef scheme="#subject" target="#trip"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <classDecl>
+                <!-- to do: ordenar alfabéticamente -->
                 <taxonomy xml:id="pb-taxonomy">
                     <category xml:id="genre">
                         <category xml:id="diaries"/>
@@ -144,7 +157,6 @@
             </classDecl>
         </encodingDesc>
     </teiHeader>
-
     <text>
         <body>
             <div>
@@ -176,9 +188,7 @@
                         <row>
                             <cell>"</cell>
                             <cell>30</cell>
-                            <cell>
-                                    Pollos
-                                </cell>
+                            <cell> Pollos </cell>
                             <cell>…</cell>
                             <cell>à 5 <choice>
                                     <abbr>r</abbr>
