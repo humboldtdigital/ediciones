@@ -108,7 +108,8 @@
     <text>
         <body>
             <div>
-                <p><pb n="190r" facs="prohd0005_190r.tif"/>IV <hi rendition="#uu">Intendance de Veracruz</hi>
+                <pb n="190r" facs="prohd0005_190r.tif"/>
+                <p>IV <hi rendition="#uu">Intendance de Veracruz</hi>
                     <space quantity="11" unit="chars"/>|156.000. | 4141. | 38.</p>
                 <p>+ Cette Province s'étend le long du Golfe du Mexique depuis le Rio <lb/>Baraderas
                     où des Crocodiles (de los Lagartos) jusqu'<del rendition="#s">au</del> à

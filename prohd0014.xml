@@ -115,9 +115,9 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1r" facs="prohd0014_1r.tif"/>
-            <fw type="folNum">68.</fw>
             <div type="writingSession">
+                <pb n="1r" facs="prohd0014_1r.tif"/>
+                <fw type="folNum">68.</fw>
                 <opener>
                     <salute>Mi muy apreciable <unclear reason="illegible" cert="high">
                             <choice>

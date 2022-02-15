@@ -101,7 +101,8 @@
     <text>
         <body>
             <div type="writingSession">
-                <p><pb n="1r" facs="prohd0003_1r.tif"/>Si Monsieur Humboldt veut <lb/>avoir tout de suite <subst>
+                <pb n="1r" facs="prohd0003_1r.tif"/>
+                <p>Si Monsieur Humboldt veut <lb/>avoir tout de suite <subst>
                         <del rendition="#ow">de</del>
                         <add place="across">les</add>
                     </subst> renseignemens <lb/>qu'il désire sur l'île de Cuba, <lb/>il peut écrire

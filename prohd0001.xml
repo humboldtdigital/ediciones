@@ -94,7 +94,8 @@
     <text>
         <body>
             <div>
-                <p><pb n="1r" facs="prohd0001_1r.tif"/>Esclaves</p>
+                <pb n="1r" facs="prohd0001_1r.tif"/>
+                <p>Esclaves</p>
                 <p>nous rét<add place="superlinear">r</add>ogradons comme partout<supplied
                         cert="high">,</supplied><lb/>on ne veut plus en écrire <lb/><unclear
                         reason="illegible" cert="high">ni</unclear> parler<supplied cert="high"

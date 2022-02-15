@@ -105,6 +105,7 @@
     <text>
         <body>
             <div type="writingSession">
+                <pb/>
                 <opener>
                     <dateline/>
                     <salute/>

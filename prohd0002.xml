@@ -1,4 +1,6 @@
-<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" type="letter" xml:id="prohd0002">
+<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" type="letter"
+    xml:id="prohd0002">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -101,9 +103,9 @@
     <text>
         <body>
             <div type="writingSession">
-                <p>
-                    <pb n="1r" facs="bjk-nah-bd8bl246-281-02-v1.tif"/>I have not at hand the means of <lb/>verifying the calculations
-                    contained in your note, <lb/>which after having shown to <choice>
+                <pb n="1r" facs="bjk-nah-bd8bl246-281-02-v1.tif"/>
+                <p>I have not at hand the means of <lb/>verifying the calculations contained in
+                    your note, <lb/>which after having shown to <choice>
                         <abbr>M.<hi rendition="#sup">r</hi>
                         </abbr>
                         <expan>Mister</expan>
@@ -124,13 +126,11 @@
                     <lb/>been kept open there (I believe 15 years) the annual <lb/>importation of
                     slaves has been very considerable, <lb/>and lately, at least 20,000 a year.</p>
                 <p>You are perhaps aware that Colquhoun is <lb/>
-                    <pb n="1v" facs="prohd0002_1v.tif"/>a little given to
-                    exaggeration and that his <lb/>calculations must be received with some
-                    allowance.</p>
+                    <pb n="1v" facs="prohd0002_1v.tif"/>a little given to exaggeration and that his
+                    <lb/>calculations must be received with some allowance.</p>
                 <p>With the greatest considerations &amp; regard <lb/>I have the honor to be, my
                     dear Sir, <lb/>your most obedient servant <lb/>D. Sheldon <lb/>
-                    <date>Friday 31
-                        May</date>
+                    <date>Friday 31 May</date>
                 </p>
                 <p>
                     <pb n="2r" facs="prohd0002_2r.tif"/>
@@ -161,8 +161,8 @@
                     <gap unit="pages" quantity="1" reason="empty"/>
                 </p>
                 <p>
-                    <pb n="3r" facs="prohd0002_3r.tif"/>On comparing the result of this Census, with that of 1810, the
-                    following proportions are found:</p>
+                    <pb n="3r" facs="prohd0002_3r.tif"/>On comparing the result of this Census, with
+                    that of 1810, the following proportions are found:</p>
                 <p>
                     <table rows="4" cols="3">
                         <row>
@@ -229,9 +229,9 @@
                     </hi>
                     <lb/>in the same states. Thus, the <hi rendition="#u">white</hi> population in
                     those states (Delaware, Maryland, Virginia,<lb/>
-                    <note place="left" hand="#Humboldt, Alexander von">tournez</note>: North-Carolina,
-                    South-Carolina, Georgia, Alabama, Mississippi, Louisiana, Missouri, Kentucky,
-                    <lb/>Tennessee, the Territory of <choice>
+                    <note place="left" hand="#Humboldt, Alexander von">tournez</note>:
+                    North-Carolina, South-Carolina, Georgia, Alabama, Mississippi, Louisiana,
+                    Missouri, Kentucky, <lb/>Tennessee, the Territory of <choice>
                         <orig>Arkansour</orig>
                         <reg>Arkansas</reg>
                     </choice>, and the Disctrict of Columbia) was in 1810, 2,208,785, and <lb/>in
@@ -247,14 +247,14 @@
                     <lb/>
                     <note place="left" hand="#author">
                         <hi rendition="#u">Cuba</hi>
-                    </note>was 1,163,794, and 1,512,331 repectively, making an
-                    increase of 30 <choice>
+                    </note>was 1,163,794, and 1,512,331 repectively, making an increase of 30 <choice>
                         <abbr>p.<hi rendition="#sup">r</hi>%</abbr>
                         <expan>percent</expan>
                     </choice>, a proof both that the <lb/>slaves are generally well-treated, and
                     that the climate is more congenial to them than to the whites. <lb/>The residue
                     of the slaves, constituting the whole slave-population of the United States, are
-                    thinly scattered <lb/>through three or four of the other States, <gap unit="words" quantity="1" reason="illegible"/> the remnants of those which
+                    thinly scattered <lb/>through three or four of the other States, <gap
+                        unit="words" quantity="1" reason="illegible"/> the remnants of those which
                     existed before slavery was <lb/>there abolished, and are yearly diminuishing in
                     numbers, theirchildren being born free.</p>
                 <p>
@@ -268,18 +268,18 @@
                 <p>Souvent si mal <unclear reason="illegible" cert="high">imprimé</unclear>
                     <gap reason="lost" unit="words"/>
                     <lb/>exemple un vrai nombre 5,3 <gap unit="words" reason="lost"/>
-                    <lb/>donne
-                    5,308844. Seybert (<gap unit="words" quantity="1" reason="illegible"/>
+                    <lb/>donne 5,308844. Seybert (<gap unit="words" quantity="1" reason="illegible"/>
                     <gap unit="words" reason="lost"/>
-                    <lb/>Mr Harvey <del rendition="#s">donne</del> (<gap reason="illegible" unit="words" quantity="1"/> Phil<gap unit="words" reason="lost"/>
-                    <lb/>5.309
-                    758.</p>
+                    <lb/>Mr Harvey <del rendition="#s">donne</del> (<gap reason="illegible"
+                        unit="words" quantity="1"/> Phil<gap unit="words" reason="lost"/>
+                    <lb/>5.309 758.</p>
                 <p>Mr Harvey donne les <gap unit="chars" quantity="2" reason="illegible"/>
                     <gap reason="lost" unit="words"/>
                     <lb/>accroissement de la p<supplied cert="high">opulation</supplied>
                     <gap unit="words" reason="lost"/>
                     <lb/>
-                    <gap unit="words" quantity="1" reason="illegible"/>(p 41-55) <gap unit="words" quantity="1" reason="illegible"/>
+                    <gap unit="words" quantity="1" reason="illegible"/>(p 41-55) <gap unit="words"
+                        quantity="1" reason="illegible"/>
                     <gap unit="words" reason="lost"/>
                     <lb/>de 35, I. 36, I <gap unit="words" reason="lost"/>
                     <lb/>qui commence à <gap unit="words" reason="lost"/>
