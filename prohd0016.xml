@@ -20,15 +20,13 @@
             <publicationStmt>
                 <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                        (CC BY 4.0) </licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0) </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>Archivo Histórico de la Oficina del Historidor de La
-                            Habana</institution>
+                        <institution>Archivo Histórico de la Oficina del Historidor de La Habana</institution>
                         <collection>Coleción Gobierno Español</collection>
                         <idno>
                             <idno type="shelfmark">Legajo 673. Expediente 6</idno>
@@ -51,8 +49,7 @@
                     <persName key="ed_d2l_cbl_jrb">Gobernador, (-)</persName>
                     <placeName key="H0006819">La Habana</placeName>
                 </correspAction>
-                <note>En el documento se distinguen dos partes textuales independientes de autores
-                    distintos.</note>
+                <note>En el documento se distinguen dos partes textuales independientes de autores distintos.</note>
             </correspDesc>
             <textClass>
                 <catRef scheme="#genre" target="#correspondence"/>
@@ -65,12 +62,7 @@
             </langUsage>
             <abstract xml:lang="es">
                 <!-- esto requiere una revisión, porque más bien parece que la petición de Ana de Toro y la sobre la prohibición del Ensayo son dos actos separados -->
-                <p>Solicitud hecha al Gobernador y Capitán General sobre licencia que presentó la
-                    morena libre Ana del Toro para establecer una escuela de primeras letras a niños
-                    de color y utilizar como material de enseñanza el "Ensayo Político de la Isla de
-                    Cuba" de la autoría de Alejandro de Humboldt, en 1827. Contiene membrete de
-                    Comisaria del Excelentísimo Ayuntamiento de la siempre fidelísima ciudad de La
-                    Habana.</p>
+                <p>Solicitud hecha al Gobernador y Capitán General sobre licencia que presentó la morena libre Ana del Toro para establecer una escuela de primeras letras a niños de color y utilizar como material de enseñanza el "Ensayo Político de la Isla de Cuba" de la autoría de Alejandro de Humboldt, en 1827. Contiene membrete de Comisaria del Excelentísimo Ayuntamiento de la siempre fidelísima ciudad de La Habana.</p>
             </abstract>
         </profileDesc>
         <encodingDesc>
@@ -109,17 +101,20 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1" facs="0001.tif"/>
             <div type="writingSession" n="1">
+                <pb n="1" facs="prohd0016_1.tif"/>
                 <opener>
                     <dateline>1827</dateline>
-                    <salute><choice>
+                    <salute>
+                        <choice>
                             <abbr>S.</abbr>
                             <expan>Señor </expan>
-                        </choice><choice>
+                        </choice>
+                        <choice>
                             <abbr>Exmo.</abbr>
                             <expan>Excelentísimo</expan>
-                        </choice></salute>
+                        </choice>
+                    </salute>
                 </opener>
                 <p>Incluimos a <choice>
                         <abbr>V.</abbr>
@@ -151,17 +146,14 @@
                     </choice> relativo, <choice>
                         <orig>ála</orig>
                         <reg>a la</reg>
-                    </choice> licencia que. pre<lb break="no"/>sentó la morena libre Ana del Toro
-                    para <lb/>establecer una escuela de primeras letras de <lb/>niñas de su color, y
-                    así mismo sobre la <lb/>obra que se está <choice>
+                    </choice> licencia que. pre<lb break="no"/>sentó la morena libre Ana del Toro para <lb/>establecer una escuela de primeras letras de <lb/>niñas de su color, y así mismo sobre la <lb/>obra que se está <choice>
                         <orig>espendiendo</orig>
                         <reg>expendiendo</reg>
                     </choice>
                     <choice>
                         <orig>enlas</orig>
                         <reg>en las</reg>
-                    </choice> librerías <lb/><unclear reason="illegible" cert="high">de la</unclear>
-                    ciudad titulada <choice>
+                    </choice> librerías <lb/><unclear reason="illegible" cert="high">de la</unclear> ciudad titulada <choice>
                         <sic>ensayo</sic>
                         <corr cert="high">Ensayo</corr>
                     </choice>
@@ -196,8 +188,7 @@
                     </choice> acceder <choice>
                         <sic>álo</sic>
                         <corr cert="high">a lo</corr>
-                    </choice> que se solicita. <lb/><unclear reason="illegible" cert="high"
-                        >Otorgue</unclear>
+                    </choice> que se solicita. <lb/><unclear reason="illegible" cert="high">Otorgue</unclear>
                     <choice>
                         <orig>aV.</orig>
                         <reg>a <choice>
@@ -209,8 +200,7 @@
                         <abbr>E.</abbr>
                         <expan>Excelencia</expan>
                     </choice>
-                    <unclear reason="illegible" cert="high">m a</unclear> Ha<g ref="#typoHyphen"
-                        /><lb break="no"/>bana 12 <choice>
+                    <unclear reason="illegible" cert="high">m a</unclear> Ha<g ref="#typoHyphen"/><lb break="no"/>bana 12 <choice>
                         <abbr>D.<hi rendition="#sup">er</hi></abbr>
                         <expan>Diciembre</expan>
                     </choice> de 1827 <lb/><choice>
@@ -248,14 +238,16 @@
                     </choice></note>
             </div>
             <div type="writingSession" n="2">
-                <opener><choice>
+                <opener>
+                    <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
                     </choice>
                     <choice>
                         <abbr>Sor.</abbr>
                         <expan>Señor</expan>
-                    </choice></opener>
+                    </choice>
+                </opener>
                 <p>El testimonio adjunto <lb/>de la acta del <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
@@ -281,29 +273,23 @@
                     <choice>
                         <orig>á</orig>
                         <reg>a</reg>
-                    </choice> la morena libre <lb/><pb n="2" facs="0002.tif"/>Ana del Toro para
-                    establecer una <choice>
+                    </choice> la morena libre <lb/><pb n="2" facs="0002.tif"/>Ana del Toro para establecer una <choice>
                         <orig>Escuela</orig>
                         <reg>escuela</reg>
                     </choice>
                     <lb/>de primeras letras de niñas de su color, esta<lb/>blecimiento que el <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
-                    </choice> Ayuntamiento cali<lb break="no"/>fica de funesto: el segundo sobre la
-                    venta de <lb/>la obra del <choice>
+                    </choice> Ayuntamiento cali<lb break="no"/>fica de funesto: el segundo sobre la venta de <lb/>la obra del <choice>
                         <orig>Baron</orig>
                         <reg>Barón</reg>
                     </choice> de Humboldt intitulada <lb/><hi rendition="#u">Ensayo <choice>
                             <sic>politico</sic>
                             <corr cert="high">político</corr>
-                        </choice> sobre la Isla de Cuba</hi>,<lb/> que igualmente gradua de
-                    peligroso <unclear reason="illegible" cert="low">otra<lb/></unclear><choice>
+                        </choice> sobre la Isla de Cuba</hi>,<lb/> que igualmente gradua de peligroso <unclear reason="illegible" cert="low">otra<lb/></unclear><choice>
                         <orig><unclear reason="illegible" cert="low">corporacion</unclear></orig>
                         <reg>corporación</reg>
-                    </choice>, así por las <gap reason="covered" unit="chars" quantity="8"/> y
-                        princi<lb break="no"/>pios de su autor, acerca de la esclavitud, co<g
-                        ref="#typoHyphen"/><lb break="no"/>mo por otras razones que se indican en
-                    <lb/>la acta, transcrita en <choice>
+                    </choice>, así por las <gap reason="covered" unit="chars" quantity="8"/> y princi<lb break="no"/>pios de su autor, acerca de la esclavitud, co<g ref="#typoHyphen"/><lb break="no"/>mo por otras razones que se indican en <lb/>la acta, transcrita en <choice>
                         <abbr>dho</abbr>
                         <expan>dicho</expan>
                     </choice>
@@ -317,16 +303,13 @@
                     <lb/><choice>
                         <abbr>V E.</abbr>
                         <expan>Vuestra Excelencia</expan>
-                    </choice> mandar que agregado el memorial <lb/><unclear reason="illegible"
-                        cert="high">presentado</unclear> por la <choice>
+                    </choice> mandar que agregado el memorial <lb/><unclear reason="illegible" cert="high">presentado</unclear> por la <choice>
                         <abbr>dha</abbr>
                         <expan>dicha</expan>
                     </choice> Ana del Toro, se oiga <lb/>a la Sociedad <choice>
                         <orig>Patriotica</orig>
                         <reg>Patriótica</reg>
-                    </choice> para que informe <lb/>lo que <unclear reason="illegible" cert="high"
-                        >tengan</unclear> por <unclear reason="illegible" cert="high"
-                        >conveniente</unclear>: y en <lb/>cuanto a lo segundo, soy de dictamen <choice>
+                    </choice> para que informe <lb/>lo que <unclear reason="illegible" cert="high">tengan</unclear> por <unclear reason="illegible" cert="high">conveniente</unclear>: y en <lb/>cuanto a lo segundo, soy de dictamen <choice>
                         <abbr>q</abbr>
                         <expan>que </expan>
                     </choice>

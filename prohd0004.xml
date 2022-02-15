@@ -108,7 +108,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1r"/>
+            <pb n="1r" facs="prohd0004_1r.tif"/>
             <div>
                 <p><note place="mTop" hand="#H0012069"><hi rendition="#uu">finances <choice>
                                 <abbr>p</abbr>
@@ -116,13 +116,13 @@
                             </choice></hi> 14</note></p>
                 <p><note place="right" hand="#H0012069">134/94 <lb/>30/ <lb/><hi rendition="#u">129/
                         </hi><lb/>140 <lb/>00</note></p>
-                <pb n="1v"/>
-                <pb n="2r"/>
-                <pb n="2v"/>
+                <pb n="1v" facs="prohd0004_1v.tif"/>
+                <pb n="2r" facs="prohd0004_2r.tif"/>
+                <pb n="2v" facs="prohd0004_2v.tif"/>
                 <p>Sucinta noticia de la situación <lb/><hi rendition="#uu">presente de esta
                         colonia. Agosto de 800'' </hi><lb/><hi rendition="#uu"><placeName
                             key="H0006819">Havana</placeName></hi><hi rendition="#uu">.</hi></p>
-                <pb n="3r"/>
+                <pb n="3r" facs="prohd0004_3r.tif"/>
                 <p>Un ilustrado observador<supplied cert="high">,</supplied> después de una ausencia
                     de vein<g ref="#typoHyphen"/><lb break="no"/>te y tres años vuelve a <placeName
                         key="H0006819">la Havana</placeName>, y<supplied cert="high">,</supplied>
@@ -159,7 +159,7 @@
                     <lb/>cuya constitución es peculiar<choice>
                         <sic>,</sic>
                         <corr type="deleted"/>
-                    </choice> y distinta de las demás <lb/><pb n="3v"/>colonias del <placeName
+                    </choice> y distinta de las demás <lb/><pb n="3v" facs="prohd0004_3v.tif"/>colonias del <placeName
                         key="H0002429">continente Americano</placeName>: <placeName key="H0006819"
                         >la Havana</placeName> que<del rendition="#s">s</del> es y <lb/>no puede ser
                     otra cosa que mercante agricultora, obtubo <lb/>en 1789 segunda gracia a la qual
@@ -286,7 +286,7 @@
                     <lb/>serranías, no permiten a los ríos tener dilatado naci<g ref="#typoHyphen"
                         /><lb break="no"/>miento ni curso. De ahí nace que no se cuentan cerca
                     <lb/>de <placeName key="H0006819">la capital</placeName> más que dos ríos
-                    permanentes que son <lb/><pb n="5r"/><placeName key="ERRORH0018470">el de
+                    permanentes que son <lb/><pb n="5r" facs="prohd0004_5r.tif"/><placeName key="ERRORH0018470">el de
                         Güines</placeName> a <measure quantity="12" unit="leagua">doce
                         leguas</measure> de distancia, y <placeName key="H0010548">el de la
                         chorrera</placeName>, de <lb/>donde se provee de agua <placeName
@@ -333,7 +333,7 @@
                             <unclear reason="illegible" cert="low">P</unclear></note> regados por
                     ríos de mucho caudal; mas se <lb/>puede creer que siempre llevará la primacía la
                     Provincia <lb/>de <placeName key="H0006819">la Havana</placeName>, no tan sólo
-                    por haber sido primero fomen <lb/><pb n="5v"/>tada al abrigo y calor de la
+                    por haber sido primero fomen <lb/><pb n="5v" facs="prohd0004_5v.tif"/>tada al abrigo y calor de la
                     capital, sino por la venta<g ref="#typoHyphen"/><lb break="no"/>josísima
                     situación y exêlencia de sus Puertos a la <lb/>entrada de las canales vieja y
                     nueva, y en un punto <lb/>de comunicación común a todas las aguas del seno,
@@ -419,7 +419,7 @@
                         <orig>por que</orig>
                         <reg>porque</reg>
                     </choice> en efecto desde que se traxo al Trapi<g ref="#typoHyphen"/><lb
-                        break="no"/><pb n="6v"/>che de la caña cortada en el campo, cesó el Oficio
+                        break="no"/><pb n="6v" facs="prohd0004_6v.tif"/>che de la caña cortada en el campo, cesó el Oficio
                     del La<g ref="#typoHyphen"/><lb break="no"/>brador, y entró el del fabricante,
                     como que todas las de<g ref="#typoHyphen"/><lb break="no"/>más manipulaciones
                     pertenecer a la mecánica y <lb/>química. Debemos confesar que lexos de ser
@@ -445,7 +445,7 @@
                     </subst> bueyes; en fin en otro <lb/>situado en las alturas, se va a aplicar la
                     potencia del <lb/>viento. En muchos por último se están fabricando for<g
                         ref="#typoHyphen"/><lb break="no"/>nallas de reberberos de diferente
-                    constitución con <lb/><pb n="7r"/>objeto a ahorrar la leña y reducir por
+                    constitución con <lb/><pb n="7r" facs="prohd0004_7r.tif"/>objeto a ahorrar la leña y reducir por
                     consiguiente la par<g ref="#typoHyphen"/><lb break="no"/>te de bosque que
                     necesitan los Ingenios, todas novedades <lb/>que se deben al espíritu de
                     indagación y adelantamien<g ref="#typoHyphen"/><lb break="no"/>to que anima a
@@ -506,7 +506,7 @@
                     </table></p>
                 <note place="right" hand="#H0012069">154 <lb/><hi rendition="#u">625</hi>
                     <lb/>779</note>
-                <pb n="7v"/>
+                <pb n="7v" facs="prohd0004_7v.tif"/>
                 <p>Mas desde el año de 1796 en que se formó <lb/>dicha matrícula se han aumentado en
                     sumo grado las <lb/>labranzas de caña : se han dundado una multitud de
                     <lb/>ingenios nuevos; los antiguos se han adelantado en <lb/>entidad; y según
@@ -536,7 +536,7 @@
                         sesen<lb break="no"/>ta haciendas principiantes; mas como <subst>
                         <del rendition="#ow">cada</del>
                         <add place="across">tarda</add>
-                    </subst> este ar<g ref="#typoHyphen"/><lb break="no"/><pb n="8r"/>busto quatro
+                    </subst> este ar<g ref="#typoHyphen"/><lb break="no"/><pb n="8r" facs="prohd0004_8r.tif"/>busto quatro
                     años en producir, no se puede llamar cosecha <lb/>la que hay de este fusto, <choice>
                         <orig>aun que</orig>
                         <reg>aunque</reg>
@@ -569,7 +569,7 @@
                     Febrero <lb/>de <unclear reason="illegible" cert="high">año</unclear> 1789
                     consta en los libros de la Real Adua<g ref="#typoHyphen"/><lb break="no"/>na
                     como sigue. <lb/>_______________________________________</p>
-                <pb n="8v"/>
+                <pb n="8v" facs="prohd0004_8v.tif"/>
                 <p>
                     <table rows="9" cols="4">
                         <row role="label">
@@ -656,7 +656,7 @@
                     </choice>
                     <lb/>nos convenia que hubiesen abundado. La sola <placeName key="H0006819">Ha<g
                             ref="#typoHyphen"/><lb break="no"/>vana</placeName> abarcaría finalmente
-                    doce a quince mil negros <lb/><pb n="9r"/>en el día, y progresivamente mayor
+                    doce a quince mil negros <lb/><pb n="9r" facs="prohd0004_9r.tif"/>en el día, y progresivamente mayor
                     cantidad <choice>
                         <orig>cadaaño</orig>
                         <reg>cada año</reg>
@@ -774,7 +774,7 @@
                         </row>
                     </table></p>
                 <p>Tubo el segundo de estos quatrienios de aumento so<g ref="#typoHyphen"/><lb
-                        break="no"/><pb n="9v"/>bre el primero <measure quantity="251711"
+                        break="no"/><pb n="9v" facs="prohd0004_9v.tif"/>bre el primero <measure quantity="251711"
                         unit="peso">251711 <choice>
                             <abbr>p.<hi rendition="#sup">s</hi></abbr>
                             <expan>pesos</expan>

@@ -94,7 +94,7 @@
     <text>
         <body>
             <div>
-                <p><pb n="1r"/>Esclaves</p>
+                <p><pb n="1r" facs="prohd0001_1r.tif"/>Esclaves</p>
                 <p>nous rét<add place="superlinear">r</add>ogradons comme partout<supplied
                         cert="high">,</supplied><lb/>on ne veut plus en écrire <lb/><unclear
                         reason="illegible" cert="high">ni</unclear> parler<supplied cert="high"
@@ -113,14 +113,14 @@
                 <p>
                     <gap unit="lines" quantity="2" reason="insignificant"/>
                 </p>
-                <p><pb n="1v"/>or!! <lb/>sur l'or des Îles <lb/>voyez <del rendition="#s"><gap
+                <p><pb n="1v" facs="prohd0001_1v.tif"/>or!! <lb/>sur l'or des Îles <lb/>voyez <del rendition="#s"><gap
                             unit="words" quantity="1" reason="illegible"/></del> Peter <lb/>Martyr
                     1533 <choice>
                         <abbr>p</abbr>
                         <expan>page</expan>
                     </choice> 24 D. <lb/>et register <hi rendition="#uu">aurum</hi></p>
                 <p>
-                    <pb n="2r"/>
+                    <pb n="2r" facs="prohd0001_2r.tif"/>
                     <hi rendition="#uu">Inquisition</hi>
                 </p>
                 <p><choice>
@@ -148,9 +148,9 @@
                     <lb/>loin en loin."</p>
                 <p>alle Welt ist <hi rendition="#u">toll</hi>!!</p>
                 <p>
-                    <pb n="2v"/>
+                    <pb n="2v" facs="prohd0001_2v.tif"/>
                 </p>
-                <p><pb n="3r"/>Esclavage</p>
+                <p><pb n="3r" facs="prohd0001_3r.tif"/>Esclavage</p>
                 <p>Les colonies angloises en Amérique <lb/>ont vécu de 1680-1786 <lb/>en tout
                     2,130000 nègres <lb/>enregistrés<supplied cert="high">,</supplied> probablement
                     3 <choice>
@@ -200,7 +200,7 @@
                             Wilber<lb break="no"/>force <lb/>Gallatin</note>
                     <lb/>Danemark <lb/>Amérique</p>
                 <p>
-                    <pb n="3v"/>
+                    <pb n="3v" facs="prohd0001_3v.tif"/>
                     <gap unit="pages" quantity="1" reason="insignificant"/>
                 </p>
             </div>

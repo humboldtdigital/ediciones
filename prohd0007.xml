@@ -106,7 +106,7 @@
     <text>
         <body>
             <div>
-                <pb n="192r"/>
+                <pb n="192r" facs="prohd0007_192r.tif"/>
                 <p>
                     <hi rendition="#u">Fièvre jaune</hi></p>
                 <p>
@@ -245,7 +245,7 @@
                         <abbr>p</abbr>
                         <expan>page</expan>
                     </choice> 53.</p>
-                <pb n="192v"/>
+                <pb n="192v" facs="prohd0007_192v.tif"/>
                 <p>5. La fièvre jaune en Espagne a été contagieuse <lb/>et non épidémique B. 74. 346
                     (Cependant <lb/>Rush prétend qu’elle est épidémique condi<lb break="no"
                     />tionnelle dans le sens hippocratique.</p>
@@ -312,7 +312,7 @@
                         >,</supplied> moi j’avais la fièvres jaune <lb/>Carey a short accourut of
                     the malignant <lb/>fever in Philadelphia 1793.</p>
                 <gap reason="insignificant" unit="pages" quantity="34"/>
-                <pb n="210r"/>
+                <pb n="210r" facs="prohd0007_210r.tif"/>
                 <p>14. Makittrick de febre Indiae <lb/><choice>
                         <abbr>occident.</abbr>
                         <expan>occidentalis</expan>
@@ -389,7 +389,7 @@
                     jour sudorifiques si la crise ne se <lb/>fait pas exaspération (2 stade) irri<lb
                         break="no"/>tation sporadique pls vive de la <lb/>région épigastrique
                     dégénération <lb/>
-                    <pb n="210v"/> bilieuse ou putride. <lb/>remède de la première <lb/>période:
+                    <pb n="210v" facs="prohd0007_210v.tif"/> bilieuse ou putride. <lb/>remède de la première <lb/>période:
                     <lb/>clmer l'irritation <lb/>rompre, révulser les <lb/>spasmes concentrés sur la
                     <lb/>région épigastrique <lb/>modérer l'action <add place="superlinear">du</add>
                     délétère <lb/>contagieux sur le <del rendition="#s">syst</del> sys<lb break="no"
@@ -480,8 +480,8 @@
                     l'usage habituel <lb/>de la glace, mais <del rendition="#s">le
                         <lb/>quinquina</del> à qui parvient <lb/>une maladie<supplied cert="high"
                         >,</supplied> ne la <lb/>guérit pas!</p>
-                <p><pb n="211r"/> 3000/428</p>
-                <p><pb n="211v"/>
+                <p><pb n="211r" facs="prohd0007_211r.tif"/> 3000/428</p>
+                <p><pb n="211v" facs="prohd0007_211v.tif"/>
                     <gap unit="lines" quantity="5" reason="insignificant"/>
                     <lb/></p>
             </div>

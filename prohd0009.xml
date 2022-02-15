@@ -104,15 +104,15 @@
     <text>
         <body>
             <div type="writingSession">
+                <pb n="269v" facs="prohd0009_269v.tif"/>
                 <opener>
                     <dateline>Samedi</dateline>
-                    <pb n="269v"/>
                     <salute>à Monsieur <lb/>Mr Lapie <lb/><choice>
                             <abbr>Lieut.</abbr>
                             <expan>Lieutenant</expan>
                         </choice>-Colonel <lb/>avec un livre</salute>
                 </opener>
-                <p><pb n="268r"/>En examinant si <choice>
+                <p><pb n="268r" facs="prohd0009_268r.tif"/>En examinant si <choice>
                         <abbr>Mr</abbr>
                         <expan>Monsieur</expan>
                     </choice> Poirson, <lb/>comme je le lui avois pré<g ref="#typoHyphen"/><lb
@@ -126,7 +126,7 @@
                         <abbr>p</abbr>
                         <expan>pages</expan>
                     </choice> 61-66<supplied cert="high">.</supplied> N'oubliez <lb/>pas que près de
-                    la Havane <lb/>et de la Trinidad Vous <lb/><pb n="268v"/>ne prendrez que les
+                    la Havane <lb/>et de la Trinidad Vous <lb/><pb n="268v" facs="prohd0009_268v.tif"/>ne prendrez que les
                     <lb/>différences des méridiens. On garde<g ref="#typoHyphen"/><lb break="no"/>ra
                     mes positions absolues de <lb/>la Havane <choice>
                         <abbr>long.</abbr>
@@ -147,7 +147,7 @@
                             <abbr>Pto</abbr>
                             <expan>Puerto</expan>
                         </choice> Maysí</hi>
-                    <lb/><pb n="269r"/><hi rendition="#u">Cabo de Cruz</hi>
+                    <lb/><pb n="269r" facs="prohd0009_269r.tif"/><hi rendition="#u">Cabo de Cruz</hi>
                     <lb/>suivez aveuglement les <lb/>tables espagnoles <hi rendition="#u"><choice>
                             <abbr>p</abbr>
                             <expan>pages</expan>

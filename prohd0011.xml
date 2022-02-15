@@ -102,8 +102,8 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="193r"/>
             <div>
+                <pb n="193r" facs="prohd0011_193r.tif"/>
                 <p><hi rendition="#u">Fièvre jaune</hi>
                 </p>
                 <p><note place="left" hand="#author">Aréjula breve descripción de<lb/>la fiebre

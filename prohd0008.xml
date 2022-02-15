@@ -102,7 +102,7 @@
                 <p>
                     <table rows="0" cols="2">
                         <head>
-                            <pb n="195r"/>
+                            <pb n="195r" facs="prohd0008_195r.tif"/>
                         </head>
                         <row>
                             <cell>1. Qué es la Epidemia de Vómito <lb/>más antigua en Veracruz, de
@@ -195,7 +195,7 @@
                             <cell>8. Para Cuesta</cell>
                         </row>
                         <row>
-                            <cell><pb n="195v"/>9. Quánto Cacao necessita el Reyno <lb/>de <choice>
+                            <cell><pb n="195v" facs="prohd0008_195v.tif"/>9. Quánto Cacao necessita el Reyno <lb/>de <choice>
                                     <abbr>N.E.</abbr>
                                     <expan>Nueva España</expan>
                                 </choice> para su Consumo interior<choice>
@@ -347,7 +347,7 @@
                                         xml:id="nfg2_jqm_rpb">→ 196r</note></seg></cell>
                         </row>
                         <row>
-                            <cell><pb n="196r"/>Sé que el valor del Tobaco ven<lb break="no"/>dido
+                            <cell><pb n="196r" facs="prohd0008_196r.tif"/>Sé que el valor del Tobaco ven<lb break="no"/>dido
                                 ha sido 1802 de 7687000 <choice>
                                     <abbr>p.</abbr>
                                     <expan>pesos</expan>
@@ -421,7 +421,7 @@
                     </note>
                 </p>
                 <p>
-                    <pb n="196v"/>
+                    <pb n="196v" facs="prohd0008_196v.tif"/>
                 </p>
             </div>
         </body>

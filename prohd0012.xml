@@ -107,8 +107,8 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="194r"/>
             <div>
+                <pb n="194r" facs="prohd0012_194r.tif"/>
                 <p>Luzuriaga relación de la calentura biliosa remitente <lb/>amarilla
                     que se manifestó en Filadelfia en 1793 <lb/>Madrid F. I 1804 <lb/><gap
                         reason="fm" unit="words" quantity="5"/></p>
@@ -258,7 +258,7 @@
                             reason="illegible" quantity="1" unit="words"/></del>
                     <add place="superlinear">220</add> et il est faux <lb/>de dire que si elle est
                     contagieuse elle est introduite de de<lb break="no"/>hors.</p>
-                <p><pb n="194v"/>3. Veracruz climat. Nicht so gewiß mit mittlerer Temperatur in
+                <p><pb n="194v" facs="prohd0012_194v.tif"/>3. Veracruz climat. Nicht so gewiß mit mittlerer Temperatur in
                         temperier<lb break="no"/>ter Zone. In Verac. mehr endemischer
                         Charakter<supplied cert="high">,</supplied> in Philadelphia
                         <lb/>Therm<supplied cert="high">.</supplied> die Kälte nicht sehr gewiß S.

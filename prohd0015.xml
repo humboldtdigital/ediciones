@@ -116,7 +116,7 @@
     <text>
         <body>
             <div>
-                <pb n="1r"/>
+                <pb n="1r" facs="prohd0015_1r.tif"/>
                 <p><add place="left">Página 55, Nota 2</add></p>
                 <p>El <placeName key="H0010548">Río de la chorrera </placeName>(<choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
@@ -407,7 +407,7 @@
                         </choice> Barón</persName>, a quien suplico <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> modere<lb/><pb n="1v"/>su rigor leyendo el primer párrafo de la Página <choice>
+                    </choice> modere<lb/><pb n="1v" facs="prohd0015_1v.tif"/>su rigor leyendo el primer párrafo de la Página <choice>
                         <orig>40_</orig>
                         <reg>40,</reg>
                     </choice> el úl<lb break="no"/>timo de la <choice>
@@ -631,7 +631,7 @@
                     <lb/>anterior, le ha producido <choice>
                         <orig>2600.</orig>
                         <reg>2600</reg>
-                    </choice> cajas, y los negros<lb/><pb n="2r"/>que allí tiene (según dice) son <choice>
+                    </choice> cajas, y los negros<lb/><pb n="2r" facs="prohd0015_2r.tif"/>que allí tiene (según dice) son <choice>
                         <orig>220. _</orig>
                         <reg>220.</reg>
                     </choice></p>
@@ -901,7 +901,7 @@
                             <abbr>p.<hi rendition="#sup">a</hi></abbr>
                             <expan>página</expan>
                         </choice> 237</add></p>
-                <p>Todos se acuerdan con aprecio y gratitud de esos útiles En<g ref="#typoHyphen"/><lb break="no"/><pb n="2v"/>sayos, y ellos han servido <choice>
+                <p>Todos se acuerdan con aprecio y gratitud de esos útiles En<g ref="#typoHyphen"/><lb break="no"/><pb n="2v" facs="prohd0015_2v.tif"/>sayos, y ellos han servido <choice>
                         <abbr>eficazm.<hi rendition="#sup">te</hi></abbr>
                         <expan>eficazmente</expan>
                     </choice> a <choice>
@@ -1140,7 +1140,7 @@
                     </choice> se ha<g ref="#typoHyphen"/><lb break="no"/>ce en este artículo, <choice>
                         <abbr>principalm.<hi rendition="#sup">te</hi></abbr>
                         <expan>principalmente</expan>
-                    </choice> en cigarros, es<lb/><pb n="3r"/>enorme<supplied cert="high">,</supplied> y estoy en la persuación de <choice>
+                    </choice> en cigarros, es<lb/><pb n="3r" facs="prohd0015_3r.tif"/>enorme<supplied cert="high">,</supplied> y estoy en la persuación de <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> sus cosechas, incluyen<g ref="#typoHyphen"/><lb break="no"/>do nuestro
@@ -1400,7 +1400,7 @@
                     </choice> el buen <persName key="H0003128">Conde de <choice>
                             <abbr>S.<hi rendition="#sup">ta</hi></abbr>
                             <expan>Santa</expan>
-                        </choice> Clara</persName> y su<lb/><pb n="3v"/>su<unclear reason="covered" cert="high"><subst>
+                        </choice> Clara</persName> y su<lb/><pb n="3v" facs="prohd0015_3v.tif"/>su<unclear reason="covered" cert="high"><subst>
                             <del rendition="#ow">b</del>
                             <add place="across" hand="H0012682">s</add>
                         </subst></unclear>sesor<supplied cert="high">,</supplied> el <persName key="H0014453">Marquéz de Someruelos</persName>, trajo orden reserva<g ref="#typoHyphen"/><lb break="no"/>da <choice>
@@ -1591,7 +1591,7 @@
                     </choice><supplied cert="high">,</supplied> vendiéndose como se vende a <measure quantity="11" unit="peso">once</measure> o <lb/><measure quantity="12" unit="peso">doce pesos</measure>, puede sostenerse contra la de los
                         <placeName key="H0009136">Estados Uni<g ref="#typoHyphen"/><lb break="no"/>dos</placeName>, por estar aquella libre de derechos, y ésta recargada con
                     <lb/>él de <measure quantity="7" unit="peso">siete pesos</measure> en
-                        barril<supplied cert="high">,</supplied> siendo estranjero el buque con<g ref="#typoHyphen"/><lb break="no"/><pb n="4r"/>ductor. </p>
+                        barril<supplied cert="high">,</supplied> siendo estranjero el buque con<g ref="#typoHyphen"/><lb break="no"/><pb n="4r" facs="prohd0015_4r.tif"/>ductor. </p>
                 <p><add place="left"><choice>
                             <abbr>p.<hi rendition="#sup">a</hi></abbr>
                             <expan>página</expan>
