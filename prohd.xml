@@ -41,7 +41,8 @@
         <moduleRef key="msdescription"
           include="physDesc msDesc msIdentifier institution collection repository"/>
         <moduleRef key="textcrit" include="listWit witness"/>
-        <moduleRef key="namesdates" include="persName placeName surname forename orgName listPerson listOrg listPlace person org place occupation affiliation birth death floruit"/>
+        <moduleRef key="namesdates"
+          include="persName placeName surname forename orgName listPerson listOrg listPlace person org place occupation affiliation birth death floruit"/>
         <moduleRef key="gaiji" include="g"/>
 
         <!-- element Specifications -->
@@ -217,7 +218,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        
+
         <elementSpec ident="language" mode="change">
           <attList>
             <attDef ident="ident" mode="change" usage="req">
@@ -356,6 +357,7 @@
         </elementSpec>
         <elementSpec ident="gap" mode="change">
           <attList>
+            <attDef ident="quantity" usage="req" mode="change"/>
             <attDef ident="reason" usage="req" mode="change">
               <valList type="closed" mode="replace">
                 <valItem ident="lost"/>
@@ -393,7 +395,7 @@
             <attDef ident="type" usage="req" mode="change">
               <valList type="closed" mode="replace">
                 <valItem ident="comment"/>
-                <valItem ident="code"></valItem>
+                <valItem ident="code"/>
               </valList>
             </attDef>
           </attList>

@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2022-01-10T10:46:29Z. .
+Schema generated from ODD source 2022-02-18T10:30:00Z. .
 TEI Edition: Version 4.3.0. Last updated on
         31st August 2021, revision b4f72b1ff
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
@@ -3400,7 +3400,6 @@ Normalization 12. Critical Apparatus]</a:documentation>
          <ref name="tei_att.global.attributes"/>
          <ref name="tei_att.timed.attributes"/>
          <ref name="tei_att.editLike.attributes"/>
-         <ref name="tei_att.dimensions.attribute.quantity"/>
          <ref name="tei_att.dimensions.attribute.extent"/>
          <ref name="tei_att.dimensions.attribute.precision"/>
          <ref name="tei_att.dimensions.attribute.scope"/>
@@ -3420,6 +3419,16 @@ Normalization 12. Critical Apparatus]</a:documentation>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                <value>words</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            </choice>
+         </attribute>
+         <attribute name="quantity">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">especifica la longitud en las unidades especificadas</a:documentation>
+            <choice>
+               <data type="double"/>
+               <data type="token">
+                  <param name="pattern">(\-?[\d]+/\-?[\d]+)</param>
+               </data>
+               <data type="decimal"/>
             </choice>
          </attribute>
          <attribute name="reason">
