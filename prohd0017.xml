@@ -1060,7 +1060,7 @@
                         <reg>rey</reg>
                     </choice>, deducidas<lb/> mermas y costos de venta <unclear cert="low" reason="illegible">latenviadas</unclear>
                     <unclear cert="high" reason="illegible">de</unclear>
-                    <lb/> un <gap unit="words" reason="illegible"/> de utilidad, sin poder aspirar <choice>
+                    <lb/> un <gap unit="words" quantity="1" reason="illegible"/> de utilidad, sin poder aspirar <choice>
                         <orig>amas</orig>
                         <reg>a más</reg>
                     </choice>
