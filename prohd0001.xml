@@ -60,39 +60,39 @@
         </profileDesc>
         <encodingDesc>
             <classDecl>
-                <taxonomy xml:id="pb-taxonomy">
-                    <category xml:id="genre">
-                        <category xml:id="diaries"/>
-                        <category xml:id="essays"/>
-                        <category xml:id="notebooks"/>
-                        <category xml:id="correspondence"/>
-                        <category xml:id="travelwriting"/>
-                    </category>
-                    <category xml:id="form">
-                        <category xml:id="manuscript"/>
-                        <category xml:id="print"/>
-                    </category>
-                    <category xml:id="subjects">
-                        <category xml:id="administration"/>
-                        <category xml:id="climatology"/>
-                        <category xml:id="colonialism"/>
-                        <category xml:id="coffee"/>
-                        <category xml:id="demography"/>
-                        <category xml:id="education"/>
-                        <category xml:id="economicconditions"/>
-                        <category xml:id="emancipation"/>
-                        <category xml:id="factories"/>
-                        <category xml:id="geography"/>
-                        <category xml:id="medicine"/>
-                        <category xml:id="plantations"/>
-                        <category xml:id="science"/>
-                        <category xml:id="scientificexpedition"/>
-                        <category xml:id="sugar"/>
-                        <category xml:id="slavery"/>
-                        <category xml:id="tobacco"/>
-                        <category xml:id="trade"/>
-                    </category>
-                </taxonomy>
+                    <taxonomy xml:id="pb-taxonomy">
+                        <category xml:id="genre">
+                            <category xml:id="correspondence"/>
+                            <category xml:id="diaries"/>
+                            <category xml:id="essays"/>
+                            <category xml:id="notebooks"/>
+                            <category xml:id="travelwriting"/>
+                        </category>
+                        <category xml:id="form">
+                            <category xml:id="manuscript"/>
+                            <category xml:id="print"/>
+                        </category>
+                        <category xml:id="subjects">
+                            <category xml:id="administration"/>
+                            <category xml:id="climatology"/>
+                            <category xml:id="coffee"/>
+                            <category xml:id="colonialism"/>
+                            <category xml:id="demography"/>
+                            <category xml:id="economicconditions"/>
+                            <category xml:id="education"/>
+                            <category xml:id="emancipation"/>
+                            <category xml:id="factories"/>
+                            <category xml:id="geography"/>
+                            <category xml:id="medicine"/>
+                            <category xml:id="plantations"/>
+                            <category xml:id="science"/>
+                            <category xml:id="scientificexpedition"/>
+                            <category xml:id="sugar"/>
+                            <category xml:id="slavery"/>
+                            <category xml:id="tobacco"/>
+                            <category xml:id="trade"/>
+                        </category>
+                    </taxonomy>
             </classDecl>
         </encodingDesc>
     </teiHeader>

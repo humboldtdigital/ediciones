@@ -69,10 +69,10 @@
             <classDecl>
                 <taxonomy xml:id="pb-taxonomy">
                     <category xml:id="genre">
+                        <category xml:id="correspondence"/>
                         <category xml:id="diaries"/>
                         <category xml:id="essays"/>
                         <category xml:id="notebooks"/>
-                        <category xml:id="correspondence"/>
                         <category xml:id="travelwriting"/>
                     </category>
                     <category xml:id="form">
@@ -82,11 +82,11 @@
                     <category xml:id="subjects">
                         <category xml:id="administration"/>
                         <category xml:id="climatology"/>
-                        <category xml:id="colonialism"/>
                         <category xml:id="coffee"/>
+                        <category xml:id="colonialism"/>
                         <category xml:id="demography"/>
-                        <category xml:id="education"/>
                         <category xml:id="economicconditions"/>
+                        <category xml:id="education"/>
                         <category xml:id="emancipation"/>
                         <category xml:id="factories"/>
                         <category xml:id="geography"/>
