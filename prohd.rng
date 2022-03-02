@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2022-02-18T10:30:00Z. .
+Schema generated from ODD source 2022-03-02T12:44:15Z. .
 TEI Edition: Version 4.3.0. Last updated on
         31st August 2021, revision b4f72b1ff
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.3.0/
@@ -7697,16 +7697,8 @@ Posibles valores: 1] TEI; 2] DBK (docbook); 3] XX (unknown); 4] Schematron; 5] H
          <ref name="tei_att.datable.attributes"/>
          <ref name="tei_att.editLike.attributes"/>
          <ref name="tei_att.global.attributes"/>
-         <ref name="tei_att.personal.attribute.full"/>
-         <ref name="tei_att.personal.attribute.sort"/>
-         <ref name="tei_att.naming.attribute.role"/>
-         <ref name="tei_att.naming.attribute.nymRef"/>
-         <ref name="tei_att.canonical.attribute.ref"/>
+         <ref name="tei_att.personal.attributes"/>
          <ref name="tei_att.typed.attributes"/>
-         <attribute name="key">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">provides an externally-defined means of identifying the entity (or entities) being named, using a coded value of some kind.</a:documentation>
-            <data type="string"/>
-         </attribute>
          <empty/>
       </element>
    </define>

@@ -166,13 +166,6 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!-- doubt: is this necessary? -->
-        <!--<elementSpec ident="persName" mode="change"/>-->
-        <elementSpec ident="placeName" mode="change">
-          <attList>
-            <attDef ident="key" usage="req" mode="change"/>
-          </attList>
-        </elementSpec>
         <elementSpec ident="quote" mode="change">
           <attList>
             <attDef ident="rendition" usage="req" mode="change">
