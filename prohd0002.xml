@@ -273,25 +273,25 @@
                     <hi rendition="#uu">Cuba</hi>
                 </p>
                 <p>Souvent si mal <unclear reason="illegible" cert="high">imprimé</unclear>
-                    <gap reason="lost" unit="words"/>
-                    <lb/>exemple un vrai nombre 5,3 <gap unit="words" reason="lost"/>
+                    <gap quantity="1" reason="lost" unit="words"/>
+                    <lb/>exemple un vrai nombre 5,3 <gap quantity="1" unit="words" reason="lost"/>
                     <lb/>donne 5,308844. Seybert (<gap unit="words" quantity="1" reason="illegible"/>
-                    <gap unit="words" reason="lost"/>
+                    <gap quantity="1" unit="words" reason="lost"/>
                     <lb/>Mr Harvey <del rendition="#s">donne</del> (<gap reason="illegible"
-                        unit="words" quantity="1"/> Phil<gap unit="words" reason="lost"/>
+                        unit="words" quantity="1"/> Phil<gap quantity="1" unit="words" reason="lost"/>
                     <lb/>5.309 758.</p>
                 <p>Mr Harvey donne les <gap unit="chars" quantity="2" reason="illegible"/>
-                    <gap reason="lost" unit="words"/>
+                    <gap quantity="1" reason="lost" unit="words"/>
                     <lb/>accroissement de la p<supplied cert="high">opulation</supplied>
-                    <gap unit="words" reason="lost"/>
+                    <gap quantity="1" unit="words" reason="lost"/>
                     <lb/>
                     <gap unit="words" quantity="1" reason="illegible"/>(p 41-55) <gap unit="words"
                         quantity="1" reason="illegible"/>
-                    <gap unit="words" reason="lost"/>
-                    <lb/>de 35, I. 36, I <gap unit="words" reason="lost"/>
-                    <lb/>qui commence à <gap unit="words" reason="lost"/>
-                    <lb/>qui de 2 à 3 <gap unit="words" quantity="1" reason="illegible"/>
-                    <lb/>de l'accroissement <gap unit="words" reason="lost"/>
+                    <gap quantity="1" unit="words" reason="lost"/>
+                    <lb/>de 35, I. 36, I <gap quantity="1" unit="words" reason="lost"/>
+                    <lb/>qui commence à <gap quantity="1" unit="words" reason="lost"/>
+                    <lb/>qui de 2 à 3 <gap  unit="words" quantity="1" reason="illegible"/>
+                    <lb/>de l'accroissement <gap quantity="1" unit="words" reason="lost"/>
                 </p>
                 <p>
                     <pb n="4r" facs="prohd0002_4r.tif"/>
