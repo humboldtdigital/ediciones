@@ -22,7 +22,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2021</date>).</p>
+                <p>ProHD (<date>2021</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
@@ -30,7 +30,7 @@
                 <pubPlace ref="https://www.geonames.org/2950159">Berlin</pubPlace>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                        Namensnennung 4.0 International (CC BY 4.0)</licence>
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <notesStmt>
@@ -57,6 +57,7 @@
             <creation>
                 <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
                 <date when="1801">1801</date>
+                <placeName>N/A</placeName>
             </creation>
             <langUsage>
                 <language ident="fr">Französisch</language>
@@ -870,7 +871,7 @@
                         <sic>organisées</sic>
                         <corr cert="high">organisés</corr>
                     </choice>. Au <lb/>sommet de Pic de Teyde<supplied cert="high">,</supplied> à
-                        <gap unit="words" reason="empty"/> toises d’élévation<supplied cert="high"
+                        <gap quantity="1" unit="words" reason="empty"/> toises d’élévation<supplied cert="high"
                         >,</supplied>
                     <lb/>je ne trouvai que 0.18 d’oxygène lorsque à l’Ora<g ref="#typoHyphen"/><lb
                         break="no"/>tava il y en eut <del rendition="#s"><gap unit="words"

@@ -16,7 +16,7 @@
                 </editor>
             </titleStmt>
             <editionStmt>
-                <p>Proyecto Humboldt digital ProHD (<date>2022</date>)</p>
+                <p>ProHD (<date>2022</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -49,8 +49,10 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <persName>N.N.</persName>
+                <persName>N/A</persName>
                 <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
+                <date>N/A</date>
+                <placeName>N/A</placeName>
             </creation>
             <langUsage>
                 <language ident="es">Español</language>

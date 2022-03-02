@@ -16,13 +16,13 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2021</date>).</p>
+                <p>ProHD (<date>2021</date>).</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                        Namensnennung 4.0 International (CC BY 4.0) </licence>
+                        (CC BY 4.0) </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -54,9 +54,13 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName key="H0015848">Sheldon, Daniel (1820)</persName>
+                    <date>N/A</date>
+                    <placeName>N/A</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
+                    <date>N/A</date>
+                    <placeName>N/A</placeName>
                 </correspAction>
             </correspDesc>
             <textClass>

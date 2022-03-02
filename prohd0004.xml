@@ -16,7 +16,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2020</date>).</p>
+                <p>ProHD (<date>2020</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
@@ -24,7 +24,7 @@
                 <pubPlace ref="https://www.geonames.org/2950159">Berlin</pubPlace>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                        Namensnennung 4.0 International (CC BY 4.0) </licence>
+                        (CC BY 4.0) </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -296,7 +296,7 @@
                         key="H0010548">el de la chorrera</placeName>, de <lb/>donde se provee de
                     agua <placeName key="H0006819">la ciudad</placeName> por medio de un canal o
                     <lb/>Zanja de más de <measure quantity="2" unit="leagua">dos leguas</measure> de
-                    cauce formado por <persName key="ERRORH0018897"><hi rendition="#u">Antone<g
+                    cauce formado por <persName key="H0018897"><hi rendition="#u">Antone<g
                                 ref="#typoHyphen"/><lb break="no"/>li</hi></persName> desde los
                     principios de la Población. En segundo lugar los <lb/>Puertos y Bahías están
                     todos situados en la costa del Nor<g ref="#typoHyphen"/><lb break="no"/>te : las

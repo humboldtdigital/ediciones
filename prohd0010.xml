@@ -17,13 +17,13 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2021</date>).</p>
+                <p>ProHD (<date>2021</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                        Namensnennung 4.0 International (CC BY 4.0) </licence>
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -43,6 +43,7 @@
             <creation>
                 <persName key="ed_ux2_3dq_grb">Woodville, William (1752-1805)</persName>
                 <date when="1803">1803</date>
+                <placeName>N/A</placeName>
             </creation>
             <langUsage>
                 <language ident="en">Englisch</language>

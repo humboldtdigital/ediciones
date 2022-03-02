@@ -16,13 +16,13 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Primera edición de Proyecto Humboldt digital ProHD (<date>2021</date>).</p>
+                <p>ProHD (<date>2021</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                        Atribución 4.0 Internacional (CC BY 4.0) </licence>
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -40,7 +40,9 @@
         </fileDesc>
         <profileDesc>
             <creation>
+                <persName>N/A</persName>
                 <date notBefore="1802">No antes de 1802</date>
+                <placeName>N/A</placeName>
             </creation>
             <langUsage>
                 <language ident="es">Español</language>

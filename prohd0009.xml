@@ -15,13 +15,13 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Primera edición de Proyecto Humboldt digital - ProHD (<date>2021</date>).</p>
+                <p>ProHD (<date>2021</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                        Atribución 4.0 Internacional (CC BY 4.0) </licence>
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -39,7 +39,9 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <date notBefore="1803">1803</date>
+                <persName>N/A</persName>
+                <date notBefore="1803">No antes de 1803</date>
+                <placeName>N/A</placeName>
             </creation>
             <langUsage>
                 <language ident="fr">Français</language>
@@ -57,9 +59,13 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
+                    <date>N/A</date>
+                    <placeName>N/A</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName key="H0004321">Lapie, Pierre (1779-1850)</persName>
+                    <date>N/A</date>
+                    <placeName>N/A</placeName>
                 </correspAction>
             </correspDesc>
             <textClass>

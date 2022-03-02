@@ -17,7 +17,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Proyecto Humboldt digital ProHD (<date>2022</date>)</p>
+                <p>ProHD (<date>2022</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -62,7 +62,8 @@
                 <persName key="H0012966">Caxigas, Juan Emanuel (um 1799)</persName>
                 <placeName key="H0007693">Cumaná [Cumana] (Nordöstliche Hafenstadt und Provinz im
                     heutigen Venezuela)</placeName>
-                <date notBefore="1799-07-16" notAfter="1799-07-31" cert="high"/>
+                <date notBefore="1799-07-16" notAfter="1799-07-31" cert="high">Segunda mitad de
+                    julio de 1799</date>
             </creation>
             <abstract xml:lang="es">
                 <p>Al iniciar su famoso viaje por las Américas (1799-1804), Alexander von Humboldt y
@@ -160,7 +161,8 @@
     <text>
         <body>
             <div>
-                <pb n="166r" facs="prohd0019_166r.tif"/><fw type="folNum">2</fw>
+                <pb n="166r" facs="prohd0019_166r.tif"/>
+                <fw type="folNum">2</fw>
                 <p>
                     <table rows="20" cols="6">
                         <head>Nota del Rancho comprado <choice>

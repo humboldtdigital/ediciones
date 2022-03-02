@@ -16,7 +16,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Primera edición de Proyecto Humboldt digital - ProHD (<date>2020</date>).</p>
+                <p>ProHD (<date>2020</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>
@@ -26,7 +26,7 @@
                 <pubPlace ref="http://www.geonames.org/2950159">Berlín</pubPlace>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                        Atribución 4.0 Internacional (CC BY 4.0) </licence>
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -56,6 +56,8 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
+                    <date>N/A</date>
+                    <placeName>N/A</placeName>
                 </correspAction>
             </correspDesc>
             <langUsage>

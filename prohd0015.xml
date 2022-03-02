@@ -16,7 +16,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Erste Ausgabe von Projekt Humboldt digital - ProHD (<date>2020</date>).</p>
+                <p>ProHD (<date>2020</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
@@ -24,7 +24,7 @@
                 <pubPlace ref="https://www.geonames.org/2950159">Berlin</pubPlace>
                 <availability status="free">
                     <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                        Namensnennung 4.0 International (CC BY 4.0) </licence>
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <notesStmt>
@@ -55,6 +55,7 @@
         <profileDesc>
             <creation>
                 <persName key="H0012682">Arango y Parreño, Francisco de (1765-1837)</persName>
+                <date>N/A</date>
                 <placeName key="H0006819">Havanna [Havana, La Habana] (Hauptstadt Kubas)</placeName>
             </creation>
             <langUsage>
