@@ -171,7 +171,12 @@
                             </choice> el <choice>
                                 <abbr>S<hi rendition="#sup">or</hi></abbr>
                                 <expan>Senor</expan>
-                            </choice> Baron <add place="intralinear">de</add>
+                            </choice>
+                            <choice>
+                                <orig>Baron</orig>
+                                <reg>Barón</reg>
+                            </choice>
+                            <add place="intralinear">de</add>
                             <choice>
                                 <sic>Homboldt</sic>
                                 <corr cert="high">Humboldt</corr>
