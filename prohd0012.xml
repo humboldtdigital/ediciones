@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0012">
     <teiHeader>
         <fileDesc>
@@ -21,7 +20,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>ProHD (<date>2020</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2020</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
@@ -116,14 +115,12 @@
             <div>
                 <pb n="194r" facs="prohd0012_194r.tif"/>
                 <p>Luzuriaga relación de la calentura biliosa remitente <lb/>amarilla
-                    que se manifestó en Filadelfia en 1793 <lb/>Madrid F. I 1804 <lb/><gap
-                        reason="fm" unit="words" quantity="5"/></p>
+                    que se manifestó en Filadelfia en 1793 <lb/>Madrid F. I 1804 <lb/><gap reason="fm" unit="words" quantity="5"/></p>
                 <p>T I</p>
                 <p><choice>
                         <abbr>V.</abbr>
                         <expan>Vomito</expan>
-                    </choice> negro ou prieto est en causes d<add place="intralinear">'</add><del
-                        rendition="#s">e</del>
+                    </choice> negro ou prieto est en causes d<add place="intralinear">'</add><del rendition="#s">e</del>
                     <lb/>Hipocrate, <subst>
                         <del rendition="#s">est</del>
                         <add place="superlinear">et</add>
@@ -131,8 +128,7 @@
                             l'<unclear reason="covered" cert="high">autre</unclear></del> qui se
                     manifeste tous<lb/>les automnes</p>
                 <p>1) fièvre jaune 1684. à <subst>
-                        <del rendition="#s"><del rendition="#s"><gap reason="illegible" quantity="1"
-                                    unit="words"/></del></del>
+                        <del rendition="#s"><del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del></del>
                         <add place="superlinear">Olinda</add>
                     </subst> au Brésil décrite par Juan Ferreyra da Rosa <lb/>1691 à la Barbade où
                     l’on l’<lb break="no"/>appelle alors la nouvelle<lb/>fièvre, ou celle de
@@ -154,11 +150,8 @@
                     absurde <lb/>et de la <space quantity="1" unit="words"/><lb/>en 1734 à St.
                     Domingue. 1741 en Virginie comme prétend Mitchell <add place="sublinear">1778 au
                         Sénégal</add>
-                    <lb/><del rendition="#s"><gap reason="illegible" quantity="1" unit="words"
-                        /></del> Rush, Wilson, Chalmer, Selbert croyent <lb/>que <del rendition="#s"
-                        >elle</del>
-                    <add place="right">la fièvre jaune</add> est <del rendition="#s"><gap
-                            reason="illegible" quantity="1" unit="words"/></del> le degré le plus
+                    <lb/><del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> Rush, Wilson, Chalmer, Selbert croyent <lb/>que <del rendition="#s">elle</del>
+                    <add place="right">la fièvre jaune</add> est <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> le degré le plus
                     pernicieux <lb/>de la fièvre rémittente bilieuse. <lb/>Clark, Jackson et Blane
                     les distinguent <lb/>Luzuriaga la croit gastro-adynamique <lb/>croit la peste du
                     Levant et la <choice>
@@ -178,8 +171,7 @@
                     </choice> à Málaga 1741 <lb/><choice>
                         <abbr>-</abbr>
                         <expan>fièvre jaune à</expan>
-                    </choice> Cádiz 1731. <add place="right">1733. 1734</add> 1744 <del
-                        rendition="#s">et</del> 1746. 1764. <lb/>introduite d'Amérique en Espagne la
+                    </choice> Cádiz 1731. <add place="right">1733. 1734</add> 1744 <del rendition="#s">et</del> 1746. 1764. <lb/>introduite d'Amérique en Espagne la
                     croit <lb/>chacune de ces épidémies par de bateaux<lb/>d'Amérique sous une
                     influence particulière du <lb/>climat, il est incertain si la <choice>
                         <abbr>f.</abbr>
@@ -190,8 +182,7 @@
                         <expan>jaune</expan>
                     </choice> de <lb/>1800 par la Corbeta et Delfin qui vient de <lb/>la Havane et
                     de Charlestown ou la Corbeta <lb/>et Aguita de Veracruz p III. Aussi importée la
-                    croyent Aréjula et Padillas<note place="right" hand="#author"><note
-                            place="right" hand="#author">*mais Mr. A. <lb/>meller Prof. à
+                    croyent Aréjula et Padillas<note place="right" hand="#author"><note place="right" hand="#author">*mais Mr. A. <lb/>meller Prof. à
                             <lb/>l'hôpital de la <lb/>marine et Mr. De<lb break="no"/>lon médecin
                                 franc<supplied cert="high">.</supplied>
                             <lb/><unclear reason="illegible" cert="high">établ</unclear> à Cadiz
@@ -206,8 +197,7 @@
                                 <sic>developpé</sic>
                                 <corr cert="high">developpée</corr>
                             </choice>
-                            <lb/><del rendition="#s"><gap reason="illegible" quantity="1"
-                                    unit="words"/></del> contrairement <lb/>à Cádiz
+                            <lb/><del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> contrairement <lb/>à Cádiz
                     </note></note></p>
                 <p>Luzuriaga cite plus de 350 ouvrages et <lb/>dissertations qui avaient paru
                     jusqu'en <lb/>1804 sur la <choice>
@@ -234,10 +224,7 @@
                         <abbr>j.</abbr>
                         <expan>jaune</expan>
                     </choice> regardée comme une contagieuse par contact <lb/>par Rush, Mitchell,
-                    Walker, Clarcy, <del rendition="#s"><gap reason="illegible" quantity="1"
-                            unit="words"/></del> de <unclear reason="illegible" cert="high"
-                        >Vezc</unclear>, Mackitrick <lb/>comme contagieuse par contact par l'<del
-                        rendition="#s">Académie</del> Université <lb/>de Philadelphia, Wistar,
+                    Walker, Clarcy, <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> de <unclear reason="illegible" cert="high">Vezc</unclear>, Mackitrick <lb/>comme contagieuse par contact par l'<del rendition="#s">Académie</del> Université <lb/>de Philadelphia, Wistar,
                     Blance, Luzuriaga, Catterall</p>
                 <p>2. Je crois que la <choice>
                         <abbr>f.</abbr>
@@ -247,21 +234,17 @@
                         <abbr>j.</abbr>
                         <expan>jaune</expan>
                     </choice> est épidémique sans être contagieu<lb break="no"/>se. Si elle n'étoit
-                        qu'endémique<supplied cert="high">,</supplied> comment ne règneroit<supplied
-                        cert="high">-</supplied><lb break="no"/>elle que tous les 12 - 15
+                        qu'endémique<supplied cert="high">,</supplied> comment ne règneroit<supplied cert="high">-</supplied><lb break="no"/>elle que tous les 12 - 15
                         ans<supplied cert="high">,</supplied> comment se présenteroit-elle si
-                    <lb/>indépendante des <del rendition="#s"><gap reason="illegible" quantity="1"
-                            unit="words"/></del>
+                    <lb/>indépendante des <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del>
                     <choice>
                         <sic><add place="sublinear">modifiant</add></sic>
                         <corr cert="high">modifiants</corr>
-                    </choice> extérieurs de l'atmosphère, <gap reason="illegible" unit="words"
-                        quantity="1"/>
+                    </choice> extérieurs de l'atmosphère, <gap reason="illegible" unit="words" quantity="1"/>
                     <lb/>elle a duré 3 ou 4 ans<supplied cert="high">,</supplied> elle domine
                     quoique les années fort égale<lb break="no"/>ment chaudes. D'ailleurs elle
                     pourroit être endémique produite <lb/>par le climat et cependant contagieuse.
-                    Luz. <add place="superlinear">I</add> #, <del rendition="#s"><gap
-                            reason="illegible" quantity="1" unit="words"/></del>
+                    Luz. <add place="superlinear">I</add> #, <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del>
                     <add place="superlinear">220</add> et il est faux <lb/>de dire que si elle est
                     contagieuse elle est introduite de de<lb break="no"/>hors.</p>
                 <p><pb n="194v" facs="prohd0012_194v.tif"/>3. Veracruz climat. Nicht so gewiß mit mittlerer Temperatur in
@@ -270,10 +253,8 @@
                         <lb/>Therm<supplied cert="high">.</supplied> die Kälte nicht sehr gewiß S.
                     Thermometerstand. Luz I p 278<supplied cert="high">.</supplied>
                     <lb/>Wird Veracruz einmal ganz befreit werden<supplied cert="high">,</supplied>
-                    vielleicht. Pest London <lb/>jährlich von 1593–1611. Rush<supplied cert="high"
-                        >,</supplied> dort entstanden Luz I p 227.</p>
-                <p>Erklärung ich: vielleicht keine miasmen, kein carbon hydrogène<supplied
-                        cert="high">,</supplied> phos<lb break="no"/>phore, kein contagium. Dies
+                    vielleicht. Pest London <lb/>jährlich von 1593–1611. Rush<supplied cert="high">,</supplied> dort entstanden Luz I p 227.</p>
+                <p>Erklärung ich: vielleicht keine miasmen, kein carbon hydrogène<supplied cert="high">,</supplied> phos<lb break="no"/>phore, kein contagium. Dies
                     bloß Wirkung der Hize und des <lb/>Klimas auf <del rendition="#s">Eu</del>
                     Nordmenschen. Neue Form der Krankheit, warum <lb/>aber nicht in Tangier, weil
                     dort nicht Sümpfe. Also wohl <lb/>beides Hize und Sumpfaffectionen zusammen.</p>

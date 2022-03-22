@@ -1,5 +1,4 @@
-<?xml-model href="prohd.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0018">
+<?xml-model href="prohd.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0018">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,7 +15,7 @@
                 </editor>
             </titleStmt>
             <editionStmt>
-                <p>ProHD (<date>2022</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2022</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -116,7 +115,7 @@
     <text>
         <body>
             <div>
-                <pb n="152r" facs="prohd0001_1r.tif"/>
+                <pb n="152r" facs="prohd0018_152r.tif"/>
                 <note place="mTop" hand="H0012069">
                     <hi rendition="#u">Marrons</hi>
                 </note>
@@ -224,7 +223,7 @@
                     <lb break="no"/>pleando 
                     ya la dulzura, ya la severidad<supplied cert="high">,</supplied>
                     <lb/>
-                <pb n="152v" facs="prohd0002_3r.tif"/>ya la fuerza para mantener un derecho <choice>
+                <pb n="152v" facs="prohd0018_152v.tif"/>ya la fuerza para mantener un derecho <choice>
                         <abbr>q.<hi rendition="#sup">e</hi>
                         </abbr>
                         <expan>que</expan>
@@ -310,7 +309,7 @@
                         <reg>monarcas</reg>
                     </choice> ha pro<g ref="#typoHyphen"/>
                     <lb break="no"/>
-                <pb n="153r" facs="prohd0013_4r.tif"/>
+                <pb n="153r" facs="prohd0018_153r.tif"/>
                 <fw type="folNum">3</fw>pendido siempre a aliviar y proteger la<lb/> 
                     suerte de estos desgraciados, y que <choice>
                         <orig>despues</orig>
@@ -427,7 +426,7 @@
                         <orig>el</orig>
                         <reg>él</reg>
                     </choice> que puede asegurar su general<lb/>
-                <pb n="153v"/>observancia? Pase <choice>
+                <pb n="153v" facs="prohd0018_153v.tif"/>observancia? Pase <choice>
                         <orig>quando</orig>
                         <reg>cuando</reg>
                     </choice>
@@ -520,7 +519,7 @@
                         <orig>reunion</orig>
                         <reg>reunión</reg>
                     </choice> de <lb/>
-                <pb n="154r"/>fuerzas causa siempre sobresalto. Para
+                <pb n="154r" facs="prohd0018_154r.tif"/>fuerzas causa siempre sobresalto. Para
                     te<g ref="#typoHyphen"/>
                     <lb break="no"/>nerlos 
                     <choice>
@@ -614,7 +613,7 @@
                         <reg>a la</reg>
                     </choice> observancia de lo<lb/> 
                     justo. ¡Pero que recurso gran Dios! Hay<lb/>
-                <pb n="154v"/>otra ley que previene que todo siervo que<lb/> 
+                <pb n="154v" facs="prohd0018_154v.tif"/>otra ley que previene que todo siervo que<lb/> 
                     se <choice>
                         <orig>enquentre</orig>
                         <reg>encuentre</reg>
@@ -740,7 +739,7 @@
                         <reg>elección</reg>
                     </choice> de una compañera de sus miserias. 
                 </p>
-                <pb n="155r"/>
+                <pb n="155r" facs="prohd0018_155r.tif"/>
                 <p>En el sistema que constantemente han segui<g ref="#typoHyphen"/>
                     <lb break="no"/>do 
                 nuestros <choice>

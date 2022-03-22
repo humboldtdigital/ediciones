@@ -1,6 +1,4 @@
-<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" type="letter"
-    xml:id="prohd0002">
+<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" type="letter" xml:id="prohd0002">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,7 +14,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>ProHD (<date>2021</date>).</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2021</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -260,8 +258,7 @@
                     </choice>, a proof both that the <lb/>slaves are generally well-treated, and
                     that the climate is more congenial to them than to the whites. <lb/>The residue
                     of the slaves, constituting the whole slave-population of the United States, are
-                    thinly scattered <lb/>through three or four of the other States, <gap
-                        unit="words" quantity="1" reason="illegible"/> the remnants of those which
+                    thinly scattered <lb/>through three or four of the other States, <gap unit="words" quantity="1" reason="illegible"/> the remnants of those which
                     existed before slavery was <lb/>there abolished, and are yearly diminuishing in
                     numbers, theirchildren being born free.</p>
                 <p>
@@ -277,20 +274,18 @@
                     <lb/>exemple un vrai nombre 5,3 <gap quantity="1" unit="words" reason="lost"/>
                     <lb/>donne 5,308844. Seybert (<gap unit="words" quantity="1" reason="illegible"/>
                     <gap quantity="1" unit="words" reason="lost"/>
-                    <lb/>Mr Harvey <del rendition="#s">donne</del> (<gap reason="illegible"
-                        unit="words" quantity="1"/> Phil<gap quantity="1" unit="words" reason="lost"/>
+                    <lb/>Mr Harvey <del rendition="#s">donne</del> (<gap reason="illegible" unit="words" quantity="1"/> Phil<gap quantity="1" unit="words" reason="lost"/>
                     <lb/>5.309 758.</p>
                 <p>Mr Harvey donne les <gap unit="chars" quantity="2" reason="illegible"/>
                     <gap quantity="1" reason="lost" unit="words"/>
                     <lb/>accroissement de la p<supplied cert="high">opulation</supplied>
                     <gap quantity="1" unit="words" reason="lost"/>
                     <lb/>
-                    <gap unit="words" quantity="1" reason="illegible"/>(p 41-55) <gap unit="words"
-                        quantity="1" reason="illegible"/>
+                    <gap unit="words" quantity="1" reason="illegible"/>(p 41-55) <gap unit="words" quantity="1" reason="illegible"/>
                     <gap quantity="1" unit="words" reason="lost"/>
                     <lb/>de 35, I. 36, I <gap quantity="1" unit="words" reason="lost"/>
                     <lb/>qui commence à <gap quantity="1" unit="words" reason="lost"/>
-                    <lb/>qui de 2 à 3 <gap  unit="words" quantity="1" reason="illegible"/>
+                    <lb/>qui de 2 à 3 <gap unit="words" quantity="1" reason="illegible"/>
                     <lb/>de l'accroissement <gap quantity="1" unit="words" reason="lost"/>
                 </p>
                 <p>

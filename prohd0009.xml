@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="letter" xml:id="prohd0009">
     <teiHeader>
         <fileDesc>
@@ -15,7 +14,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>ProHD (<date>2021</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2021</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -126,12 +125,9 @@
                 <p><pb n="268r" facs="prohd0009_268r.tif"/>En examinant si <choice>
                         <abbr>Mr</abbr>
                         <expan>Monsieur</expan>
-                    </choice> Poirson, <lb/>comme je le lui avois pré<g ref="#typoHyphen"/><lb
-                        break="no"/>scrit, a bien placé <hi rendition="#u">mes <lb/>positions</hi>,
+                    </choice> Poirson, <lb/>comme je le lui avois pré<g ref="#typoHyphen"/><lb break="no"/>scrit, a bien placé <hi rendition="#u">mes <lb/>positions</hi>,
                     j'ose Vous prier<supplied cert="high">,</supplied>
-                    <lb/>mon cher ami, de vouloir <lb/>bien <unclear reason="illegible" cert="high"
-                        >aussi</unclear> ajouter partout <lb/>où la place le permet<supplied
-                        cert="high">,</supplied>
+                    <lb/>mon cher ami, de vouloir <lb/>bien <unclear reason="illegible" cert="high">aussi</unclear> ajouter partout <lb/>où la place le permet<supplied cert="high">,</supplied>
                     <lb/>les points déterminés par les <lb/>officiers espagnols et renfermés
                     <lb/>entre <choice>
                         <abbr>p</abbr>
@@ -144,16 +140,13 @@
                         <expan>longitude</expan>
                     </choice> 84° 42' <lb/>Managua village 84° 37' <lb/>Matanzas 83° 59' <lb/>la
                     Trinidad 82° 21<supplied cert="high">'</supplied>. <lb/>Batabanó 84° 45'
-                    <lb/>Cap S. Antonio 87° <hi rendition="#u">17</hi><supplied cert="high"
-                        >'</supplied><choice>
+                    <lb/>Cap S. Antonio 87° <hi rendition="#u">17</hi><supplied cert="high">'</supplied><choice>
                         <sic>.</sic>
                         <corr cert="high">,</corr>
                     </choice>
                     <lb/>et les points pris <hi rendition="#u">entre</hi>
                     <lb/>Trinidad et Cabo S. Anto<lb break="no"/>nio seront accordés par <lb/>les
-                    différences à mes longi<lb break="no"/>tudes et latitudes<supplied cert="high"
-                        >.</supplied> Mais <lb/><add place="intralinear">au contraire</add> pour <hi
-                        rendition="#u">Santiago de Cuba</hi>
+                    différences à mes longi<lb break="no"/>tudes et latitudes<supplied cert="high">.</supplied> Mais <lb/><add place="intralinear">au contraire</add> pour <hi rendition="#u">Santiago de Cuba</hi>
                     <lb/>Guan<hi rendition="#u">ta</hi>namo <lb/><hi rendition="#u"><choice>
                             <abbr>Pto</abbr>
                             <expan>Puerto</expan>
@@ -170,18 +163,15 @@
                     <lb/>ce qui est à l'<hi rendition="#u">est</hi> de <lb/>Trinidad. Les <choice>
                         <abbr>long.</abbr>
                         <expan>longitudes</expan>
-                    </choice> des <lb/>tables espagnoles sont cal<g ref="#typoHyphen"/><lb
-                        break="no"/>culées sur Cádiz<supplied cert="high">.</supplied> Pour
+                    </choice> des <lb/>tables espagnoles sont cal<g ref="#typoHyphen"/><lb break="no"/>culées sur Cádiz<supplied cert="high">.</supplied> Pour
                     <lb/>réduire les <choice>
                         <abbr>longit.</abbr>
                         <expan>longitudes</expan>
                     </choice>
                     <del rendition="#s"><unclear reason="covered" cert="low">sur</unclear></del>
                     <lb/>au méridien de Paris<supplied cert="high">,</supplied>
-                    <lb/>ajoutez <hi rendition="#u">8° 37' 37'</hi>'<supplied cert="high"
-                        >.</supplied></p>
-                <closer>Meilleures amitiés. Vous voyez <lb/>que nous avons d'excel<lb break="no"
-                    />lans matériaux. <signed>Humboldt</signed>
+                    <lb/>ajoutez <hi rendition="#u">8° 37' 37'</hi>'<supplied cert="high">.</supplied></p>
+                <closer>Meilleures amitiés. Vous voyez <lb/>que nous avons d'excel<lb break="no"/>lans matériaux. <signed>Humboldt</signed>
                 </closer>
             </div>
         </body>

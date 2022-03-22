@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0005">
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0005">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,7 +14,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>ProHD (<date>2020</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2020</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
@@ -127,28 +125,20 @@
                     <lb/><add place="left">Elle embrasse</add>
                     <del rendition="#s"><add place="superlinear">occidentale</add>
                         <add place="sublinear">orientale</add>
-                        <del rendition="#s"><gap reason="illegible" quantity="2" unit="words"
-                            /></del> occupe</del>
-                    <add place="superlinear">vers l'ouest</add> la pente <add place="superlinear"
-                        >orientale</add> de la Cordillère d'Anahuac. <add place="superlinear">C'est
+                        <del rendition="#s"><gap reason="illegible" quantity="2" unit="words"/></del> occupe</del>
+                    <add place="superlinear">vers l'ouest</add> la pente <add place="superlinear">orientale</add> de la Cordillère d'Anahuac. <add place="superlinear">C'est
                         lá que</add>
                     <del rendition="#s">Dans l'</del>
-                    <lb/><del rendition="#s"><gap reason="illegible" quantity="1" unit="words"
-                        /></del>
+                    <lb/><del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del>
                     <add place="superlinear">dans l'espace</add> de très peu d'heures les habitans
                         <del rendition="#s">p</del>
-                    <add place="superlinear">peuvent</add> défendre de<lb break="no"/>puis <add
-                        place="left">la région</add> des neiges éternelles au climat brûlant de la
-                    côte. + La <lb/>majeure partie de l'Intendance de Veracruz <del rendition="#s"
-                            ><gap reason="illegible" quantity="1" unit="words"/></del> appartient
-                    aux <lb/><hi rendition="#u">tierras calientes</hi><note place="mBottom"
-                        hand="#author">*voyez plus haut <choice>
+                    <add place="superlinear">peuvent</add> défendre de<lb break="no"/>puis <add place="left">la région</add> des neiges éternelles au climat brûlant de la
+                    côte. + La <lb/>majeure partie de l'Intendance de Veracruz <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> appartient
+                    aux <lb/><hi rendition="#u">tierras calientes</hi><note place="mBottom" hand="#author">*voyez plus haut <choice>
                             <abbr>p.</abbr>
                             <expan>page</expan>
                         </choice></note>
-                    <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"
-                        /></del><supplied cert="high">.</supplied> La Nature l'a <del rendition="#s"
-                            ><gap reason="illegible" quantity="1" unit="words"/></del>
+                    <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del><supplied cert="high">.</supplied> La Nature l'a <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del>
                     <choice>
                         <sic>enrichi</sic>
                         <corr cert="high">enrichie</corr>
@@ -162,17 +152,13 @@
                         Sarsaparille (Smilax</del> le Piment <lb/>de Tabasco (Myrtus ) au Sudouest
                     du Río Baraderas et <lb/>de Vittoria, du Tabac, du Sucre, de la Sarsaparille,
                         <add place="superlinear">et</add> de l'excellent <lb/>coton. Malgré ces
-                    avantages naturels l'Intendance de <del rendition="#s"><gap reason="illegible"
-                            quantity="2" unit="words"/></del><lb/>Veracruz est <choice>
+                    avantages naturels l'Intendance de <del rendition="#s"><gap reason="illegible" quantity="2" unit="words"/></del><lb/>Veracruz est <choice>
                         <sic>du</sic>
                         <corr cert="high">la</corr>
-                    </choice> plus négligée dans la culture. Sa population rela<g ref="#typoHyphen"
-                        /><lb break="no"/>tive égale à peine <choice>
+                    </choice> plus négligée dans la culture. Sa population rela<g ref="#typoHyphen"/><lb break="no"/>tive égale à peine <choice>
                         <sic>cell</sic>
                         <corr cert="high">celle</corr>
-                    </choice> de <space quantity="1" unit="words"/> ce qui prouve que la popu<lb
-                        break="no"/>lation de la Nouvelle Espagne depuis <del rendition="#s"><gap
-                            reason="illegible" quantity="1" unit="words"/></del>
+                    </choice> de <space quantity="1" unit="words"/> ce qui prouve que la popu<lb break="no"/>lation de la Nouvelle Espagne depuis <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del>
                     <add place="superlinear">les</add> terres les plus <choice>
                         <sic>reculés</sic>
                         <corr cert="high">reculées</corr>
@@ -181,22 +167,18 @@
                         <sic><add place="left">demeuré</add></sic>
                         <corr cert="high">demeurée</corr>
                     </choice> concentrée sur le plateau central, tandis que les côtes
-                    <lb/>orientales et occidentales n'offrent que des régions inha<lb break="no"
-                    />bitées.</p>
+                    <lb/>orientales et occidentales n'offrent que des régions inha<lb break="no"/>bitées.</p>
                 <p><gap reason="insignificant" unit="lines" quantity="6"/></p>
-                <p>L'Intendance de Veracruz <add place="superlinear">peut en ce moment <del
-                            rendition="#s">peut</del> être <choice>
+                <p>L'Intendance de Veracruz <add place="superlinear">peut en ce moment <del rendition="#s">peut</del> être <choice>
                             <sic>considéré</sic>
                             <corr cert="high">considérée</corr>
                         </choice></add> comme le site de la <lb/>fièvre jaune ou du vomissement noir
                     (vomito prieto)<supplied cert="high">.</supplied> Je dis <lb/>en ce moment, car
-                    je suis persuadé que si le commerce actif <lb/>des Européens se <del
-                        rendition="#s">portait</del>
+                    je suis persuadé que si le commerce actif <lb/>des Européens se <del rendition="#s">portait</del>
                     <add place="left"><choice>
                             <sic>dirigait</sic>
                             <corr cert="high">dirigeait</corr>
-                        </choice></add> sur un autre port que sur celui <lb/>de la Veracruz, <del
-                        rendition="#s">l'accum</del>
+                        </choice></add> sur un autre port que sur celui <lb/>de la Veracruz, <del rendition="#s">l'accum</del>
                     <del rendition="#s"><gap reason="illegible" quantity="4" unit="words"/></del> le
                     concours d'étran<lb break="no"/>gers, surtout <subst>
                         <del rendition="#s">de personnes</del>
@@ -208,8 +190,7 @@
                     </choice> sous un climat froid <lb/>et transférés, y développerait le germe de
                     ces épidémies <lb/>funestes.</p>
                 <p><gap reason="insignificant" unit="lines" quantity="10"/></p>
-                <p><add place="left"><gap reason="insignificant" unit="lines" quantity="40"
-                    /></add></p>
+                <p><add place="left"><gap reason="insignificant" unit="lines" quantity="40"/></add></p>
             </div>
         </body>
     </text>

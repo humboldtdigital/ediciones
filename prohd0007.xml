@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0007">
     <teiHeader>
         <fileDesc>
@@ -19,7 +18,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>ProHD (<date>2020</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2020</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
@@ -127,10 +126,7 @@
                     la <lb/>plus <choice>
                         <sic>grand</sic>
                         <corr cert="high">grande</corr>
-                    </choice> analogie avec la fièvre jaune et <lb/>n’<del rendition="#s"><gap
-                            reason="illegible" quantity="1" unit="words"/></del><add
-                        place="superlinear">en</add> sont peut-être que le premier de<lb break="no"
-                    />gré. Nappat de Fouquet <choice>
+                    </choice> analogie avec la fièvre jaune et <lb/>n’<del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del><add place="superlinear">en</add> sont peut-être que le premier de<lb break="no"/>gré. Nappat de Fouquet <choice>
                         <abbr>p</abbr>
                         <expan>page</expan>
                     </choice> XVVI </p>
@@ -155,14 +151,12 @@
                         <sic>habité</sic>
                         <corr cert="high">habitée</corr>
                     </choice>
-                    <lb/>par les descendans des <unclear reason="illegible" cert="low"
-                        >Albernanda</unclear>
+                    <lb/>par les descendans des <unclear reason="illegible" cert="low">Albernanda</unclear>
                     <lb/>Berthe <choice>
                         <abbr>p</abbr>
                         <expan>page</expan>
                     </choice> 16.</p>
-                <p>4<supplied cert="high">.</supplied> et est mort ⅕ – ⅙ de la popula<lb break="no"
-                    />tion des <choice>
+                <p>4<supplied cert="high">.</supplied> et est mort ⅕ – ⅙ de la popula<lb break="no"/>tion des <choice>
                         <sic>vallée</sic>
                         <corr cert="high">vallées</corr>
                     </choice>
@@ -176,14 +170,10 @@
                         <abbr>p</abbr>
                         <expan>page</expan>
                     </choice> 335 </p>
-                <p><del rendition="#s">4.</del> la fièvre jaune a été introduite de dehors<supplied
-                        cert="high">.</supplied><lb/>Il y a des années plus chaudes que
-                    1800<lb/>Maximum de chaleur à Cádiz en 1789 <lb/>de 87°<supplied cert="high"
-                        >,</supplied> en 1790 de 90°<supplied cert="high">,</supplied> en 1791 de
+                <p><del rendition="#s">4.</del> la fièvre jaune a été introduite de dehors<supplied cert="high">.</supplied><lb/>Il y a des années plus chaudes que
+                    1800<lb/>Maximum de chaleur à Cádiz en 1789 <lb/>de 87°<supplied cert="high">,</supplied> en 1790 de 90°<supplied cert="high">,</supplied> en 1791 de
                         86°<supplied cert="high">,</supplied>
-                    <lb/>en 1792 de 86°<supplied cert="high">,</supplied> en 1794 de 85<supplied
-                        cert="high">,</supplied> en 1799 <lb/>de 82<supplied cert="high"
-                        >,</supplied> en 1800 de 87. (B <choice>
+                    <lb/>en 1792 de 86°<supplied cert="high">,</supplied> en 1794 de 85<supplied cert="high">,</supplied> en 1799 <lb/>de 82<supplied cert="high">,</supplied> en 1800 de 87. (B <choice>
                         <abbr>p</abbr>
                         <expan>page</expan>
                     </choice> 338)<supplied cert="high">.</supplied> Les bourgs de <lb/>Medina
@@ -214,8 +204,7 @@
                         <lb/>construite à Baltimore, elle touche à Charlestown avec Don Pablo
                         <lb/>Valiente et le médecin D. Josef <lb/>Caro qui assure que les 3 matelots
                             <lb/><del rendition="#s">n'</del>
-                        <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"
-                            /></del> morts en chemin n’<lb break="no"/>eurent pas la <choice>
+                        <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> morts en chemin n’<lb break="no"/>eurent pas la <choice>
                             <abbr>f.</abbr>
                             <expan>fièvre</expan>
                         </choice>
@@ -223,14 +212,12 @@
                             <abbr>j.</abbr>
                             <expan>jaune</expan>
                         </choice>
-                        <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"
-                            /></del> Soup<lb break="no"/>çon aussi contre la polacra el
+                        <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> Soup<lb break="no"/>çon aussi contre la polacra el
                             <lb/><unclear reason="illegible" cert="low">Jupiter</unclear> de
                         Veracruz à bord duquel <lb/>et y eut par <choice>
                             <sic>la</sic>
                             <corr cert="high">les</corr>
-                        </choice> tropiques la vo<lb break="no"/>mito (tout incertain) ** <lb/><note
-                            place="left" hand="#author">ähnliche Mährchen<lb/>wie <choice>
+                        </choice> tropiques la vo<lb break="no"/>mito (tout incertain) ** <lb/><note place="left" hand="#author">ähnliche Mährchen<lb/>wie <choice>
                                 <abbr>f.</abbr>
                                 <expan>fièvre</expan>
                             </choice>
@@ -253,8 +240,7 @@
                     </choice> 53.</p>
                 <pb n="192v" facs="prohd0007_192v.tif"/>
                 <p>5. La fièvre jaune en Espagne a été contagieuse <lb/>et non épidémique B. 74. 346
-                    (Cependant <lb/>Rush prétend qu’elle est épidémique condi<lb break="no"
-                    />tionnelle dans le sens hippocratique.</p>
+                    (Cependant <lb/>Rush prétend qu’elle est épidémique condi<lb break="no"/>tionnelle dans le sens hippocratique.</p>
                 <p>6. La propagation de la contagion se fait par <lb/>contact immédiat quelque fois
                     par contact <lb/>presque immédiat par l’air. Souvent la <lb/>fièvre ne passe pas
                     d’une rangée de <lb/>maison à <choice>
@@ -266,12 +252,10 @@
                         <expan>page</expan>
                     </choice> 29 ,</p>
                 <p>8. Symptômes : lassitude, découragement <lb/>anxiétés, pesanteur de tête,
-                    céphalaigie <lb/>rougeur des paupières <note place="right" hand="#author"
-                            ><unclear reason="illegible" cert="high">bientôt</unclear> yeux
+                    céphalaigie <lb/>rougeur des paupières <note place="right" hand="#author"><unclear reason="illegible" cert="high">bientôt</unclear> yeux
                         jaunes</note>, altération commen<lb break="no"/>çante de la physionomie.</p>
                 <p>douleur dans la région épigastrique <lb/>vomissement noir, avec altérnations de
-                    froid <lb/>et de chaud, hémorrhagies par le nez<supplied cert="high"
-                        >,</supplied> bouche <lb/>gencives, l’urètre, vagin</p>
+                    froid <lb/>et de chaud, hémorrhagies par le nez<supplied cert="high">,</supplied> bouche <lb/>gencives, l’urètre, vagin</p>
                 <p>9. Ce vomissement est un accident inséparable <lb/>de cette maladie <choice>
                         <abbr>p</abbr>
                         <expan>page</expan>
@@ -287,14 +271,12 @@
                     <lb/>cutané. <note place="right" hand="#author">mais dans les hôpitaux <lb/>il <choice>
                             <sic>moururent</sic>
                             <corr cert="high">mourut</corr>
-                        </choice> pres<lb break="no"/>que la moitié des <lb/>malades et beau<lb
-                            break="no"/>coup de femmes <lb/><choice>
+                        </choice> pres<lb break="no"/>que la moitié des <lb/>malades et beau<lb break="no"/>coup de femmes <lb/><choice>
                             <abbr>p</abbr>
                             <expan>page</expan>
                         </choice> 372. </note></p>
                 <p>11. en 1800 il y eut à Cádiz sur une population <lb/>de 57499 : malades 48520
-                    dont 7387 <lb/><del rendition="#s"><gap reason="illegible" quantity="1"
-                            unit="words"/></del> morts et 40776 guéris <lb/>à Séville sur 80588
+                    dont 7387 <lb/><del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> morts et 40776 guéris <lb/>à Séville sur 80588
                     population : 76488 <lb/>malades dont 14685 morts <lb/>à Xéres sur 33000 <choice>
                         <abbr>popul</abbr>
                         <expan>population</expan>
@@ -312,10 +294,8 @@
                     <choice>
                         <sic>sauvages</sic>
                         <corr cert="high">sauvage</corr>
-                    </choice>, maladie de Siona <lb/><unclear reason="illegible" cert="low"
-                        >Kiruito</unclear> prieto. </p>
-                <p>13. Les nègres ont facilement la fièvre <lb/>bilieuse<supplied cert="high"
-                        >,</supplied> moi j’avais la fièvres jaune <lb/>Carey a short accourut of
+                    </choice>, maladie de Siona <lb/><unclear reason="illegible" cert="low">Kiruito</unclear> prieto. </p>
+                <p>13. Les nègres ont facilement la fièvre <lb/>bilieuse<supplied cert="high">,</supplied> moi j’avais la fièvres jaune <lb/>Carey a short accourut of
                     the malignant <lb/>fever in Philadelphia 1793.</p>
                 <gap reason="insignificant" unit="pages" quantity="34"/>
                 <pb n="210r" facs="prohd0007_210r.tif"/>
@@ -324,13 +304,11 @@
                         <expan>occidentalis</expan>
                     </choice> croit aussi que la fièvre <lb/>jaune n'est pas contagieuse.
                     <lb/>Berthe croit qu'elle ne peut <lb/>pas l'être dans le lieu natal <lb/>où
-                    elle sera purement spora<lb break="no"/>dique ou endémique et qu'elle <lb/><del
-                        rendition="#s">b</del> devient contagieuse là où elle <lb/>s'introduit <choice>
+                    elle sera purement spora<lb break="no"/>dique ou endémique et qu'elle <lb/><del rendition="#s">b</del> devient contagieuse là où elle <lb/>s'introduit <choice>
                         <abbr>p</abbr>
                         <expan>page</expan>
                     </choice> 179.</p>
-                <p>La fièvre jaune n'est pas essentiellement <lb/><del rendition="#s"><gap
-                            reason="illegible" quantity="2" unit="chars"/></del> contagieuse là ou
+                <p>La fièvre jaune n'est pas essentiellement <lb/><del rendition="#s"><gap reason="illegible" quantity="2" unit="chars"/></del> contagieuse là ou
                     elle est véri<lb break="no"/>tablement endémique mais partout<lb/>où elle a été
                         transplantée<supplied cert="high">,</supplied> ce n'est <lb/>que par la
                     contagion qu'elle se <lb/>developpe et se propage <choice>
@@ -362,16 +340,14 @@
                     camphre<lb/>versicatores sanguinis<lb/>boisson à la <choice>
                         <sic>glaces</sic>
                         <corr cert="high">glace</corr>
-                    </choice><supplied cert="high">,</supplied> Crème de tartre, <unclear
-                        reason="illegible" cert="low">Sel</unclear><lb/>les excitans donc le
+                    </choice><supplied cert="high">,</supplied> Crème de tartre, <unclear reason="illegible" cert="low">Sel</unclear><lb/>les excitans donc le
                     troisième stade<lb/>dans la <choice>
                         <sic>persiration</sic>
                         <corr cert="high">perspiration</corr>
                     </choice> des forces. C'est <lb/>la place <choice>
                         <sic>commun</sic>
                         <corr cert="high">commune</corr>
-                    </choice> en Amérique.<note place="left" hand="#author">Cortex Angostu<lb
-                            break="no"/>rae besser als<lb/>China in New <lb/>York und
+                    </choice> en Amérique.<note place="left" hand="#author">Cortex Angostu<lb break="no"/>rae besser als<lb/>China in New <lb/>York und
                             Virginie<lb/><gap reason="illegible" unit="words" quantity="1"/> an
                         Seaman <lb/>Luzaro II p 233</note></p>
                 <p><note place="left" hand="#author">Calomet <lb/>et Salap déjà <lb/>recommandé
@@ -379,40 +355,32 @@
                             seiziè<lb break="no"/>me siècle p<supplied cert="high">.</supplied> e.
                         <lb/>Luis Lobera de Ávila <lb/>et Andrès de la <lb/>guerre Lazar II p 95
                         <lb/>Valentin und Franzosen über<lb break="no"/>haupt gegen callomell
-                        <lb/>weil wenig gebraucht, in <lb/>Jamaica und États <lb/>Unis<supplied
-                            cert="high">,</supplied> zweifelsohne <lb/>nützlich<supplied cert="high"
-                            >,</supplied> schweißerregend <lb/>und für Leber specifisch<supplied
-                            cert="high">.</supplied></note></p>
+                        <lb/>weil wenig gebraucht, in <lb/>Jamaica und États <lb/>Unis<supplied cert="high">,</supplied> zweifelsohne <lb/>nützlich<supplied cert="high">,</supplied> schweißerregend <lb/>und für Leber specifisch<supplied cert="high">.</supplied></note></p>
                 <p>16. La saignée est recommandée aux Îles aux <lb/>nouveaux venus, elle peut calmer
                     l' <lb/>irritation mais aussi combien d'indi<lb break="no"/>dus ne jette-t-elle
-                    pas dans <lb/>un affaissement mortel. Gilbert Ma<g ref="#typoHyphen"/><lb
-                        break="no"/>ladies de St. Domingue <choice>
+                    pas dans <lb/>un affaissement mortel. Gilbert Ma<g ref="#typoHyphen"/><lb break="no"/>ladies de St. Domingue <choice>
                         <abbr>p</abbr>
                         <expan>page</expan>
                     </choice> 91</p>
                 <p>17 premier stade: élément nerveux <lb/>avec spasme et irritation vive par
                         consé<lb break="no"/>quent purgatif-énergique dangéreux. B p 386 <lb/>le 1
-                    jour sudorifiques si la crise ne se <lb/>fait pas exaspération (2 stade) irri<lb
-                        break="no"/>tation sporadique pls vive de la <lb/>région épigastrique
+                    jour sudorifiques si la crise ne se <lb/>fait pas exaspération (2 stade) irri<lb break="no"/>tation sporadique pls vive de la <lb/>région épigastrique
                     dégénération <lb/>
                     <pb n="210v" facs="prohd0007_210v.tif"/> bilieuse ou putride. <lb/>remède de la première <lb/>période:
                     <lb/>clmer l'irritation <lb/>rompre, révulser les <lb/>spasmes concentrés sur la
                     <lb/>région épigastrique <lb/>modérer l'action <add place="superlinear">du</add>
-                    délétère <lb/>contagieux sur le <del rendition="#s">syst</del> sys<lb break="no"
-                    />tème nerveux, expulser<lb/>les miasmes</p>
+                    délétère <lb/>contagieux sur le <del rendition="#s">syst</del> sys<lb break="no"/>tème nerveux, expulser<lb/>les miasmes</p>
                 <p>18 donc boissons tièdes mucila<lb break="no"/>gieuses <choice>
                         <sic>préparés</sic>
                         <corr cert="high">préparées</corr>
-                    </choice> avec des <lb/>plantes émulsientes malvacés <lb/><del rendition="#s"
-                        >orge</del> orge riz limonades<lb/>légères fermentations sur <lb/>la région <choice>
+                    </choice> avec des <lb/>plantes émulsientes malvacés <lb/><del rendition="#s">orge</del> orge riz limonades<lb/>légères fermentations sur <lb/>la région <choice>
                         <sic>épigastriques</sic>
                         <corr cert="high">épigastrique</corr>
                     </choice>
                     <lb/>(So alte Weiber in Xalappa<supplied cert="high">)</supplied><lb/>si cela
                     insuffisans en<lb break="no"/>sangisme</p>
                 <p>Sans saignée? <note place="right" hand="#author">ungewiss</note><lb/>Schwache
-                    Abführungsmittel?<lb/>il y en a qui ont <unclear reason="illegible" cert="low"
-                        >nerveces</unclear><lb/>aux <choice>
+                    Abführungsmittel?<lb/>il y en a qui ont <unclear reason="illegible" cert="low">nerveces</unclear><lb/>aux <choice>
                         <sic>saignés</sic>
                         <corr cert="high">saignées</corr>
                     </choice><supplied cert="high">,</supplied> aux émétiques<lb/>et aux
@@ -421,35 +389,27 @@
                         <sic>la</sic>
                         <corr cert="high">l'</corr>
                     </choice>
-                    <lb/>affection humorale, la <lb/>diastase biliose s'établit <lb/><unclear
-                        reason="illegible" cert="low">voir</unclear> lavement,
+                    <lb/>affection humorale, la <lb/>diastase biliose s'établit <lb/><unclear reason="illegible" cert="low">voir</unclear> lavement,
                     quinquina<lb/>purgatif</p>
-                <p>troisième atonie décomposition de <lb/>sang cardiaque, vin quin<lb break="no"
-                    />quina oft <gap unit="words" quantity="1" reason="illegible"/> viele wirken<lb/>
+                <p>troisième atonie décomposition de <lb/>sang cardiaque, vin quin<lb break="no"/>quina oft <gap unit="words" quantity="1" reason="illegible"/> viele wirken<lb/>
                     <gap unit="words" quantity="3" reason="illegible"/>säuerliche Trünke<lb/>ou en
                     général</p>
                 <p><note place="left" hand="#author">Diese Stadia <lb/>sehr ähnlich denen
-                        <lb/>welche der französ. <lb/>Arzt <note place="left" hand="#author"
-                                ><metamark place="inline"><note place="left"
-                                    hand="#Alexander von Humoldt">Mr. de</note></metamark></note>
+                        <lb/>welche der französ. <lb/>Arzt <note place="left" hand="#author"><metamark place="inline"><note place="left" hand="#Alexander von Humoldt">Mr. de</note></metamark></note>
                         Vezc beschreibt <lb/><gap unit="words" quantity="1" reason="illegible"/> sur
                         la ma<lb break="no"/>ladie épidem. de Phi<lb break="no"/>ladelphie (1794.)
                         <lb/>ist <hi rendition="#u">gegen</hi> Contagion <lb/></note><lb/>1. calmer
-                    l'irritation, l' <lb/>éréthisme isme du système vis<g ref="#typoHyphen"/><lb
-                        break="no"/>céral </p>
+                    l'irritation, l' <lb/>éréthisme isme du système vis<g ref="#typoHyphen"/><lb break="no"/>céral </p>
                 <p>2. favoriser les <choice>
                         <sic>évacuations</sic>
                         <corr cert="high">évacuations</corr>
                     </choice>
-                    <lb/>alvines lorsqu'elles s'<gap unit="chars" quantity="5" reason="illegible"
-                        /><lb break="no"/>cent surtout comme critique <lb/>et qu'<choice>
+                    <lb/>alvines lorsqu'elles s'<gap unit="chars" quantity="5" reason="illegible"/><lb break="no"/>cent surtout comme critique <lb/>et qu'<choice>
                         <sic>elle</sic>
                         <corr cert="high">elles</corr>
                     </choice> sont accompagnées <lb/>de soulagement</p>
                 <p>3. aider la sueur et la <lb/>solution critique par les <lb/>voyes urinaires</p>
-                <p>4. <gap unit="words" quantity="1" reason="illegible"/> de forces non maî<lb
-                        break="no"/>trisant <del rendition="#s"><gap reason="illegible" quantity="3"
-                            unit="words"/></del> l'<lb/>action des excitans afin qu' <lb/>ils ne
+                <p>4. <gap unit="words" quantity="1" reason="illegible"/> de forces non maî<lb break="no"/>trisant <del rendition="#s"><gap reason="illegible" quantity="3" unit="words"/></del> l'<lb/>action des excitans afin qu' <lb/>ils ne
                     deviennent pas <gap unit="chars" quantity="3" reason="illegible"/>
                     <lb/>sobles par excès.</p>
                 <p>Volney glaubt <choice>
@@ -478,14 +438,11 @@
                         <abbr>u</abbr>
                         <expan>und</expan>
                     </choice> in <lb/>Spanien bis</p>
-                <p>20) Eiswasser. Rush empfiehlt<lb/>B ist dagegen p 249<lb/><del rendition="#s"
-                        >D</del> Aber in Veracruz <lb/>behauptet man prophilactisch<lb/>nützlich
-                        <del rendition="#s">auf</del> daher Eis jetzt<lb/>von Orizaba<supplied
-                        cert="high">.</supplied> Auch sagt<lb/>Berthe p 248. <lb/>rien n'est plus
+                <p>20) Eiswasser. Rush empfiehlt<lb/>B ist dagegen p 249<lb/><del rendition="#s">D</del> Aber in Veracruz <lb/>behauptet man prophilactisch<lb/>nützlich
+                        <del rendition="#s">auf</del> daher Eis jetzt<lb/>von Orizaba<supplied cert="high">.</supplied> Auch sagt<lb/>Berthe p 248. <lb/>rien n'est plus
                     propre <lb/>à enrayer la dégéné<lb break="no"/>rescence bilieuse <lb/>que
                     l'usage habituel <lb/>de la glace, mais <del rendition="#s">le
-                        <lb/>quinquina</del> à qui parvient <lb/>une maladie<supplied cert="high"
-                        >,</supplied> ne la <lb/>guérit pas!</p>
+                        <lb/>quinquina</del> à qui parvient <lb/>une maladie<supplied cert="high">,</supplied> ne la <lb/>guérit pas!</p>
                 <p><pb n="211r" facs="prohd0007_211r.tif"/> 3000/428</p>
                 <p><pb n="211v" facs="prohd0007_211v.tif"/>
                     <gap unit="lines" quantity="5" reason="insignificant"/>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0015">
     <teiHeader>
         <fileDesc>
@@ -16,7 +15,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>ProHD (<date>2020</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2020</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
@@ -210,17 +209,13 @@
                 <p>Se asegura con afecto <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> parecieron todos los Indios de esta <placeName key="H0000494"
-                        >Isla</placeName> y <choice>
+                    </choice> parecieron todos los Indios de esta <placeName key="H0000494">Isla</placeName> y <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> des<lb break="no"/>pués vinieron <add place="superlinear"
-                        hand="H0012682">algunos</add> de fuera <subst>
+                    </choice> des<lb break="no"/>pués vinieron <add place="superlinear" hand="H0012682">algunos</add> de fuera <subst>
                         <del rendition="#ow" hand="H0012682">algunas</del>
-                        <add place="across"><del rendition="#s"><gap reason="illegible" quantity="1"
-                                    unit="words"/></del></add>
-                    </subst>; pero hasta ayer mañana hubo en <placeName key="H0011015">Gua<lb
-                            break="no"/>nabacoa</placeName> muchas familias de Indios. Yo las
+                        <add place="across"><del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del></add>
+                    </subst>; pero hasta ayer mañana hubo en <placeName key="H0011015">Gua<lb break="no"/>nabacoa</placeName> muchas familias de Indios. Yo las
                     alcancé, y el <persName key="H0012069"><choice>
                             <abbr>Sor.</abbr>
                             <expan>Señor</expan>
@@ -228,8 +223,7 @@
                     <lb/>verá en la Historia de Arrate <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> los Indios<supplied cert="high">,</supplied> en sus canoas<supplied
-                        cert="high">,</supplied> eran<lb/>los <choice>
+                    </choice> los Indios<supplied cert="high">,</supplied> en sus canoas<supplied cert="high">,</supplied> eran<lb/>los <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> proveían de agua a esta ciudad antes de <choice>
@@ -239,17 +233,14 @@
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> te <lb/>nemos hoy. A <measure quantity="2" unit="leagua">2
-                        leguas</measure> de <placeName key="H0000494">Cuba</placeName>, y a <measure
-                        quantity="7" unit="leagua">7</measure> del <placeName key="H0018254"
-                        >Bayamo</placeName><supplied cert="high">,</supplied> hay todavía <lb/>dos
+                        leguas</measure> de <placeName key="H0000494">Cuba</placeName>, y a <measure quantity="7" unit="leagua">7</measure> del <placeName key="H0018254">Bayamo</placeName><supplied cert="high">,</supplied> hay todavía <lb/>dos
                     pueblos de Indios <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> se llaman Caney y Giguaní<supplied cert="high">,</supplied>
                     <add place="superlinear" hand="H0012682">los</add>
                     <choice>
-                        <abbr>q.<hi rendition="#sup">e<add place="intralinear" hand="H0012682"
-                                    >s</add></hi></abbr>
+                        <abbr>q.<hi rendition="#sup">e<add place="intralinear" hand="H0012682">s</add></hi></abbr>
                         <expan><add place="intralinear" hand="H0012682">quales</add></expan>
                     </choice> gozan <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
@@ -261,8 +252,7 @@
                     </choice><lb/>disposiciones de todos los privilegios <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> las leyes conseden a los Indios. <lb/>Consta<del rendition="#s"
-                        hand="H0012682"/>
+                    </choice> las leyes conseden a los Indios. <lb/>Consta<del rendition="#s" hand="H0012682"/>
                     <add place="superlinear" hand="H0012682">el 2<hi rendition="#sup">o</hi>
                     </add>de unas 300 casas; <choice>
                         <abbr>p.<hi rendition="#sup">o</hi></abbr>
@@ -277,8 +267,7 @@
                     <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>que</expan>
-                    </choice> sus continuas mesclas con blan<g ref="#typoHyphen"/><lb break="no"
-                    />cos y negros.</p>
+                    </choice> sus continuas mesclas con blan<g ref="#typoHyphen"/><lb break="no"/>cos y negros.</p>
                 <p><add place="left"><choice>
                             <abbr><hi rendition="#u">p</hi><hi rendition="#sup">a</hi>
                             </abbr>
@@ -481,10 +470,7 @@
                     <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> ha<g ref="#typoHyphen"/><lb break="no"/>bía en esta Isla<supplied
-                        cert="high">,</supplied> y sin apurar ese dato<supplied cert="high"
-                        >,</supplied> ni puede hacerse ni sos<g ref="#typoHyphen"/><lb break="no"
-                    />tenerse la comparación entre <placeName key="H0006552">Jamayca</placeName> y
+                    </choice> ha<g ref="#typoHyphen"/><lb break="no"/>bía en esta Isla<supplied cert="high">,</supplied> y sin apurar ese dato<supplied cert="high">,</supplied> ni puede hacerse ni sos<g ref="#typoHyphen"/><lb break="no"/>tenerse la comparación entre <placeName key="H0006552">Jamayca</placeName> y
                         <placeName key="H0000494">Cuba</placeName>.</p>
                 <p><add place="left"><choice>
                             <abbr><hi rendition="#u">p<hi rendition="#sup">a</hi></hi></abbr>
@@ -1796,13 +1782,11 @@
                         <abbr>fundamentalm.<hi rendition="#sup">te</hi></abbr>
                         <expan>fundamentalmente</expan>
                     </choice>
-                    <lb/>este importante negocio. Lo hizo también <add place="intralinear"
-                        hand="H0012682">h</add>a<subst>
+                    <lb/>este importante negocio. Lo hizo también <add place="intralinear" hand="H0012682">h</add>a<subst>
                         <del rendition="#ow">y</del>
                         <add place="across" hand="H0012682">ll</add>
                     </subst>ándose de Con<g ref="#typoHyphen"/><lb break="no"/>sejero, y
-                        cree<supplied cert="high">,</supplied> con dolor<supplied cert="high"
-                        >,</supplied>
+                        cree<supplied cert="high">,</supplied> con dolor<supplied cert="high">,</supplied>
                     <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>

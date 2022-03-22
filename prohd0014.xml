@@ -1,5 +1,4 @@
-<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" type="letter"
-    xml:id="prohd0014">
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" type="letter" xml:id="prohd0014">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,7 +15,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>ProHD (<date>2020</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2020</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>
@@ -145,8 +144,7 @@
                         <abbr>V.</abbr>
                         <expan>Usted</expan>
                     </choice>
-                    <unclear reason="illegible" cert="high">mi</unclear> expresión <unclear
-                        reason="illegible" cert="high">de</unclear> gracias <choice>
+                    <unclear reason="illegible" cert="high">mi</unclear> expresión <unclear reason="illegible" cert="high">de</unclear> gracias <choice>
                         <abbr>p</abbr>
                         <expan>por</expan>
                     </choice> el favor <choice>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd00017">
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd00017">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,7 +14,7 @@
                 </editor>
             </titleStmt>
             <editionStmt>
-                <p>ProHD (<date>2022</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2022</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -34,15 +32,14 @@
                         <idno>
                             <idno type="shelfmark">Bd. 3/1 Bl. 1-179</idno>
                             <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2868341</idno>
-                            <idno type="URLImages"
-                                >https://jbc.bj.uj.edu.pl/dlibra/publication/367139/edition/350047</idno>
+                            <idno type="URLImages">https://jbc.bj.uj.edu.pl/dlibra/publication/367139/edition/350047</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
                         <p>Manuscrito autógrafo de autor desconocido en buen estado de conservación
                             y de seis páginas de extensión. Forma parte del documento conocido como
-                            &quot;Umschlag mit den Materialien für die Statistik von Kuba
-                            [Werk]&quot;. Doble numeración: una paginación original en tinta; otra
+                            "Umschlag mit den Materialien für die Statistik von Kuba
+                            [Werk]". Doble numeración: una paginación original en tinta; otra
                             moderna en lápiz que solo numera los folios (123-124). Contiene algunas
                             adiciones en tinta negra al inicio del documento, en los márgenes y al
                             final del texto en francés por Alexander von Humboldt.</p>
@@ -277,8 +274,7 @@
                     </choice> fruto <choice>
                         <orig>asus</orig>
                         <reg>a sus</reg>
-                    </choice> cul<lb break="no"/>tivadores al respecto de 4 <unclear cert="low"
-                        reason="illegible">
+                    </choice> cul<lb break="no"/>tivadores al respecto de 4 <unclear cert="low" reason="illegible">
                         <choice>
                             <abbr>p.<hi rendition="#sup">r</hi>
                             </abbr>
@@ -291,8 +287,7 @@
                             </abbr>
                             <expan>factoría</expan>
                         </choice>
-                    </unclear>, que es el de<lb/> 16. cada quintal, precio <unclear cert="high"
-                        reason="illegible">
+                    </unclear>, que es el de<lb/> 16. cada quintal, precio <unclear cert="high" reason="illegible">
                         <choice>
                             <orig>exorvitantisimo</orig>
                             <reg>exorbitantísimo</reg>
@@ -532,8 +527,7 @@
                     </choice> de <choice>
                         <orig>haver</orig>
                         <reg>haber</reg>
-                    </choice> tomado<lb/> las tierras un valor nunca esperado: <unclear cert="high"
-                        reason="illegible">siendo</unclear>
+                    </choice> tomado<lb/> las tierras un valor nunca esperado: <unclear cert="high" reason="illegible">siendo</unclear>
                     <lb/>
                     <choice>
                         <orig>deaqui</orig>
@@ -557,11 +551,9 @@
                     <choice>
                         <orig>desus</orig>
                         <reg>de sus</reg>
-                    </choice> brazos, no pudiendo sufragar el <gap unit="words" reason="illegible"
-                        quantity="1"/>
+                    </choice> brazos, no pudiendo sufragar el <gap unit="words" reason="illegible" quantity="1"/>
                     <lb/>cido <gap reason="illegible" unit="words" quantity="1"/> que exigeron los
-                    dueños de las men<lb/>cionadas tierras por su arriendo, ha <unclear
-                        reason="illegible" cert="low">desen<lb/>tado</unclear> muchos <choice>
+                    dueños de las men<lb/>cionadas tierras por su arriendo, ha <unclear reason="illegible" cert="low">desen<lb/>tado</unclear> muchos <choice>
                         <abbr>labrad.<hi rendition="#sup">s</hi>
                         </abbr>
                         <expan>labradores</expan>
@@ -609,8 +601,7 @@
                         <abbr>q.<hi rendition="#sup">e</hi>
                         </abbr>
                         <expan>que</expan>
-                    </choice> han encontrado su <unclear cert="high" reason="illegible"
-                        >pasar</unclear> me<lb/>nos <choice>
+                    </choice> han encontrado su <unclear cert="high" reason="illegible">pasar</unclear> me<lb/>nos <choice>
                         <orig>equiboco</orig>
                         <reg>equívoco</reg>
                     </choice> que el del <choice>
@@ -650,16 +641,14 @@
                     </choice> anterior de <supplied cert="high">1</supplied>803<choice>
                         <sic>.</sic>
                         <corr type="deleted"/>
-                    </choice>,<lb/> no llegó a <unclear cert="low" reason="illegible"
-                        >38.000</unclear>
+                    </choice>,<lb/> no llegó a <unclear cert="low" reason="illegible">38.000</unclear>
                     <choice>
                         <orig>arro.S</orig>
                         <reg>arrobas</reg>
                     </choice>
                     <note place="mBottom" hand="#H0012069">38.000?</note>; la del anterior<lb/>
                     <pb n="124v" facs="prohd0017_124v.tif"/>
-                    <fw type="folNum">4</fw> de <supplied cert="high">1</supplied>802, ni a <unclear
-                        cert="low" reason="illegible">60000</unclear>, <choice>
+                    <fw type="folNum">4</fw> de <supplied cert="high">1</supplied>802, ni a <unclear cert="low" reason="illegible">60000</unclear>, <choice>
                         <orig>haviendose</orig>
                         <reg>habiéndose</reg>
                     </choice> quedado las dos<lb/>
@@ -715,8 +704,7 @@
                     </choice> el enor<lb/>me consumo que del cigarro se hace en toda<lb/> la <choice>
                         <orig>Ysla</orig>
                         <reg>isla</reg>
-                    </choice>, no se necesita menos que de <unclear cert="low" reason="illegible"
-                        >35.0000</unclear>
+                    </choice>, no se necesita menos que de <unclear cert="low" reason="illegible">35.0000</unclear>
                     <lb/>
                     <choice>
                         <abbr>arr.<hi rendition="#sup">s</hi>
@@ -725,17 +713,14 @@
                     </choice> en cada año, siendo bastante <choice>
                         <orig>aora</orig>
                         <reg>ahora</reg>
-                    </choice> diez,<lb/> la cantidad de <unclear cert="low" reason="illegible"
-                        >25.0000</unclear> para tener provistos<lb/> todos los puntos <choice>
+                    </choice> diez,<lb/> la cantidad de <unclear cert="low" reason="illegible">25.0000</unclear> para tener provistos<lb/> todos los puntos <choice>
                         <orig>aquienes</orig>
                         <reg>a quienes</reg>
-                    </choice> surte, excepto<lb/> el consumo que se hace de veinte leguas tie<g
-                        ref="#typoHyphen"/>
+                    </choice> surte, excepto<lb/> el consumo que se hace de veinte leguas tie<g ref="#typoHyphen"/>
                     <lb/>rra adentro <choice>
                         <orig>desta</orig>
                         <reg>de esta</reg>
-                    </choice> capital, hasta Cuba in<lb/>clusive donde nunca <hi rendition="#u"
-                        hand="#H0012069">
+                    </choice> capital, hasta Cuba in<lb/>clusive donde nunca <hi rendition="#u" hand="#H0012069">
                         <choice>
                             <orig>seha</orig>
                             <reg>se ha</reg>
@@ -939,8 +924,7 @@
                         <abbr>p.<hi rendition="#sup">os</hi>
                         </abbr>
                         <expan>pesos</expan>
-                    </choice>. <note place="inline" hand="#H0012069">Voilà <gap unit="words"
-                            quantity="5" reason="illegible"/>
+                    </choice>. <note place="inline" hand="#H0012069">Voilà <gap unit="words" quantity="5" reason="illegible"/>
                         <lb/> 43.200<lb/>
                         <hi hand="#H0012069" rendition="#u">10.900</hi>
                         <lb/>54.100 </note>
@@ -1080,8 +1064,7 @@
                     </choice> y sus<lb/> inmediaciones deja al <choice>
                         <orig>Rey</orig>
                         <reg>rey</reg>
-                    </choice>, deducidas<lb/> mermas y costos de venta <unclear cert="low"
-                        reason="illegible">latenviadas</unclear>
+                    </choice>, deducidas<lb/> mermas y costos de venta <unclear cert="low" reason="illegible">latenviadas</unclear>
                     <unclear cert="high" reason="illegible">de</unclear>
                     <lb/> un <gap unit="words" quantity="1" reason="illegible"/> de utilidad, sin
                     poder aspirar <choice>

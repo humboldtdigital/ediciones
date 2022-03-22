@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0001">
+<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0001">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,7 +14,7 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>ProHD (<date>2021</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2021</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -103,49 +101,56 @@
             <div>
                 <pb n="1r" facs="prohd0001_1r.tif"/>
                 <p>Esclaves</p>
-                <p>nous rét<add place="superlinear">r</add>ogradons comme partout<supplied
-                        cert="high">,</supplied><lb/>on ne veut plus en écrire <lb/><unclear
-                        reason="illegible" cert="high">ni</unclear> parler<supplied cert="high"
-                        >,</supplied> les uns <choice>
+                <p>nous rét<add place="superlinear">r</add>ogradons comme partout<supplied cert="high">,</supplied>
+                    <lb/>on ne veut plus en écrire <lb/>
+                    <unclear reason="illegible" cert="high">ni</unclear> parler<supplied cert="high">,</supplied> les uns <choice>
                         <orig>par<lb/>ce</orig>
                         <reg>parce</reg>
-                    </choice> qu'ils craignent qu'on <lb/>les accuse de sensiblerie<supplied
-                        cert="high">,</supplied><lb/>d'autres <choice>
+                    </choice> qu'ils craignent qu'on <lb/>les accuse de sensiblerie<supplied cert="high">,</supplied>
+                    <lb/>d'autres <choice>
                         <orig>par ce</orig>
                         <reg>parce</reg>
-                    </choice> qu'on <lb/>agite des colonies, <hi rendition="#u"><choice>
+                    </choice> qu'on <lb/>agite des colonies, <hi rendition="#u">
+                        <choice>
                             <sic>affligé</sic>
                             <corr cert="high">afflige</corr>
-                        </choice></hi>
+                        </choice>
+                    </hi>
                     <lb/>les colons</p>
                 <p>
                     <gap unit="lines" quantity="2" reason="insignificant"/>
                 </p>
-                <p><pb n="1v" facs="prohd0001_1v.tif"/>or!! <lb/>sur l'or des Îles <lb/>voyez <del rendition="#s"><gap
-                            unit="words" quantity="1" reason="illegible"/></del> Peter <lb/>Martyr
+                <p>
+                    <pb n="1v" facs="prohd0001_1v.tif"/>or!! <lb/>sur l'or des Îles <lb/>voyez <del rendition="#s">
+                        <gap unit="words" quantity="1" reason="illegible"/>
+                    </del> Peter <lb/>Martyr
                     1533 <choice>
                         <abbr>p</abbr>
                         <expan>page</expan>
-                    </choice> 24 D. <lb/>et register <hi rendition="#uu">aurum</hi></p>
+                    </choice> 24 D. <lb/>et register <hi rendition="#uu">aurum</hi>
+                </p>
                 <p>
                     <pb n="2r" facs="prohd0001_2r.tif"/>
                     <hi rendition="#uu">Inquisition</hi>
                 </p>
-                <p><choice>
+                <p>
+                    <choice>
                         <abbr>Mr</abbr>
                         <expan>Monsieur</expan>
                     </choice> de Maistre (Soirées de St. <choice>
                         <abbr>Pétersb</abbr>
                         <expan>Pétersbourg</expan>
                     </choice>
-                    <lb/><choice>
+                    <lb/>
+                    <choice>
                         <abbr>T</abbr>
                         <expan>Tome</expan>
                     </choice> 2. <choice>
                         <abbr>p</abbr>
                         <expan>page</expan>
                     </choice> 121) est irrité de ce que <lb/>"l'Angleterre reproche au Portugal
-                    <lb/>les arrêts de son inquisition <lb/><choice>
+                    <lb/>les arrêts de son inquisition <lb/>
+                    <choice>
                         <abbr>c.</abbr>
                         <expan>c'est</expan>
                     </choice> à <choice>
@@ -158,7 +163,8 @@
                 <p>
                     <pb n="2v" facs="prohd0001_2v.tif"/>
                 </p>
-                <p><pb n="3r" facs="prohd0001_3r.tif"/>Esclavage</p>
+                <p>
+                    <pb n="3r" facs="prohd0001_3r.tif"/>Esclavage</p>
                 <p>Les colonies angloises en Amérique <lb/>ont vécu de 1680-1786 <lb/>en tout
                     2,130000 nègres <lb/>enregistrés<supplied cert="high">,</supplied> probablement
                     3 <choice>
@@ -169,19 +175,21 @@
                 <p>on croit 1810 qu'encore à <lb/>cause des <choice>
                         <abbr>Espagn</abbr>
                         <expan>Espagnols</expan>
-                    </choice><supplied cert="high">,</supplied>
+                    </choice>
+                    <supplied cert="high">,</supplied>
                     <choice>
                         <abbr>Port.</abbr>
                         <expan>Portugais</expan>
                     </choice> et <lb/>François on extrait annuelle<lb break="no"/>ment de l'Afrique
                     oc. 80,000 <lb/>nègres</p>
-                <p><choice>
+                <p>
+                    <choice>
                         <sic>Le</sic>
                         <corr cert="high">La</corr>
                     </choice> Jamaïque<supplied cert="high">,</supplied> Cube a reçu <lb/>de
                     1655-1787 .. 676276 <lb/>nègres.</p>
-                <p><note place="left" hand="#Humboldt, Alexander von">150<unclear reason="illegible"
-                            cert="low">0</unclear>
+                <p>
+                    <note place="left" hand="#Humboldt, Alexander von">150<unclear reason="illegible" cert="low">0</unclear>
                         <lb/>900000 <lb/>7000000</note>schon 1769 in House of <lb/>representatifes
                     of Massachu<lb break="no"/>sets wurde gefragt (lange <lb/>vor Congress von Wien)
                     <lb/>"the <choice>
@@ -202,8 +210,9 @@
                     </choice> 1819 <choice>
                         <abbr>p</abbr>
                         <expan>page</expan>
-                    </choice> 312 <lb/>abschaffung <del rendition="#s"><gap unit="words"
-                            quantity="1" reason="illegible"/></del> des Handels <lb/>Virginie 1778
+                    </choice> 312 <lb/>abschaffung <del rendition="#s">
+                        <gap unit="words" quantity="1" reason="illegible"/>
+                    </del> des Handels <lb/>Virginie 1778
                         <lb/>Pensylvanie<lb/>Connecticut<note place="right" hand="#author">R.
                             Wilber<lb break="no"/>force <lb/>Gallatin</note>
                     <lb/>Danemark <lb/>Amérique</p>
