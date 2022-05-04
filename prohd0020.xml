@@ -19,7 +19,8 @@
             </titleStmt>
             <editionStmt>
                 <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (
-                        <date>2022</date>) </p>
+                    <date>2022</date>)
+                </p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -59,16 +60,20 @@
             </langUsage>
             <abstract xml:lang="es">
                 <p>Acta en la que se registra la noticia por parte del Sr. Andrés de Zayas acerca de
-                    la venta en castellano del <title>Ensayo político sobre la isla de Cuba</title>
+                    la venta en castellano del
+                    <title>Ensayo político sobre la isla de Cuba</title>
                     y, tras la moción del Sr. Carrillo, la decisión de nombrar una comisión para
                     requisar dicha obra debido a las opiniones sobre el número y la fuerza de la
-                    población negra en Cuba.</p>
+                    población negra en Cuba.
+                </p>
             </abstract>
             <abstract xml:lang="de">
-                <p>[Introducir datos]</p>
+                <p>Protokolle über die Nachrichten von Herrn Andrés de Zayas über den Verkauf der
+                    <title>Ensayo político sobre isla de Cuba</title> in spanischer Sprache und, auf Antrag von Herrn Carrillo, die Entscheidung, eine Kommission zu ernennen, diese Arbeit aufgrund von Meinungen über die Anzahl und Stärke der schwarzen Bevölkerung in Kuba zu beschlagnahmen.
+                </p>
             </abstract>
             <textClass>
-                <catRef scheme="#genre" target="#acta"/>
+                <catRef scheme="#genre" target="#minutes"/>
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subject" target="#demography"/>
                 <catRef scheme="#subject" target="#slavery"/>
@@ -81,9 +86,9 @@
                         <category xml:id="correspondence"/>
                         <category xml:id="diaries"/>
                         <category xml:id="essays"/>
+                        <category xml:id="minutes"/>
                         <category xml:id="notebooks"/>
                         <category xml:id="travelwriting"/>
-                        <category xml:id="acta"/>
                     </category>
                     <category xml:id="form">
                         <category xml:id="manuscript"/>
@@ -119,197 +124,276 @@
                 <pb n="786r" facs="prohd0020_786r.tif"/>
                 <gap reason="insignificant" unit="lines" quantity="12"/>
                 <p>
-                    <hi rendition="#b">El <choice>
+                    <hi rendition="#b">El
+                        <choice>
                             <abbr>Sr.</abbr>
                             <expan>Señor</expan>
-                        </choice> Zayas <lb/>sobre <choice>
+                        </choice> Zayas
+                        <lb/>sobre
+                        <choice>
                             <orig>laventa</orig>
                             <reg>la venta</reg>
                         </choice>
-                        <lb/><choice>
+                        <lb/>
+                        <choice>
                             <orig>dela</orig>
                             <reg>de la</reg>
-                        </choice> obra del <lb/>Barón de Hum<lb break="no"/>boldt</hi>
+                        </choice> obra del
+                        <lb/>Barón de Hum<lb break="no"/>boldt
+                    </hi>
                 </p>
-                <p>Con este <choice>
+                <p>Con este
+                    <choice>
                         <orig>motibo</orig>
                         <reg>motivo</reg>
-                    </choice> el <choice>
-                        <abbr>S<hi rendition="#sup">r</hi>.</abbr>
+                    </choice> el
+                    <choice>
+                        <abbr>S
+                            <hi rendition="#sup">r</hi>.
+                        </abbr>
                         <expan>Señor</expan>
                     </choice>
                     <choice>
                         <orig>Andres</orig>
                         <reg>Andrés</reg>
-                    </choice> de Za<lb break="no"/>yas <choice>
+                    </choice> de Za<lb break="no"/>yas
+                    <choice>
                         <orig>espuso</orig>
                         <reg>expuso</reg>
-                    </choice> que en las <choice>
+                    </choice> que en las
+                    <choice>
                         <orig>librerias</orig>
                         <reg>librerías</reg>
-                    </choice> de esta ciudad se <choice>
+                    </choice> de esta ciudad se
+                    <choice>
                         <orig>estan</orig>
                         <reg>están</reg>
-                    </choice> ven-<lb break="no"/>diendo en castellano el <title>
+                    </choice> ven<g ref="#typoHyphen"/>
+                    <lb break="no"/>diendo en castellano el
+                    <title>
                         <choice>
                             <sic>ensayo</sic>
                             <corr>Ensayo</corr>
-                        </choice><choice>
-                            <orig> politico</orig>
+                        </choice>
+                        <choice>
+                            <orig>politico</orig>
                             <reg>político</reg>
-                        </choice> sobre la <choice>
+                        </choice> sobre la
+                        <choice>
                             <orig>Ysla</orig>
                             <reg>isla</reg>
-                        </choice> de Cuba </title>
-                    <lb/>escrito por el <choice>
+                        </choice> de Cuba
+                    </title>
+                    <lb/>escrito por el
+                    <choice>
                         <orig>Baron</orig>
                         <reg>Barón</reg>
                     </choice> de Humboldt; que esta obra<supplied cert="high">,</supplied> bajo
-                    muchos <lb/>aspectos <choice>
+                    muchos
+                    <lb/>aspectos
+                    <choice>
                         <orig>apreciabilisimos</orig>
                         <reg>apreciabilísimos<supplied cert="high">,</supplied></reg>
-                    </choice> era sin embargo sobremanera <choice>
-                        <sic>pe<lb break="no"/>ligroso</sic>
+                    </choice> era sin embargo sobremanera
+                    <choice>
+                        <sic>pe
+                            <lb break="no"/>ligroso
+                        </sic>
                         <corr cert="high">peligrosa</corr>
-                    </choice>entre nosotros por las opiniones de su autor acerca <lb/>de la
+                    </choice> entre nosotros por las opiniones de su autor acerca
+                    <lb/>de la
                     esclavitud y<supplied cert="high">,</supplied>
                     <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
-                    </choice> que todo<supplied cert="high">,</supplied> por el cuadro tanto <choice>
+                    </choice> que todo<supplied cert="high">,</supplied> por el cuadro tanto
+                    <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
                     </choice>
-                    <lb/>terrible cuanto <choice>
+                    <lb/>terrible cuanto
+                    <choice>
                         <orig>és</orig>
                         <reg>es</reg>
                     </choice>
                     <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
-                    </choice> cierto que presenta las gentes de <lb/>color<choice>
-                        <sic> de</sic>
+                    </choice> cierto que presenta las gentes de
+                    <lb/>color
+                    <choice>
+                        <sic>de</sic>
                         <corr cert="high">por</corr>
-                    </choice> su <choice>
+                    </choice> su
+                    <choice>
                         <orig>immensa</orig>
                         <reg>inmensa</reg>
-                    </choice> fuerza en esta <choice>
+                    </choice> fuerza en esta
+                    <choice>
                         <orig>Ysla</orig>
                         <reg>isla</reg>
-                    </choice>, y su preponde<lb break="no"/>rancia excesiva en todas las Antillas y
-                    las costas del conti- <lb/>nente que nos cerca; que<supplied cert="high"
-                        >,</supplied> en consecuencia de la <choice>
+                    </choice>, y su preponde
+                    <lb break="no"/>rancia excesiva en todas las Antillas y
+                    las costas del conti<g ref="#typoHyphen"/>
+                    <lb break="no"/>nente que nos cerca; que<supplied cert="high">,</supplied> en consecuencia de la
+                    <choice>
                         <orig>mocion</orig>
                         <reg>moción</reg>
                     </choice>
-                    <lb/>del <choice>
+                    <lb/>del
+                    <choice>
                         <abbr>Sr.</abbr>
                         <expan>Señor</expan>
                     </choice> Carrillo<supplied cert="high">,</supplied> que desde luego apoyaba,
-                    pedía <choice>
+                    pedía
+                    <choice>
                         <orig>tambien</orig>
                         <reg>también</reg>
                     </choice>
-                    <lb/>que se tratase de evitar por todos los medios posibles la <choice>
-                        <orig>cir<lb break="no"/>culacion</orig>
+                    <lb/>que se tratase de evitar por todos los medios posibles la
+                    <choice>
+                        <orig>cir
+                            <lb break="no"/>culacion
+                        </orig>
                         <reg>circulación</reg>
                     </choice> de ese libro<supplied cert="high">,</supplied>
                     <choice>
                         <orig>nombrandose</orig>
                         <reg>nombrándose</reg>
-                    </choice> una <choice>
+                    </choice> una
+                    <choice>
                         <orig>comision</orig>
                         <reg>comisión</reg>
-                    </choice>, <supplied cert="high">y</supplied> que <lb/>acordase con el <choice>
+                    </choice>, <supplied cert="high">y</supplied> que
+                    <lb/>acordase con el
+                    <choice>
                         <abbr>Excmo.</abbr>
                         <expan>Excelentísimo</expan>
                     </choice>
                     <choice>
                         <abbr>Sor.</abbr>
                         <expan>Señor</expan>
-                    </choice> Presidente<choice>
+                    </choice> Presidente
+                    <choice>
                         <sic>,</sic>
                         <corr cert="high"/>
-                    </choice> el orden <choice>
+                    </choice> el orden
+                    <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
                     </choice>
                     <lb/>
-                    <add place="left">acuerdo /</add> oportuno de recogerlo.</p>
-                <p>El <choice>
+                    <add place="left">acuerdo /</add> oportuno de recogerlo.
+                </p>
+                <p>El
+                    <choice>
                         <abbr>Excmo.</abbr>
                         <expan>Excelentísimo</expan>
                     </choice>
                     <choice>
                         <abbr>Ayuntamien.<hi rendition="#sup">to</hi></abbr>
                         <expan>Ayuntamiento</expan>
-                    </choice> aprobó con <pb n="786v" facs="prohd0020_786v.tif"/>
-                    <lb/>el mayor calor una y otra <choice>
+                    </choice> aprobó con
+                    <pb n="786v" facs="prohd0020_786v.tif"/>
+                    <lb/>el mayor calor una y otra
+                    <choice>
                         <orig>mocion</orig>
                         <reg>moción</reg>
-                    </choice><supplied cert="high">,</supplied> y acordó en cuanto <lb/><choice>
+                    </choice><supplied cert="high">,</supplied> y acordó en cuanto
+                    <lb/>
+                    <choice>
                         <orig>á</orig>
                         <reg>a</reg>
-                    </choice> la primera que el mismo <choice>
-                        <abbr>S.<hi rendition="#sup">r</hi></abbr>
+                    </choice> la primera que el mismo
+                    <choice>
+                        <abbr>S.
+                            <hi rendition="#sup">r</hi>
+                        </abbr>
                         <expan>Señor</expan>
-                    </choice> Carrillo se encargase <lb/>de hacer la <choice>
+                    </choice> Carrillo se encargase
+                    <lb/>de hacer la
+                    <choice>
                         <orig>representacion</orig>
                         <reg>representación</reg>
-                    </choice>; y sobre la segunda que el <lb/>caballero <choice>
+                    </choice>; y sobre la segunda que el
+                    <lb/>caballero
+                    <choice>
                         <orig>Sindico</orig>
                         <reg>Síndico</reg>
-                    </choice> se acerque <choice>
+                    </choice> se acerque
+                    <choice>
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice>
                     <choice>
                         <abbr>S.E.E.</abbr>
                         <expan>Sus Excelencias</expan>
-                    </choice> los <choice>
+                    </choice> los
+                    <choice>
                         <abbr>Sres.</abbr>
                         <expan>Señores</expan>
-                    </choice> Presidente <lb/><choice>
+                    </choice> Presidente
+                    <lb/>
+                    <choice>
                         <orig>é</orig>
                         <reg>e</reg>
                     </choice>
                     <choice>
                         <orig>Yntendente</orig>
                         <reg>Intendente</reg>
-                    </choice> para que se tomen las convenientes medidas <choice>
-                        <orig><lb/>á</orig>
+                    </choice> para que se tomen las convenientes medidas
+                    <choice>
+                        <orig>
+                            <lb/>á
+                        </orig>
                         <reg>a</reg>
-                    </choice> efecto de <choice>
+                    </choice> efecto de
+                    <choice>
                         <orig>precaber</orig>
                         <reg>precaver</reg>
-                    </choice> la nueva <choice>
+                    </choice> la nueva
+                    <choice>
                         <orig>introduccion</orig>
                         <reg>introducción</reg>
-                    </choice> del ensayo <choice>
-                        <orig>po-<lb break="no"/>litico</orig>
+                    </choice> del ensayo
+                    <choice>
+                        <orig>po<g ref="#typoHyphen"/>
+                            <lb break="no"/>litico
+                        </orig>
                         <reg>político</reg>
-                    </choice> y <choice>
+                    </choice> y
+                    <choice>
                         <orig>demas</orig>
                         <reg>demás</reg>
                     </choice> obras que estén en el mismo caso<supplied cert="high">,</supplied>
                     <choice>
-                        <orig>comuni-<lb break="no"/>candose</orig>
+                        <orig>comuni<g ref="#typoHyphen"/>
+                            <lb break="no"/>candose
+                        </orig>
                         <reg>comunicándose</reg>
-                    </choice> este acuerdo al referido <choice>
+                    </choice> este acuerdo al referido
+                    <choice>
                         <abbr>Excmo.</abbr>
                         <expan>Excelentísimo</expan>
                     </choice>
                     <choice>
                         <abbr>Sr.</abbr>
                         <expan>Señor</expan>
-                    </choice> Presidente <choice>
-                        <abbr>p.<hi rendition="#sup">r</hi></abbr>
-                        <expan><unclear reason="illegible" cert="high">por</unclear></expan>
+                    </choice> Presidente
+                    <choice>
+                        <abbr>p.
+                            <hi rendition="#sup">r</hi>
+                        </abbr>
+                        <expan>
+                            <unclear reason="illegible" cert="high">por</unclear>
+                        </expan>
                     </choice>
-                    <lb/>los <choice>
+                    <lb/>los
+                    <choice>
                         <abbr>Sres.</abbr>
                         <expan>Señores</expan>
-                    </choice> Comisarios.</p>
+                    </choice> Comisarios.
+                </p>
                 <gap reason="insignificant" unit="lines" quantity="19"/>
             </div>
         </body>
