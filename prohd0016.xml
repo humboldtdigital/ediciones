@@ -1,4 +1,5 @@
-<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="letter" xml:id="prohd0016">
+<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="letter" xml:id="prohd0016">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,8 +20,7 @@
             <publicationStmt>
                 <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
-                        (CC BY 4.0) </licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0) </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -30,11 +30,11 @@
                         <collection>Coleción Gobierno Español</collection>
                         <idno>
                             <idno type="shelfmark">Legajo 673. Expediente 6</idno>
-                            <idno type="uri">https://prohd.ohc.cu/xmlui/handle/123456789/19</idno>
+                            <idno type="uri">https://prohd.ohc.cu/xmlui/handle/21.11149/19</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Documento manuscrito con dimensiones de 30 cm x 21 cm.</p>
+                        <p>Documento manuscrito con dimensiones de 30 cm x 21 cm. Contiene membrete de Comisaria del Excelentísimo Ayuntamiento de la siempre fidelísima ciudad de La Habana.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -51,8 +51,7 @@
                     <placeName key="H0006819">La Habana</placeName>
                     <date>N/A</date>
                 </correspAction>
-                <note>En el documento se distinguen dos partes textuales independientes de autores
-                    distintos.</note>
+                <note>En el documento se distinguen dos partes textuales independientes de autores distintos.</note>
             </correspDesc>
             <textClass>
                 <catRef scheme="#genre" target="#correspondence"/>
@@ -64,13 +63,10 @@
                 <language ident="es">Español</language>
             </langUsage>
             <abstract xml:lang="es">
-                <!-- esto requiere una revisión, porque más bien parece que la petición de Ana de Toro y la sobre la prohibición del Ensayo son dos actos separados -->
-                <p>Solicitud hecha al Gobernador y Capitán General sobre licencia que presentó la
-                    morena libre Ana del Toro para establecer una escuela de primeras letras a niños
-                    de color y utilizar como material de enseñanza el "Ensayo Político de la Isla de
-                    Cuba" de la autoría de Alejandro de Humboldt, en 1827. Contiene membrete de
-                    Comisaria del Excelentísimo Ayuntamiento de la siempre fidelísima ciudad de La
-                    Habana.</p>
+                <p>El documento contiene dos consultas al Gobernador y Capitán General. La primera está referida a la solicitud de licencia de la morena libre Ana del Toro para establecer una escuela de primeras letras para “niñas de color”. La segunda consulta es sobre la censura al "Ensayo Político de la Isla de Cuba" (1827) de la autoría de Alejandro de Humboldt que se comenzaría a vender en las librerías de La Habana.</p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>Das Dokument enthält zwei Anfragen an den Gouverneur und den Generalkapitän. Der erste betrifft den Antrag auf eine Lizenz der freien braunen Ana del Toro, um eine Schule mit ersten Buchstaben für "farbige Mädchen" zu gründen. Bei der zweiten Konsultation geht es um die Zensur des "Ensayo Político de la Isla de Cuba" (1827) von Alejandro de Humboldt, das in den Buchläden von Havanna verkauft werden sollte. </p>
             </abstract>
         </profileDesc>
         <encodingDesc>
@@ -139,8 +135,7 @@
                         </choice> testimonio <choice>
                             <orig>delo</orig>
                             <reg>de lo</reg>
-                        </choice> acordado <lb/><gap unit="words" quantity="1" reason="illegible"/>
-                        el <choice>
+                        </choice> acordado <lb/><gap unit="words" quantity="1" reason="illegible"/> el <choice>
                             <abbr>Excmo.</abbr>
                             <expan>Excelentísimo</expan>
                         </choice>
@@ -160,17 +155,14 @@
                         </choice> relativo, <choice>
                             <orig>ála</orig>
                             <reg>a la</reg>
-                        </choice> licencia que. pre<lb break="no"/>sentó la morena libre Ana del
-                        Toro para <lb/>establecer una escuela de primeras letras de <lb/>niñas de su
-                        color, y así mismo sobre la <lb/>obra que se está <choice>
+                        </choice> licencia que. pre<lb break="no"/>sentó la morena libre Ana del Toro para <lb/>establecer una escuela de primeras letras de <lb/>niñas de su color, y así mismo sobre la <lb/>obra que se está <choice>
                             <orig>espendiendo</orig>
                             <reg>expendiendo</reg>
                         </choice>
                         <choice>
                             <orig>enlas</orig>
                             <reg>en las</reg>
-                        </choice> librerías <lb/><unclear reason="illegible" cert="high">de
-                            la</unclear> ciudad titulada <choice>
+                        </choice> librerías <lb/><unclear reason="illegible" cert="high">de la</unclear> ciudad titulada <choice>
                             <sic>ensayo</sic>
                             <corr cert="high">Ensayo</corr>
                         </choice>
@@ -290,28 +282,23 @@
                         <choice>
                             <orig>á</orig>
                             <reg>a</reg>
-                        </choice> la morena libre <lb/><pb n="2" facs="prohd0016_2.tif"/>Ana del
-                        Toro para establecer una <choice>
+                        </choice> la morena libre <lb/><pb n="2" facs="prohd0016_2.tif"/>Ana del Toro para establecer una <choice>
                             <orig>Escuela</orig>
                             <reg>escuela</reg>
                         </choice>
                         <lb/>de primeras letras de niñas de su color, esta<lb/>blecimiento que el <choice>
                             <abbr>Exmo.</abbr>
                             <expan>Excelentísimo</expan>
-                        </choice> Ayuntamiento cali<lb break="no"/>fica de funesto: el segundo sobre
-                        la venta de <lb/>la obra del <choice>
+                        </choice> Ayuntamiento cali<lb break="no"/>fica de funesto: el segundo sobre la venta de <lb/>la obra del <choice>
                             <orig>Baron</orig>
                             <reg>Barón</reg>
                         </choice> de Humboldt intitulada <lb/><hi rendition="#u">Ensayo <choice>
                                 <sic>politico</sic>
                                 <corr cert="high">político</corr>
-                            </choice> sobre la Isla de Cuba</hi>,<lb/> que igualmente gradua de
-                        peligroso <unclear reason="illegible" cert="low">otra<lb/></unclear><choice>
+                            </choice> sobre la Isla de Cuba</hi>,<lb/> que igualmente gradua de peligroso <unclear reason="illegible" cert="low">otra<lb/></unclear><choice>
                             <orig><unclear reason="illegible" cert="low">corporacion</unclear></orig>
                             <reg>corporación</reg>
-                        </choice>, así por las <gap reason="covered" unit="chars" quantity="8"/> y
-                            princi<lb break="no"/>pios de su autor, acerca de la esclavitud, co<g ref="#typoHyphen"/><lb break="no"/>mo por otras razones que se indican
-                        en <lb/>la acta, transcrita en <choice>
+                        </choice>, así por las <gap reason="covered" unit="chars" quantity="8"/> y princi<lb break="no"/>pios de su autor, acerca de la esclavitud, co<g ref="#typoHyphen"/><lb break="no"/>mo por otras razones que se indican en <lb/>la acta, transcrita en <choice>
                             <abbr>dho</abbr>
                             <expan>dicho</expan>
                         </choice>
@@ -352,8 +339,7 @@
                         <choice>
                             <abbr>conocimien<hi rendition="#sup">to</hi></abbr>
                             <expan>conocimiento</expan>
-                        </choice> de causa <lb/>pueda providenciarse lo que corresponda <lb/>sobre
-                        su <choice>
+                        </choice> de causa <lb/>pueda providenciarse lo que corresponda <lb/>sobre su <choice>
                             <orig>circulacion</orig>
                             <reg>circulación</reg>
                         </choice>. <choice>
