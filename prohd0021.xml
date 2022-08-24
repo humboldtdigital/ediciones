@@ -3,42 +3,82 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Acta del Ayuntamiento de La Habana del 11 de enero de 1828 </title>
-                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
-                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
-                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+                <title type="main">
+					Acta del Ayuntamiento de La Habana del 11 de enero de 1828 
+				</title>
+                <funder ref="https://www.auswaertiges-amt.de/de/">
+					Auswärtiges Amt
+				</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">
+					Fritz Thyssen Stiftung
+				</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">
+					Gerda Henkel Stiftung
+				</funder>
                 <editor>
                     <persName>
-                        <surname>López</surname>
-                        <forename>Violeta</forename>
+                        <surname>
+							López
+						</surname>
+                        <forename>
+							Violeta
+						</forename>
                     </persName>
                 </editor>
             </titleStmt>
             <editionStmt>
-                <p>Proyecto Humboldt digital ProHD (<date>2022</date>)</p>
+                <p>
+					Proyecto Humboldt digital ProHD (
+                    <date>
+						2022
+					</date>
+					)
+                </p>
             </editionStmt>
             <publicationStmt>
-                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
-                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
-                <pubPlace>Berlín</pubPlace>
-                <pubPlace>La Habana</pubPlace>
+                <publisher>
+					Berlin-Brandenburgische Akademie der Wissenschaften
+				</publisher>
+                <publisher>
+					Oficina del Historiador de la Ciudad de la Habana
+				</publisher>
+                <pubPlace>
+					Berlín
+				</pubPlace>
+                <pubPlace>
+					La Habana
+				</pubPlace>
                 <availability status="free">
-                  <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+						Creative Commons (CC BY 4.0)
+					</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>Archivo histórico de la Ciudad de La Habana</institution>
-                        <collection>Gobierno español</collection>
+                        <institution>
+							Archivo histórico de la Ciudad de La Habana
+						</institution>
+                        <collection>
+						    Gobierno español
+						</collection>
                         <idno>
-                            <idno type="shelfmark">A4-A L113-O</idno>
-                            <idno type="uri">https://prohd.ohc.cu/xmlui/handle/21.11149/33</idno>
-                            <idno type="URLImages"></idno>
+                            <idno type="shelfmark">
+								A4-A L113-O
+							</idno>
+                            <idno type="uri">
+								https://prohd.ohc.cu/xmlui/handle/21.11149/33
+							</idno>
+                            <idno type="URLImages">
+								
+							</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Manuscrito en buen estado de conservación que permite su lectura.</p>
+                        <p>
+							Manuscrito en buen estado de conservación que permite su lectura.
+						</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -50,21 +90,28 @@
                 <orgName>Gobierno español</orgName>
             </creation>
             <langUsage>
-                <language ident="es">Español</language>
+                <language ident="es">
+					Español
+				</language>
             </langUsage>
             <abstract xml:lang="es">
-                <p>Cabildo ordinario del 11 de enero de 1828. Recoge un informe sobre la puesta en marcha del decreto sobre la prohibición del libro de
+                <p>
+                    Cabildo ordinario del 11 de enero de 1828. Recoge un informe sobre la puesta en marcha del decreto sobre la prohibición del libro de
                     Humboldt, "intitulada (sic.) ensayo Político de la Isla de Cuba que igualmente calificó de peligrosa por las opiniones y principios de
-                    su autor sobre la esclavitud".</p>
+                    su autor sobre la esclavitud".
+				</p>
             </abstract>
             <abstract xml:lang="de">
-                <p>Protokoll der ordentlichen Ratsversammlung (Cabildo) Havannas, in der über das veranlasste Verbot von Humboldts "Ensayo Político
-                    de la Isla de Cuba" berichtet wird. </p>
+                <p>
+                    Protokoll der ordentlichen Ratsversammlung (Cabildo) Havannas, in der über das veranlasste Verbot von Humboldts "Ensayo Político
+                    de la Isla de Cuba" berichtet wird. 
+				</p>
             </abstract>
             <textClass>
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subjects" target="#slavery"/>
                 <catRef scheme="#subjects" target="#emancipation"/>
+                <catRef scheme="#genre" target="#minutes"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
@@ -116,11 +163,11 @@
                             <expan>ordinario</expan>
                         </choice> de
                         <date when="1828-11-01">11 de 
-                        <lb/>
-                        <choice>
-                            <orig>Enero</orig>
-                            <reg>enero</reg>
-                        </choice>
+                            <lb/>
+                            <choice>
+                                <orig>Enero</orig>
+                                <reg>enero</reg>
+                            </choice>
                         </date>
                         <lb/>
                     </hi>
@@ -131,7 +178,7 @@
                         <reg>fidelísima</reg>
                     </choice> Ciudad de la Habana en
                     <date when="1828-01-11">once de
-                    <lb/>
+                        <lb/>
                         <choice>
                             <orig>Enero</orig>
                             <reg>enero</reg>
@@ -488,7 +535,7 @@
                         <reg>contador</reg>
                     </choice> principal de Ejercito; y habiendo
                     <lb/>dispuesto la entrada en la Sala de aquel, que verificó con las 
-                    <gap reason="illegible" unit="chars"/><lb break="no"/>monias 
+                    <gap reason="illegible" unit="chars" quantity="2"/><lb break="no"/>monias 
                     de estilo, prestó en manos del 
                     <choice>
                         <abbr>S.<hi rendition="#sup">r</hi></abbr>
@@ -1575,9 +1622,9 @@
                     <choice>
                         <sic>halla</sic>
                         <corr>haya</corr>
-                    </choice> cargado de años, <gap reason="illegible" unit="chars"/>
+                    </choice> cargado de años, <gap reason="illegible" unit="chars" quantity="5"/>
                     <lb/>
-                    <pb n="13v" facs="prohd0021_13v.tif"/>achaques y cuidados <sic/> sus deseos
+                    <pb n="13v" facs="prohd0021_13v.tif"/>achaques y cuidados <gap unit="words" quantity="1" reason="empty"></gap> sus deseos
                     <choice>
                         <orig>é</orig>
                         <reg>e</reg>
@@ -2551,7 +2598,7 @@
                     </choice>
                     <choice>
                         <orig>Gobernadór</orig>
-                        <expan>Gobernador</expan>
+                        <reg>Gobernador</reg>
                     </choice> y
                     <choice>
                         <abbr>Cap.<hi rendition="#sup">n</hi></abbr>
