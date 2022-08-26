@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Considérations sur l’Atmosphere des Tropiques, regardée comme
-                    objet de la Pathologie chymique</title>
+                    objet de la Pathologie chymique  [in: C'est mon cahier de la Havane intitule sur la salubrite de l'air]</title>
                 <editor>
                     <persName>
                         <surname>Tylus</surname>
@@ -43,10 +43,13 @@
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>Biblioteka Jagiellonska Krakau</institution>
-                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <institution>Biblioteka Jagiellońska</institution>
+                        <collection>Nachl. Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">Bd. 1/3, Bl. 185-211 (DE-611-HS-2849282)</idno>
+                            <idno type="shelfmark">Bd. 1/3, Bl. 185-211 [Bl. 199r-208v]</idno>
+                            <idno type="uri">https://kalliope-verbund.info/DE-611-HS-2849282</idno>
+                            <idno type="URLImages">http://jbc.bj.uj.edu.pl/dlibra/publication/363975</idno>                            
+                            <!-- the JBC site server is currently down, as of Aug 26, 2022, but this is hopefully temporary, the URL is ok -->
                         </idno>
                     </msIdentifier>
                 </msDesc>
@@ -68,13 +71,12 @@
                     Mappe mit Humboldts Handschriften zu der Luftqualität in den Tropen und den
                     daraus resultierenden Krankheiten aufbewahrt, die von dem Gelehrten mit der
                     Aufschrift „C’est mon cahier de la Havanne intitulé sur la salubrité de l’air“
-                    identifiziert wurde. Zur Zeit der Entstehung des Manu-skripts war Alexander von
+                    identifiziert wurde. Zur Zeit der Entstehung des Manuskripts war Alexander von
                     Humboldt Anhänger der Miasmentheorie und erkannte in der Luftqualität den
                     Ursprung der Krankheiten, die heutzutage als „ansteckend“ bezeichnet werden. Der
-                    Text konzen-triert sich vor allem auf das Gelbfieber und somit auf eine
+                    Text konzentriert sich vor allem auf das Gelbfieber und somit auf eine
                     Krankheit, die einen wichtigen Platz im geistigen und politischen Horizont der
-                    ersten Jahr-zehnte des 19. Jahrhunderts einnahm. Er lässt die Leistung Alexander
-                    von Humboldts als Vorläufer der modernen Ökologie erkennen.</p>
+                    ersten Jahrzehnte des 19. Jahrhunderts einnahm.</p>
             </abstract>
             <abstract xml:lang="es">
                 <p>Edición crítica del texto de Alexander von Humboldt escrito en Cuba en 1801 bajo
@@ -88,8 +90,7 @@
                     hoy en día se denominan "contagiosas" en la calidad del aire. El texto se centra
                     principalmente en la fiebre amarilla y, por tanto, en una enfermedad que ocupó
                     un lugar importante en el horizonte intelectual y político de las primeras
-                    décadas del siglo XIX. Muestra el logro de Alexander von Humboldt como precursor
-                    de la ecología moderna.</p>
+                    décadas del siglo XIX.</p>
             </abstract>
             <textClass>
                 <catRef scheme="#genre" target="#travelwriting"/>
