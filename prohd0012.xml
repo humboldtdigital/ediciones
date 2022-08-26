@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Luzuriaga</title>
+                <title type="main">Relación de la calentura biliosa remitente amarilla que se manifestó en Filadelfia en 1793 [in: C’est mon cahier de la Havane intitule sur la salubrite de l’air]</title>
                 <editor>
                     <persName>
                         <surname>Kraller</surname>
@@ -34,11 +34,13 @@
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>Biblioteka Jagiellonska Krakau</institution>
-                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <institution>Biblioteka Jagiellońska</institution>
+                        <collection>Nachl. Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 1/3, Bl.
-                                185-211 (DE-611-HS-2849282)</idno>
+                            <idno type="shelfmark">Bd. 1/3, Bl. 185-211 [Bl. 194r-194v]</idno>
+                            <idno type="uri">https://kalliope-verbund.info/DE-611-HS-2849282</idno>
+                            <idno type="URLImages">http://jbc.bj.uj.edu.pl/dlibra/publication/363975</idno>                            
+                            <!-- the JBC site server is currently down, as of Aug 26, 2022, but this is hopefully temporary, the URL is ok -->
                         </idno>
                     </msIdentifier>
                 </msDesc>
@@ -114,8 +116,8 @@
         <body>
             <div>
                 <pb n="194r" facs="prohd0012_194r.tif"/>
-                <p>Luzuriaga relación de la calentura biliosa remitente <lb/>amarilla
-                    que se manifestó en Filadelfia en 1793 <lb/>Madrid F. I 1804 <lb/><gap reason="fm" unit="words" quantity="5"/></p>
+                <head>Luzuriaga relación de la calentura biliosa remitente <lb/>amarilla
+                    que se manifestó en Filadelfia en 1793 <lb/>Madrid F. I 1804 <lb/><gap reason="fm" unit="words" quantity="5"/></head>
                 <p>T I</p>
                 <p><choice>
                         <abbr>V.</abbr>
@@ -161,7 +163,7 @@
                     <choice>
                         <abbr>j.</abbr>
                         <expan>jaune</expan>
-                    </choice> presque <lb/>identiques p XXXII - XLVII. <lb/><choice>
+                    </choice> presque <lb/>identiques p XXXII–XLVII. <lb/><choice>
                         <abbr>f.</abbr>
                         <expan>fièvre</expan>
                     </choice>

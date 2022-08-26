@@ -32,6 +32,8 @@
                         <idno>
                             <idno type="shelfmark">Nachlass Alexander von Humboldt, gr. Kasten 2,
                                 Mappe 3, Nr. 5</idno>
+                            <idno type="uri">https://kalliope-verbund.info/DE-611-HS-1007867/idno>
+                            <idno type="URLImages">https://resolver.staatsbibliothek-berlin.de/SBB0001698700000000</idno>     
                         </idno>
                     </msIdentifier>
                 </msDesc>
@@ -41,7 +43,7 @@
             <creation>
                 <persName key="ed_ux2_3dq_grb">Woodville, William (1752-1805)</persName>
                 <date when="1804" cert="high">1804</date>
-                <placeName>N/A</placeName>
+                <placeName>La Havane</placeName>
             </creation>
             <langUsage>
                 <language ident="en">Englisch</language>
@@ -111,14 +113,14 @@
                     <note place="mTop" hand="#Humboldt, Alexander von">auteur <lb/>Mr. William
                         Woodville (of Liverpool) <lb/>à la Havane 1804</note>
                 </p>
-                <p>A Compendious description of the principal Places of <lb/>Trade on the West Coast
+                <head>A Compendious description of the principal Places of <lb/>Trade on the West Coast
                     of Africa commonly called Guinea <lb/>commencing at the River Senegal<supplied cert="high">,</supplied> the northern boundry and <lb/>ending at the Bay of
                     Ambriz on the Coast of the Congo boundry<supplied cert="high">,</supplied>
                     <lb/>comprehending a space of near six hundred fifty Leagues of Sea <lb/>Coast
                     with a brief Account of the Productions and <unclear reason="illegible" cert="high"><choice>
                             <sic>Artices</sic>
                             <corr cert="high">Articles</corr>
-                        </choice></unclear> of Trade.</p>
+                        </choice></unclear> of Trade.</head>
                 <p>The great River Sanhaga, or Senegal, called by the <lb/>Natives <note place="left" hand="#author">Notes <lb/>Senegal. <lb/>B-Fing ; i.e.
                         <lb/>Black-River <lb/>but this is not the <lb/>great River
                     Niger</note>Ba-Fing; enters in the Atlantic Ocean under the Sixteenth

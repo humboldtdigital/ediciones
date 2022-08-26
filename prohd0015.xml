@@ -40,12 +40,12 @@
                         <institution>Staatsbibliothek zu Berlin – Preußischer
                             Kulturbesitz</institution>
                         <repository>Handschriftenabteilung</repository>
-                        <collection>Nachl. Alexander von Humboldt</collection>
+                        <collection>Nachlass Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">kl. Kasten 7b, Nr. 68–69</idno>
-                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-1272356</idno>
-                            <idno type="URLImages">http://resolver.staatsbibliothek-berlin.de/SBB00015CC600000000</idno>
-                            <idno type="URLCatalogue">http://stabikat.de/DB=1/PPN?PPN=787980617</idno>
+                            <idno type="shelfmark">kl. Kasten 7b, Nr. 69</idno>
+                            <idno type="uri">https://kalliope-verbund.info/DE-611-HS-1272356</idno>
+                            <idno type="URLImages">https://resolver.staatsbibliothek-berlin.de/SBB00015CC600000000</idno>
+                            <idno type="URLCatalogue">https://stabikat.de/DB=1/PPN?PPN=787980617</idno>
                         </idno>
                     </msIdentifier>
                 </msDesc>

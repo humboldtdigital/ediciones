@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Considérations sur l’Atmosphere des Tropiques, regardée comme
-                    objet de la Pathologie chymique  [in: C'est mon cahier de la Havane intitule sur la salubrite de l'air]</title>
+                    objet de la Pathologie chymique  [in: C’est mon cahier de la Havane intitule sur la salubrite de l’air]</title>
                 <editor>
                     <persName>
                         <surname>Tylus</surname>
@@ -37,7 +37,7 @@
                     <p>Die von Piotr Tylus veröffentlichte Edition, die in der HiN XXI, 41 (2020) in
                         einem Artikel mit dem Titel "Considérations sur l’atmosphère des tropiques
                         ... –un mémoire inédit d’Alexander von Humboldt" (S. 5-26) erschienen ist,
-                        ist online verfügbar unter: https://doi.org/10.18443/hinvol21iss412020</p>
+                        ist online verfügbar unter: https://doi.org/10.18443/306</p>
                 </note>
             </notesStmt>
             <sourceDesc>
@@ -142,10 +142,31 @@
         <body>
             <div>
                 <pb n="199r" facs="prohd0006_199r.tif"/>
-                <p><hi rendition="#u">Considérations sur l’Atmosphère <lb/>des <choice>
+                <head><hi rendition="#u">Considérations sur l’Atmosphère <lb/>des <choice>
                             <sic>Tropique</sic>
                             <corr cert="high">Tropiques</corr>
-                        </choice>, regardée comme <lb/>objet de la Pathologie chymi<lb break="no"/>que</hi>.</p>
+                        </choice>, regardée comme <lb/>objet de la Pathologie chymi<lb break="no"/>que</hi>.
+                        <note place="right" hand="Humboldt, Alexander von">très mauvais! 
+                        <lb/><choice>
+                        <abbr>AHt</abbr>
+                        <expan>Alexander Humboldt</expan>
+                        </choice></note>
+                        <note place="right" hand="Humboldt, Alexander von">Paris 1810 <lb/>quant aux <choice>
+                        <abbr>exper</abbr>
+                        <expan>expériments</expan>
+                    </choice>
+                    <lb/>eudiometriques <lb/>et aux idèes d’<lb break="no"/><choice>
+                        <abbr>affin.</abbr>
+                        <expan>affinité</expan>
+                    </choice>
+                    <choice>
+                        <orig>chimiques</orig>
+                        <reg>chimique</reg>
+                    </choice>
+                    <lb/><del rendition="#s">aerifo</del> des mo<lb break="no"/>lecules aeri<g
+                        ref="#typoHyphen"/><lb break="no"/>formes</note>                       
+                        
+                        </head>
                 <p>Ce qu’il y a de plus charactéristique <lb/>dans toutes les fièvres paraît être
                     une <hi rendition="#u">exal<lb break="no"/>tation</hi> du système vasculaire
                         (artériel)<supplied cert="high">.</supplied> Cette exal<lb break="no"/>tation (sthénie dans le Système de Brown) est <lb/><choice>

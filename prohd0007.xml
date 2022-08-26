@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Fièvre jaune 1</title>
+                <title type="main">Fièvre jaune 1 [in: C’est mon cahier de la Havane intitule sur la salubrite de l’air]</title>
                 <editor>
                     <persName>
                         <surname>Kraller</surname>
@@ -32,11 +32,13 @@
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>Biblioteka Jagiellonska Krakau</institution>
-                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <institution>Biblioteka Jagiellońska</institution>
+                        <collection>Nachl. Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 1/3, Bl.
-                                185-211 (DE-611-HS-2849282)</idno>
+                            <idno type="shelfmark">Bd. 1/3, Bl. 185-211 [Bl. 192r-192v, 210r-211v]</idno>
+                            <idno type="uri">https://kalliope-verbund.info/DE-611-HS-2849282</idno>
+                            <idno type="URLImages">http://jbc.bj.uj.edu.pl/dlibra/publication/363975</idno>                            
+                            <!-- the JBC site server is currently down, as of Aug 26, 2022, but this is hopefully temporary, the URL is ok -->
                         </idno>
                     </msIdentifier>
                 </msDesc>
@@ -56,7 +58,7 @@
                 <p>Notizen Humboldts zu Jean Nicolas Berthes Werk "Précis Historique de la Maladie
                     qui a régné dans l’Andalousie en 1800". Humboldt fasst die Thesen des Werks in
                     Vorbereitung auf seine wissenschaftliche Abhandlung über das Gelbfieber
-                    zusammen. Berthes Werk erschien 1802.</p>
+                    zusammen. Berthes’ Werk erschien 1802.</p>
             </abstract>
             <abstract xml:lang="es">
                 <p>Notas de Humboldt sobre la obra de Jean Nicolas Berthe "Précis Historique de la
@@ -112,9 +114,9 @@
         <body>
             <div>
                 <pb n="192r" facs="prohd0007_192r.tif"/>
-                <p>
+                <head>
                     <hi rendition="#u">Fièvre jaune</hi></p>
-                <p>
+                <head>
                     <note place="left" hand="#author">Précis histor. de la<lb/>maladie qui a regné
                         dans<lb/> l’Andalousie en 1800 par<lb/>Berthe. 1802.</note><lb/>1. Nos
                     affections bileuses estivale et automnale<supplied cert="high">,</supplied>
