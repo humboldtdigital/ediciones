@@ -51,14 +51,14 @@
             </abstract>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName key="H0015848">Sheldon, Daniel (1820)</persName>
-                    <date>N/A</date>
-                    <placeName>N/A</placeName>
+                    <persName key="H0015848">Sheldon, Daniel (1780-1828)</persName>
+                    <date notBefore="1820-05-31" notAfter="1824-03-30" cert="high"/>
+                    <placeName>Paris</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
-                    <date>N/A</date>
-                    <placeName>N/A</placeName>
+                    <date notBefore="1820-05-31" notAfter="1824-03-30" cert="high"/>
+                    <placeName>Paris</placeName>
                 </correspAction>
             </correspDesc>
             <textClass>
