@@ -1,4 +1,5 @@
-<?xml-model href="prohd.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0018">
+<?xml-model href="prohd.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0018" xml:space="preserve">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -122,36 +123,30 @@
                 <p>Ni es culpable ni extinguible, ni <choice>
                         <orig>deve</orig>
                         <reg>debe</reg>
-                    </choice> tampoco te<g ref="#typoHyphen"/>
-                    <lb break="no"/>merse
-                    el natural deseo
-                    de adquirir la <choice>
+                    </choice> tampoco te<g ref="#typoHyphen"/><lb break="no"/>merse
+                    el natural deseo de adquirir la <choice>
                         <orig>livertad</orig>
                         <reg>libertad</reg>
-                    </choice>. Por<lb/>
-                    el contrario, es funesta y puede muy bien evitarse<lb/>
-                    la <choice>
+                    </choice>. Por
+                    <lb/>el contrario, es funesta y puede muy bien evitarse
+                    <lb/>la <choice>
                         <orig>tentacion</orig>
                         <reg>tentación</reg>
-                    </choice> de adquirirla por medios aventurados<lb/>
-                    y en esto es en lo que la
-                    moral, la <choice>
+                    </choice> de adquirirla por medios aventurados
+                    <lb/>y en esto es en lo que la moral, la <choice>
                         <orig>ilustraccion</orig>
                         <reg>ilustración</reg>
                     </choice>
-                    <lb/>
-                    y las leyes tienen que trabajar con su fatigable<lb/>
-                    desvelo. ¡Ah si la primera y segunda <choice>
+                    <lb/>y las leyes tienen que trabajar con su fatigable
+                    <lb/>desvelo. ¡Ah si la primera y segunda <choice>
                         <orig>tubiesen</orig>
                         <reg>tuviesen</reg>
                     </choice>
-                    <lb/>
-                    entre los hombres <choice>
-                        <orig>ò</orig>
+                    <lb/>entre los hombres <choice>
+                        <orig>ó</orig>
                         <reg>o</reg>
                     </choice> al menos entre amos y <choice>
-                        <orig>Es<g ref="#typoHyphen"/>
-                            <lb break="no"/>clabos</orig>
+                        <orig>Es<g ref="#typoHyphen"/><lb break="no"/>clabos</orig>
                         <reg>esclavos</reg>
                     </choice> el imperio que <choice>
                         <orig>devian</orig>
@@ -160,15 +155,13 @@
                         <orig>quanta</orig>
                         <reg>cuanta</reg>
                     </choice> <choice>
-                        <orig>confu<g ref="#typoHyphen"/>
-                            <lb break="no"/>sion</orig>
+                        <orig>confu<g ref="#typoHyphen"/><lb break="no"/>sion</orig>
                         <reg>confusión</reg>
                     </choice> y embarazo se <choice>
                         <orig>livertaria</orig>
                         <reg>liberaría</reg>
                     </choice> la tercera! <choice>
-                        <abbr>p.<hi rendition="#sup">o</hi>
-                        </abbr>
+                        <abbr>p.<hi rendition="#sup">o</hi></abbr>
                         <expan>Primero</expan>
                     </choice>
                     <lb/>
@@ -178,90 +171,84 @@
                     </choice> nunca llegaron <choice>
                         <orig>ala</orig>
                         <reg>a la</reg>
-                    </choice> altura necesaria,<lb/>
+                    </choice> altura necesaria,
+                    <lb/>
                     <choice>
                         <orig>por que</orig>
                         <reg>porque</reg>
                     </choice> ni los <choice>
                         <orig>savios</orig>
                         <reg>sabios</reg>
-                    </choice> romanos, ni sus insig<g ref="#typoHyphen"/>
-                    <lb break="no"/>nes
+                    </choice> romanos<choice><sic>,</sic><corr type="deleted"/></choice> ni sus insig<g ref="#typoHyphen"/><lb break="no"/>nes
                     <choice>
                         <orig>Maestros</orig>
                         <reg>maestros</reg>
                     </choice> pudieron <choice>
-                        <orig>logràr</orig>
+                        <orig>lográr</orig>
                         <reg>lograr</reg>
                     </choice> <choice>
                         <orig>jamas</orig>
                         <reg>jamás</reg>
-                    </choice> que<lb/>
+                    </choice> que
+                    <lb/>
                     <choice>
                         <orig>Amos</orig>
                         <reg>amos</reg>
                     </choice> y <choice>
                         <orig>Esclavos</orig>
                         <reg>esclavos</reg>
-                    </choice> fueran tan buenos y tan<lb/> 
-                    ilustrados como <choice>
+                    </choice> fueran tan buenos y tan
+                    <lb/>ilustrados como <choice>
                         <orig>combenia</orig>
                         <reg>convenía</reg>
-                    </choice> que fuesen; por<lb/> 
-                    eso se <choice>
-                        <orig>viò</orig>
-                        <reg>vio</reg>
+                    </choice> que fuesen; por
+                    <lb/>eso <choice>
+                        <orig>sevió</orig>
+                        <reg>se vio</reg>
                     </choice> <choice>
-                        <orig>àsus</orig>
+                        <orig>ásus</orig>
                         <reg>a sus</reg>
                     </choice> <choice>
                         <orig>goviernos</orig>
                         <reg>gobiernos</reg>
-                    </choice> siempre embaraza<g ref="#typoHyphen"/>
-                    <lb break="no"/>dos 
-                    y confusos en este ramo importante, em<g ref="#typoHyphen"/>
-                    <lb break="no"/>pleando 
+                    </choice> siempre embaraza<g ref="#typoHyphen"/><lb break="no"/>dos 
+                    y confusos en este ramo importante, em<g ref="#typoHyphen"/><lb break="no"/>pleando 
                     ya la dulzura, ya la severidad<supplied cert="high">,</supplied>
                     <lb/>
                 <pb n="152v" facs="prohd0018_152v.tif"/>ya la fuerza para mantener un derecho <choice>
-                        <abbr>q.<hi rendition="#sup">e</hi>
-                        </abbr>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice>
-                    <lb/> 
-                    no acertaron <choice>
+                    <lb/>no acertaron <choice>
                         <orig>afundar</orig>
                         <reg>a fundar</reg>
-                    </choice>, ni men<gap reason="illegible" unit="chars" quantity="1"/>
-                    <supplied cert="high">o</supplied>s a explicar<lb/> 
-                    y <choice>
+                    </choice>, ni menos a explicar
+                    <lb/>y <choice>
                         <orig>fixar</orig>
                         <reg>fijar</reg>
-                    </choice>. Nosotros que no heredamos su<lb/>
+                    </choice>. Nosotros que no heredamos su
+                    <lb/>
                     <choice>
                         <orig>sabiduria</orig>
                         <reg>sabiduría</reg>
-                    </choice> ni recursos, que estamos con mayo<g ref="#typoHyphen"/>
-                    <lb break="no"/>res 
+                    </choice> ni recursos, que estamos con mayo<g ref="#typoHyphen"/><lb break="no"/>res 
                     dudas sobre la <choice>
                         <orig>lexitimidad</orig>
                         <reg>legitimidad</reg>
-                    </choice> de un do<g ref="#typoHyphen"/>
-                    <lb break="no"/>minio 
-                    que se adquiere traficando, y no<lb/> 
-                    peleando como ellos: que por la mayor<lb/> 
-                    parte se <choice>
+                    </choice> de un do<g ref="#typoHyphen"/><lb break="no"/>minio 
+                    que se adquiere traficando<choice><sic>,</sic><corr type="deleted"/></choice> y no
+                    <lb/>peleando como ellos: que por la mayor
+                    <lb/>parte se <choice>
                         <orig>exerce</orig>
                         <reg>ejerce</reg>
-                    </choice> en la soledad de los cam<g ref="#typoHyphen"/>
-                    <lb break="no"/>pos, 
+                    </choice> en la soledad de los cam<g ref="#typoHyphen"/><lb break="no"/>pos, 
                     <choice>
                         <orig>lexos</orig>
                         <reg>lejos</reg>
                     </choice> de los <choice>
                         <orig>Magistrados</orig>
                         <reg>magistrados</reg>
-                    </choice>, y de la<lb/>
+                    </choice><choice><sic>,</sic><corr type="deleted"/></choice> y de la<lb/>
                     <choice>
                         <orig>poblacion</orig>
                         <reg>población</reg>
@@ -272,143 +259,142 @@
                     </choice>: ¿<choice>
                         <orig>como</orig>
                         <reg>cómo</reg>
-                    </choice> podremos<lb/> 
-                    decir que hemos asegurado <choice>
-                        <orig>ù</orig>
+                    </choice> podremos
+                    <lb/>decir que hemos asegurado <choice>
+                        <orig>ú</orig>
                         <reg>o</reg>
-                    </choice> al menos<lb/> 
-                    puesto en sus <choice>
+                    </choice> al menos
+                    <lb/>puesto en sus <choice>
                         <orig>limites</orig>
                         <reg>límites</reg>
-                    </choice> el uso de la au<g ref="#typoHyphen"/>
-                    <lb break="no"/>toridad 
+                    </choice> el uso de la au<g ref="#typoHyphen"/><lb break="no"/>toridad 
                     del amo y de la obediencia <choice>
-                        <orig>de<lb/>el</orig>
+                        <orig>de <lb/>el</orig>
                         <reg>del</reg>
                     </choice> esclavo? ¿<choice>
                         <orig>como</orig>
                         <reg>cómo</reg>
-                    </choice> sin <choice>
+                    </choice><supplied cert="high">,</supplied> sin <choice>
                         <orig>alucinacion</orig>
                         <reg>alucinación</reg>
-                    </choice>
-                    <lb/> 
-                    nos podemos persuadir que hemos to<g ref="#typoHyphen"/>
-                    <lb break="no"/>mado 
-                    todos los pasos por donde pue<g ref="#typoHyphen"/>
-                    <lb break="no"/>de 
-                    asomarse la violenta <choice>
+                    </choice><supplied cert="high">,</supplied>
+                    <lb/>nos podemos persuadir que hemos to<g ref="#typoHyphen"/><lb break="no"/>mado 
+                    todos los pasos por donde pue<g ref="#typoHyphen"/><lb break="no"/>de asomarse la violenta <choice>
                         <orig>tentacion</orig>
                         <reg>tentación</reg>
-                    </choice> de<lb/> 
-                    sacudir este yugo? 
+                    </choice> de
+                    <lb/>sacudir este yugo? 
                 </p>
-                <p>Es cierto que la religiosa piedad<lb/> 
-                de nuestros augustos <choice>
+                <p>Es cierto que la religiosa piedad
+                    <lb/>de nuestros augustos <choice>
                         <orig>Monarcas</orig>
                         <reg>monarcas</reg>
-                    </choice> ha pro<g ref="#typoHyphen"/>
-                    <lb break="no"/>
-                <pb n="153r" facs="prohd0018_153r.tif"/>
-                <fw type="folNum">3</fw>pendido siempre a aliviar y proteger la<lb/> 
-                    suerte de estos desgraciados, y que <choice>
+                    </choice> ha pro<g ref="#typoHyphen"/><lb break="no"/><pb n="153r" facs="prohd0018_153r.tif"/><fw type="folNum">3</fw>pendido 
+                    siempre a aliviar y proteger la
+                    <lb/>suerte de estos desgraciados<choice><sic>,</sic><corr type="deleted"/></choice> y que<supplied cert="high">,</supplied> 
+                    <choice>
                         <orig>despues</orig>
                         <reg>después</reg>
-                    </choice> <unclear reason="illegible" cert="low">de</unclear>
-                    <lb/> 
-                    quitar al amo el antiguo y <choice>
+                    </choice> <unclear reason="illegible" cert="high">de</unclear>
+                    <lb/>quitar al amo el antiguo y <choice>
                         <orig>barbaro</orig>
                         <reg>bárbaro</reg>
-                    </choice> dere<g ref="#typoHyphen"/>
-                    <lb break="no"/>cho 
-                    de la vida y de la muerte, nuestras le<g ref="#typoHyphen"/>
-                    <lb break="no"/>yes 
+                    </choice> dere<g ref="#typoHyphen"/><lb break="no"/>cho 
+                    de la vida y de la muerte, nuestras le<g ref="#typoHyphen"/><lb break="no"/>yes 
                     le conceden <choice>
                         <orig>quatro</orig>
                         <reg>cuatro</reg>
-                    </choice> consuelos que les<lb/>
+                    </choice> consuelos que les
+                    <lb/>
                     <hi rendition="#mMM" hand="H0012069">
                         <note place="left" hand="H0012069">
                             <choice>
-                        <orig>voulez vous..</orig>
-                        <reg>voulez-vous..</reg>
-                    </choice>
+                                <orig>voulez vous..</orig>
+                                <reg>voulez-vous..</reg>
+                            </choice>
                         </note>negó y niega la <choice>
-                        <orig>politica</orig>
-                        <reg>política</reg>
-                    </choice> <choice>
-                        <orig>extrangera</orig>
-                        <reg>extranjera</reg>
-                    </choice>, y son<lb/>
-                    <choice>
-                        <orig>el</orig>
-                        <reg>él</reg>
-                    </choice> de tener <choice>
-                        <orig>advitrio</orig>
-                        <reg>arbitrio</reg>
-                    </choice> para <choice>
-                        <orig>pasàr</orig>
-                        <reg>pasar</reg>
-                    </choice> de un<lb/>
-                    amo cruel <choice>
-                        <orig>à</orig>
-                        <reg>a</reg>
-                    </choice> otro benigno: <choice>
-                        <orig>el</orig>
-                        <reg>él</reg>
-                    </choice> de casarse<lb/>
-                    <choice>
-                        <orig>à</orig>
-                        <reg>a</reg>
-                    </choice> su gusto: <choice>
-                        <orig>el</orig>
-                        <reg>él</reg>
-                    </choice> de poder esperar por pre<g ref="#typoHyphen"/>
-                        <lb break="no"/>mio
-                    de sus buenos servicios la deseada <choice>
-                        <orig>li<g ref="#typoHyphen"/>
-                                <lb break="no"/>vertad</orig>
-                        <reg>libertad</reg>
-                    </choice>: y lo que <choice>
-                        <orig>todavia</orig>
-                        <reg>todavía</reg>
-                    </choice> es <choice>
-                        <orig>mas</orig>
-                        <reg>más</reg>
-                    </choice> notable<lb/>
-                    y <choice>
-                        <orig>mas</orig>
-                        <reg>más</reg>
-                    </choice> repugnante <choice>
-                        <orig>ala</orig>
-                        <reg>a la</reg>
-                    </choice> esencia del domi<g ref="#typoHyphen"/>
-                        <lb break="no"/>nio,
-                    <choice>
-                        <orig>el</orig>
-                        <reg>él</reg>
-                    </choice> de tener propiedad, y poder con<lb/>
-                    ella pagar la <choice>
-                        <orig>livertad</orig>
-                        <reg>libertad</reg>
-                    </choice> de sus hijos, la<lb/>
-                    de su <choice>
-                        <orig>Mujer</orig>
-                        <reg>mujer</reg>
-                    </choice>, y la suya.</hi>
+                            <orig>politica</orig>
+                            <reg>política</reg>
+                        </choice> <choice>
+                            <orig>extrangera</orig>
+                            <reg>extranjera</reg>
+                        </choice>,
+                        <choice>
+                            <orig>yson</orig>
+                            <reg>y son</reg>
+                        </choice>
+                        <lb/>
+                        <choice>
+                            <orig>el</orig>
+                            <reg>él</reg>
+                        </choice> de tener <choice>
+                            <orig>advitrio</orig>
+                            <reg>arbitrio</reg>
+                        </choice> para <choice>
+                            <orig>pasàr</orig>
+                            <reg>pasar</reg>
+                        </choice> de un
+                        <lb/>amo cruel <choice>
+                            <orig>áotro</orig>
+                            <reg>a otro</reg>
+                        </choice> benigno: <choice>
+                            <orig>el</orig>
+                            <reg>él</reg>
+                        </choice> de casarse
+                        <lb/>
+                        <choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> su gusto: <choice>
+                            <orig>el</orig>
+                            <reg>él</reg>
+                        </choice> de poder esperar por pre<g ref="#typoHyphen"/><lb break="no"/>mio
+                        de sus buenos servicios la deseada <choice>
+                            <orig>li<g ref="#typoHyphen"/><lb break="no"/>vertad</orig>
+                            <reg>libertad</reg>
+                        </choice>: y lo que <choice>
+                            <orig>todavia</orig>
+                            <reg>todavía</reg>
+                        </choice> es <choice>
+                            <orig>mas</orig>
+                            <reg>más</reg>
+                        </choice> notable
+                        <lb/>y <choice>
+                            <orig>mas</orig>
+                            <reg>más</reg>
+                        </choice> repugnante <choice>
+                            <orig>ala</orig>
+                            <reg>a la</reg>
+                        </choice> esencia del domi<g ref="#typoHyphen"/><lb break="no"/>nio,
+                        <choice>
+                            <orig>el</orig>
+                            <reg>él</reg>
+                        </choice> de tener propiedad<choice><sic>,</sic><corr type="deleted"/></choice> y poder con
+                        <lb/>ella pagar la <choice>
+                            <orig>livertad</orig>
+                            <reg>libertad</reg>
+                        </choice> de sus hijos, la
+                        <lb/>de su <choice>
+                            <orig>Muger</orig>
+                            <reg>mujer</reg>
+                        </choice><choice><sic>,</sic><corr type="deleted"/></choice> y la suya.
+                    </hi>
                 </p>
-                <p>Pero <choice>
+                <p>Pero 
+                    <choice>
                         <orig>quantos</orig>
                         <reg>cuantos</reg>
-                    </choice> son los flancos que<lb/> 
-                    quedan <choice>
+                    </choice> son los flancos que
+                    <lb/> quedan <choice>
                         <orig>todavia</orig>
                         <reg>todavía</reg>
-                    </choice> descubiertos para que la<lb/>
+                    </choice> descubiertos para que la
+                    <lb/>
                     <choice>
                         <orig>tentacion</orig>
                         <reg>tentación</reg>
-                    </choice> se introduzca. <choice>
+                    </choice> se introduzca. 
+                    <choice>
                         <orig>Yaun</orig>
                         <reg>Y aun</reg>
                     </choice>
@@ -416,187 +402,175 @@
                         <orig>quando</orig>
                         <reg>cuando</reg>
                     </choice>
-                    <lb/> 
-                    no los dejasen las <choice>
+                    <lb/>no los dejasen las <choice>
                         <orig>insignuadas</orig>
                         <reg>insinuadas</reg>
-                    </choice> leyes ¿qui<g ref="#typoHyphen"/>
-                    <lb break="no"/>en 
-                    es <choice>
+                    </choice> leyes ¿qui<g ref="#typoHyphen"/><lb break="no"/>en es 
+                    <choice>
                         <orig>el</orig>
                         <reg>él</reg>
-                    </choice> que puede asegurar su general<lb/>
-                <pb n="153v" facs="prohd0018_153v.tif"/>observancia? Pase <choice>
+                    </choice> que puede asegurar su general
+                    <lb/>
+                <pb n="153v" facs="prohd0018_153v.tif"/>observancia? Pase 
+                    <choice>
                         <orig>quando</orig>
                         <reg>cuando</reg>
                     </choice>
                     <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
-                    </choice> en los<lb/> 
-                    lugares poblados, y en las pequeñas <choice>
-                        <orig>la<g ref="#typoHyphen"/>
-                            <lb break="no"/>vores</orig>
+                    </choice> en los
+                    <lb/>lugares poblados<choice><sic>,</sic><corr type="deleted"/></choice> y en las pequeñas <choice>
+                        <orig>la<g ref="#typoHyphen"/><lb break="no"/>vores</orig>
                         <reg>labores</reg>
-                    </choice>, <choice>
+                    </choice>, 
+                    <choice>
                         <orig>por que</orig>
                         <reg>porque</reg>
-                    </choice> en los unos vela el ojo del<lb/>
+                    </choice> en los unos vela el ojo del
+                    <lb/>
                     <choice>
                         <orig>Magistrado</orig>
                         <reg>magistrado</reg>
-                    </choice>, y en los otros la natural<lb/> 
-                    dulzura de esta clase de cultivos, unida<lb/>
+                    </choice><choice><sic>,</sic><corr type="deleted"/></choice> y en los otros la natural
+                    <lb/>dulzura de esta clase de cultivos, unida
+                    <lb/>
                     <choice>
                         <orig>ala</orig>
                         <reg>a la</reg>
                     </choice>
                     <choice>
-                        <orig>timidès</orig>
+                        <orig>timidés</orig>
                         <reg>timidez</reg>
-                    </choice> que acompaña al <choice>
+                    </choice> que acompaña al 
+                    <choice>
                         <orig>pelantrin</orig>
                         <reg>pelantrín</reg>
-                    </choice>.<lb/> 
-                    Pero en la soledad de un <choice>
-                        <orig>Ingenio</orig>
+                    </choice>.
+                    <lb/>Pero en la soledad de un 
+                    <choice>
+                        <orig>Yngenio</orig>
                         <reg>ingenio</reg>
-                    </choice> no hay<lb/>
+                    </choice> no hay
+                    <lb/>
                     <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
                     </choice> <choice>
                         <orig>Magistrado</orig>
                         <reg>magistrado</reg>
-                    </choice> que el amo. Su distan<g ref="#typoHyphen"/>
-                    <lb break="no"/>cia 
-                    del <choice>
+                    </choice> que el amo. Su distan<g ref="#typoHyphen"/><lb break="no"/>cia del 
+                    <choice>
                         <orig>govierno</orig>
                         <reg>gobierno</reg>
-                    </choice>, el tamaño de su fortu<g ref="#typoHyphen"/>
-                    <lb break="no"/>na, 
-                    y las consideraciones <choice>
+                    </choice>, el tamaño de su 
+                    fortu<g ref="#typoHyphen"/><lb break="no"/>na<choice><sic>,</sic><corr type="deleted"/></choice> y las consideraciones 
+                    <choice>
                         <orig>politicas</orig>
                         <reg>políticas</reg>
-                    </choice> que<lb/> 
-                    siempre es preciso guardar entre el <choice>
-                        <abbr>s.<hi rendition="#sup">or</hi>
-                        </abbr>
+                    </choice> que
+                    <lb/>siempre es preciso guardar entre el <choice>
+                        <abbr>s.<hi rendition="#sup">or</hi></abbr>
                         <expan>señor</expan>
                     </choice>
-                    <lb/> 
-                    y el esclavo, le ponen en <choice>
+                    <lb/>y el esclavo, le ponen en <choice>
                         <orig>situacion</orig>
                         <reg>situación</reg>
-                    </choice> de<lb/>
+                    </choice> de
+                    <lb/>
                     <choice>
                         <orig>exercer</orig>
                         <reg>ejercer</reg>
-                    </choice> impunemente la autoridad ab<g ref="#typoHyphen"/>
-                    <lb break="no"/>soluta. 
+                    </choice> impunemente la autoridad ab<g ref="#typoHyphen"/><lb break="no"/>soluta. 
                     <choice>
                         <orig>Yes</orig>
                         <reg>Y es</reg>
-                    </choice> cierto que la humanidad co<g ref="#typoHyphen"/>
-                    <lb break="no"/>rre
-                    gran riesgo en las manos de seme<g ref="#typoHyphen"/>
-                    <lb break="no"/>jante <choice>
+                    </choice> cierto que la humanidad co<g ref="#typoHyphen"/><lb break="no"/>rre
+                    gran riesgo en las manos de seme<g ref="#typoHyphen"/><lb break="no"/>jante <choice>
                         <orig>Ministro</orig>
                         <reg>ministro</reg>
                     </choice>, <choice>
                         <orig>por que</orig>
                         <reg>porque</reg>
-                    </choice> todo le estimu<g ref="#typoHyphen"/>
-                    <lb break="no"/>la 
-                    al abuso, y al exceso. 
+                    </choice> todo le estimu<g ref="#typoHyphen"/><lb break="no"/>la al abuso, y al exceso. 
                 </p>
-                <p>Se trata en primer lugar de una<lb/> 
-                    gran <choice>
+                <p>Se trata en primer lugar de una
+                    <lb/>gran <choice>
                         <orig>porcion</orig>
                         <reg>porción</reg>
-                    </choice> de esclavos reunidos en<lb/> 
-                    un propio punto, y esta <choice>
+                    </choice> de esclavos reunidos en
+                    <lb/>un propio punto, y esta 
+                    <choice>
                         <orig>reunion</orig>
                         <reg>reunión</reg>
-                    </choice> de <lb/>
-                <pb n="154r" facs="prohd0018_154r.tif"/>fuerzas causa siempre sobresalto. Para
-                    te<g ref="#typoHyphen"/>
-                    <lb break="no"/>nerlos 
+                    </choice> de 
+                    <lb/>
+                <pb n="154r" facs="prohd0018_154r.tif"/>fuerzas causa siempre sobresalto. Para te<g ref="#typoHyphen"/><lb break="no"/>nerlos 
                     <choice>
                         <orig>sugetos</orig>
                         <reg>sujetos</reg>
-                    </choice> parece como indispensable<lb/> 
-                    valerse del resorte del miedo. 
+                    </choice> parece como indispensable
+                    <lb/>valerse del resorte del miedo. 
                 </p>
-                <p> Son duros y no dan treguas los traba<g ref="#typoHyphen"/>
-                    <lb break="no"/>jos 
-                    de un <choice>
-                        <orig>Ingenio</orig>
+                <p> Son duros y no dan treguas los traba<g ref="#typoHyphen"/><lb break="no"/>jos de un 
+                    <choice>
+                        <orig>Yngenio</orig>
                         <reg>ingenio</reg>
-                    </choice>, quiere decir, que al menos<lb/> 
-                    exigen continuos esfuerzos y como sin <choice>
+                    </choice>, quiere decir, que al menos
+                    <lb/>exigen continuos esfuerzos<supplied cert="high">,</supplied> y como sin 
+                    <choice>
                         <orig>interes</orig>
                         <reg>interés</reg>
-                    </choice> <choice>
-                        <sic>,</sic>
-                        <corr/>
-                    </choice>
+                    </choice><choice><sic>,</sic><corr type="deleted"/></choice>
                     <lb/>
                     <choice>
                         <orig>jamas</orig>
                         <reg>jamás</reg>
-                    </choice> se hicieron aquellos<supplied cert="high">,</supplied> es preciso que<lb/> 
-                    el castigo <choice>
-                        <orig>ù</orig>
+                    </choice> se hicieron aquellos<supplied cert="high">,</supplied> es preciso que
+                    <lb/> el castigo <choice>
+                        <orig>ú</orig>
                         <reg>o</reg>
                     </choice> la maña los produzca. 
                 </p>
-                <p>Poco, <choice>
+                <p>Poco, 
+                    <choice>
                         <orig>poquisimo</orig>
                         <reg>poquísimo</reg>
-                    </choice>, <choice>
+                    </choice><choice><sic>,</sic><corr type="deleted"/></choice> <choice>
                         <orig>u</orig>
                         <reg>o</reg>
                     </choice> nada <choice>
                         <orig>deve</orig>
                         <reg>debe</reg>
-                    </choice> esperar<g ref="#typoHyphen"/>
-                    <lb break="no"/>se 
+                    </choice> esperar<g ref="#typoHyphen"/><lb break="no"/>se 
                     de la maña de los <choice>
                         <orig>Directores</orig>
                         <reg>directores</reg>
-                    </choice>
-                    <choice>
-                        <sic>,</sic>
-                        <corr/>
-                    </choice> <choice>
+                    </choice><choice><sic>,</sic><corr/></choice> <choice>
                         <orig>ò</orig>
                         <reg>o</reg>
-                    </choice> capa<g ref="#typoHyphen"/>
-                    <lb break="no"/>taces 
-                    de semejantes trabajos. Su rusticidad<lb/> 
-                    es conocida, y basta verles <choice>
-                        <orig>à</orig>
+                    </choice> capa<g ref="#typoHyphen"/><lb break="no"/>taces de semejantes trabajos. Su rusticidad
+                    <lb/>es conocida<choice><sic>,</sic><corr type="deleted"/></choice> y basta verles 
+                    <choice>
+                        <orig>á</orig>
                         <reg>a</reg>
-                    </choice> todas horas<lb/> 
-                    armados de <choice>
+                    </choice> todas horas
+                    <lb/>armados de <choice>
                         <orig>Machete</orig>
                         <reg>machete</reg>
                     </choice> y <choice>
                         <orig>foete</orig>
                         <reg>fuete</reg>
-                    </choice>, para que<lb/> 
-                    se conozca que aquellos son sus recursos. 
+                    </choice><choice><sic>,</sic><corr type="deleted"/></choice> para que
+                    <lb/>se conozca que aquellos son sus recursos. 
                 </p>
-                <p>La ley no limita el castigo ni seña<g ref="#typoHyphen"/>
-                    <lb break="no"/>la 
+                <p>La ley no limita el castigo ni seña<g ref="#typoHyphen"/><lb break="no"/>la 
                 el alimento ni tampoco los <choice>
                         <orig>trabaxos</orig>
                         <reg>trabajos</reg>
                     </choice>
-                    <lb/>
-                    de los esclavos. Les <choice>
-                        <orig>diò</orig>
+                    <lb/>de los esclavos. Les <choice>
+                        <orig>dió</orig>
                         <reg>dio</reg>
                     </choice> solamente el recur<lb break="no"/>so de <choice>
                         <orig>quexarse</orig>
@@ -611,19 +585,19 @@
                     </choice> al amo <choice>
                         <orig>ala</orig>
                         <reg>a la</reg>
-                    </choice> observancia de lo<lb/> 
-                    justo. ¡Pero que recurso gran Dios! Hay<lb/>
-                <pb n="154v" facs="prohd0018_154v.tif"/>otra ley que previene que todo siervo que<lb/> 
-                    se <choice>
+                    </choice> observancia de lo
+                    <lb/>justo. ¡Pero que recurso gran Dios! Hay
+                    <lb/>
+                <pb n="154v" facs="prohd0018_154v.tif"/>otra ley que previene que todo siervo que
+                    <lb/>se <choice>
                         <orig>enquentre</orig>
                         <reg>encuentre</reg>
                     </choice>
                     <choice>
-                        <orig>àlegua</orig>
+                        <orig>álegua</orig>
                         <reg>a legua</reg>
                     </choice> y media de su <choice>
-                        <orig>Inge<g ref="#typoHyphen"/>
-                            <lb break="no"/>nio</orig>
+                        <orig>Ynge<g ref="#typoHyphen"/><lb break="no"/>nio</orig>
                         <reg>ingenio</reg>
                     </choice> sin licencia de su dueño<supplied cert="high">,</supplied>
                     <choice>
@@ -632,7 +606,7 @@
                     </choice>
                     <lb/>
                     <choice>
-                        <orig>ù</orig>
+                        <orig>ú</orig>
                         <reg>o</reg>
                     </choice>
                     <choice>
@@ -641,17 +615,19 @@
                     </choice>, sea por <choice>
                         <orig>qualquiera</orig>
                         <reg>cualquiera</reg>
-                    </choice> aprehen<g ref="#typoHyphen"/>
-                    <lb break="no"/>dido 
-                    y <choice>
+                    </choice> aprehen<g ref="#typoHyphen"/><lb break="no"/>dido y 
+                    <choice>
                         <orig>buelto</orig>
                         <reg>vuelto</reg>
-                    </choice> a entregar <choice>
-                        <orig>à</orig>
+                    </choice>
+                    <choice>
+                        <orig>á</orig>
                         <reg>a</reg>
-                    </choice> su amo. ¿<choice>
-                        <orig>Co<g ref="#typoHyphen"/>
-                            <lb break="no"/>mo</orig>
+                    </choice>entregar <choice>
+                        <orig>ásu</orig>
+                        <reg>a su</reg>
+                    </choice> amo. ¿<choice>
+                        <orig>Co<g ref="#typoHyphen"/><lb break="no"/>mo</orig>
                         <reg>Cómo</reg>
                     </choice> pues <choice>
                         <orig>hade</orig>
@@ -660,11 +636,10 @@
                         <orig>ala</orig>
                         <reg>a la</reg>
                     </choice> vista del <choice>
-                        <orig>Ma<g ref="#typoHyphen"/>
-                            <lb break="no"/>gistrado</orig>
+                        <orig>Ma<g ref="#typoHyphen"/><lb break="no"/>gistrado</orig>
                         <reg>magistrado</reg>
-                    </choice> el ilacerado, el hambriento, el<lb/> 
-                    fatigado <choice>
+                    </choice> el ilacerado, el hambriento, el
+                    <lb/>fatigado <choice>
                         <orig>Esclavo</orig>
                         <reg>esclavo</reg>
                     </choice>? <choice>
@@ -676,152 +651,139 @@
                         <reg>cuando</reg>
                     </choice> por<lb/> 
                     casualidad llegue, ¿quien le defiende, <choice>
-                        <abbr>q.<hi rendition="#sup">n</hi>
-                        </abbr>
+                        <abbr>q.<hi rendition="#sup">n</hi></abbr>
                         <expan>quien</expan>
                     </choice>
-                    <lb/> 
-                    le protege contra un poderoso que es amo,<lb/> 
-                    y que <choice>
+                    <lb/>le protege contra un poderoso que es amo<choice><sic>,</sic><corr type="deleted"/></choice>
+                    <lb/>y que <choice>
                         <orig>alas</orig>
                         <reg>a las</reg>
-                    </choice> naturales ventajas que le <choice>
-                        <orig>dà</orig>
+                    </choice> naturales ventajas que le 
+                    <choice>
+                        <orig>dá</orig>
                         <reg>da</reg>
                     </choice>
-                    <lb/> 
-                    su <choice>
+                    <lb/>su <choice>
                         <orig>educacion</orig>
                         <reg>educación</reg>
                     </choice>, une la de que sus <choice>
                         <orig>fechurias</orig>
                         <reg>fechurías</reg>
                     </choice>
-                    <lb/> 
-                    no pueden ser <choice>
+                    <lb/>no pueden ser <choice>
                         <orig>precenciadas</orig>
                         <reg>presenciadas</reg>
-                    </choice> sino por sus <lb/>
-                    mismos <choice>
+                    </choice> sino por sus 
+                    <lb/>mismos <choice>
                         <orig>complices</orig>
                         <reg>cómplices</reg>
                     </choice> <choice>
-                        <orig>ò</orig>
+                        <orig>ó</orig>
                         <reg>o</reg>
                     </choice> <choice>
                         <orig>demas</orig>
                         <reg>demás</reg>
-                    </choice> asalariados, <lb/>
-                    que viven y dependen <choice>
+                    </choice> asalariados, 
+                    <lb/>que viven y dependen <choice>
                         <orig>deel</orig>
                         <reg>de él</reg>
                     </choice>? 
                 </p>
                 <p>Previno <choice>
-                        <abbr>tamb.<hi rendition="#sup">n</hi>
-                        </abbr>
+                        <abbr>tamb.<hi rendition="#sup">n</hi></abbr>
                         <expan>también</expan>
-                    </choice> la ley que nadie<lb/> 
-                    quitase al esclavo el mayor de los con<g ref="#typoHyphen"/>
-                    <lb break="no"/>suelos
-                    que en su <choice>
+                    </choice> la ley que nadie
+                    <lb/>quitase al esclavo el mayor de los con<g ref="#typoHyphen"/><lb break="no"/>suelos que en su 
+                    <choice>
                         <orig>cituacion</orig>
                         <reg>situación</reg>
                     </choice> puede tener<supplied cert="high">,</supplied>
                     <lb/>
                     <choice>
-                        <abbr>q.<hi rendition="#sup">e</hi>
-                        </abbr>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> nadie pudiese impedirle la <choice>
-                        <orig>elecci<g ref="#typoHyphen"/>
-                            <lb break="no"/>on</orig>
+                        <orig>elecci<g ref="#typoHyphen"/><lb break="no"/>on</orig>
                         <reg>elección</reg>
                     </choice> de una compañera de sus miserias. 
                 </p>
                 <pb n="155r" facs="prohd0018_155r.tif"/>
-                <p>En el sistema que constantemente han segui<g ref="#typoHyphen"/>
-                    <lb break="no"/>do 
-                nuestros <choice>
-                        <orig>Ingenios</orig>
+                <p>En el sistema que constantemente han segui<g ref="#typoHyphen"/><lb break="no"/>do nuestros 
+                    <choice>
+                        <orig>Yngenios</orig>
                         <reg>ingenios</reg>
-                    </choice> y sigue la mayor<lb/> 
-                    parte <choice>
+                    </choice> y sigue la mayor
+                    <lb/> parte <choice>
                         <orig>todavia</orig>
                         <reg>todavía</reg>
-                    </choice>, <choice>
-                        <orig>està</orig>
-                        <reg>está</reg>
-                    </choice> eludida esta ley <choice>
+                    </choice>, está eludida esta ley <choice>
                         <orig>por<lb/>que</orig>
                         <reg>porque</reg>
-                    </choice> siendo todos <choice>
+                    </choice><supplied cert="high">,</supplied> siendo todos 
+                    <choice>
                         <orig>barones</orig>
                         <reg>varones</reg>
-                    </choice> los esclavos y<lb/> 
-                    permitiendose <choice>
-                        <orig>àmuy</orig>
+                    </choice> los esclavos y
+                    <lb/>permitiendose <choice>
+                        <orig>ámuy</orig>
                         <reg>a muy</reg>
                     </choice> pocos que <choice>
                         <orig>bayan</orig>
                         <reg>vayan</reg>
                     </choice> <choice>
-                        <orig>à</orig>
+                        <orig>á</orig>
                         <reg>a</reg>
-                    </choice> los<lb/> 
-                    parajes en que pudieran encontrar hembras<lb/> 
-                    es claro que <choice>
+                    </choice> los
+                    <lb/>parajes en que pudieran encontrar hembras<supplied ert="high">,</supplied>
+                    <lb/>es claro que <choice>
                         <orig>deciciba</orig>
                         <reg>decisiva</reg>
                     </choice> <choice>
                         <orig>aun que</orig>
                         <reg>aunque</reg>
                     </choice> indirectamen<lb break="no"/>te 
-                    se les impide gozar de tan apreciable<lb/> 
-                    derecho. 
+                    se les impide gozar de tan apreciable
+                    <lb/>derecho. 
                 </p>
-                <p>No disimulemos no, la exactitud y<lb/>
-                verdad de los anteriores raciocinios, y de<lb/> 
-                otros muchos <choice>
+                <p>No disimulemos<supplied cert="high">,</supplied> no, la exactitud y
+                    <lb/>verdad de los anteriores raciocinios<choice><sic>,</sic><corr type="deleted"/></choice> y de
+                    <lb/>otros muchos <choice>
                         <orig>todavia</orig>
                         <reg>todavía</reg>
                     </choice> <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
-                    </choice> fuertes que<lb/> 
-                    se pudieran formar, <choice>
+                    </choice> fuertes que
+                    <lb/>se pudieran formar, <choice>
                         <orig>por que</orig>
                         <reg>porque</reg>
-                    </choice> nos <choice>
-                        <orig>des<g ref="#typoHyphen"/>
-                            <lb break="no"/>mentirà </orig>
-                        <reg>desmentirá</reg>
-                    </choice> el material examen que haga<lb/>
+                    </choice> nos des<g ref="#typoHyphen"/><lb break="no"/>mentirá el material examen que haga
+                    <lb/>
                     <choice>
                         <orig>qualquiera</orig>
                         <reg>cualquiera</reg>
                     </choice> de un <choice>
-                        <orig>Ingenio</orig>
+                        <orig>Yngenio</orig>
                         <reg>ingenio</reg>
-                    </choice>, y la sim<g ref="#typoHyphen"/>
-                    <lb break="no"/>ple 
+                    </choice><choice><sic>,</sic><corr type="deleted"/></choice> y la sim<g ref="#typoHyphen"/><lb break="no"/>ple 
                     <choice>
                         <orig>reflexion</orig>
                         <reg>reflexión</reg>
-                    </choice> de que mientras que en<lb/> 
-                    ellos se ven suicidios, coitos bestiales,<lb/> 
-                    fugas continuas, languidez en los sem<g ref="#typoHyphen"/>
-                    <lb break="no"/>blantes, 
+                    </choice> de que<supplied cert="high">,</supplied> mientras que en
+                    <lb/>ellos se ven <unclear cert="high">suicidios</unclear>, coitos bestiales,
+                    <lb/>fugas continuas, languidez en los sem<g ref="#typoHyphen"/><lb break="no"/>blantes, 
                     <choice>
                         <orig>devilidad</orig>
                         <reg>debilidad</reg>
-                    </choice> en los miembros, mu<g ref="#typoHyphen"/>
-                    <lb break="no"/>
-                <pb n="155v" facs="prohd0018_155v.tif"/>chos enfermos y muertos, nada, <choice>
-                        <orig>ò</orig>
+                    </choice> en los miembros, mu<g ref="#typoHyphen"/><lb break="no"/>
+                <pb n="155v" facs="prohd0018_155v.tif"/>chos enfermos y muertos, 
+                nada<choice><sic>,</sic><corr type="deleted"/></choice> 
+                    <choice>
+                        <orig>ó</orig>
                         <reg>o</reg>
-                    </choice> casi<lb/> 
-                    nada de todo esto se advierte en los<lb/>
+                    </choice> casi
+                    <lb/>nada de todo esto se advierte en los
+                    <lb/>
                     <choice>
                         <orig>Cafetales</orig>
                         <reg>cafetales</reg>
@@ -831,41 +793,43 @@
                     </choice> y <choice>
                         <orig>demas</orig>
                         <reg>demás</reg>
-                    </choice> pequeñas<lb/>
+                    </choice> pequeñas
+                    <lb/>
                     <choice>
                         <orig>lavores</orig>
                         <reg>labores</reg>
-                    </choice>. Al contrario, concluyamos<lb/> 
-                    con la dable ingenuidad que <choice>
+                    </choice>. Al contrario, concluyamos
+                    <lb/>con la dable ingenuidad que<supplied cert="high">,</supplied> <choice>
                         <orig>apesar</orig>
                         <reg>a pesar</reg>
-                    </choice>
-                    <unclear reason="covered" cert="high">de</unclear>
-                    <lb/> 
-                    nuestras leyes y de sus santos designios<lb/>
+                    </choice> <unclear reason="illegible" cert="high">de</unclear>
+                    <lb/>nuestras leyes y de sus santos designios<supplied cert="high">,</supplied>
+                    <lb/>
                     <choice>
                         <orig>deve</orig>
                         <reg>debe</reg>
-                    </choice> por fuerza existir en los <choice>
-                        <orig>Ingenios</orig>
+                    </choice> por fuerza existir en los 
+                    <choice>
+                        <orig>Yngenios</orig>
                         <reg>ingenios</reg>
                     </choice>
-                    <lb/> 
-                    de <choice>
+                    <lb/>de <choice>
                         <orig>Azucar</orig>
                         <reg>azúcar</reg>
-                    </choice> que no se hallan <choice>
+                    </choice> que no se hallan 
+                    <choice>
                         <orig>governa<lb break="no"/>dos</orig>
                         <reg>gobernados</reg>
-                    </choice> por hombres ilustrados y huma<g ref="#typoHyphen"/>
-                    <lb break="no"/>nos
-                    <hi rendition="#u">la violenta <choice>
-                        <orig>tentacion</orig>
-                        <reg>tentación</reg>
-                    </choice>
-                    </hi> que tanto<lb/> 
-                    susto nos cuesta............ </p>
+                    </choice> por hombres ilustrados y huma<g ref="#typoHyphen"/><lb break="no"/>nos
+                    <hi rendition="#u">la violenta 
+                        <choice>
+                            <orig>tentacion</orig>
+                            <reg>tentación</reg>
+                        </choice>
+                    </hi> que tanto
+                    <lb/>susto nos cuesta............ 
+                </p>
             </div>
         </body>
     </text>
-</TEI>
+</tei:TEI>
