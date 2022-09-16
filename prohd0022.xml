@@ -1,0 +1,203 @@
+<?xml-model href="prohd.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="letter" xml:id="prohd0022" xml:space="preserve">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Carta de John Sidney Thrasher a Alexander von Humboldt</title>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+                <editor>
+                    <persName>
+                        <surname>López</surname>
+                        <forename>Violeta</forename>
+                    </persName>
+                </editor>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2022-2023</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Staatsbibliothek zu Berlin</institution>
+                        <collection>Handschriftenabteilung</collection>
+                        <idno>
+                            <idno type="shelfmark">Nachl. Alexander von Humboldt, gr. Kasten 2, Mappe 3, Nr. 11</idno>
+                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-1007953</idno>
+                            <idno type="URLImages">"http://resolver.staatsbibliothek-berlin.de/SBB0001698D00000000"</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>2 Blatt</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Thrasher, John Sidney (1817-1879)</persName>
+                    <date when="1855-12-14">14 de diciembre de 1855</date>
+                    <placeName>New York</placeName>
+                </correspAction>
+                <correspAction type="received">
+                     <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
+                </correspAction>
+            </correspDesc>
+            <langUsage>
+                <language ident="en">Inglés</language>
+                <language ident="es">Español</language>
+            </langUsage>
+            <abstract xml:lang="es">
+                <p>Carta que acompaña el envío de un ejemplario de la traducción inglesa del "Ensayo político sobre esta Isla", 
+                hecha por J.S. Thrasher, en la que este informa a Humboldt de modificaciones respecto
+                al contenido. Con una nota de Humboldt.</p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>Von J.S. Thrasher verfasster Begleitbrief zur Übersendung eines Exemplares seiner englischen Übersetzung des
+                 "Essai politique sur l'île de Cuba", in dem er Humboldt über vohn ihm vorgenommene inhlatliche Änderungen am 
+                 Originaltext informiert. Mit einer Notiz Humboldts.</p>
+            </abstract>
+            <textClass>
+                <catRef scheme="#genre" target="#correspondence"/>
+                <catRef scheme="#form" target="#manuscript"/>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+            <pb n="1r" facs="prohd0022_1r.tif"/>
+            <fw type="folNum">11.</fw> 
+                <p>
+                    <dateline>New York
+                        <lb/>14 December 1855<choice><sic>.</sic><corr type="deleted"/></choice>
+                    </dateline>
+                </p>
+                <opener>
+                    <salute>Sir,</salute>
+                </opener>
+                <p>Will you permit
+                    <lb/>me to offer for your 
+                    <lb/>acceptance the 
+                    <choice>
+                        <orig>acompanying</orig>
+                        <reg>accompanying</reg>
+                    </choice>
+                    <lb/>copy of a translation
+                    <lb/>I have attempted to
+                    <lb/>make of your excellent
+                    <lb/>work on "The Island
+                    <lb/>of Cuba", and which has
+                    <lb/>just been published by
+                    <lb/>J.C. Derby 
+                    <unclear cert="high" reason="illegible">Esq<supplied cert="high">.</supplied></unclear> of this
+                    <lb/>city.-
+                </p>
+                <p>I have taken the
+                    <lb/>liberty to differ with
+                    <lb/>you on some of the
+                    <lb/>
+            <pb n="1v" facs="prohd0022_1v.tif"/>general principles of
+                    <lb/>social economy in this
+                    <lb/>continent<choice><sic>,</sic><corr type="deleted"/></choice> but I have
+                    <lb/>endeavored to do so with
+                    <lb/>a proper deference to
+                    <lb/>your great attainments
+                    <lb/>and eminent powers.-
+                    <lb/>Different views of the
+                    <lb/>applicability of general
+                    <lb/>laws may be entertained
+                    <lb/>without any diminution
+                    <lb/>of personal regard, and 
+                    <lb/>I beg leave to assure you
+                    <lb/>that in the present
+                    <lb/>instance they have not
+                    <lb/>diminished in any
+                    <lb/>way the high esteem I
+                    <lb/>
+             <pb n="2r" facs="prohd0022_2r.tif"/>hold for yourself and
+                    <lb/>your opinions.-
+                </p>
+                <p>I would be much gratified
+                    <lb/>to receive from you a simple
+                    <lb/>autographic acknowledgement
+                    <lb/>of the receipt of the book.-
+                    <lb/>Should you deem it worthy
+                    <lb/>of such an honor<supplied cert="high">,</supplied> a line
+                    <lb/>addressed to the care of my
+                    <lb/>publisher in this city would
+                    <lb/>reach me.- 
+                </p>
+                <closer>
+                    <salute>I have the honor to be,
+                        <lb/>with sentiments of high regard,
+                        <lb/>Your very
+                        <choice>
+                            <abbr>ob.<hi rendition="#sup">t</hi></abbr>
+                            <expan>obedient</expan>
+                        </choice>
+                        <choice>
+                            <abbr>serv.<hi rendition="#sup">t</hi></abbr>
+                            <expan>servant</expan>
+                        </choice>
+                    </salute>
+                    <signed><hi rendition="#u">J<supplied cert="high">.</supplied>S. Thrasher</hi></signed>
+                </closer>
+                <postscript>
+                      <p>To His Excellency
+                          <lb/>Baron Alexander <supplied cert="high">von</supplied> Humboldt
+                          <lb/><unclear reason="illegible" cert="low">&amp;.<hi rendition="#sup">c</hi> &amp;.<hi rendition="#sup">c</hi> &amp;.<hi rendition="#sup">c</hi></unclear>
+                      </p>
+                </postscript>
+            <pb n="2v" facs="prohd0022_2v.tif"/>
+                <note hand="#H0012069"><hi rendition="#u">Ile de Cube</hi></note>
+            </div>
+        </body>
+    </text>
+</TEI>
