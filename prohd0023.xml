@@ -1,0 +1,313 @@
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?><?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0023" xml:space="preserve">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">[Notas sobre exportaciones de La Habana 1826]</title>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+                <editor>
+                    <persName>
+                        <surname>López</surname>
+                        <forename>Violeta</forename>
+                    </persName>
+                </editor>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2022-2023</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellónska</institution>
+                        <collection>Nachl. Alexander von Humboldt</collection>
+                        <idno>
+                            <idno type="shelfmark">Bd. 8/2 Bl. 310</idno>
+                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2991561</idno>
+                            <idno type="URLImages">"http://jbc.bj.uj.edu.pl/dlibra/publication/368881/content"</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Blatt</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
+                <date when="1826">1826</date>
+                <placeName>N/A</placeName>
+            </creation>
+            <langUsage>
+                <language ident="es">Español</language>
+                <language ident="fr">Francés</language>
+            </langUsage>
+            <abstract xml:lang="es">
+                <p>Notas de Humboldt sobre los ingresos y las exportaciones de La Habana en el año 1826.</p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>Notizen Humboldts zu Einnahmen und Exporten Havannas im Jahr 1826.</p>
+            </abstract>
+            <textClass>
+                <catRef scheme="#genre" target="#notebooks"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#subjects" target="#trade"/>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+            <pb n="1r" facs="prohd0023_310r.tif"/>
+                <p>1826.</p>
+                <p><del rendition="#s">Importation de la
+                    <choice>
+                        <sic>seul</sic>
+                        <corr cert="high">seule</corr>
+                    </choice> Havane
+                    <lb/>4.011.<subst><del rendition="#ow">8</del><add place="across">9</add></subst>26 pesos</del>
+                </p>
+                <p>Estado de los ingresos que ha rendido
+                    <lb/>la
+                    <choice>
+                        <orig>Administracion</orig>
+                        <reg>administración</reg>
+                    </choice> general de
+                    <choice>
+                        <orig>la</orig>
+                        <reg>La</reg>
+                    </choice> Habana
+                    <lb/><supplied cert="high">(</supplied>sans Matanzas, Trinidad, Santiago de Cuba)
+                    <lb/>en 1826<supplied cert="high">.</supplied>
+                </p>
+                <p>
+                    <del rendition="#s">Venta</del> Ventas de
+                    <choice>
+                        <orig>Mar</orig>
+                        <reg>mar</reg>
+                    </choice> y
+                    <choice>
+                        <orig>Tierra</orig>
+                        <reg>tierra</reg>
+                    </choice> .. 4.011.926
+                    <choice>
+                        <abbr>p</abbr>
+                        <expan>pesos</expan>
+                    </choice>,
+                    <lb/>avec les ramos particulares 4.224.327
+                    <choice>
+                        <abbr>p</abbr><supplied cert="high">.</supplied>
+                        <expan>pesos</expan>
+                    </choice>
+                </p>
+                <p>Frutos:
+                    <table rows="5" cols="2">
+                        <head><choice>
+                                <orig>Exportacion</orig>
+                                <reg>Exportación</reg>
+                            </choice> de la Havane<choice><sic>:</sic><corr type="deleted"/></choice>
+                        </head>
+                        <row>
+                            <cell><choice>
+                                    <orig>sucre</orig>
+                                    <reg>Sucre</reg>
+                                </choice>
+                            </cell>
+                            <cell>273 578 
+                                <choice>
+                                    <orig>caxas</orig>
+                                    <reg>cajas</reg>
+                                </choice>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>
+                                <choice>
+                                    <orig>cafe</orig>
+                                    <reg>Café</reg>
+                                </choice>
+                            </cell>
+                            <cell>1.214 218 arrobas</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>cera</orig>
+                                    <reg>Cera</reg>
+                                </choice>
+                            </cell>
+                            <cell>14 011 arrobas</cell>
+                        </row>
+                        <row>
+                            <cell>Miel de purga
+                                <lb/><del rendition="#s">bo</del>
+                            </cell>
+                            <cell>37 135 bocoyos</cell>
+                        </row>
+                        <row>
+                            <cell>Aguardiente de caña<note hand="#H0012069" place="left">en outre 
+                                    <lb/><choice>
+                                        <abbr>exp.</abbr>
+                                        <expan>exportations</expan>
+                                    </choice> Matanzas
+                                    <lb/>en sucre 80 000
+                                    <choice>
+                                        <orig>caxas</orig>
+                                        <reg>cajas</reg>
+                                    </choice>
+                                    <lb/>Douane de Ma<g ref="#typoHyphen"/><lb break="no"/>tanzas a
+                                    <lb/>donné 530 000
+                                    <choice>
+                                        <abbr>p.</abbr>
+                                        <expan>pesos</expan>
+                                    </choice>
+                                </note>
+                            </cell>
+                            <cell>2704 <seg type="comment">
+                                    <orig>pipas</orig>
+                                    <note>A proposito de las medidas ver Alexander von Humboldt y Aimé de Bonpland: Reise in die aequinoctial-gegenden des neuen continents in den jahren 1799, 1800, 1801, 1803 und 1804 (1829), p. 161-162, nota de pie de página : "Una pipa de aguardiente = 180 frascos oder 67½ Gallonen; 1 bocoy = 6 bariles. Die pipa von aguardiente de canna, welche heut zu Tage in der Havannah 25 Piaster kostet, galt von 1815 bis 1819 deren über 35. Der bocoy de miel de purga galt sieben Reales de plata. Man nimmt gewöhnlich an, daß drey Hüte Zucker ein Baril de miel de purga zu zwey arrobas geben. Beym Raffinieren wird häufig über die erste Lage feuchten Thons (barro), der unter einem Ueberdach (piza) durch Thiere mit Füßen getreten ward, eine zweyte Thonlage (barrisso) gelegt. Nachdem diese weggenommen worden, wird der raffinierte Zucker noch acht Tage in der Kegelform (horma) zurückgelassen, damit der kleine Ueberrest von Melasse frey ablaufen könne (para escurrir y limpiar)".
+                                    </note>
+                                </seg>
+                            </cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <table rows="2" cols="2">
+                        <row role="label">
+                            <cell>Buques</cell>
+                            <cell>à Havane
+                            <choice>
+                                <sic>seul</sic>
+                                <corr cert="high">seule</corr>
+                            </choice>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>entres</orig>
+                                    <reg>entrés</reg>
+                                </choice>
+                            </cell>
+                            <cell>1174</cell>
+                        </row>
+                        <row>
+                            <cell>partis</cell>
+                            <cell>1096</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <table rows="2" cols="6">
+                        <row role="label">
+                            <cell/>
+                            <cell>
+                                <choice>
+                                    <abbr>Españ.</abbr>
+                                    <expan>Españoles</expan>
+                                </choice> de
+                                <lb/>guerra
+                            </cell>
+                            <cell>
+                                <choice>
+                                    <orig>Estrangeros</orig>
+                                    <reg>Extranjeros</reg>
+                                </choice>
+                                <lb/>de guerra
+                            </cell>
+                            <cell>
+                                <choice>
+                                    <abbr>Esp.</abbr>
+                                    <expan>Españoles</expan>
+                                </choice> 
+                                <unclear reason="illegible"><choice>
+                                    <abbr>mer</abbr>
+                                    <expan>mercantiles</expan>
+                                </choice></unclear>
+                                <lb/>cartas
+                            </cell>
+                            <cell>
+                                <choice>
+                                    <abbr>Estrang</abbr>
+                                    <expan>Extranjeros</expan>
+                                </choice> 
+                                <choice>
+                                    <abbr>merc</abbr>
+                                    <expan>mercantiles</expan>
+                                </choice>
+                            </cell>
+                            <cell>
+                                <choice>
+                                    <abbr>tot<supplied cert="high">.</supplied></abbr>
+                                    <expan>total</expan>
+                                </choice>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>entradas</cell>
+                            <cell>69</cell>
+                            <cell>82</cell>
+                            <cell>59</cell>
+                            <cell>934</cell>
+                            <cell>1174</cell>
+                        </row>
+                        <row>
+                            <cell>salidas</cell>
+                            <cell>78</cell>
+                            <cell>76</cell>
+                            <cell>72</cell>
+                            <cell>870</cell>
+                            <cell>1096</cell>
+                        </row>
+                    </table>
+                </p>
+            <pb n="1v" facs="prohd0023_310v.tif"/>
+            </div>
+        </body>
+    </text>
+</TEI>
