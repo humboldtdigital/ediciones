@@ -1,4 +1,5 @@
-<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0004" xml:space="preserve">
+<?xml-model href="../schemata/prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0004" xml:space="preserve">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -605,7 +606,7 @@
                         <orig>proporcion</orig>
                         <reg>proporción</reg>
                     </choice> de su distancia de la capital
-                    <lb/>hasta valer<supplied cert="hihg">,</supplied> cerca de ella,
+                    <lb/>hasta valer<supplied cert="high">,</supplied> cerca de ella,
                     <choice>
                         <orig>tresmil</orig>
                         <reg>tres mil</reg>
@@ -947,7 +948,7 @@
                         <orig>mas</orig>
                         <reg>más</reg>
                     </choice> de dos leguas de cauce<supplied cert="high">,</supplied> formado por 
-                    <hi rendition="#u">Antone<g ref="typoHyphen"/><lb break="no"/>li</hi> desde los principios de la
+                    <hi rendition="#u">Antone<g ref="#typoHyphen"/><lb break="no"/>li</hi> desde los principios de la
                     <choice>
                         <orig>Poblacion</orig>
                         <reg>población</reg>
@@ -1299,7 +1300,7 @@
                         <reg>también</reg>
                     </choice> van tomando un prodigioso 
                     <choice>
-                        <abbr>increm.<hi rendition="sup">to</hi></abbr>
+                        <abbr>increm.<hi rendition="#sup">to</hi></abbr>
                         <expan>incremento</expan>
                     </choice>
                     <lb/>los más remotos, tanto por la fertilidad de las tierras 
@@ -2112,7 +2113,7 @@
                         <orig>Febrero</orig>
                         <reg>febrero</reg>
                     </choice> 
-                    <lb/>de <unclear reason="illegible">(m)</unclear> 1789 consta en los libros de la 
+                    <lb/>de <unclear reason="illegible" cert="high">(m)</unclear> 1789 consta en los libros de la 
                     Real Adua<g ref="#typoHyphen"/><lb break="no"/>na como sigue. 
                     <lb/><milestone unit="section" rendition="#hr"/>
                 </p>
@@ -4541,7 +4542,7 @@
                     <lb/>madres de la vanidad<choice><sic>,</sic><corr type="deleted"/></choice> suelen adulterar las buenas 
                     dis<g ref="#typoHyphen"/><lb break="no"/>posiciones de la naturaleza. Es constante que la 
                     po<g ref="#typoHyphen"/><lb break="no"/>breza y
-                    nece<subst><del rendition="#ow">c</del><add rendition="across">s</add></subst>idad envilecen los
+                    nece<subst><del rendition="#ow">c</del><add place="across">s</add></subst>idad envilecen los
                     <choice>
                         <orig>animos</orig>
                         <reg>ánimos</reg>
@@ -4586,7 +4587,7 @@
                         <reg>ilustración</reg>
                     </choice>, como me<g ref="#typoHyphen"/><lb break="no"/>dios y
                     <choice>
-                        <orig>oca<subst><del rendition="#ow">c</del><add rendition="across">s</add></subst>ion</orig>
+                        <orig>oca<subst><del rendition="#ow">c</del><add place="across">s</add></subst>ion</orig>
                         <reg>ocasión</reg>
                     </choice> de adquirirla. Propendan pues las le<g ref="#typoHyphen"/><lb break="no"/>yes
                     <choice>
@@ -4719,7 +4720,7 @@
                         <reg>faciliten</reg>
                     </choice> la
                     <choice>
-                        <orig>divi<subst><del rendition="#ow">c</del><add rendition="across">s</add></subst>ion</orig>
+                        <orig>divi<subst><del rendition="#ow">c</del><add place="across">s</add></subst>ion</orig>
                         <reg>división</reg>
                     </choice> y tranquila
                     <choice>
@@ -4783,7 +4784,7 @@
                         <orig>imposicion</orig>
                         <reg>imposición</reg>
                     </choice>;
-                    <lb/><subst>siend<del rendition="#ow">a</del><add rendition="across">o</add></subst> así 
+                    <lb/> siend<subst><del rendition="#ow">a</del><add place="across">o</add></subst> así 
                     que en estos casos no desembolsan los 
                     contra<g ref="#typoHyphen"/><lb break="no"/>tantes ni un solo peso. El Rey se
                      <choice>
@@ -4829,7 +4830,7 @@
                      <choice>
                         <orig>qual</orig>
                         <reg>cual</reg>
-                    </choice> es un problema decidir si<suppied cert="high">,</suppied> entre 
+                    </choice> es un problema decidir si<supplied cert="high">,</supplied> entre 
                     <lb/>otras providencias<supplied cert="high">,</supplied>
                      <choice>
                         <orig>convendria</orig>
@@ -4869,7 +4870,7 @@
                         <abbr>tal vez</abbr>
                         <expan>talvez</expan>
                     </choice> libertar el uso y 
-                    <lb/>comercio de nuestras preciosas mad<subst><del rendition="#ow"/><add rendition="across">era</add></subst>s, hoy
+                    <lb/>comercio de nuestras preciosas mad<subst><del rendition="#ow"/><add place="across">era</add></subst>s, hoy
                      <choice>
                         <orig>cási</orig>
                         <reg>casi</reg>
@@ -5499,7 +5500,7 @@
                     <choice>
                         <orig>ó</orig>
                         <reg>o</reg>
-                    </choice> c<subst><del rendition="#ow">a</del><add rendition="across">e</add></subst>se su 
+                    </choice> c<subst><del rendition="#ow">a</del><add place="across">e</add></subst>se su 
                     salida<supplied cert="high">,</supplied> que 
                     <lb/>es la que sostiene las labores y la
                     <choice>
@@ -5759,7 +5760,7 @@
                         <orig>aun</orig>
                         <reg>aún</reg>
                     </choice> en el 
-                    <lb/>caso de subst<subst><del rendition="#ow"/><add rendition="across">ituir</add></subst> auxilios
+                    <lb/>caso de subst<subst><del rendition="#ow"/><add place="across">ituir</add></subst> auxilios
                     <choice>
                         <orig>agenos</orig>
                         <reg>ajenos</reg>
@@ -5767,7 +5768,7 @@
                     <choice>
                         <orig>á</orig>
                         <reg>a</reg>
-                    </choice> l<subst><del rendition="#ow">a</del><add rendition="across">o</add></subst>s
+                    </choice> l<subst><del rendition="#ow">a</del><add place="across">o</add></subst>s
                     nacion<subst><del rendition="#ow">es</del><add place="across">a</add></subst>,<add place="superlinear">les</add> 
                     co<g ref="#typoHyphen"/><lb break="no"/>mo se evidencia con el encarecimiento
                     <choice>
@@ -5871,7 +5872,7 @@
                     </choice> que consta de 
                     <lb/>aumentarse los costos y
                     <choice>
-                        <orig>baxa<subst><del rendition="#ow">n</del><add rendition="across">r</add></subst></orig>
+                        <orig>baxa<subst><del rendition="#ow">n</del><add place="across">r</add></subst></orig>
                         <reg>bajar</reg>
                     </choice> los precios de los 
                     <lb/>frutos.
@@ -6006,7 +6007,7 @@
                         <orig>razon</orig>
                         <reg>razón</reg>
                     </choice> que aspirasen al privilegio
-                    ex<g ref="#typoHyphen"/><lb break="no"/>clu<subst><del rendition="#ow">c</del><add rendition="across">s</add></subst>ivo
+                    ex<g ref="#typoHyphen"/><lb break="no"/>clu<subst><del rendition="#ow">c</del><add place="across">s</add></subst>ivo
                     de proveerlas y de
                     <choice>
                         <orig>extraher</orig>
@@ -6092,7 +6093,7 @@
                         <reg>porción</reg>
                     </choice> de frutos proporcionada al pago de 
                     <lb/>aquellas 
-                    <add place="intralinear">r</add><subst><del rendition="#ow"/><add rendition="across">em</add></subst>i<subst><del rendition="#ow">c</del><add rendition="across">s</add></subst>iones.
+                    <add place="intralinear">r</add><subst><del rendition="#ow"/><add place="across">em</add></subst>i<subst><del rendition="#ow">c</del><add place="across">s</add></subst>iones.
                 </p>
                 <p>Nuestra
                     <choice>
@@ -6103,7 +6104,7 @@
                     <choice>
                         <orig>Metrópoli</orig>
                         <reg>metrópoli</reg>
-                    </choice><choice><sic>,</sic><corr type="deleted"/></choice> no ha<subst><del rendition="#ow">c</del><add rendition="across">s</add></subst>e
+                    </choice><choice><sic>,</sic><corr type="deleted"/></choice> no ha<subst><del rendition="#ow">c</del><add place="across">s</add></subst>e
                     por sí el comercio de negros: 
                     <lb/>apenas tiene
                     <choice>
@@ -6538,12 +6539,12 @@
                         <orig>lavores</orig>
                         <reg>labores</reg>
                     </choice><choice><sic>,</sic><corr type="deleted"/></choice> y crecerá la opulencia del 
-                    <lb/><subst><del rendition="#ow">e</del><add rendition="across">E</add></subst>stado. Por tanto,
+                    <lb/><subst><del rendition="#ow">e</del><add place="across">E</add></subst>stado. Por tanto,
                     resumiendo lo que hemos referido de 
                     <lb/><choice>
                         <orig>la Havana</orig>
                         <reg>La Habana</reg>
-                    </choice>, se deduce que esta colonia<suppied cert="high">,</suppied> por ser la ma<g ref="#typoHyphen"/><lb break="no"/>yor
+                    </choice>, se deduce que esta colonia<supplied cert="high">,</supplied> por ser la ma<g ref="#typoHyphen"/><lb break="no"/>yor
                     <choice>
                         <orig>delas</orig>
                         <reg>de las</reg>
@@ -6952,4 +6953,4 @@
             </div>
         </body>
     </text>
-</tei:TEI>
+</TEI>
