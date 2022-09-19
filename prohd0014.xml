@@ -33,9 +33,9 @@
                     <msIdentifier>
                         <institution>Staatsbibliothek zu Berlin – Preußischer
                             Kulturbesitz</institution>
-                        <collection>Colección Alexander von Humboldt</collection>
+                        <collection>Nachlass Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">Caja pequeña 7b, no. 68</idno>
+                            <idno type="shelfmark">kl. Kasten 7b, Nr. 68</idno>
                             <idno type="uri">http://kalliope-verbund.info/DE-611-HS-1272345</idno>
                             <idno type="URLImages">http://resolver.staatsbibliothek-berlin.de/SBB00015CC500000000</idno>
                         </idno>
@@ -65,13 +65,13 @@
             <abstract xml:lang="es">
                 <p>Carta en la que Francisco de Arango y Parreño comunica a Alexander von Humboldt
                     el envío a través de su primo de unos comentarios al "Ensayo político sobre esta
-                    Isla", y expresa su admiración por el "filósofo viajero".</p>
+                    Isla", y expresa su admiración por el "filósofo viajero". Los comentarios de Arango se refieren al "Essai politique sur l'ile de Cuba" publicado en París en dos volúmenes en 1826. El texto, polémico sobre todo por su decidida crítica al sistema de esclavitud, fue censurado en Cuba poco después de su publicación en español en 1827 y su circulación fue prohibida.</p>
             </abstract>
             <abstract xml:lang="de">
-                <p>Brief, in dem Francisco de Arango y Parreño an Alexander von Humboldt
-                    kommuniziert die Übersendung einiger Kommentare zum "Ensayo político sobre esta
-                    Isla" durch seinen Cousin, und drückt seine Bewunderung für den "reisenden
-                    Philosophen" aus.</p>
+                <p>Brief, in dem Francisco de Arango y Parreño Alexander von Humboldt
+                    die Übersendung einiger Kommentare zum "Ensayo político sobre esta
+                    Isla" durch seinen Cousin mitteilt und seine Bewunderung für den "reisenden
+                    Philosophen" ausdrückt. Arangos Kommentare beziehen sich auf den 1826 in Paris in zwei Bänden erschienenen "Essai politique sur l'ile de Cuba". Der vor allem wegen seiner dezidierten Kritik am System der Sklaverei kontroverse Text wurde kurz nach seiner Veröffentlichung auf Spanisch bereits 1827 auf Kuba zensiert und seine Zirkulation verboten.</p>
             </abstract>
             <textClass>
                 <catRef scheme="#genre" target="#correspondence"/>

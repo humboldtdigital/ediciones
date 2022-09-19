@@ -26,11 +26,12 @@
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>Biblioteka Jagiellońska Krakau</institution>
-                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <institution>Biblioteka Jagiellońska</institution>
+                        <collection>Nachl. Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">DE-611-HS-2991265 ; Nachlass Alexander von
-                                Humboldt Bd. 8/1 Bl. 246-281</idno>
+                            <idno type="shelfmark">Bd. 8/1 Bl. 246-281 [Bl. 268r-269v]</idno>
+                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2991271</idno>
+                            <idno type="URLImages">http://jbc.bj.uj.edu.pl/dlibra/publication/368865/content</idno>    
                         </idno>
                     </msIdentifier>
                 </msDesc>

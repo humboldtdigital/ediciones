@@ -28,11 +28,13 @@
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>Biblioteka Jagiellonska</institution>
-                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <institution>Biblioteka Jagiellońska</institution>
+                        <collection>Nachl. Alexander von Humboldt</collection>
                         <idno>
                             <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl.
                                 164-165</idno>
+                            <idno type="uri">https://kalliope-verbund.info/DE-611-HS-2878505</idno>
+                            <idno type="URLImages">http://jbc.bj.uj.edu.pl/dlibra/publication/367148</idno>
                         </idno>
                     </msIdentifier>
                 </msDesc>
@@ -50,12 +52,12 @@
             <abstract xml:lang="de">
                 <p>Manuskript zum Zusammenhang von Zuckerproduktion und Sklaverei (Stand
                     31.12.1802), sowie Bemerkungen zum Handel mit Sklaven für Havanna. Mit einigen
-                    Anmerkungen und Randbemerkungen Humboldts. </p>
+                    Anmerkungen und Randbemerkungen Humboldts. Mit einigen Anmerkungen und Randbemerkungen Humboldts, sowie der Notiz "PP" am Kopf des ersten Blattes.</p>
             </abstract>
             <abstract xml:lang="es">
                 <p>Manuscrito sobre la conexión entre producción de azúcar y esclavitud (31 de
                     diciembre de 1802), así como comentarios sobre la trata de esclavos para La
-                    Habana. Con algunas notas y notas marginales de Humboldt.</p>
+                    Habana. Con algunas notas y notas marginales de Humboldt. Con algunas anotaciones y notas marginales de Humboldt, así como la nota "PP" en la cabecera de la primera hoja. </p>
             </abstract>
             <textClass>
                 <catRef scheme="#genre" target="#notebooks"/>
@@ -109,13 +111,13 @@
         <body>
             <div>
                 <pb n="164r" facs="prohd0010_164r.tif"/>
-                <p>Sketch of the present State <metamark place="supralinear"><note place="mTop" hand="#author"> (a) 31.<hi rendition="#sup">st</hi>
+                <head>Sketch of the present State <metamark place="supralinear"><note place="mTop" hand="#author"> (a) 31.<hi rendition="#sup">st</hi>
                             <choice>
                                 <abbr>Dec.<hi rendition="#sup">r</hi></abbr>
                                 <expan>December</expan>
                             </choice> 1802</note></metamark> of population, cultivation and produce
                     of Sugars <lb/>of the Jurisdiction of the Havana with the number of African
-                    Slaves imported.</p>
+                    Slaves imported.</head>
                 <p>The Island of Cuba, is divided into two Bishoprics and seven Juris<g ref="#typoHyphen"/><lb break="no"/>dictions, of which that of the Havana is
                     of smallest extent containing only one <lb/>thousand five hundred square
                     Leagues, in which there are eight Cities or Towns <lb/>and fifty <hi rendition="#u">seven<hi rendition="#u"><hi rendition="#u"> </hi></hi><add place="superlinear" hand="#Humboldt, Alexander von">57</add></hi> rural

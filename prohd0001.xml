@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Remarques sur l'esclavage  </title>
+                <title type="main">Remarques sur l'esclavage</title>
                 <editor>
                     <persName>
                         <surname>Kraller</surname>
@@ -32,6 +32,9 @@
                         <idno>
                             <idno type="shelfmark">Nachl. Alexander von Humboldt, gr. Kasten 2,
                                 Mappe 3, Nr. 3</idno>
+                            <idno type="uri">https://kalliope-verbund.info/DE-611-HS-1007845</idno>
+                            <idno type="URLImages">https://resolver.staatsbibliothek-berlin.de/SBB0001698500000000</idno>      
+
                         </idno>
                     </msIdentifier>
                 </msDesc>
@@ -100,7 +103,7 @@
         <body>
             <div>
                 <pb n="1r" facs="prohd0001_1r.tif"/>
-                <p>Esclaves</p>
+                <head>Esclaves</head>
                 <p>nous rét<add place="superlinear">r</add>ogradons comme partout<supplied cert="high">,</supplied>
                     <lb/>on ne veut plus en écrire <lb/>
                     <unclear reason="illegible" cert="high">ni</unclear> parler<supplied cert="high">,</supplied> les uns <choice>
@@ -129,10 +132,10 @@
                         <expan>page</expan>
                     </choice> 24 D. <lb/>et register <hi rendition="#uu">aurum</hi>
                 </p>
-                <p>
-                    <pb n="2r" facs="prohd0001_2r.tif"/>
+                <pb n="2r" facs="prohd0001_2r.tif"/>
+                <head>                    
                     <hi rendition="#uu">Inquisition</hi>
-                </p>
+                </head>
                 <p>
                     <choice>
                         <abbr>Mr</abbr>
@@ -163,8 +166,8 @@
                 <p>
                     <pb n="2v" facs="prohd0001_2v.tif"/>
                 </p>
-                <p>
-                    <pb n="3r" facs="prohd0001_3r.tif"/>Esclavage</p>
+                <pb n="3r" facs="prohd0001_3r.tif"/>
+                <head>Esclavage</head>
                 <p>Les colonies angloises en Amérique <lb/>ont vécu de 1680-1786 <lb/>en tout
                     2,130000 nègres <lb/>enregistrés<supplied cert="high">,</supplied> probablement
                     3 <choice>

@@ -2,8 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Nota por el Rancho comprado por el Señor Barón de
-                    Humboldt</title>
+                <title type="main">Nota por el Rancho comprado por el Señor Barón de Humboldt</title>
                 <editor>
                     <persName ref="http://viaf.org/viaf/205809746">
                         <surname>Kraft</surname>
@@ -40,8 +39,8 @@
                         <idno>
                             <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl.
                                 166</idno>
-                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2878510</idno>
-                            <idno type="URLImages">http://jbc.bj.uj.edu.pl/dlibra/publication/367149/content</idno>
+                            <idno type="uri">https://kalliope-verbund.info/DE-611-HS-2878510</idno>
+                            <idno type="URLImages">https://jbc.bj.uj.edu.pl/dlibra/publication/367149/content</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
