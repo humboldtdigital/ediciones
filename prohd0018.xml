@@ -734,7 +734,7 @@
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice> los
-                    <lb/>parajes en que pudieran encontrar hembras<supplied ert="high">,</supplied>
+                    <lb/>parajes en que pudieran encontrar hembras<supplied cert="high">,</supplied>
                     <lb/>es claro que <choice>
                         <orig>deciciba</orig>
                         <reg>decisiva</reg>
@@ -770,7 +770,7 @@
                         <orig>reflexion</orig>
                         <reg>reflexión</reg>
                     </choice> de que<supplied cert="high">,</supplied> mientras que en
-                    <lb/>ellos se ven <unclear cert="high">suicidios</unclear>, coitos bestiales,
+                    <lb/>ellos se ven <unclear reason="illegible" cert="high">suicidios</unclear>, coitos bestiales,
                     <lb/>fugas continuas, languidez en los sem<g ref="#typoHyphen"/><lb break="no"/>blantes, 
                     <choice>
                         <orig>devilidad</orig>
