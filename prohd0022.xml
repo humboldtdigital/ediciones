@@ -114,12 +114,10 @@
             <div type="writingSession">
             <pb n="1r" facs="prohd0022_1r.tif"/>
             <fw type="folNum">11.</fw> 
-                <p>
+                <opener>
                     <dateline>New York
                         <lb/>14 December 1855<choice><sic>.</sic><corr type="deleted"/></choice>
                     </dateline>
-                </p>
-                <opener>
                     <salute>Sir,</salute>
                 </opener>
                 <p>Will you permit
