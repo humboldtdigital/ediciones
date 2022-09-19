@@ -115,10 +115,11 @@
             <div>
                 <pb n="192r" facs="prohd0007_192r.tif"/>
                 <head>
-                    <hi rendition="#u">Fièvre jaune</hi></p>
-                <head>
+                    <hi rendition="#u">Fièvre jaune</hi>
+                </head>
                     <note place="left" hand="#author">Précis histor. de la<lb/>maladie qui a regné
-                        dans<lb/> l’Andalousie en 1800 par<lb/>Berthe. 1802.</note><lb/>1. Nos
+                        dans<lb/> l’Andalousie en 1800 par<lb/>Berthe. 1802.</note>
+                <p>1. Nos
                     affections bileuses estivale et automnale<supplied cert="high">,</supplied>
                     <lb/>vulgairement <choice>
                         <sic>appellés</sic>
