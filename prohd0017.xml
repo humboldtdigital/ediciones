@@ -15,13 +15,15 @@
                 </editor>
             </titleStmt>
             <editionStmt>
-                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2022</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD
+                        (<date>2022</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
                 <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -32,11 +34,18 @@
                         <idno>
                             <idno type="shelfmark">Bd. 3/1 Bl. 123-126</idno>
                             <idno type="uri">https://kalliope-verbund.info/DE-611-HS-2877655</idno>
-                            <idno type="URLImages">https://jbc.bj.uj.edu.pl/dlibra/publication/367139</idno>
+                            <idno type="URLImages"
+                                >https://jbc.bj.uj.edu.pl/dlibra/publication/367139</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
-                        <p>Manuscrito autógrafo de autor desconocido en buen estado de conservación y de seis páginas de extensión. Forma parte del documento conocido como "Umschlag mit den Materialien für die Statistik von Kuba [Werk]". Doble numeración: una paginación original en tinta; otra moderna en lápiz que solo numera los folios (123-124). Contiene algunas adiciones en tinta negra al inicio del documento, en los márgenes y al final del texto en francés por Alexander von Humboldt.</p>
+                        <p>Manuscrito autógrafo de autor desconocido en buen estado de conservación
+                            y de seis páginas de extensión. Forma parte del documento conocido como
+                            "Umschlag mit den Materialien für die Statistik von Kuba [Werk]". Doble
+                            numeración: una paginación original en tinta; otra moderna en lápiz que
+                            solo numera los folios (123-124). Contiene algunas adiciones en tinta
+                            negra al inicio del documento, en los márgenes y al final del texto en
+                            francés por Alexander von Humboldt.</p>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -53,10 +62,25 @@
                 <language ident="fr">Français</language>
             </langUsage>
             <abstract xml:lang="es">
-                <p>Informe sobre precios, producción, consumo, distribución y costes de una factoría de tabaco fundada en La Habana en 1769. Tras establecer la relación entre la factoría y la Hacienda Real, se expone la regulación de los precios de tabaco y sus clases, se relacionan las condiciones metereológicas y las insurrecciones políticas con el descenso de producción y se observa que ésta no es suficiente para satisfacer el consumo en la isla, España y otras colonias. Por último, se tratan los costes de la factoría incluyendo la nómina de los empleados y la manutención de los esclavos.</p>
+                <p>Informe sobre precios, producción, consumo, distribución y costes de una factoría
+                    de tabaco fundada en La Habana en 1769. Tras establecer la relación entre la
+                    factoría y la Hacienda Real, se expone la regulación de los precios de tabaco y
+                    sus clases, se relacionan las condiciones metereológicas y las insurrecciones
+                    políticas con el descenso de producción y se observa que ésta no es suficiente
+                    para satisfacer el consumo en la isla, España y otras colonias. Por último, se
+                    tratan los costes de la factoría incluyendo la nómina de los empleados y la
+                    manutención de los esclavos.</p>
             </abstract>
             <abstract xml:lang="de">
-                <p>Bericht über Preise, Produktion, Verbrauch, Vertrieb und Kosten einer 1769 in Havanna gegründeten Tabakfabrik. Der Text informiert über die Aufgaben und Herausforderungen der von der königlichen Kämmerei beauftragten Fabrik: a) die Regulierung der Tabakpreise nach Sorten, b) der Rückgang der Produktion infolge schlechter Witterungsbedingungen und politischer Unruhen, c) die unzureichende Produktionsmenge, um den Verbrauch auf der Insel, in Spanien und in anderen Kolonien zu decken. Schließlich werden die Kosten der Fabrik erörtert, einschließlich der Lohnkosten für die Angestellten und den Unterhalt der Sklaven.</p>
+                <p>Bericht über Preise, Produktion, Verbrauch, Vertrieb und Kosten einer 1769 in
+                    Havanna gegründeten Tabakfabrik. Der Text informiert über die Aufgaben und
+                    Herausforderungen der von der königlichen Kämmerei beauftragten Fabrik: a) die
+                    Regulierung der Tabakpreise nach Sorten, b) der Rückgang der Produktion infolge
+                    schlechter Witterungsbedingungen und politischer Unruhen, c) die unzureichende
+                    Produktionsmenge, um den Verbrauch auf der Insel, in Spanien und in anderen
+                    Kolonien zu decken. Schließlich werden die Kosten der Fabrik erörtert,
+                    einschließlich der Lohnkosten für die Angestellten und den Unterhalt der
+                    Sklaven.</p>
             </abstract>
             <textClass>
                 <catRef scheme="#genre" target="#notebooks"/>
@@ -179,7 +203,9 @@
                     </choice> es impuesta por los labrado<lb break="no"/>res <choice>
                         <orig>deeste</orig>
                         <reg>de este</reg>
-                    </choice> fruto, desde tiempo inmemorial,<lb/> y es diferente en cada uno de los catorce <unclear cert="high" reason="illegible">Parti<lb/>dos</unclear> de la Isla donde <choice>
+                    </choice> fruto, desde tiempo inmemorial,<lb/> y es diferente en cada uno de los
+                    catorce <unclear cert="high" reason="illegible">Parti<lb/>dos</unclear> de la
+                    Isla donde <choice>
                         <orig>secultiva</orig>
                         <reg>se cultiva</reg>
                     </choice>, <choice>
@@ -251,7 +277,8 @@
                     </choice> fruto <choice>
                         <orig>asus</orig>
                         <reg>a sus</reg>
-                    </choice> cul<lb break="no"/>tivadores al respecto de 4 <unclear cert="low" reason="illegible">
+                    </choice> cul<lb break="no"/>tivadores al respecto de 4 <unclear cert="low"
+                        reason="illegible">
                         <choice>
                             <abbr>p.<hi rendition="#sup">r</hi>
                             </abbr>
@@ -264,7 +291,8 @@
                             </abbr>
                             <expan>factoría</expan>
                         </choice>
-                    </unclear>, que es el de<lb/> 16. cada quintal, precio <unclear cert="high" reason="illegible">
+                    </unclear>, que es el de<lb/> 16. cada quintal, precio <unclear cert="high"
+                        reason="illegible">
                         <choice>
                             <orig>exorvitantisimo</orig>
                             <reg>exorbitantísimo</reg>
@@ -412,8 +440,10 @@
                         <orig>enla</orig>
                         <reg>en la</reg>
                     </choice>
-                    <lb/> cantidad de <unclear cert="high" reason="illegible">29.000</unclear> arrobas, <foreign xml:lang="la">plus minus</foreign>
-                    <unclear reason="illegible" cert="low">ve.</unclear> mas<lb/> desde entonces comenzaron <choice>
+                    <lb/> cantidad de <unclear cert="high" reason="illegible">29.000</unclear>
+                    arrobas, <foreign xml:lang="la">plus minus</foreign>
+                    <unclear reason="illegible" cert="low">ve.</unclear> mas<lb/> desde entonces
+                    comenzaron <choice>
                         <orig>adecaer</orig>
                         <reg>a decaer</reg>
                     </choice> por con<lb/>trariedad <choice>
@@ -502,7 +532,8 @@
                     </choice> de <choice>
                         <orig>haver</orig>
                         <reg>haber</reg>
-                    </choice> tomado<lb/> las tierras un valor nunca esperado: <unclear cert="high" reason="illegible">siendo</unclear>
+                    </choice> tomado<lb/> las tierras un valor nunca esperado: <unclear cert="high"
+                        reason="illegible">siendo</unclear>
                     <lb/>
                     <choice>
                         <orig>deaqui</orig>
@@ -518,15 +549,19 @@
                         <abbr>conocidam.<hi rendition="#sup">te</hi>
                         </abbr>
                         <expan>conocidamente</expan>
-                    </choice> expuesto a malograrse,<lb/> con cuio motibo ha estado siempre entre<lb/> gente indigente, sin <choice>
+                    </choice> expuesto a malograrse,<lb/> con cuio motibo ha estado siempre
+                    entre<lb/> gente indigente, sin <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
                     </choice> capital que el<lb/>
                     <choice>
                         <orig>desus</orig>
                         <reg>de sus</reg>
-                    </choice> brazos, no pudiendo sufragar el <gap unit="words" reason="illegible" quantity="1"/>
-                    <lb/>cido <gap reason="illegible" unit="words" quantity="1"/> que exigeron los dueños de las men<lb/>cionadas tierras por su arriendo, ha <unclear reason="illegible" cert="low">desen<lb/>tado</unclear> muchos <choice>
+                    </choice> brazos, no pudiendo sufragar el <gap unit="words" reason="illegible"
+                        quantity="1"/>
+                    <lb/>cido <gap reason="illegible" unit="words" quantity="1"/> que exigeron los
+                    dueños de las men<lb/>cionadas tierras por su arriendo, ha <unclear
+                        reason="illegible" cert="low">desen<lb/>tado</unclear> muchos <choice>
                         <abbr>labrad.<hi rendition="#sup">s</hi>
                         </abbr>
                         <expan>labradores</expan>
@@ -574,7 +609,8 @@
                         <abbr>q.<hi rendition="#sup">e</hi>
                         </abbr>
                         <expan>que</expan>
-                    </choice> han encontrado su <unclear cert="high" reason="illegible">pasar</unclear> me<lb/>nos <choice>
+                    </choice> han encontrado su <unclear cert="high" reason="illegible"
+                        >pasar</unclear> me<lb/>nos <choice>
                         <orig>equiboco</orig>
                         <reg>equívoco</reg>
                     </choice> que el del <choice>
@@ -614,14 +650,16 @@
                     </choice> anterior de <supplied cert="high">1</supplied>803<choice>
                         <sic>.</sic>
                         <corr type="deleted"/>
-                    </choice>,<lb/> no llegó a <unclear cert="low" reason="illegible">38.000</unclear>
+                    </choice>,<lb/> no llegó a <unclear cert="low" reason="illegible"
+                        >38.000</unclear>
                     <choice>
                         <orig>arro.S</orig>
                         <reg>arrobas</reg>
                     </choice>
                     <note place="mBottom" hand="#H0012069">38.000?</note>; la del anterior<lb/>
                     <pb n="124v" facs="prohd0017_124v.tif"/>
-                    <fw type="folNum">4</fw> de <supplied cert="high">1</supplied>802, ni a <unclear cert="low" reason="illegible">60000</unclear>, <choice>
+                    <fw type="folNum">4</fw> de <supplied cert="high">1</supplied>802, ni a <unclear
+                        cert="low" reason="illegible">60000</unclear>, <choice>
                         <orig>haviendose</orig>
                         <reg>habiéndose</reg>
                     </choice> quedado las dos<lb/>
@@ -631,7 +669,9 @@
                     </choice> precedentes en poco <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
-                    </choice> de <unclear cert="low" reason="illegible">10.000</unclear> ca<lb/>da una, por la <unclear cert="high" reason="illegible">tierra</unclear> seca, qe hace muchos años<lb/> experimenta esta <choice>
+                    </choice> de <unclear cert="low" reason="illegible">10.000</unclear> ca<lb/>da
+                    una, por la <unclear cert="high" reason="illegible">tierra</unclear> seca, qe
+                    hace muchos años<lb/> experimenta esta <choice>
                         <orig>Ysla</orig>
                         <reg>isla</reg>
                     </choice>. <choice>
@@ -653,7 +693,8 @@
                     </unclear>, juzgo <choice>
                         <orig>excedera</orig>
                         <reg>excederá</reg>
-                    </choice> de <unclear cert="low" reason="illegible">15.0000</unclear> arrobas.<lb/>
+                    </choice> de <unclear cert="low" reason="illegible">15.0000</unclear>
+                    arrobas.<lb/>
                 </p>
                 <p>Para cubrir todas las atenciones, <choice>
                         <abbr>q.<hi rendition="#sup">e</hi>
@@ -674,7 +715,8 @@
                     </choice> el enor<lb/>me consumo que del cigarro se hace en toda<lb/> la <choice>
                         <orig>Ysla</orig>
                         <reg>isla</reg>
-                    </choice>, no se necesita menos que de <unclear cert="low" reason="illegible">35.0000</unclear>
+                    </choice>, no se necesita menos que de <unclear cert="low" reason="illegible"
+                        >35.0000</unclear>
                     <lb/>
                     <choice>
                         <abbr>arr.<hi rendition="#sup">s</hi>
@@ -683,14 +725,17 @@
                     </choice> en cada año, siendo bastante <choice>
                         <orig>aora</orig>
                         <reg>ahora</reg>
-                    </choice> diez,<lb/> la cantidad de <unclear cert="low" reason="illegible">25.0000</unclear> para tener provistos<lb/> todos los puntos <choice>
+                    </choice> diez,<lb/> la cantidad de <unclear cert="low" reason="illegible"
+                        >25.0000</unclear> para tener provistos<lb/> todos los puntos <choice>
                         <orig>aquienes</orig>
                         <reg>a quienes</reg>
-                    </choice> surte, excepto<lb/> el consumo que se hace de veinte leguas tie<g ref="#typoHyphen"/>
+                    </choice> surte, excepto<lb/> el consumo que se hace de veinte leguas tie<g
+                        ref="#typoHyphen"/>
                     <lb/>rra adentro <choice>
                         <orig>desta</orig>
                         <reg>de esta</reg>
-                    </choice> capital, hasta Cuba in<lb/>clusive donde nunca <hi rendition="#u" hand="#H0012069">
+                    </choice> capital, hasta Cuba in<lb/>clusive donde nunca <hi rendition="#u"
+                        hand="#H0012069">
                         <choice>
                             <orig>seha</orig>
                             <reg>se ha</reg>
@@ -846,7 +891,8 @@
                         </abbr>
                         <expan>número</expan>
                     </choice> de las<lb/>
-                    <unclear cert="high" reason="illegible">350.000</unclear> que quedan calculadas.</p>
+                    <unclear cert="high" reason="illegible">350.000</unclear> que quedan
+                    calculadas.</p>
                 <p>Sueldos <choice>
                         <abbr>q</abbr>
                         <expan>que</expan>
@@ -893,7 +939,8 @@
                         <abbr>p.<hi rendition="#sup">os</hi>
                         </abbr>
                         <expan>pesos</expan>
-                    </choice>. <note place="inline" hand="#H0012069">Voilà <gap unit="words" quantity="5" reason="illegible"/>
+                    </choice>. <note place="inline" hand="#H0012069">Voilà <gap unit="words"
+                            quantity="5" reason="illegible"/>
                         <lb/> 43.200<lb/>
                         <hi hand="#H0012069" rendition="#u">10.900</hi>
                         <lb/>54.100 </note>
@@ -913,7 +960,8 @@
                         <abbr>Fact.<hi rendition="#sup">a</hi>
                         </abbr>
                         <expan>factoría</expan>
-                    </choice>, <unclear reason="illegible" cert="low">mulas</unclear> y otros gastos<lb/> menores en ella importa la suma de<lb/>
+                    </choice>, <unclear reason="illegible" cert="low">mulas</unclear> y otros
+                    gastos<lb/> menores en ella importa la suma de<lb/>
                     <unclear cert="high" reason="illegible">12.000</unclear> p.s annuales.</p>
                 <p>Notas<choice>
                         <sic>.</sic>
@@ -1032,9 +1080,11 @@
                     </choice> y sus<lb/> inmediaciones deja al <choice>
                         <orig>Rey</orig>
                         <reg>rey</reg>
-                    </choice>, deducidas<lb/> mermas y costos de venta <unclear cert="low" reason="illegible">latenviadas</unclear>
+                    </choice>, deducidas<lb/> mermas y costos de venta <unclear cert="low"
+                        reason="illegible">latenviadas</unclear>
                     <unclear cert="high" reason="illegible">de</unclear>
-                    <lb/> un <gap unit="words" quantity="1" reason="illegible"/> de utilidad, sin poder aspirar <choice>
+                    <lb/> un <gap unit="words" quantity="1" reason="illegible"/> de utilidad, sin
+                    poder aspirar <choice>
                         <orig>amas</orig>
                         <reg>a más</reg>
                     </choice>
@@ -1084,17 +1134,23 @@
                         <choice>
                             <sic>envoyé</sic>
                             <corr>envoyés</corr>
-                        </choice> à Seville) donne revenu<lb/> net – 6 mill<supplied cert="high">ions</supplied> de piastres<lb/><supplied cert="high">.</supplied> À Séville on a souvent des<lb/>
+                        </choice> à Seville) donne revenu<lb/> net – 6 mill<supplied cert="high"
+                            >ions</supplied> de piastres<lb/><supplied cert="high">.</supplied> À
+                        Séville on a souvent des<lb/>
                         <choice>
                             <sic>provision</sic>
                             <corr>provisions</corr>
-                        </choice> de 15–19 millions de livres<lb/> de Tabac<supplied cert="high">,</supplied> surtout en poudre,<lb/> La livre vaut à l’acheteur 2–2½ <choice>
+                        </choice> de 15–19 millions de livres<lb/> de Tabac<supplied cert="high"
+                            >,</supplied> surtout en poudre,<lb/> La livre vaut à l’acheteur 2–2½ <choice>
                             <abbr>p.</abbr>
                             <expan>piastres</expan>
                         </choice>. En laissant libre le <choice>
                             <sic>comerce</sic>
                             <corr>commerce</corr>
-                        </choice> du Tabac de la Havane avec l’étranger en y mettant<lb/> seulement un fort droit de sortie, le Tabac deviendrait une branche de l’Isle<lb/> plus intéressante que le Sucre. Aucun pays le produit d’une si belle qualité que<lb/> cette Isle.</add></p>
+                        </choice> du Tabac de la Havane avec l’étranger en y mettant<lb/> seulement
+                        un fort droit de sortie, le Tabac deviendrait une branche de l’Isle<lb/>
+                        plus intéressante que le Sucre. Aucun pays le produit d’une si belle qualité
+                        que<lb/> cette Isle.</add></p>
             </div>
         </body>
     </text>

@@ -1,8 +1,10 @@
-<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0008">
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="prohd0008">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Para comoto [in: C’est mon cahier de la Havane intitule sur la salubrite de l’air]</title>
+                <title type="main">Para comoto [in: C’est mon cahier de la Havane intitule sur la
+                    salubrite de l’air]</title>
                 <editor>
                     <persName>
                         <surname>Kraller</surname>
@@ -14,7 +16,8 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2021</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD
+                        (<date>2021</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -29,9 +32,11 @@
                         <institution>Biblioteka Jagiellońska</institution>
                         <collection>Nachl. Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">Bd. 1/3, Bl. 185-211 [Bl. 192r-192v, 210r-211v]</idno>
+                            <idno type="shelfmark">Bd. 1/3, Bl. 185-211 [Bl. 192r-192v,
+                                210r-211v]</idno>
                             <idno type="uri">https://kalliope-verbund.info/DE-611-HS-2849282</idno>
-                            <idno type="URLImages">http://jbc.bj.uj.edu.pl/dlibra/publication/363975</idno>                            
+                            <idno type="URLImages"
+                                >http://jbc.bj.uj.edu.pl/dlibra/publication/363975</idno>
                             <!-- the JBC site server is currently down, as of Aug 26, 2022, but this is hopefully temporary, the URL is ok -->
                         </idno>
                     </msIdentifier>
@@ -132,7 +137,8 @@
                         </row>
                         <row>
                             <cell>4. El Padre Alzate dice en la Carta a <lb/>la Académia de París
-                                que el Matloza,<lb/><unclear reason="illegible" cert="high">huatli</unclear> (la peste de 1736) es una especie <lb/>de
+                                que el Matloza,<lb/><unclear reason="illegible" cert="high"
+                                    >huatli</unclear> (la peste de 1736) es una especie <lb/>de
                                 Vómito, que no se di sino a los <lb/>Yndios. Otros negan la
                                 semejanza.<lb/>Saben los Médicos de Veracruz algo sobre <lb/>la
                                 differencia de ambas enferedades?</cell>
@@ -174,7 +180,8 @@
                                     <expan>Fahrenheit</expan>
                                 </choice> (digo a la Sombra) como lo he <lb/>experimentado en
                                 Acapulco, el Orinoco <lb/>y Río de las Amazonas.</cell>
-                            <cell>La 6. Para Orta<lb/><note place="inline" hand="#Humboldt, Alexander von">3637/363</note></cell>
+                            <cell>La 6. Para Orta<lb/><note place="inline"
+                                    hand="#Humboldt, Alexander von">3637/363</note></cell>
                         </row>
                         <row>
                             <cell>7. Qué número de habitantes hai en Veracruz <lb/>en Tiempos de más
@@ -199,7 +206,8 @@
                             <cell>8. Para Cuesta</cell>
                         </row>
                         <row>
-                            <cell><pb n="195v" facs="prohd0008_195v.tif"/>9. Quánto Cacao necessita el Reyno <lb/>de <choice>
+                            <cell><pb n="195v" facs="prohd0008_195v.tif"/>9. Quánto Cacao necessita
+                                el Reyno <lb/>de <choice>
                                     <abbr>N.E.</abbr>
                                     <expan>Nueva España</expan>
                                 </choice> para su Consumo interior<choice>
@@ -208,7 +216,8 @@
                                 </choice>
                                 <lb/>Será arriba de 20000 fanegas?</cell>
                             <cell>A la 9. Sin duda <choice>
-                                    <abbr>p.<hi rendition="#sup">r</hi>q.<hi rendition="#sup">e</hi></abbr>
+                                    <abbr>p.<hi rendition="#sup">r</hi>q.<hi rendition="#sup"
+                                        >e</hi></abbr>
                                     <expan>porque</expan>
                                 </choice> entran <choice>
                                     <orig>120</orig>
@@ -275,19 +284,24 @@
                                     <expan>que</expan>
                                 </choice> trahen la Sedería en general. <lb/>Los caxones toscos la
                                     Quinquille<g ref="#typoHyphen"/><lb break="no"/>ría, cristales,
-                                Loza, o Pedernal, <lb/>Sombreros, Botas, Zapatos, Medi<g ref="#typoHyphen"/><lb break="no"/>dicinas <choice>
+                                Loza, o Pedernal, <lb/>Sombreros, Botas, Zapatos, Medi<g
+                                    ref="#typoHyphen"/><lb break="no"/>dicinas <choice>
                                     <abbr>&amp;.<hi rendition="#sup">a</hi></abbr>
                                     <expan>et cetera</expan>
-                                </choice><supplied cert="high">.</supplied> Los tercios Arpi<g ref="#typoHyphen"/><lb break="no"/>llados la Lencería, las telas
+                                </choice><supplied cert="high">.</supplied> Los tercios Arpi<g
+                                    ref="#typoHyphen"/><lb break="no"/>llados la Lencería, las telas
                                 de <lb/>Algodón, las Piezas de Paños, <lb/>Bayetas, y otros tegidos.
-                                Los Ba<g ref="#typoHyphen"/><lb break="no"/>úles<supplied cert="high">,</supplied> las Medias de Seda, y de <lb/>Algodón,
+                                Los Ba<g ref="#typoHyphen"/><lb break="no"/>úles<supplied
+                                    cert="high">,</supplied> las Medias de Seda, y de <lb/>Algodón,
                                 Blondas y Encages, <lb/>Pañuelos, Bestidos y trages <lb/>de Moda, y
                                 cien menuden<g ref="#typoHyphen"/><lb break="no"/>cias de valón. Por
-                                separado <lb/>va el cómputo de los consu<g ref="#typoHyphen"/><lb break="no"/>mos.</cell>
+                                separado <lb/>va el cómputo de los consu<g ref="#typoHyphen"/><lb
+                                    break="no"/>mos.</cell>
                         </row>
                         <row>
                             <cell>11. Los 3500 jarrones de Grana son los <lb/>mismos que huvo 50
-                                años antes o <lb/>va en aumento este Ramo de agri<lb break="no"/>cultura?</cell>
+                                años antes o <lb/>va en aumento este Ramo de agri<lb break="no"
+                                />cultura?</cell>
                             <cell>A la 11. tiene algún aumen<lb break="no"/>to efectivamanete la
                                     Grana<supplied cert="high">.</supplied></cell>
                         </row>
@@ -303,8 +317,10 @@
                                         <abbr>p.</abbr>
                                         <expan>pesos</expan>
                                     </choice><supplied cert="high">.</supplied> Qué porta del
-                                    <lb/>mundo puede dar Vainilla a la Europa<supplied cert="high">?</supplied>
-                                    <lb/>A excepción de Veracruz no conosco Expor<lb break="no"/>tación de ella en la América Española. <lb/>Está aumentando la
+                                    <lb/>mundo puede dar Vainilla a la Europa<supplied cert="high"
+                                        >?</supplied>
+                                    <lb/>A excepción de Veracruz no conosco Expor<lb break="no"
+                                    />tación de ella en la América Española. <lb/>Está aumentando la
                                     Cosecha de Misantla?</p></cell>
                             <cell>A la 12. Misantla, Colipa <lb/>Papantla, y Nautla al <choice>
                                     <abbr>N.</abbr>
@@ -339,11 +355,12 @@
                         <row>
                             <cell>13. De qué pueblos viene tanta Zarza? <lb/>y la Purga de la qual
                                 la menor parte <lb/>es de Xalappa?</cell>
-                            <cell>A la 13. La Zarza viene de<seg type="comment"><orig/><note xml:id="nfg2_jqm_rpb">→ 196r</note></seg></cell>
+                            <cell>A la 13. La Zarza viene de<seg type="comment"><orig/><note
+                                        xml:id="nfg2_jqm_rpb">→ 196r</note></seg></cell>
                         </row>
                         <row>
-                            <cell><pb n="196r" facs="prohd0008_196r.tif"/>Sé que el valor del Tobaco ven<lb break="no"/>dido
-                                ha sido 1802 de 7687000 <choice>
+                            <cell><pb n="196r" facs="prohd0008_196r.tif"/>Sé que el valor del Tobaco
+                                    ven<lb break="no"/>dido ha sido 1802 de 7687000 <choice>
                                     <abbr>p.</abbr>
                                     <expan>pesos</expan>
                                 </choice>
@@ -355,7 +372,8 @@
                                     <expan>pesos</expan>
                                 </choice><supplied cert="high">.</supplied> Quisiera saber la
                                 quantidad <lb/>de arrobas de Tabaco que se cosechan
-                                <lb/>regolarmente en Córdoba y Orizaba<supplied cert="high">,</supplied>
+                                <lb/>regolarmente en Córdoba y Orizaba<supplied cert="high"
+                                    >,</supplied>
                                 <lb/>en quanto el Rey los paga y los vende?</cell>
                             <cell>A la 14. Parece <choice>
                                     <abbr>q.<hi rendition="#sup">e</hi></abbr>
@@ -383,11 +401,15 @@
                                 <lb/>España y a 5 <choice>
                                     <abbr>r.<hi rendition="#sup">es</hi></abbr>
                                     <expan>reales</expan>
-                                </choice> en la <lb/>Provincia de Campeche. <lb/><note place="inline" hand="#Humboldt, Alexander von"><del rendition="#s">pas possible</del></note></cell>
+                                </choice> en la <lb/>Provincia de Campeche. <lb/><note
+                                    place="inline" hand="#Humboldt, Alexander von"><del
+                                        rendition="#s">pas possible</del></note></cell>
                         </row>
                         <row>
                             <cell><seg type="comment"><orig/><note xml:id="nxtj_ppl_rpb">ad
-                                        13</note></seg>los mismos Pueblos y parti<g ref="#typoHyphen"/><lb break="no"/>dos de donde viene la Baini<g ref="#typoHyphen"/><lb break="no"/>lla. Y la Purga viene de las
+                                        13</note></seg>los mismos Pueblos y parti<g
+                                    ref="#typoHyphen"/><lb break="no"/>dos de donde viene la Baini<g
+                                    ref="#typoHyphen"/><lb break="no"/>lla. Y la Purga viene de las
                                 <lb/>Jurisdiciones de Palapa, <lb/>Orizava, Córdoba, y <choice>
                                     <abbr>S.<hi rendition="#sup">n</hi></abbr>
                                     <expan>San</expan>

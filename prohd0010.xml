@@ -16,7 +16,8 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2021</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD
+                        (<date>2021</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -34,7 +35,8 @@
                             <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl.
                                 164-165</idno>
                             <idno type="uri">https://kalliope-verbund.info/DE-611-HS-2878505</idno>
-                            <idno type="URLImages">http://jbc.bj.uj.edu.pl/dlibra/publication/367148</idno>
+                            <idno type="URLImages"
+                                >http://jbc.bj.uj.edu.pl/dlibra/publication/367148</idno>
                         </idno>
                     </msIdentifier>
                 </msDesc>
@@ -52,12 +54,15 @@
             <abstract xml:lang="de">
                 <p>Manuskript zum Zusammenhang von Zuckerproduktion und Sklaverei (Stand
                     31.12.1802), sowie Bemerkungen zum Handel mit Sklaven für Havanna. Mit einigen
-                    Anmerkungen und Randbemerkungen Humboldts. Mit einigen Anmerkungen und Randbemerkungen Humboldts, sowie der Notiz "PP" am Kopf des ersten Blattes.</p>
+                    Anmerkungen und Randbemerkungen Humboldts. Mit einigen Anmerkungen und
+                    Randbemerkungen Humboldts, sowie der Notiz "PP" am Kopf des ersten Blattes.</p>
             </abstract>
             <abstract xml:lang="es">
                 <p>Manuscrito sobre la conexión entre producción de azúcar y esclavitud (31 de
                     diciembre de 1802), así como comentarios sobre la trata de esclavos para La
-                    Habana. Con algunas notas y notas marginales de Humboldt. Con algunas anotaciones y notas marginales de Humboldt, así como la nota "PP" en la cabecera de la primera hoja. </p>
+                    Habana. Con algunas notas y notas marginales de Humboldt. Con algunas
+                    anotaciones y notas marginales de Humboldt, así como la nota "PP" en la cabecera
+                    de la primera hoja. </p>
             </abstract>
             <textClass>
                 <catRef scheme="#genre" target="#notebooks"/>
@@ -111,21 +116,26 @@
         <body>
             <div>
                 <pb n="164r" facs="prohd0010_164r.tif"/>
-                <head>Sketch of the present State <metamark place="supralinear"><note place="mTop" hand="#author"> (a) 31.<hi rendition="#sup">st</hi>
+                <head>Sketch of the present State <metamark place="supralinear"><note place="mTop"
+                            hand="#author"> (a) 31.<hi rendition="#sup">st</hi>
                             <choice>
                                 <abbr>Dec.<hi rendition="#sup">r</hi></abbr>
                                 <expan>December</expan>
                             </choice> 1802</note></metamark> of population, cultivation and produce
                     of Sugars <lb/>of the Jurisdiction of the Havana with the number of African
                     Slaves imported.</head>
-                <p>The Island of Cuba, is divided into two Bishoprics and seven Juris<g ref="#typoHyphen"/><lb break="no"/>dictions, of which that of the Havana is
+                <p>The Island of Cuba, is divided into two Bishoprics and seven Juris<g
+                        ref="#typoHyphen"/><lb break="no"/>dictions, of which that of the Havana is
                     of smallest extent containing only one <lb/>thousand five hundred square
-                    Leagues, in which there are eight Cities or Towns <lb/>and fifty <hi rendition="#u">seven<hi rendition="#u"><hi rendition="#u"> </hi></hi><add place="superlinear" hand="#Humboldt, Alexander von">57</add></hi> rural
+                    Leagues, in which there are eight Cities or Towns <lb/>and fifty <hi
+                        rendition="#u">seven<hi rendition="#u"><hi rendition="#u"> </hi></hi><add
+                            place="superlinear" hand="#Humboldt, Alexander von">57</add></hi> rural
                     Districts.</p>
                 <p>The Cities and Towns contain a population of one hundred &amp; twenty
                     <lb/>thousand Souls, of which there are about one half in the Havana and its
                     Suburbs.</p>
-                <p>The rural Districts, are each one under the charge of a Civil Ma<g ref="#typoHyphen"/><lb break="no"/>gistrate and his Deputy, who preserve
+                <p>The rural Districts, are each one under the charge of a Civil Ma<g
+                        ref="#typoHyphen"/><lb break="no"/>gistrate and his Deputy, who preserve
                     Order and administer ordinary Justice <lb/>without armed force; But in many
                     parts, there are no Towns or Vilages to govern.</p>
                 <p><add place="left" hand="#Humboldt, Alexander von">14/57</add> Fourteen of these
@@ -137,19 +147,22 @@
                     are in Tillage having already three hundred <lb/>and fifty Sugar Estates
                     established, with large Parks for pasturing; Fifty <lb/>Coffee Estates, and a
                     very considerable number of Farms. And there are <lb/>vacant Lands sufficient
-                    for the settlement of five or six hundred Sugar<g ref="#typoHyphen"/><lb break="no"/>Estates more.</p>
+                    for the settlement of five or six hundred Sugar<g ref="#typoHyphen"/><lb
+                        break="no"/>Estates more.</p>
                 <p>Thirteen Disctricts which remain of the fifty seven, contain the <lb/>Side of
                     Havana, its Suburbs, and Environs: The latter are cultivated <lb/>to supply the
                     City <choice>
                         <abbr>&amp;.<hi rendition="#sup">ca</hi></abbr>
                         <expan>et cetera</expan>
-                    </choice> with Vegetables for the Markets, and a prodigious quan<g ref="#typoHyphen"/><lb break="no"/>tity of Fodder for the vast number of
+                    </choice> with Vegetables for the Markets, and a prodigious quan<g
+                        ref="#typoHyphen"/><lb break="no"/>tity of Fodder for the vast number of
                     Carriage Horses &amp; Mules kept in it.</p>
                 <p>We cannot say, with exactness, what number of free People and <lb/>Slaves are in
                     the forty three Districts first mentioned, but, by an approximate
                     <lb/>calculation, we believe, there may be thirty thousand Slaves on the Sugar
                     <lb/>and Coffee Estates; and on the Farms and other Plantations twenty thousand
-                    <lb/>free People of all Collours and fifteen thousand Slaves. <metamark place="inline"><note place="left" hand="#author"> * <hi rendition="#u">in
+                    <lb/>free People of all Collours and fifteen thousand Slaves. <metamark
+                        place="inline"><note place="left" hand="#author"> * <hi rendition="#u">in
                                 1801.</hi>
                             <lb/><hi rendition="#u">1802.</hi>
                         </note></metamark></p>
@@ -158,19 +171,23 @@
                     Havana of which, two fifths ought to be Browns and three fifths Whites <lb/>and
                     shoud weigh four hundred Pounds on an Average. Consequently, <lb/>The two fifths
                     Brown, being eighty one thousand, seven hundred Boxes sold <lb/>at six Dollars
-                    per Quintal, amount to one Million, nine hundred and sixty thou<lb break="no"/>sand, eight hundred Dollars. And the three fifths Whites, one hundred and
+                    per Quintal, amount to one Million, nine hundred and sixty thou<lb break="no"
+                    />sand, eight hundred Dollars. And the three fifths Whites, one hundred and
                     <lb/>twenty two thousand, seven hundred and three Boxes at eight Dollars per
-                    <lb/>Quintal, Three Millions, nine hundred and twenty six Thousand fourhun<g ref="#typoHyphen"/><lb break="no"/>dred and ninety Six Dollars. Together
+                    <lb/>Quintal, Three Millions, nine hundred and twenty six Thousand fourhun<g
+                        ref="#typoHyphen"/><lb break="no"/>dred and ninety Six Dollars. Together
                     with the price paid for the Boxes <lb/>twenty six Reales each will be six
-                    hundred &amp; sixty four thousand and, threehundred <lb/><note place="left" hand="#author">and</note><lb/><pb n="164v" facs="prohd0010_164v.tif"/>and nine Dollars. Thus the two
-                    hundred and four thousand four hundred <lb/>and three Boxes of Sugars legally
-                    shipped at the Havana in 1802 amount <lb/>to Six millions. Five hundred and
-                    fifty one Thousand six hundred and <lb/>five Dollars: Nett to the Planters, For,
-                    the Exporters paid the Duties, and <lb/>the Mollasses paid amply for the
-                    Boxes.</p>
+                    hundred &amp; sixty four thousand and, threehundred <lb/><note place="left"
+                        hand="#author">and</note><lb/><pb n="164v" facs="prohd0010_164v.tif"/>and
+                    nine Dollars. Thus the two hundred and four thousand four hundred <lb/>and three
+                    Boxes of Sugars legally shipped at the Havana in 1802 amount <lb/>to Six
+                    millions. Five hundred and fifty one Thousand six hundred and <lb/>five Dollars:
+                    Nett to the Planters, For, the Exporters paid the Duties, and <lb/>the Mollasses
+                    paid amply for the Boxes.</p>
                 <p>The produce of the Coffee, Cotton and other Plantations are not <lb/>brought into
                     this account, being yet in an Infant State, nor do we attempt an <lb/>estimation
-                    of Sugars illegally exported. We confine this Statement to the regu<g ref="#typoHyphen"/><lb break="no"/>lar Returns from the Customhouse of the
+                    of Sugars illegally exported. We confine this Statement to the regu<g
+                        ref="#typoHyphen"/><lb break="no"/>lar Returns from the Customhouse of the
                     Shipment of Sugars of this Jurisdiction.</p>
                 <p>The Money brought hither for maintaining the Fortresses, the <lb/>Marine, Troops
                     and Tobacco Factory. The balance in favour of the <lb/>Havana and against New
@@ -217,10 +234,11 @@
                         <abbr>&amp;<hi rendition="#sup">ca</hi></abbr>
                         <expan>et cetera</expan>
                     </choice>.</p>
-                <p><pb n="165r" facs="prohd0010_165r.tif"/><note place="left" hand="#Humboldt, Alexander von">b</note>This
-                    severe oeconomy is heavily counterpoised by the rapid and <lb/>continual
-                    decrease of Slaves; their annu<del rendition="#erased">l</del>al mortallity,
-                    cannot be under twelve, to <lb/>fifteen <choice>
+                <p><pb n="165r" facs="prohd0010_165r.tif"/><note place="left"
+                        hand="#Humboldt, Alexander von">b</note>This severe oeconomy is heavily
+                    counterpoised by the rapid and <lb/>continual decrease of Slaves; their annu<del
+                        rendition="#erased">l</del>al mortallity, cannot be under twelve, to
+                    <lb/>fifteen <choice>
                         <abbr>p<choice>
                                 <abbr>r</abbr>
                                 <expan>er</expan>
@@ -233,7 +251,8 @@
                     </choice> the diminution must be repaired by incessant <lb/>recourse to the
                     purchase of African Slaves.</p>
                 <p>In the last 1 Year, 1802, between the first Day of January, and the <lb/>last of
-                    December, Thirteen thousand, eight hundred, and thirty two African <lb/><note place="left" hand="#Humboldt, Alexander von">13830</note>Negro Slaves, were
+                    December, Thirteen thousand, eight hundred, and thirty two African <lb/><note
+                        place="left" hand="#Humboldt, Alexander von">13830</note>Negro Slaves, were
                     imported, and entered at the Customhouse in the Havana. <lb/>out of which, about
                     five hundred were exported; And <add place="superlinear">as</add> the hot
                     Monthly were <lb/>sickly, we do not overrate the mortallity at five <choice>
@@ -244,7 +263,8 @@
                         <expan>per cent</expan>
                     </choice> during the Sales, which <lb/>will be a reduction of seven hundred.
                     Besides, as Newly imported Slaves <lb/>are fully as susceptible of fatal
-                    disorders, as seasoned ones, we cannot deduct <add place="superlinear"><hi rendition="#u">for Mortallity</hi></add>
+                    disorders, as seasoned ones, we cannot deduct <add place="superlinear"><hi
+                            rendition="#u">for Mortallity</hi></add>
                     <lb/>from the twelve thousand, three hundred and thirty two purchased by the
                     Planters <lb/>less than the same rate. Therefore as the above mentioned whole
                     number, was <lb/>imported successively throughout the Year (perhaps one half in
@@ -257,7 +277,8 @@
                     Crop.</p>
                 <p><note place="left" hand="#Humboldt, Alexander von">c</note>It is said, that
                     taking the average of many Plantations, each &amp; every <lb/>Slave employed
-                    thereon, will make three Thousand Pounds of Sugar. If it be <lb/>so (and we <add place="superlinear">do</add> believe it to be true) There ought to be Eighty
+                    thereon, will make three Thousand Pounds of Sugar. If it be <lb/>so (and we <add
+                        place="superlinear">do</add> believe it to be true) There ought to be Eighty
                     Eight Thousand Boxes of <lb/>Sugars more made in 1803 than the preceding Year.
                     But, we cannot reckon <lb/>on such an increase, by reason of a Drought, which
                     prevailed nine Months in <lb/>part of 1801, and 1802, and checked Vegetation to
@@ -288,8 +309,8 @@
                 <p>
                     <note place="mBottom" hand="#author">This.</note>
                 </p>
-                <p><pb n="165v" facs="prohd0010_165v.tif"/> This facility of acquiring Lands enables the Planters to invest
-                    his <lb/>Capital in Buildings, Machines, Negroes, Cattle <choice>
+                <p><pb n="165v" facs="prohd0010_165v.tif"/> This facility of acquiring Lands enables
+                    the Planters to invest his <lb/>Capital in Buildings, Machines, Negroes, Cattle <choice>
                         <abbr>&amp;.<hi rendition="#sup">ca</hi></abbr>
                         <expan>et cetera</expan>
                     </choice> and induces many to <lb/>establish new Plantations consequently
@@ -309,7 +330,8 @@
                 <p><note place="left" hand="#Humboldt, Alexander von">d</note>The most favourable
                     time for the importation of Slaves at the <lb/>Havana is from October to the
                     last of January; Ground Provisions then abo<add place="superlinear">und</add>
-                    <lb/>and the new Crop of Sugars is approaching or begun<supplied cert="high">.</supplied> But in laying in a <lb/>Cargo for this Place all possible care
+                    <lb/>and the new Crop of Sugars is approaching or begun<supplied cert="high"
+                        >.</supplied> But in laying in a <lb/>Cargo for this Place all possible care
                     and circumspection must be taken. <lb/>No aged or ordinary Slaves should be
                     bought. nor many Females although <lb/>Young or handsome. But as many young Men
                     as could by any means <lb/>be procured even tho it were by barterring five
@@ -318,7 +340,8 @@
                     between them and Males is <lb/>from thirty to forty Dollars <choice>
                         <abbr>pr</abbr>
                         <expan>per</expan>
-                    </choice> head less, and when the Women are old or ordi<g ref="#typoHyphen"/><lb break="no"/>nary it is often equal to the prime Cost in Africa. Therefore
+                    </choice> head less, and when the Women are old or ordi<g ref="#typoHyphen"/><lb
+                        break="no"/>nary it is often equal to the prime Cost in Africa. Therefore
                     the purchase <lb/>of Prime young Negroes cannot be too much recommended.</p>
                 <p>Foreign Vessel, bringing Slaves, cannot bring with them any, <lb/>other
                     Merchandize whatsoever except the remains of the Cargo carried <lb/>out to
@@ -330,7 +353,8 @@
                     the remainder of them she <lb/>may not bring the proceeds of them or any part of
                     them in any kind of the <lb/>Produce of the West Indies on pain of confiscation
                     of Ship &amp; Goods.</p>
-                <p>On arrival of this Port every Master must have a written Ma<g ref="#typoHyphen"/><lb break="no"/>nifest ready to deliver to the Governors Adjutant who will
+                <p>On arrival of this Port every Master must have a written Ma<g ref="#typoHyphen"
+                        /><lb break="no"/>nifest ready to deliver to the Governors Adjutant who will
                     board him <lb/>also; in which besides the names of the Vessel and Master, the
                     number of <lb/>Slaves on board, the names and number of Returned Goods, and the
                     number <lb/>of Elephants Teeth, quantity of Bees Wax, Palm Oil <choice>

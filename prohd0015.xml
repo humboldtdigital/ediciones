@@ -2,8 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Observaciones sobre el Ensayo politico con relacion a la Isla de Cuba que ha
-                    escrito el Señor Baron de Humboldt</title>
+                <title type="main">Observaciones sobre el Ensayo politico con relacion a la Isla de
+                    Cuba que ha escrito el Señor Baron de Humboldt</title>
                 <editor>
                     <persName>
                         <surname>Kraller</surname>
@@ -15,7 +15,8 @@
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
             </titleStmt>
             <editionStmt>
-                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD (<date>2020</date>)</p>
+                <p>Dossier Digital: Alexander von Humboldt y Cuba (1800-1830). ProHD
+                        (<date>2020</date>)</p>
             </editionStmt>
             <publicationStmt>
                 <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
@@ -28,7 +29,8 @@
             </publicationStmt>
             <notesStmt>
                 <note type="editorial">
-                    <p>Handschriftliche Anmerkungen und Korrekturen <persName key="H0012682">Francisco Arango y Parreño</persName>s zu Humboldts Essai politique sur
+                    <p>Handschriftliche Anmerkungen und Korrekturen <persName key="H0012682"
+                            >Francisco Arango y Parreño</persName>s zu Humboldts Essai politique sur
                         l’île de Cuba (<bibl sameAs="zotero-667230-HWI3EAX7">Humboldt 1826</bibl>).
                         Ein berühmtes Dokument der frühen kubanischen Rezeption von Humboldts
                         Werk.</p>
@@ -44,8 +46,10 @@
                         <idno>
                             <idno type="shelfmark">kl. Kasten 7b, Nr. 69</idno>
                             <idno type="uri">https://kalliope-verbund.info/DE-611-HS-1272356</idno>
-                            <idno type="URLImages">https://resolver.staatsbibliothek-berlin.de/SBB00015CC600000000</idno>
-                            <idno type="URLCatalogue">https://stabikat.de/DB=1/PPN?PPN=787980617</idno>
+                            <idno type="URLImages"
+                                >https://resolver.staatsbibliothek-berlin.de/SBB00015CC600000000</idno>
+                            <idno type="URLCatalogue"
+                                >https://stabikat.de/DB=1/PPN?PPN=787980617</idno>
                         </idno>
                     </msIdentifier>
                 </msDesc>
@@ -63,7 +67,8 @@
             <abstract xml:lang="de">
                 <p>Handschriftliche Anmerkungen und Korrekturen Francisco Arango y Parreños zu
                     Humboldts "Essai politique sur l’île de Cube“" einem berühmten Dokument der
-                    frühen kubanischen Rezeption von Humboldts Werk.</p></abstract>
+                    frühen kubanischen Rezeption von Humboldts Werk.</p>
+            </abstract>
             <abstract xml:lang="es">
                 <p>Notas manuscritas y correcciones de Francisco Arango y Parreños al "Essai
                     politique sur l’île de Cube" de Humboldt, célebre documento de la temprana
@@ -139,7 +144,8 @@
                     <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> todo se sume en ellas. Los Molinos fueron víctimas de una ma<lb break="no"/>za enorme de aguas detenidas <choice>
+                    </choice> todo se sume en ellas. Los Molinos fueron víctimas de una ma<lb
+                        break="no"/>za enorme de aguas detenidas <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
                     </choice> un malecón <choice>
@@ -154,12 +160,14 @@
                     <choice>
                         <abbr>torr.<hi rendition="#sup">te</hi></abbr>
                         <expan>torrente</expan>
-                    </choice> sobre los desgra<lb break="no"/>ciados Molinos<supplied cert="high">,</supplied> que están dos pasos de allí. </p>
+                    </choice> sobre los desgra<lb break="no"/>ciados Molinos<supplied cert="high"
+                        >,</supplied> que están dos pasos de allí. </p>
                 <p><add place="left"><choice>
                             <abbr>p<hi rendition="#sup"><hi rendition="#u">a</hi></hi></abbr>
                             <expan>página</expan>
                         </choice> 63</add></p>
-                <p>Hay también chapapote cerca de las aguas minerales de <placeName key="H0008565">Madruga</placeName>: <lb/><measure quantity="16" unit="leagua">diez y seis
+                <p>Hay también chapapote cerca de las aguas minerales de <placeName key="H0008565"
+                        >Madruga</placeName>: <lb/><measure quantity="16" unit="leagua">diez y seis
                         leguas</measure> a <choice>
                         <abbr>barlov.to</abbr>
                         <expan>barlovento</expan>
@@ -209,13 +217,17 @@
                 <p>Se asegura con afecto <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> parecieron todos los Indios de esta <placeName key="H0000494">Isla</placeName> y <choice>
+                    </choice> parecieron todos los Indios de esta <placeName key="H0000494"
+                        >Isla</placeName> y <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> des<lb break="no"/>pués vinieron <add place="superlinear" hand="H0012682">algunos</add> de fuera <subst>
+                    </choice> des<lb break="no"/>pués vinieron <add place="superlinear"
+                        hand="H0012682">algunos</add> de fuera <subst>
                         <del rendition="#ow" hand="H0012682">algunas</del>
-                        <add place="across"><del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del></add>
-                    </subst>; pero hasta ayer mañana hubo en <placeName key="H0011015">Gua<lb break="no"/>nabacoa</placeName> muchas familias de Indios. Yo las
+                        <add place="across"><del rendition="#s"><gap reason="illegible" quantity="1"
+                                    unit="words"/></del></add>
+                    </subst>; pero hasta ayer mañana hubo en <placeName key="H0011015">Gua<lb
+                            break="no"/>nabacoa</placeName> muchas familias de Indios. Yo las
                     alcancé, y el <persName key="H0012069"><choice>
                             <abbr>Sor.</abbr>
                             <expan>Señor</expan>
@@ -223,7 +235,8 @@
                     <lb/>verá en la Historia de Arrate <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> los Indios<supplied cert="high">,</supplied> en sus canoas<supplied cert="high">,</supplied> eran<lb/>los <choice>
+                    </choice> los Indios<supplied cert="high">,</supplied> en sus canoas<supplied
+                        cert="high">,</supplied> eran<lb/>los <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> proveían de agua a esta ciudad antes de <choice>
@@ -233,14 +246,17 @@
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> te <lb/>nemos hoy. A <measure quantity="2" unit="leagua">2
-                        leguas</measure> de <placeName key="H0000494">Cuba</placeName>, y a <measure quantity="7" unit="leagua">7</measure> del <placeName key="H0018254">Bayamo</placeName><supplied cert="high">,</supplied> hay todavía <lb/>dos
+                        leguas</measure> de <placeName key="H0000494">Cuba</placeName>, y a <measure
+                        quantity="7" unit="leagua">7</measure> del <placeName key="H0018254"
+                        >Bayamo</placeName><supplied cert="high">,</supplied> hay todavía <lb/>dos
                     pueblos de Indios <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> se llaman Caney y Giguaní<supplied cert="high">,</supplied>
                     <add place="superlinear" hand="H0012682">los</add>
                     <choice>
-                        <abbr>q.<hi rendition="#sup">e<add place="intralinear" hand="H0012682">s</add></hi></abbr>
+                        <abbr>q.<hi rendition="#sup">e<add place="intralinear" hand="H0012682"
+                                    >s</add></hi></abbr>
                         <expan><add place="intralinear" hand="H0012682">quales</add></expan>
                     </choice> gozan <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
@@ -252,7 +268,8 @@
                     </choice><lb/>disposiciones de todos los privilegios <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> las leyes conseden a los Indios. <lb/>Consta<del rendition="#s" hand="H0012682"/>
+                    </choice> las leyes conseden a los Indios. <lb/>Consta<del rendition="#s"
+                        hand="H0012682"/>
                     <add place="superlinear" hand="H0012682">el 2<hi rendition="#sup">o</hi>
                     </add>de unas 300 casas; <choice>
                         <abbr>p.<hi rendition="#sup">o</hi></abbr>
@@ -267,7 +284,8 @@
                     <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>que</expan>
-                    </choice> sus continuas mesclas con blan<g ref="#typoHyphen"/><lb break="no"/>cos y negros.</p>
+                    </choice> sus continuas mesclas con blan<g ref="#typoHyphen"/><lb break="no"
+                    />cos y negros.</p>
                 <p><add place="left"><choice>
                             <abbr><hi rendition="#u">p</hi><hi rendition="#sup">a</hi>
                             </abbr>
@@ -301,7 +319,8 @@
                             </abbr>
                             <expan>página</expan>
                         </choice> 169</add></p>
-                <p>El Rey de España exigió y aceptó las <measure quantity="400000" unit="pfund_sterling">cuatrocientas mil libras <lb/>esterlinas</measure> de <choice>
+                <p>El Rey de España exigió y aceptó las <measure quantity="400000"
+                        unit="pfund_sterling">cuatrocientas mil libras <lb/>esterlinas</measure> de <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> se trata <choice>
@@ -402,7 +421,8 @@
                         </choice> Barón</persName>, a quien suplico <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> modere<lb/><pb n="1v" facs="prohd0015_1v.tif"/>su rigor leyendo el primer párrafo de la Página <choice>
+                    </choice> modere<lb/><pb n="1v" facs="prohd0015_1v.tif"/>su rigor leyendo el
+                    primer párrafo de la Página <choice>
                         <orig>40_</orig>
                         <reg>40,</reg>
                     </choice> el úl<lb break="no"/>timo de la <choice>
@@ -442,8 +462,8 @@
                         <expan>que</expan>
                     </choice> pretendi<del rendition="#ow" hand="H0012682">ó</del> con ella, <subst>
                         <del rendition="#ow">era</del>
-                            <add place="across" hand="H0012682">fue</add> </subst>
-                        hacer ver la diferente conduc<g ref="#typoHyphen"/><lb break="no"/>ta <choice>
+                        <add place="across" hand="H0012682">fue</add>
+                    </subst> hacer ver la diferente conduc<g ref="#typoHyphen"/><lb break="no"/>ta <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> habíamos tenido en este asunto <choice>
@@ -470,7 +490,10 @@
                     <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> ha<g ref="#typoHyphen"/><lb break="no"/>bía en esta Isla<supplied cert="high">,</supplied> y sin apurar ese dato<supplied cert="high">,</supplied> ni puede hacerse ni sos<g ref="#typoHyphen"/><lb break="no"/>tenerse la comparación entre <placeName key="H0006552">Jamayca</placeName> y
+                    </choice> ha<g ref="#typoHyphen"/><lb break="no"/>bía en esta Isla<supplied
+                        cert="high">,</supplied> y sin apurar ese dato<supplied cert="high"
+                        >,</supplied> ni puede hacerse ni sos<g ref="#typoHyphen"/><lb break="no"
+                    />tenerse la comparación entre <placeName key="H0006552">Jamayca</placeName> y
                         <placeName key="H0000494">Cuba</placeName>.</p>
                 <p><add place="left"><choice>
                             <abbr><hi rendition="#u">p<hi rendition="#sup">a</hi></hi></abbr>
@@ -501,13 +524,16 @@
                     <lb/>se les dé. La <choice>
                         <abbr>2<hi rendition="#u"><hi rendition="#sup">a</hi></hi></abbr>
                         <expan>segunda</expan>
-                    </choice> no pasa, y quizá no llega hoy, <add place="across" hand="H0012682">al</add> 5 <choice>
+                    </choice> no pasa, y quizá no llega hoy, <add place="across" hand="H0012682"
+                        >al</add> 5 <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
                     </choice> 100 en <lb/>la gran mayoría de las haciendas, y ya hay algunas en <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> los <lb/>nacidos reemplazan con ex<supplied cert="high">c</supplied>eso <supplied cert="high">a</supplied> los muertos.<add place="left"> </add></p>
+                    </choice> los <lb/>nacidos reemplazan con ex<supplied cert="high"
+                    >c</supplied>eso <supplied cert="high">a</supplied> los muertos.<add
+                        place="left"> </add></p>
                 <p><add place="left"><choice>
                             <abbr>p<hi rendition="#sup"><hi rendition="#u">a</hi></hi></abbr>
                             <expan>página</expan>
@@ -529,7 +555,8 @@
                     </choice> el tabaco, Algodón, café e <lb/>Ingenios establecidos después de <choice>
                         <orig>804</orig>
                         <reg>1804</reg>
-                    </choice> están<supplied cert="high">,</supplied> desde entonces<supplied cert="high">,</supplied>
+                    </choice> están<supplied cert="high">,</supplied> desde entonces<supplied
+                        cert="high">,</supplied>
                     <choice>
                         <orig>ex<add place="superlinear">c</add>en<lb/>tos</orig>
                         <reg>exentos</reg>
@@ -540,8 +567,10 @@
                             <abbr>p<hi rendition="#sup">a</hi></abbr>
                             <expan>página</expan>
                         </choice> 189</add></p>
-                <p>La cera no fue compañera del tabaco. Se comenzó a <add place="across">b</add>eneficiar <lb/>a impulso del Gobernador <persName key="H0000161">Marquéz
-                        de la Torre</persName> en 1772, y su <lb/>extracción<supplied cert="high">,</supplied> como más abajo se indica<supplied cert="high">,</supplied>
+                <p>La cera no fue compañera del tabaco. Se comenzó a <add place="across"
+                    >b</add>eneficiar <lb/>a impulso del Gobernador <persName key="H0000161">Marquéz
+                        de la Torre</persName> en 1772, y su <lb/>extracción<supplied cert="high"
+                        >,</supplied> como más abajo se indica<supplied cert="high">,</supplied>
                     empezó tres años des <lb/>pués. </p>
                 <p><add place="left"><choice>
                             <abbr><hi rendition="#u">p<hi rendition="#sup">a</hi></hi></abbr>
@@ -600,7 +629,8 @@
                         <orig>400_</orig>
                         <reg>400</reg>
                     </choice> negros, los demás no pa<g ref="#typoHyphen"/><lb break="no"/>san de
-                    300 y entre los Ingenios nuevos de <placeName key="H0008756">Matanzas</placeName> hay <lb/>algunos <choice>
+                    300 y entre los Ingenios nuevos de <placeName key="H0008756"
+                        >Matanzas</placeName> hay <lb/>algunos <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice><supplied cert="high">,</supplied> con <choice>
@@ -613,7 +643,8 @@
                         <orig>2000_</orig>
                         <reg>2000</reg>
                     </choice>
-                    <add place="superlinear" hand="H0012682">y <del rendition="#s"><gap reason="illegible" quantity="4" unit="words"/></del></add> Cajas.
+                    <add place="superlinear" hand="H0012682">y <del rendition="#s"><gap
+                                reason="illegible" quantity="4" unit="words"/></del></add> Cajas.
                     <lb/>El <persName key="H0018321">Joven Conde de Jaruco</persName> ha hecho un
                     Ingenio a <lb/>tres leguas de <placeName key="H0008756">Matanzas</placeName>
                     <choice>
@@ -623,7 +654,8 @@
                     <lb/>anterior, le ha producido <choice>
                         <orig>2600.</orig>
                         <reg>2600</reg>
-                    </choice> cajas, y los negros<lb/><pb n="2r" facs="prohd0015_2r.tif"/>que allí tiene (según dice) son <choice>
+                    </choice> cajas, y los negros<lb/><pb n="2r" facs="prohd0015_2r.tif"/>que allí
+                    tiene (según dice) son <choice>
                         <orig>220. _</orig>
                         <reg>220.</reg>
                     </choice></p>
@@ -647,10 +679,13 @@
                 <p>Treinta y dosmil <measure quantity="2000" unit="arroba"><choice>
                             <abbr>@.</abbr>
                             <expan>arrobas</expan>
-                        </choice></measure> de azúcar pueden producir, inclu<g ref="#typoHyphen"/><lb break="no"/>yendo las cachazas, <measure quantity="12000" unit="barril"><choice>
+                        </choice></measure> de azúcar pueden producir, inclu<g ref="#typoHyphen"
+                        /><lb break="no"/>yendo las cachazas, <measure quantity="12000"
+                        unit="barril"><choice>
                             <orig>12.000_</orig>
                             <reg>12.000</reg>
-                        </choice> barriles</measure> de miel de a <measure quantity="10" unit="ed_vhl_bmd_r3b"><choice>
+                        </choice> barriles</measure> de miel de a <measure quantity="10"
+                        unit="ed_vhl_bmd_r3b"><choice>
                             <orig>10_</orig>
                             <reg>10</reg>
                         </choice> fras<g ref="#typoHyphen"/><lb break="no"/>cos</measure> cada uno,
@@ -666,7 +701,8 @@
                     </choice> de <lb/><measure quantity="180" unit="ed_vhl_bmd_r3b"><choice>
                             <orig>180_</orig>
                             <reg>180</reg>
-                        </choice> frascos</measure>, y de <measure quantity="20" unit="ed_s21_nbb_t3b"><choice>
+                        </choice> frascos</measure>, y de <measure quantity="20"
+                        unit="ed_s21_nbb_t3b"><choice>
                             <orig>20_</orig>
                             <reg>20</reg>
                         </choice></measure> a <measure quantity="21" unit="ed_s21_nbb_t3b"><choice>
@@ -687,15 +723,18 @@
                         <abbr>Aguar.<hi rendition="#sup">te</hi></abbr>
                         <expan>Aguardiente</expan>
                     </choice> de un Ingenio de <measure quantity="2000" unit="caja">2000
-                        cajas</measure>, sólo puede pro<lb break="no"/>ducir de <measure quantity="8000" unit="duro"><choice>
+                        cajas</measure>, sólo puede pro<lb break="no"/>ducir de <measure
+                        quantity="8000" unit="duro"><choice>
                             <orig>8_</orig>
                             <reg>8</reg>
                         </choice></measure> a <measure quantity="10000" unit="duro">10.000
                         duros</measure>, y los gastos de esa finca<supplied cert="high">,</supplied>
-                    habiendo <lb/>orden<supplied cert="high">,</supplied> serán de <measure quantity="20" unit="peso"><choice>
+                    habiendo <lb/>orden<supplied cert="high">,</supplied> serán de <measure
+                        quantity="20" unit="peso"><choice>
                             <orig>20_</orig>
                             <reg>20</reg>
-                        </choice></measure> a <measure quantity="22500" unit="peso"><measure quantity="25000" unit="peso"><choice>
+                        </choice></measure> a <measure quantity="22500" unit="peso"><measure
+                            quantity="25000" unit="peso"><choice>
                                 <orig>25.000_</orig>
                                 <reg>25.000</reg>
                             </choice>
@@ -716,12 +755,15 @@
                     </choice><choice>
                         <abbr>p.<hi rendition="#sup">a</hi></abbr>
                         <expan>para</expan>
-                    </choice> hacer en las tierras <lb/>nuevas de <placeName key="H0008756">Matanzas</placeName><supplied cert="high">,</supplied> y demás de la
-                        Isla<supplied cert="high">,</supplied> un Ingenio de <measure quantity="2000" unit="caja">2000 <lb/>cajas</measure>, y yo no dudo <choice>
+                    </choice> hacer en las tierras <lb/>nuevas de <placeName key="H0008756"
+                        >Matanzas</placeName><supplied cert="high">,</supplied> y demás de la
+                        Isla<supplied cert="high">,</supplied> un Ingenio de <measure
+                        quantity="2000" unit="caja">2000 <lb/>cajas</measure>, y yo no dudo <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> esas fincas<supplied cert="high">,</supplied> hechas con economía y
-                        administra<g ref="#typoHyphen"/><lb break="no"/>das con discreción<supplied cert="high">,</supplied> den un interés de 18 <choice>
+                        administra<g ref="#typoHyphen"/><lb break="no"/>das con discreción<supplied
+                        cert="high">,</supplied> den un interés de 18 <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
                     </choice> 100, esto es, del <choice>
@@ -743,7 +785,8 @@
                     </choice> lo <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> en ello<add place="intralinear">s</add> se ha gas<g ref="#typoHyphen"/><lb break="no"/>tado, sino <choice>
+                    </choice> en ello<add place="intralinear">s</add> se ha gas<g ref="#typoHyphen"
+                        /><lb break="no"/>tado, sino <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
                     </choice> las <choice>
@@ -788,7 +831,8 @@
                 <p>No se puede pasar <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
-                    </choice> esta comparación. Nuestros Ingenios <lb/>nuevos<supplied cert="high">,</supplied> en tierras y años buenos<supplied cert="high">,</supplied> dan
+                    </choice> esta comparación. Nuestros Ingenios <lb/>nuevos<supplied cert="high"
+                        >,</supplied> en tierras y años buenos<supplied cert="high">,</supplied> dan
                         <measure quantity="32000" unit="arroba"><choice>
                             <orig>32.000_</orig>
                             <reg>32.000</reg>
@@ -796,7 +840,9 @@
                         <choice>
                             <abbr>@.</abbr>
                             <expan>arrobas</expan>
-                        </choice></measure> de azúcar purgado <lb/>con <measure quantity="12" unit="ed_t3t_yvj_r3b">12</measure> o <measure quantity="14" unit="ed_t3t_yvj_r3b">14 <choice>
+                        </choice></measure> de azúcar purgado <lb/>con <measure quantity="12"
+                        unit="ed_t3t_yvj_r3b">12</measure> o <measure quantity="14"
+                        unit="ed_t3t_yvj_r3b">14 <choice>
                             <abbr>caballer.s</abbr>
                             <expan>caballerías</expan>
                         </choice></measure> de caña, y no más.<choice>
@@ -806,14 +852,17 @@
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> dan <choice>
-                        <abbr>res<g ref="#typoHyphen"/><lb break="no"/>pectivam.<hi rendition="#sup">te</hi></abbr>
+                        <abbr>res<g ref="#typoHyphen"/><lb break="no"/>pectivam.<hi rendition="#sup"
+                                >te</hi></abbr>
                         <expan>respectivamente</expan>
                     </choice> el mismo producto. ¿Y quién sabe lo que darían si <lb/>el cultivo se
                     hiciese en pequeño, y <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
                     </choice> manos libres e interesa<g ref="#typoHyphen"/><lb break="no"/>das en
-                        él<supplied cert="high">,</supplied> como sucede en la <placeName key="H0006686">India</placeName>? De esto y de los menores cos<g ref="#typoHyphen"/><lb break="no"/>tos en la elaboración, es de lo <choice>
+                        él<supplied cert="high">,</supplied> como sucede en la <placeName
+                        key="H0006686">India</placeName>? De esto y de los menores cos<g
+                        ref="#typoHyphen"/><lb break="no"/>tos en la elaboración, es de lo <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> en mi concepto <choice>
@@ -851,7 +900,8 @@
                             <expan>página</expan>
                         </choice> 236</add></p>
                 <p>Ya no vienen de <placeName key="H0008887">Misisipí</placeName>, sino de
-                        <placeName key="H0018287">Por<add place="superlinear" hand="H0012682">t</add>land</placeName> y otros <choice>
+                        <placeName key="H0018287">Por<add place="superlinear" hand="H0012682"
+                            >t</add>land</placeName> y otros <choice>
                         <orig>parages</orig>
                         <reg>parajes</reg>
                     </choice> del <lb/>continente anglo-Americano<supplied cert="high">,</supplied>
@@ -864,7 +914,8 @@
                         </choice> cajas</measure>, y <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
-                    </choice> lo común se ven<g ref="#typoHyphen"/><lb break="no"/>de de <measure quantity="18" unit="duro"><choice>
+                    </choice> lo común se ven<g ref="#typoHyphen"/><lb break="no"/>de de <measure
+                        quantity="18" unit="duro"><choice>
                             <orig>18-</orig>
                             <reg>18</reg>
                         </choice></measure> a <measure quantity="22" unit="duro"><choice>
@@ -893,7 +944,9 @@
                             <abbr>p.<hi rendition="#sup">a</hi></abbr>
                             <expan>página</expan>
                         </choice> 237</add></p>
-                <p>Todos se acuerdan con aprecio y gratitud de esos útiles En<g ref="#typoHyphen"/><lb break="no"/><pb n="2v" facs="prohd0015_2v.tif"/>sayos, y ellos han servido <choice>
+                <p>Todos se acuerdan con aprecio y gratitud de esos útiles En<g ref="#typoHyphen"
+                        /><lb break="no"/><pb n="2v" facs="prohd0015_2v.tif"/>sayos, y ellos han
+                    servido <choice>
                         <abbr>eficazm.<hi rendition="#sup">te</hi></abbr>
                         <expan>eficazmente</expan>
                     </choice> a <choice>
@@ -908,13 +961,15 @@
                     </choice>eristas<supplied cert="high">,</supplied> en <lb/>cuyo ramo creo <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> hay bastante adelantado; pero no di<g ref="#typoHyphen"/><lb break="no"/>ré <choice>
+                    </choice> hay bastante adelantado; pero no di<g ref="#typoHyphen"/><lb
+                        break="no"/>ré <choice>
                         <orig>lomismo</orig>
                         <reg>lo mismo</reg>
                     </choice> de <choice>
                         <abbr>ntros</abbr>
                         <expan>nuestros</expan>
-                    </choice> maestros de azúcar. Se hace general<g ref="#typoHyphen"/><lb break="no"/>mente mejor azúcar <choice>
+                    </choice> maestros de azúcar. Se hace general<g ref="#typoHyphen"/><lb
+                        break="no"/>mente mejor azúcar <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> antes; <choice>
@@ -923,7 +978,8 @@
                     </choice> ni se saca la cantidad <lb/><choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> debiera sacarse, ni hay seguridad en nada. Ya se aban<g ref="#typoHyphen"/><lb break="no"/>donaron casi <choice>
+                    </choice> debiera sacarse, ni hay seguridad en nada. Ya se aban<g
+                        ref="#typoHyphen"/><lb break="no"/>donaron casi <choice>
                         <abbr>generalm.<hi rendition="#sup">te</hi></abbr>
                         <expan>generalmente</expan>
                     </choice> las clarificadoras, y hemos vuelto a <lb/>nuestras antiguas Paylas. No
@@ -974,16 +1030,20 @@
                     nuevos <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> las han com<g ref="#typoHyphen"/><lb break="no"/>prado a <measure quantity="1000" unit="peso">1000 pesos</measure>, y muchos las han logrado a
+                    </choice> las han com<g ref="#typoHyphen"/><lb break="no"/>prado a <measure
+                        quantity="1000" unit="peso">1000 pesos</measure>, y muchos las han logrado a
                         <measure quantity="600" unit="peso"><choice>
                             <orig>600_</orig>
                             <reg>600</reg>
                         </choice>
-                        <supplied cert="high">pesos</supplied></measure> a <add place="across" hand="H0012682">ce</add>n<g ref="#typoHyphen"/><lb break="no"/>so redimible <choice>
+                        <supplied cert="high">pesos</supplied></measure> a <add place="across"
+                        hand="H0012682">ce</add>n<g ref="#typoHyphen"/><lb break="no"/>so redimible <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> equivale a <measure quantity="400" unit="peso">400 <supplied cert="high">pesos</supplied></measure> en efectivo. Esas tierras <lb/>de
-                    a <measure quantity="3000" unit="peso">3</measure> y <measure quantity="4000" unit="peso">4000 <choice>
+                    </choice> equivale a <measure quantity="400" unit="peso">400 <supplied
+                            cert="high">pesos</supplied></measure> en efectivo. Esas tierras <lb/>de
+                    a <measure quantity="3000" unit="peso">3</measure> y <measure quantity="4000"
+                        unit="peso">4000 <choice>
                             <abbr>p.<hi rendition="#sup">s</hi></abbr>
                             <expan>pesos</expan>
                         </choice></measure>, son las <choice>
@@ -1045,12 +1105,15 @@
                         <del rendition="#s">acercará, sino</del>
                         <add place="superlinear" hand="H0012682">se acercará sino</add>
                     </subst> para <lb/><del rendition="#s" hand="H0012682">a</del>
-                    <add place="superlinear" hand="H0012682"><del rendition="#s"><gap reason="illegible" quantity="8" unit="words"/></del></add>
+                    <add place="superlinear" hand="H0012682"><del rendition="#s"><gap
+                                reason="illegible" quantity="8" unit="words"/></del></add>
                     <add place="intralinear">de</add>
                     <measure quantity="2000000" unit="arroba">dos millones de <choice>
                             <abbr>@.</abbr>
                             <expan>arrobas</expan>
-                        </choice></measure> o sean <measure quantity="500000" unit="quintal_spanisch">quinientos mil quintales</measure><supplied cert="high">.</supplied><lb/></p>
+                        </choice></measure> o sean <measure quantity="500000"
+                        unit="quintal_spanisch">quinientos mil quintales</measure><supplied
+                        cert="high">.</supplied><lb/></p>
                 <p><add place="left"><choice>
                             <abbr>p<hi rendition="#u">a</hi></abbr>
                             <expan>página</expan>
@@ -1068,7 +1131,8 @@
                     <choice>
                         <abbr>1<hi rendition="#sup">o</hi></abbr>
                         <expan>uno</expan>
-                    </choice> tiene bastantes erratas de impren<g ref="#typoHyphen"/><lb break="no"/>ta<add place="intralinear" hand="H0012682">)</add> y lo remito <choice>
+                    </choice> tiene bastantes erratas de impren<g ref="#typoHyphen"/><lb break="no"
+                        />ta<add place="intralinear" hand="H0012682">)</add> y lo remito <choice>
                         <abbr>p.<hi rendition="#sup">r</hi> q.<hi rendition="#sup">e</hi></abbr>
                         <expan>porque</expan>
                     </choice> creo <choice>
@@ -1106,11 +1170,14 @@
                         producido<supplied cert="high">,</supplied>
                     <lb/>en la apariencia<supplied cert="high">,</supplied> tantos bienes como se
                     esperaban; pero<supplied cert="high">,</supplied>
-                    <lb/>en realidad<supplied cert="high">,</supplied> son muy grandes<supplied cert="high">,</supplied> como lo demuestra ese esta<g ref="#typoHyphen"/><lb break="no"/>dito<supplied cert="high">,</supplied>
+                    <lb/>en realidad<supplied cert="high">,</supplied> son muy grandes<supplied
+                        cert="high">,</supplied> como lo demuestra ese esta<g ref="#typoHyphen"/><lb
+                        break="no"/>dito<supplied cert="high">,</supplied>
                     <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> con respecto a la vuelta abajo mandé formar <lb/>y publicar<supplied cert="high">,</supplied> cuando<supplied cert="high">,</supplied>
+                    </choice> con respecto a la vuelta abajo mandé formar <lb/>y publicar<supplied
+                        cert="high">,</supplied> cuando<supplied cert="high">,</supplied>
                     <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
@@ -1124,7 +1191,8 @@
                     </choice>. <choice>
                         <abbr>N.<hi rendition="#sup">o</hi></abbr>
                         <expan>Número</expan>
-                    </choice> 2. En otros partidos<supplied cert="high">,</supplied> y con espe<g ref="#typoHyphen"/><lb break="no"/>cialidad en los orientales de la
+                    </choice> 2. En otros partidos<supplied cert="high">,</supplied> y con espe<g
+                        ref="#typoHyphen"/><lb break="no"/>cialidad en los orientales de la
                         <placeName key="H0000494">Isla</placeName>, los progresos <lb/>han sido
                     mucho mayores. El contrabando <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
@@ -1132,7 +1200,8 @@
                     </choice> se ha<g ref="#typoHyphen"/><lb break="no"/>ce en este artículo, <choice>
                         <abbr>principalm.<hi rendition="#sup">te</hi></abbr>
                         <expan>principalmente</expan>
-                    </choice> en cigarros, es<lb/><pb n="3r" facs="prohd0015_3r.tif"/>enorme<supplied cert="high">,</supplied> y estoy en la persuación de <choice>
+                    </choice> en cigarros, es<lb/><pb n="3r" facs="prohd0015_3r.tif"
+                        />enorme<supplied cert="high">,</supplied> y estoy en la persuación de <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> sus cosechas, incluyen<g ref="#typoHyphen"/><lb break="no"/>do nuestro
@@ -1169,7 +1238,8 @@
                     </choice> el año de <supplied cert="high">17</supplied><choice>
                         <orig>72,</orig>
                         <reg>72</reg>
-                    </choice> fue cuando aquí vinieron de <placeName key="H0004781">Flori<lb break="no"/>das</placeName> las abejas Europeas.</p>
+                    </choice> fue cuando aquí vinieron de <placeName key="H0004781">Flori<lb
+                            break="no"/>das</placeName> las abejas Europeas.</p>
                 <p><add place="left"><choice>
                             <abbr>p.<hi rendition="#sup">a</hi></abbr>
                             <expan>página</expan>
@@ -1187,7 +1257,8 @@
                         <abbr>p.<hi rendition="#sup">a</hi></abbr>
                         <expan>para</expan>
                     </choice>
-                    <placeName key="H0009125">Veracruz</placeName>, <placeName key="H0009534">Tru<g ref="#typoHyphen"/><lb break="no"/>xillo</placeName>, <choice>
+                    <placeName key="H0009125">Veracruz</placeName>, <placeName key="H0009534">Tru<g
+                            ref="#typoHyphen"/><lb break="no"/>xillo</placeName>, <choice>
                         <abbr>&amp;</abbr>
                         <expan>etc.</expan>
                     </choice>. A<subst>
@@ -1213,7 +1284,8 @@
                     </subst>alanzas. Sólo en el artículo de <choice>
                         <abbr>ntro.</abbr>
                         <expan>nuestro</expan>
-                    </choice> con<g ref="#typoHyphen"/><lb break="no"/>sumo de <supplied cert="high">h</supplied><choice>
+                    </choice> con<g ref="#typoHyphen"/><lb break="no"/>sumo de <supplied cert="high"
+                        >h</supplied><choice>
                         <orig>Arinas</orig>
                         <reg>arinas</reg>
                     </choice> hay una equivocación de más de <choice>
@@ -1246,7 +1318,8 @@
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice>
-                    <lb/>entraron en este Puerto, fueron los Anglo-Americanos<supplied cert="high">,</supplied> a quienes <lb/>se permitió en la guerra de su <choice>
+                    <lb/>entraron en este Puerto, fueron los Anglo-Americanos<supplied cert="high"
+                        >,</supplied> a quienes <lb/>se permitió en la guerra de su <choice>
                         <abbr>Independen<choice>
                                 <sic>d</sic>
                                 <corr type="deleted"/>
@@ -1279,7 +1352,8 @@
                     esto cesó con la <lb/>paz. El año de <supplied cert="high">17</supplied><choice>
                         <orig>88_</orig>
                         <reg>88</reg>
-                    </choice> obtuve yo, como apoderado de esta ciu<g ref="#typoHyphen"/><lb break="no"/>dad<supplied cert="high">,</supplied> el libre comercio de
+                    </choice> obtuve yo, como apoderado de esta ciu<g ref="#typoHyphen"/><lb
+                        break="no"/>dad<supplied cert="high">,</supplied> el libre comercio de
                     negros <subst>
                         <del rendition="#ow">con</del>
                         <add place="across" hand="H0012682">para</add>
@@ -1312,7 +1386,8 @@
                         <abbr>docum.<hi rendition="#sup">to</hi></abbr>
                         <expan>documento</expan>
                     </choice>
-                    <del rendition="#s" hand="H0012682">p.<hi rendition="#sup">r</hi></del><lb/><del rendition="#s" hand="H0012682"><choice>
+                    <del rendition="#s" hand="H0012682">p.<hi rendition="#sup">r</hi></del><lb/><del
+                        rendition="#s" hand="H0012682"><choice>
                             <abbr>q.<hi rendition="#sup">e</hi></abbr>
                             <expan>que</expan>
                         </choice></del><choice>
@@ -1324,14 +1399,17 @@
                     </choice> incluyo impreso en <choice>
                         <orig>1.</orig>
                         <reg>1</reg>
-                    </choice>808. <add place="superlinear" hand="H0012682">[N 3</add> Se consedie<g ref="#typoHyphen"/><lb break="no"/>ron al mismo <choice>
+                    </choice>808. <add place="superlinear" hand="H0012682">[N 3</add> Se consedie<g
+                        ref="#typoHyphen"/><lb break="no"/>ron al mismo <choice>
                         <abbr>tpo.</abbr>
                         <expan>tiempo</expan>
                     </choice> algunos privilegios particulares <choice>
                         <abbr>p.<hi rendition="#sup">a</hi> q.<hi rendition="#sup">e</hi></abbr>
                         <expan>para que</expan>
-                    </choice> los es<g ref="#typoHyphen"/><lb break="no"/>trangeros <gap reason="empty" unit="chars" quantity="1"/> introdugesen víveres en esta
-                        <placeName key="H0000494">Isla</placeName>: Y ha<g ref="#typoHyphen"/><lb break="no"/>biendo sobrevenido en 1796 la <choice>
+                    </choice> los es<g ref="#typoHyphen"/><lb break="no"/>trangeros <gap
+                        reason="empty" unit="chars" quantity="1"/> introdugesen víveres en esta
+                        <placeName key="H0000494">Isla</placeName>: Y ha<g ref="#typoHyphen"/><lb
+                        break="no"/>biendo sobrevenido en 1796 la <choice>
                         <abbr>grra.</abbr>
                         <expan>guerra</expan>
                     </choice> con los Ingleses, el Síndi<g ref="#typoHyphen"/><lb break="no"/>co del
@@ -1345,7 +1423,8 @@
                         </choice> Arango</persName>) promovió <lb/>y se acordó <subst>
                         <del rendition="#ow">co</del>
                         <add place="across" hand="H0012682">e</add>
-                    </subst>n una Junta de todas las autoridades, presidi<g ref="#typoHyphen"/><lb break="no"/>da <choice>
+                    </subst>n una Junta de todas las autoridades, presidi<g ref="#typoHyphen"/><lb
+                        break="no"/>da <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
                     </choice> el <choice>
@@ -1381,7 +1460,8 @@
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> se le remitió por el <orgName key="H0018038"><lb/>Consulado</orgName>
-                    y la <orgName key="H0018040">Junta </orgName>referida; mas<supplied cert="high">,</supplied> antes de los dos años<supplied cert="high">,</supplied>
+                    y la <orgName key="H0018040">Junta </orgName>referida; mas<supplied cert="high"
+                        >,</supplied> antes de los dos años<supplied cert="high">,</supplied>
                     <lb/>se separó de la <choice>
                         <abbr>Cap.<hi rendition="#sup">a</hi></abbr>
                         <expan>Capitanía</expan>
@@ -1392,23 +1472,29 @@
                     </choice> el buen <persName key="H0003128">Conde de <choice>
                             <abbr>S.<hi rendition="#sup">ta</hi></abbr>
                             <expan>Santa</expan>
-                        </choice> Clara</persName> y su<lb/><pb n="3v" facs="prohd0015_3v.tif"/>su<unclear reason="covered" cert="high"><subst>
+                        </choice> Clara</persName> y su<lb/><pb n="3v" facs="prohd0015_3v.tif"
+                        />su<unclear reason="covered" cert="high"><subst>
                             <del rendition="#ow">b</del>
                             <add place="across" hand="H0012682">s</add>
-                        </subst></unclear>sesor<supplied cert="high">,</supplied> el <persName key="H0014453">Marquéz de Someruelos</persName>, trajo orden reserva<g ref="#typoHyphen"/><lb break="no"/>da <choice>
+                        </subst></unclear>sesor<supplied cert="high">,</supplied> el <persName
+                        key="H0014453">Marquéz de Someruelos</persName>, trajo orden reserva<g
+                        ref="#typoHyphen"/><lb break="no"/>da <choice>
                         <abbr>p.<hi rendition="#sup">a</hi></abbr>
                         <expan>para</expan>
                     </choice> prohi<subst>
                         <del rendition="#ow">v</del>
                         <add place="across" hand="H0012682">b</add>
-                    </subst>ir al instante el comercio de neutra<g ref="#typoHyphen"/><lb break="no"/>les; pero este <subst>
+                    </subst>ir al instante el comercio de neutra<g ref="#typoHyphen"/><lb break="no"
+                    />les; pero este <subst>
                         <del rendition="#ow">v</del>
                         <add place="across" hand="H0012682">b</add>
                     </subst>enemérito <choice>
                         <orig>Gefe</orig>
                         <reg>Jefe</reg>
                     </choice> se penetró bien pronto de <lb/>la indispensable necesidad del referido
-                    comercio, y<supplied cert="high">,</supplied> toman<g ref="#typoHyphen"/><lb break="no"/>do sobre sí toda la responsabilidad<supplied cert="high">,</supplied> dejó sin <choice>
+                    comercio, y<supplied cert="high">,</supplied> toman<g ref="#typoHyphen"/><lb
+                        break="no"/>do sobre sí toda la responsabilidad<supplied cert="high"
+                        >,</supplied> dejó sin <choice>
                         <abbr>cumpli.<hi rendition="#sup">to</hi></abbr>
                         <expan>cumplimiento</expan>
                     </choice>
@@ -1433,7 +1519,8 @@
                         <expan>que</expan>
                     </choice> la paz de Amiens res<g ref="#typoHyphen"/><lb break="no"/>tituyó a la
                     Metrópoli su privilegio esclusivo. A los dos <lb/>años poco más volvió la guerra
-                    con los Ingleses y el virtuoso <persName key="H0014453"><lb/>Someruelos</persName> abrió de nuevo nuestro Puerto a las <choice>
+                    con los Ingleses y el virtuoso <persName key="H0014453"
+                        ><lb/>Someruelos</persName> abrió de nuevo nuestro Puerto a las <choice>
                         <sic>v</sic>
                         <corr cert="high">b</corr>
                     </choice>anderas <lb/>neutrales. En este estado continuamos <choice>
@@ -1456,9 +1543,11 @@
                         Na<g ref="#typoHyphen"/><lb break="no"/>ciones amigas. Parece increíble <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice><supplied cert="high">,</supplied> en tan tristes circuns<g ref="#typoHyphen"/><lb break="no"/>tancias<supplied cert="high">,</supplied>
+                    </choice><supplied cert="high">,</supplied> en tan tristes circuns<g
+                        ref="#typoHyphen"/><lb break="no"/>tancias<supplied cert="high">,</supplied>
                     pudiese el consulado de <placeName key="H0006994">Cádiz</placeName> pensar en
-                        soste<g ref="#typoHyphen"/><lb break="no"/>ner su exclusiva, y<supplied cert="high">,</supplied> sin embargo<supplied cert="high">,</supplied> es un
+                        soste<g ref="#typoHyphen"/><lb break="no"/>ner su exclusiva, y<supplied
+                        cert="high">,</supplied> sin embargo<supplied cert="high">,</supplied> es un
                     hecho, no sólo <choice>
                         <abbr>q<hi rendition="#u"><hi rendition="#sup">e</hi></hi></abbr>
                         <expan>que</expan>
@@ -1485,7 +1574,8 @@
                         <orig>5_</orig>
                         <reg>5</reg>
                     </choice>. Re<g ref="#typoHyphen"/><lb break="no"/>gresó el Rey el año de
-                        <supplied cert="high">18</supplied>14, y entonces fueron nuestros ma<g ref="#typoHyphen"/><lb break="no"/>yores riesgos, habiéndose al instante
+                        <supplied cert="high">18</supplied>14, y entonces fueron nuestros ma<g
+                        ref="#typoHyphen"/><lb break="no"/>yores riesgos, habiéndose al instante
                     espedido orden <choice>
                         <abbr>p.<hi rendition="#sup">a</hi></abbr>
                         <expan>para</expan>
@@ -1517,7 +1607,8 @@
                     </subst><persName key="H0012682"><choice>
                             <abbr>Franc.<hi rendition="#sup">co</hi></abbr>
                             <expan>Francisco</expan>
-                        </choice> de Arango</persName><add place="intralinear" hand="H0012682">)</add>
+                        </choice> de Arango</persName><add place="intralinear" hand="H0012682"
+                        >)</add>
                     <lb/>a ocupar su plaza en el <orgName key="H0017689">Consejo</orgName>,
                         y<supplied cert="high">,</supplied>
                     <choice>
@@ -1549,7 +1640,8 @@
                     </choice> cinco meses, <choice>
                         <abbr>p.<hi rendition="#sup">a</hi></abbr>
                         <expan>para</expan>
-                    </choice> siempre tiene víveres la <placeName key="H0000494"><lb/>Isla</placeName> con que poder subsistir. Lo <choice>
+                    </choice> siempre tiene víveres la <placeName key="H0000494"
+                        ><lb/>Isla</placeName> con que poder subsistir. Lo <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> le faltaría<supplied cert="high">,</supplied> en caso de <lb/>un largo
@@ -1567,7 +1659,8 @@
                     </choice> es mayor <lb/>de lo <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> se supone, sobre lo cual conviene también ad<g ref="#typoHyphen"/><lb break="no"/>vertir, <choice>
+                    </choice> se supone, sobre lo cual conviene también ad<g ref="#typoHyphen"/><lb
+                        break="no"/>vertir, <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> ya se acercan a <measure quantity="80000" unit="barril"><choice>
@@ -1577,13 +1670,19 @@
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> de harina de <placeName key="H0000386">Castilla</placeName> nos remite
-                        <placeName key="H0018181">Santander</placeName>, y di<g ref="#typoHyphen"/><lb break="no"/>cen los inteligentes <choice>
+                        <placeName key="H0018181">Santander</placeName>, y di<g ref="#typoHyphen"
+                        /><lb break="no"/>cen los inteligentes <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice><supplied cert="high">,</supplied> vendiéndose como se vende a <measure quantity="11" unit="peso">once</measure> o <lb/><measure quantity="12" unit="peso">doce pesos</measure>, puede sostenerse contra la de los
-                        <placeName key="H0009136">Estados Uni<g ref="#typoHyphen"/><lb break="no"/>dos</placeName>, por estar aquella libre de derechos, y ésta recargada con
+                    </choice><supplied cert="high">,</supplied> vendiéndose como se vende a <measure
+                        quantity="11" unit="peso">once</measure> o <lb/><measure quantity="12"
+                        unit="peso">doce pesos</measure>, puede sostenerse contra la de los
+                        <placeName key="H0009136">Estados Uni<g ref="#typoHyphen"/><lb break="no"
+                        />dos</placeName>, por estar aquella libre de derechos, y ésta recargada con
                     <lb/>él de <measure quantity="7" unit="peso">siete pesos</measure> en
-                        barril<supplied cert="high">,</supplied> siendo estranjero el buque con<g ref="#typoHyphen"/><lb break="no"/><pb n="4r" facs="prohd0015_4r.tif"/>ductor. </p>
+                        barril<supplied cert="high">,</supplied> siendo estranjero el buque con<g
+                        ref="#typoHyphen"/><lb break="no"/><pb n="4r" facs="prohd0015_4r.tif"
+                    />ductor. </p>
                 <p><add place="left"><choice>
                             <abbr>p.<hi rendition="#sup">a</hi></abbr>
                             <expan>página</expan>
@@ -1599,14 +1698,16 @@
                             <abbr>p<hi rendition="#sup"><hi rendition="#u">a</hi></hi></abbr>
                             <expan>página</expan>
                         </choice> 287</add></p>
-                <p>El arreglo de derechos (o sean los aranceles generales) no se <lb/>hizo <add place="superlinear" hand="H0012682"><choice>
+                <p>El arreglo de derechos (o sean los aranceles generales) no se <lb/>hizo <add
+                        place="superlinear" hand="H0012682"><choice>
                             <abbr>p<hi rendition="#sup">a</hi></abbr>
                             <expan>para</expan>
                         </choice> esta <placeName key="H0000494">Isla</placeName></add>
                     <choice>
                         <abbr>hta.</abbr>
                         <expan>hasta</expan>
-                    </choice> el año de <supplied cert="high">18</supplied>24, siendo <del rendition="#s" hand="H0012682">D</del><choice>
+                    </choice> el año de <supplied cert="high">18</supplied>24, siendo <del
+                        rendition="#s" hand="H0012682">D</del><choice>
                         <orig>. </orig>
                         <reg> </reg>
                     </choice><persName key="H0012682"><choice>
@@ -1660,7 +1761,9 @@
                         <expan>que</expan>
                     </choice> han tenido después de los aranceles<supplied cert="high">,</supplied>
                         especi<g ref="#typoHyphen"/><lb break="no"/>almente en los Puertos de
-                        <placeName key="H0009519">Trinidad</placeName> y <placeName key="H0008756">Matanzas</placeName>. Los rendimi<g ref="#typoHyphen"/><lb break="no"/>entos de este año serán <choice>
+                        <placeName key="H0009519">Trinidad</placeName> y <placeName key="H0008756"
+                        >Matanzas</placeName>. Los rendimi<g ref="#typoHyphen"/><lb break="no"
+                    />entos de este año serán <choice>
                         <abbr>infinitam.<hi rendition="#sup">te</hi></abbr>
                         <expan>infinitamente</expan>
                     </choice> mayores <choice>
@@ -1720,7 +1823,8 @@
                             <abbr>p<hi rendition="#sup"><hi rendition="#u">a</hi></hi></abbr>
                             <expan>página</expan>
                         </choice> 302</add></p>
-                <p>Con los nuevos aranceles se estableció una Aduana en <lb/><placeName key="H0010091"><choice>
+                <p>Con los nuevos aranceles se estableció una Aduana en <lb/><placeName
+                        key="H0010091"><choice>
                             <abbr>S.<hi rendition="#sup">n</hi></abbr>
                             <expan>San</expan>
                         </choice> Tiago de Cuba</placeName>, y desde entonces, es de mucha
@@ -1782,11 +1886,13 @@
                         <abbr>fundamentalm.<hi rendition="#sup">te</hi></abbr>
                         <expan>fundamentalmente</expan>
                     </choice>
-                    <lb/>este importante negocio. Lo hizo también <add place="intralinear" hand="H0012682">h</add>a<subst>
+                    <lb/>este importante negocio. Lo hizo también <add place="intralinear"
+                        hand="H0012682">h</add>a<subst>
                         <del rendition="#ow">y</del>
                         <add place="across" hand="H0012682">ll</add>
                     </subst>ándose de Con<g ref="#typoHyphen"/><lb break="no"/>sejero, y
-                        cree<supplied cert="high">,</supplied> con dolor<supplied cert="high">,</supplied>
+                        cree<supplied cert="high">,</supplied> con dolor<supplied cert="high"
+                        >,</supplied>
                     <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
@@ -1810,7 +1916,8 @@
                         <add place="across" hand="H0012682">e</add>
                     </subst>
                     <del rendition="#s" hand="H0012682">copia</del>
-                    <add place="intralinear" hand="H0012682">obligante re<g ref="#typoHyphen"/><lb break="no"/>cuerdo</add><supplied cert="high">.</supplied>
+                    <add place="intralinear" hand="H0012682">obligante re<g ref="#typoHyphen"/><lb
+                            break="no"/>cuerdo</add><supplied cert="high">.</supplied>
                     <persName key="H0012682"><choice>
                             <abbr><add place="intralinear" hand="H0012682">A</add></abbr>
                             <expan>Francisco Arango y Parreño</expan>
