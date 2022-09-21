@@ -72,6 +72,8 @@
             <textClass>
                 <catRef scheme="#genre" target="#correspondence"/>
                 <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#subjects" target="#geography"/>
+                <catRef scheme="#subjects" target="#slavery"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
