@@ -49,6 +49,7 @@
         </fileDesc>
         <profileDesc>
             <creation>
+                <orgName>Real Sociedad de Amigos del País</orgName>
                 <date when="1827-11-29">27 de noviembre de 1817</date>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
@@ -89,7 +90,9 @@
                         <category xml:id="print"/>
                     </category>
                     <category xml:id="subjects">
+                        <category xml:id="administration"/>
                         <category xml:id="climatology"/>
+                        <category xml:id="education"/>
                         <category xml:id="colonialism"/>
                         <category xml:id="demography"/>
                         <category xml:id="economicconditions"/>
@@ -98,6 +101,7 @@
                         <category xml:id="science"/>
                         <category xml:id="plantations"/>
                         <category xml:id="coffee"/>
+                        <category xml:id="tobacco"/>
                         <category xml:id="sugar"/>
                         <category xml:id="slavery"/>
                         <category xml:id="trade"/>
