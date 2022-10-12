@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
-<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_">
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?><?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -37,7 +34,7 @@
                         <institution>Instituto de Literatura y Lingüística "José Antonio Portuondo Valdor"</institution>
                         <collection>Actas de la Sociedad Económica de Amigos del País</collection>
                         <idno>
-                            <idno type="shelfmark"></idno>
+                            <idno type="shelfmark"/>
                             <idno type="uri">https://prohd.ohc.cu/xmlui/handle/21.11149/36</idno>
                         </idno>
                     </msIdentifier>
@@ -113,6 +110,7 @@
     </teiHeader>
     <text>
         <body> 
+            <div>
             <pb n="1v" facs="prohd0024_1v.tif"/>
             <div>
             <head> Junta preparatoria del jueves 27.. de <choice>
@@ -179,7 +177,7 @@
                         </list>
                 </div>
             <div>           
-            <head>Jardín bo<g ref="#typoHyphen" /><lb />tanico</head>
+            <head>Jardín bo<g ref="#typoHyphen"/><lb/>tanico</head>
                         <p>Aprobado el <choice>
                         <abbr> ant.<hi rendition="#sup">or</hi>
                         </abbr>
@@ -199,8 +197,7 @@
                     <lb/>Camero en el <choice>
                         <orig>qual</orig>
                         <reg>cual</reg>
-                    </choice> insta por <lb/>que se lleve a efecto la <unclear reason="illegible"
-                        cert="high">consul</unclear><lb break="no"/>ta que tiene propuesta a la
+                    </choice> insta por <lb/>que se lleve a efecto la <unclear reason="illegible" cert="high">consul</unclear><lb break="no"/>ta que tiene propuesta a la
                     Sociedad de <unclear reason="illegible" cert="high">pro</unclear>
                     <lb/>porcionarle toda clase de plantas y posturas <lb/>para el <choice>
                         <orig>jardin botanico</orig>
@@ -254,8 +251,9 @@
                         </abbr>
                         <expan>suficientemente</expan>
                     </choice> facultados. </p>
-            </div> 
-               <div> <head>Escuela de <lb/>dibujo y <lb/>pintura </head>
+            </div>
+            <div>
+             <head>Escuela de <lb/>dibujo y <lb/>pintura </head>
             <p>El Señor <choice>
                         <abbr> Presid.<hi rendition="#sup">te</hi>
                         </abbr>
@@ -308,8 +306,7 @@
                         <orig>selo</orig>
                         <reg>selo</reg>
                     </choice> . Manisfestó su <choice>
-                        <abbr> Sria<hi rendition="#sup"><gap reason="illegible" unit="chars"
-                                    quantity="1"/>
+                        <abbr> Sria<hi rendition="#sup"><gap reason="illegible" unit="chars" quantity="1"/>
                             </hi></abbr>
                         <expan>Señoría</expan>
                     </choice>
@@ -326,8 +323,7 @@
                         <orig>ademas</orig>
                         <reg>además</reg>
                     </choice> de los sesenta pesos del alquiler de la <lb/>sala de lecciones, los
-                    veinte que deben aumen <lb/>tarse para asignarle al profesor un sueldo <lb/><gap
-                        reason="illegible" unit="words" quantity="1"/> de ochenta duros. <choice>
+                    veinte que deben aumen <lb/>tarse para asignarle al profesor un sueldo <lb/><gap reason="illegible" unit="words" quantity="1"/> de ochenta duros. <choice>
                         <orig>Hiso</orig>
                         <reg>Hizo</reg>
                     </choice> ver que debiendo <lb/>se derribar el tabique que separa las dos <lb/><choice>
@@ -408,8 +404,7 @@
                         <abbr> p.<hi rendition="#sup">a</hi></abbr>
                         <expan>para</expan>
                     </choice>
-                    <lb/>enseñanza de <lb/>de los ramos de <lb/><gap reason="illegible" unit="words"
-                        quantity="1"/>, en el <lb/>oficio de la ex<g ref="#typoHyphen"/>
+                    <lb/>enseñanza de <lb/>de los ramos de <lb/><gap reason="illegible" unit="words" quantity="1"/>, en el <lb/>oficio de la ex<g ref="#typoHyphen"/>
                     <lb/>tinguida facto<g ref="#typoHyphen"/>
                     <lb/><unclear reason="illegible" cert="high">ría</unclear> de tabacos </head>
             <p>Un plan <choice>
@@ -490,8 +485,7 @@
                     </choice>, y la <choice>
                         <orig> fe <lb break="no"/>lis</orig>
                         <reg>feliz</reg>
-                    </choice> circunstancia de estar encargado por <gap reason="illegible"
-                        unit="words" quantity="1"/>
+                    </choice> circunstancia de estar encargado por <gap reason="illegible" unit="words" quantity="1"/>
                     <lb/>el <choice>
                         <abbr> S.<hi rendition="#sup">or</hi>
                         </abbr>
@@ -1071,7 +1065,7 @@
                         <orig>numerarío</orig>
                         <reg>numerario</reg>
                     </choice>
-                    <pb n="3r" facs="prohd0024_3r.tif"/>/> <lb/><choice>
+                    <pb n="3r" facs="prohd0024_3r.tif"/> <lb/><choice>
                         <abbr>R<hi rendition="#sup">e</hi>conociendo</abbr>
                         <expan>reconociendo</expan>
                     </choice> la Junta en este joven todas <lb/>las <choice>
@@ -1207,7 +1201,7 @@
                     </choice> Peñalver</signed>
                 <signed>W</signed>
             </closer>
-             
+            </div>
         </body>
     </text>
 </TEI>
