@@ -1141,10 +1141,10 @@
                         </choice> su obsequio <lb/>en la obra <choice>
                             <orig>íntitulada</orig>
                             <reg>intitulada</reg>
-                        </choice> de<seg type="comment">
-                            <orig> dístributiones geogra<lb break="no"/>phica plantarum</orig>
+                        </choice> de dístributiones geogra<lb break="no"/>phica <seg type="comment">
+                            <orig>plantarum</orig>
                             <note>Se refiere a "De distributione geographica plantarum secundum
-                                coeli temperiem et altitudinem montium"</note></seg>, que le <choice>
+                                coeli temperiem et altitudinem montium".</note></seg>, que le <choice>
                             <abbr> R<hi rendition="#sup">e</hi>mítío</abbr>
                             <expan>remitió</expan>
                         </choice> por mano <lb/>de <choice>
