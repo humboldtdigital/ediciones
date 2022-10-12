@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
-<!--<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
+<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
     type="document" xml:id="ed_sj1_wwf_y5b">
     <teiHeader>
@@ -611,7 +611,7 @@
                     </choice> Zubieta </p>
                         
                         <p>
-                            <pb n="5r" facs="prohd0025_5r.tif"/>
+                    <pb n="5r" facs="prohd0025_5r.tif"/>
                     <lb/><date when="1828-01-07" calendar="#Gregorian">7 de Enero de 1828</date>
                     <lb/>Al <choice>
                         <abbr>Ayuntam.<hi rendition="#sup">to</hi></abbr>
@@ -692,18 +692,17 @@
                     <lb/>obra en la libreria para en <lb/>su vista determinar lo <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> corres<g ref="#typoHyphen"/>
-                    <lb/>ponda, y <unclear reason="illegible" cert="high">acomeq.</unclear><hi
-                        rendition="#sup"><unclear reason="illegible" cert="high">a</unclear></hi>
-                    del <choice>
+                    </choice> corres<g ref="#typoHyphen"/><lb break="no"/>ponda, y <unclear
+                        reason="illegible" cert="high">acomeq.</unclear><hi rendition="#sup"
+                            ><unclear reason="illegible" cert="high">a</unclear></hi> del <choice>
                         <abbr>of.<hi rendition="#sup">o</hi></abbr>
                         <expan>oficio</expan>
                     </choice>
                     <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> acer<g ref="#typoHyphen"/>
-                    <lb/>ca del particular me pasaron <lb/>los <choice>
+                    </choice> acer<g ref="#typoHyphen"/><lb break="no"/>ca del particular me pasaron
+                    <lb/>los <choice>
                         <abbr>Sre</abbr>
                         <expan>Señores</expan>
                     </choice>
@@ -728,7 +727,7 @@
                <pb n="5v" facs="prohd0025_5v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
                            
                         <p>
-                            <pb n="6r" facs="prohd0025_6r.tif"/>
+                    <pb n="6r" facs="prohd0025_6r.tif"/>
                     <lb/>
                     <choice>
                         <abbr>Exmo.</abbr>
@@ -766,10 +765,10 @@
                     <lb/>bre la <choice>
                         <sic>Ysla</sic>
                         <corr>Isla</corr>
-                    </choice> de Cuba", existente en las librerias he proce<g ref="#typoHyphen"/>
-                    <lb/>dido a evacuarla en esta mañana, recogiendo aquellos <choice>
-                        <abbr>i<g ref="#typoHyphen"/>
-                            <lb/>gualm.<hi rendition="#sup">te</hi></abbr>
+                    </choice> de Cuba", existente en las librerias he proce<g ref="#typoHyphen"/><lb
+                        break="no"/>dido a evacuarla en esta mañana, recogiendo aquellos <choice>
+                        <abbr>i<g ref="#typoHyphen"/><lb break="no"/>gualm.<hi rendition="#sup"
+                                >te</hi></abbr>
                         <expan>igualmente</expan>
                     </choice> conforme inspiraba la letra y copiacen del oficial <lb/>
                     <choice>
@@ -819,8 +818,7 @@
                         <abbr>D.</abbr>
                         <expan>Don</expan>
                     </choice> Nicolas <lb/>Ramos, cuyo numero de siete volumenes quedan en mi po<g
-                        ref="#typoHyphen"/>
-                    <lb/>der a la <choice>
+                        ref="#typoHyphen"/><lb break="no"/>der a la <choice>
                         <abbr>disposic.<hi rendition="#sup">n</hi></abbr>
                         <expan>dispocisión</expan>
                     </choice> de <choice>
@@ -880,7 +878,7 @@
                     </choice> Prospero Amador Garcia; y tal vez </p>
                       
                         <p>
-                            <pb n="6v" facs="prohd0025_6v.tif"/>
+                    <pb n="6v" facs="prohd0025_6v.tif"/>
                     <lb/>tomen otros en distintos almacenes, si es <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
@@ -891,15 +889,17 @@
                     </choice> no siendo <lb/>licita practicar <choice>
                         <abbr>dilig.<hi rendition="#sup">a</hi></abbr>
                         <expan>diligencia</expan>
-                    </choice> extraña de libreria publica me he abu<lb break="no"/>rrido de avanzar
-                    con pasos <choice>
+                    </choice> extraña de libreria <choice>
+                        <orig>publica</orig>
+                        <reg>pública</reg>
+                    </choice> me he abu<lb break="no"/>rrido de avanzar con pasos <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice>
                     <choice>
                         <abbr>VE.</abbr>
                         <expan>Vuestra Excelencia</expan>
-                    </choice> pobra marcar con su acostum<lb break="no"/>brado acuerdo. <lb/>Dios <choice>
+                    </choice> podra marcar con su acostum<lb break="no"/>brado acuerdo. <lb/>Dios <choice>
                         <abbr>gue.</abbr>
                         <expan>guie</expan>
                     </choice> a <choice>
@@ -1206,8 +1206,10 @@
 
                <p><pb n="13r" facs="prohd0025_13r.tif"/>
                     <lb/>Como mejor puedo y debo certifico: que en el cabildo ordi- <lb/>nario
-                    celebrado en <date when="1828-01-11" calendar="#Gregorian">once de Enero
-                        ultimo</date>
+                    celebrado en <date when="1828-01-11" calendar="#Gregorian">once de Enero <choice>
+                            <orig>ultimo</orig>
+                            <reg>ultimo</reg>
+                        </choice></date>
                     <choice>
                         <orig>á</orig>
                         <reg>a</reg>
