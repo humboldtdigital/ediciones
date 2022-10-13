@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
+<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main"> Junta ordinaria del 31 de abril de 1804</title>
+                    <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                    <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                    <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+                    <editor>
+                        <persName>
+                            <surname>Terrón Quintero</surname>
+                            <forename>Grisel</forename>
+                        </persName>
+                    </editor>
+            </titleStmt>
+            <editionStmt>
+                <p>
+                    Proyecto Humboldt digital ProHD (<date>2022</date>)
+                </p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Instituto de Literatura y Lingüística "José Antonio Portuondo Valdor"</institution>
+                        <collection>Actas de la Sociedad Económica de Amigos del País</collection>
+                        <idno>
+                            <idno type="shelfmark"></idno>
+                            <idno type="uri">https://prohd.ohc.cu/xmlui/handle/21.11149/35</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Manuscrito. Buen estado de conservación que permite su lectura.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <orgName>Real Sociedad de Amigos del País</orgName>
+                <date when="1804-04-30">31 de abril de 1804</date>
+                <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
+            </creation>
+            <langUsage>
+                <language ident="es">Español]</language>
+            </langUsage>
+            <abstract xml:lang="es">
+                <p>Acta de la Sociedad Económica de Amigos del País presidida por el Marqués de Someruelos, Gobernador y Capitán General de la isla, en la que manifiesta "que se aprovecharía del talento y conocimiento del Sr, Barón de Homboldt" en su segundo viaje a Cuba. Se aborda las investgación de umboldt sobre los cerros mineralógicos de Guanabacoa.</p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>[Nein]</p>
+            </abstract>
+            <textClass>
+                <catRef>
+                </catRef>
+                <catRef scheme="#subject" target="#science"/>
+                <catRef scheme="#subject" target="#education"/>
+                <catRef scheme="#subject" target="#mineralogy"/>
+                <catRef scheme="#subject" target="#geography"/>
+                <catRef scheme="#subject" target="#geology"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#genre" target="#minutes"/>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="minutes"/>
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="mineralogy"/>
+                        <category xml:id="geology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" facs="prohd0027_1.tif"/>
+            <fw type="folNum">122</fw>
+            <div>
+                <head>Junta
+                    <choice>
+                            <abbr><orig>ord.<hi rendition="#sup">a</hi></orig></abbr>
+                            <expan>ordinaria</expan>
+                        </choice>
+                     del <date when="1804-04-30" calendar="#Gregorian"><choice>
+                            <sic>31</sic>
+                            <corr cert="high">30</corr>
+                        </choice> de <choice>
+                            <abbr>Ab<hi rendition="#sup">l</hi></abbr>
+                            <expan>abril</expan>
+                        </choice> del 1804</date>
+                    <lb/>Presidente<lb/>El <choice>
+                        <abbr>S<hi rendition="#sup">or</hi>.</abbr>
+                        <expan>Señor</expan>
+                    </choice> Marqués deSomeruelos <lb/>Gobernador y <choice>
+                        <abbr>Cap.<hi rendition="#sup">n</hi></abbr>
+                        <expan>Capitán</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Gen.<hi rendition="#sup">l</hi></abbr>
+                        <expan>General</expan>
+                    </choice>
+                </head>
+                </div>
+            <div>
+                <head>Socios <choice>
+                        <abbr>concurr.<hi rendition="#sup">tes</hi></abbr>
+                        <expan>concurrentes</expan>
+                    </choice> los <choice>
+                        <abbr>S.<hi rendition="#sup">res</hi></abbr>
+                        <expan>Señores</expan>
+                    </choice></head>
+                <list>
+                    <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <orig>Jose</orig>
+                            <reg>José</reg>
+                        </choice> de Ylincheta. Director</item>
+                <item>El Conde de Vallellano. Censor</item>
+                 <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice> B. D. de Heredia. <choice>
+                            <abbr>Secret.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Secretario</expan>
+                        </choice></item>
+                    <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice> Manuel Garcia. <choice>
+                            <abbr>Tesor.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Tesorero</expan>
+                        </choice></item>
+                    <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice> Pablo Boloiso. <choice>
+                            <abbr>Cont.<hi rendition="#sup">or</hi></abbr>
+                            <expan>Contador</expan>
+                        </choice></item>
+                    <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Fran.<hi rendition="#sup">co</hi></abbr>
+                            <expan>Francisco</expan>
+                        </choice> de Arango 154</item>
+                    <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice> Felix Feranes 159</item>
+                    <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice> Juan Tirry y Laci 15<gap reason="illegible" unit="chars"
+                            quantity="1"/>
+                    </item>            
+            </list>
+            </div>
+                <div>
+                <p><choice>
+                        <orig>Aprovado</orig>
+                        <reg>Aprobado</reg>
+                    </choice> el acuerdo de la Junta <choice>
+                        <orig>ultima</orig>
+                        <reg>última</reg>
+                    </choice>; se leyó <lb/><choice>
+                        <orig>lacensura</orig>
+                        <reg>la censura</reg>
+                    </choice>
+                    <choice>
+                        <orig>quepresentó</orig>
+                        <reg>que presentó</reg>
+                    </choice> la <lb/><choice>
+                        <orig>Comísion</orig>
+                        <reg>Comisión</reg>
+                    </choice> nombrada <choice>
+                        <abbr>p.<hi rendition="#sup">r</hi></abbr>
+                        <expan>por</expan>
+                    </choice> el <lb/>Papel <choice>
+                        <orig>Períodíco</orig>
+                        <reg>Periódico</reg>
+                    </choice>
+                    <choice>
+                        <abbr>correspond.<hi rendition="#sup">te</hi></abbr>
+                        <expan>correspondiente</expan>
+                    </choice>
+                    <lb/><choice>
+                        <orig>álos</orig>
+                        <reg>a los</reg>
+                    </choice> años <choice>
+                        <orig>de<date when="1802" calendar="#Gregorian">1802</date></orig>
+                        <reg>y 1802</reg>
+                    </choice>. <choice>
+                        <orig>y<date when="1803" calendar="#Gregorian">1803</date></orig>
+                        <reg>y 1803</reg>
+                    </choice>; exa<lb break="no"/>men <choice>
+                        <orig>asus</orig>
+                        <reg>a sus</reg>
+                    </choice> cuentas, <choice>
+                        <orig>é</orig>
+                        <reg>e</reg>
+                    </choice>
+                    <choice>
+                        <orig>íngre<lb break="no"/>so</orig>
+                        <reg>ingreso</reg>
+                    </choice> de <choice>
+                        <orig>Ymprenta</orig>
+                        <reg>imprenta</reg>
+                    </choice>. Por ellos se<lb/>hace <choice>
+                        <orig>vér</orig>
+                        <reg>ver</reg>
+                    </choice>, están arregladas estas dos <choice>
+                        <orig>ultimas</orig>
+                        <reg>últimas</reg>
+                    </choice> partes, y confor<lb/>me, lo deducido para el fondo <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice>
+                    <choice>
+                        <abbr>Rl</abbr>
+                        <expan>Real</expan>
+                    </choice> Sociedad: y por lo <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice><lb/>hace <choice>
+                        <abbr>ála</abbr>
+                        <expan>a la</expan>
+                    </choice> parte Literaria y Económica del expresado<lb/>Papel, hace <choice>
+                        <orig>laCensura</orig>
+                        <reg>la censura</reg>
+                    </choice> sus <choice>
+                        <orig>observacíones</orig>
+                        <reg>observaciones</reg>
+                    </choice>, notando los defectos <lb/>que ha encontrado, en lo que sobre aquellos
+                    ramos <choice>
+                        <orig>seha</orig>
+                        <reg>se ha</reg>
+                    </choice>
+                    <lb/>publicado en él. <choice>
+                        <orig>Aconsequencía</orig>
+                        <reg>A consecuencia</reg>
+                    </choice>
+                    <choice>
+                        <orig>delo</orig>
+                        <reg>de lo</reg>
+                    </choice>
+                    <choice>
+                        <orig>qual</orig>
+                        <reg>cual</reg>
+                    </choice>, acordó la <unclear reason="illegible" cert="high"/><lb/>ta; que
+                    conforme al año <date when="1929" calendar="#Gregorian">29</date>. del Plan de <choice>
+                        <orig>Redaccion</orig>
+                        <reg>Redacción</reg>
+                    </choice>, y en <lb/>la forma que previene, se hagan al redactor las adver<g
+                        ref="#typoHyphen"/><lb break="no"/>tencias correspondientes, <choice>
+                        <orig>manísfestandole</orig>
+                        <reg>manifestándole</reg>
+                    </choice> la <choice>
+                        <orig>correcíon</orig>
+                        <reg>corrección</reg>
+                    </choice> que<lb/>necesita otro Papel <choice>
+                        <orig>quando</orig>
+                        <reg>cuando</reg>
+                    </choice> trate de aquellos particulares,<lb/>para <choice>
+                        <orig>restablecérle</orig>
+                        <reg>restablecerle</reg>
+                    </choice> y <choice>
+                        <orig>mantenérle</orig>
+                        <reg>mantenerle</reg>
+                    </choice> en el <choice>
+                        <orig>credito</orig>
+                        <reg>crédito</reg>
+                    </choice>
+                    <choice>
+                        <orig>pub:<hi rendition="#sup">co</hi></orig>
+                        <reg>público</reg>
+                    </choice> y <choice>
+                        <orig>tam<g ref="#typoHyphen"/><lb break="no"/>bien</orig>
+                        <reg>también</reg>
+                    </choice>
+                    <del rendition="#s">(<choice>
+                            <orig>ala</orig>
+                            <reg>a la</reg>
+                        </choice> parte Literaria y Económica del expresado Papel)</del>
+                    <lb/>que la Junta <choice>
+                        <orig>há</orig>
+                        <reg>ha</reg>
+                    </choice> reparado, no <choice>
+                        <orig>habérse</orig>
+                        <reg>haberse</reg>
+                    </choice>
+                    <choice>
+                        <orig>dádo</orig>
+                        <reg>dado</reg>
+                    </choice> cumplimiento<lb/><choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> los artículos 5. y 31. de <choice>
+                        <abbr>dho</abbr>
+                        <expan>dicho</expan>
+                    </choice> Plan de <choice>
+                        <orig>redaccíon</orig>
+                        <reg>redacción</reg>
+                    </choice>, <choice>
+                        <orig>ní</orig>
+                        <reg>ni</reg>
+                    </choice> al <choice>
+                        <abbr>8.<hi rendition="#sup">o</hi></abbr>
+                        <expan>octavo</expan>
+                    </choice> del<lb/>mismo, que <choice>
+                        <orig>és</orig>
+                        <reg>es</reg>
+                    </choice> indispensable tengan su efecto, para lo demás<lb/>que corresponde <choice>
+                        <orig>ála</orig>
+                        <reg>a la</reg>
+                    </choice> Sociedad; lo <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> se <choice>
+                        <orig>advetira</orig>
+                        <reg>advertirá</reg>
+                    </choice> así al <unclear reason="illegible" cert="high"/>
+                    <lb/>Redactor, <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice> su puntual <choice>
+                        <abbr>cumplim.<hi rendition="#sup">to</hi></abbr>
+                        <expan>cumplimiento</expan>
+                    </choice></p>
+                <p>
+                    <add place="intralinear">X</add> El <choice>
+                        <abbr>Sor.<hi rendition="#sup">ñ</hi></abbr>
+                        <expan>Señor</expan>
+                    </choice> Presidente <choice>
+                        <abbr>Gob.<hi rendition="#sup">or</hi></abbr>
+                        <expan>Gobernador</expan>
+                    </choice> y <choice>
+                        <abbr>Cap.<hi rendition="#sup">n</hi></abbr>
+                        <expan>Capitán</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Gen.<hi rendition="#sup">l</hi></abbr>
+                        <expan>General</expan>
+                    </choice>
+                    <choice>
+                        <orig>manifes<lb break="no"/>tó</orig>
+                        <reg>manifestó</reg>
+                    </choice>, que deseoso de <choice>
+                        <orig>aprovechárse</orig>
+                        <reg>aprovecharse</reg>
+                    </choice> del talento y <choice>
+                        <abbr>conocim.<hi rendition="#sup">to</hi></abbr>
+                        <expan>conocimiento</expan>
+                    </choice> del <lb/><choice>
+                        <abbr>So<unclear reason="illegible" cert="high">r</unclear>.</abbr>
+                        <expan>Señor</expan>
+                    </choice>
+                    <hi rendition="#u" hand="#unkown"><choice>
+                            <orig>Baron</orig>
+                            <reg>Barón</reg>
+                        </choice> de Humboldt</hi>, <choice>
+                        <orig>celebre</orig>
+                        <reg>célebre</reg>
+                    </choice>
+                    <choice>
+                        <orig>viagero</orig>
+                        <reg>viajero</reg>
+                    </choice>
+                    <choice>
+                        <orig>Pruciano</orig>
+                        <reg>prusiano</reg>
+                    </choice>, que <choice>
+                        <orig>segun</orig>
+                        <reg>según</reg>
+                    </choice><lb break="no"/>da <choice>
+                        <orig>véz</orig>
+                        <reg>vez</reg>
+                    </choice> se halla en <choice>
+                        <orig>ésta</orig>
+                        <reg>esta</reg>
+                    </choice> Plaza de regreso <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice> Europa, le <choice>
+                        <orig>ha<lb break="no"/>bia</orig>
+                        <reg>había</reg>
+                    </choice> pedido reconociese lo <choice>
+                        <orig>Zerros</orig>
+                        <reg>Cerros</reg>
+                    </choice>
+                    <choice>
+                        <orig>mineralogicos</orig>
+                        <reg>mineralógicos</reg>
+                    </choice> de <choice>
+                        <orig>Guana<lb break="no"/>v<unclear reason="illegible" cert="high"
+                                >a</unclear>coa</orig>
+                        <reg>Guanabacoa</reg>
+                    </choice>, y le comunicase las noticias y observaciones <choice>
+                        <orig>q</orig>
+                        <reg>que</reg>
+                    </choice>
+                    <pb n="2" facs="prohd0027_2.tif"/>
+                    <fw type="folNum">123</fw> hiciese de ellos, para que contando al Cuerpo <choice>
+                        <orig>Patriotico</orig>
+                        <reg>Patriótico</reg>
+                    </choice>
+                    <lb/>pudiesen servir en lo sucesivo <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> algunos efectos <choice>
+                        <orig>utiles</orig>
+                        <reg>útiles</reg>
+                    </choice> y <lb/>convenientes; y <choice>
+                        <orig>q.<hi rendition="#sup">e</hi></orig>
+                        <reg>que</reg>
+                    </choice>
+                    <choice>
+                        <orig>habiendolo</orig>
+                        <reg>habiéndolo</reg>
+                    </choice> verificado, las manifestaba <lb/>su <choice>
+                        <abbr>Sria.</abbr>
+                        <expan>Señoría</expan>
+                    </choice> en el Papel <choice>
+                        <abbr>orig,<hi rendition="#sup">l</hi></abbr>
+                        <expan>original</expan>
+                    </choice> que mandó leer, <choice>
+                        <orig>cuyó</orig>
+                        <reg>cuyo</reg>
+                    </choice> tenor <lb/><choice>
+                        <orig>és</orig>
+                        <reg>es</reg>
+                    </choice> el <choice>
+                        <abbr>sig<hi rendition="#sup"><hi rendition="#uu">te</hi></hi></abbr>
+                        <expan>siguiente</expan>
+                    </choice>, <choice>
+                        <abbr>Sor</abbr>
+                        <expan>Señor</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Presid.<hi rendition="#sup">te</hi></abbr>
+                        <expan>Presidente</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Gon.<hi rendition="#sup">or</hi></abbr>
+                        <expan>Gobernador</expan>
+                    </choice> y <choice>
+                        <abbr>Cap.<hi rendition="#sup">n</hi></abbr>
+                        <expan>Capitán</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Gen.<hi rendition="#sup">l</hi></abbr>
+                        <expan>General</expan>
+                    </choice>
+                    <quote rendition="#i">Me apresuro <lb/>en cumplir con la orden que <choice>
+                            <abbr>Vs.</abbr>
+                            <expan>usted</expan>
+                        </choice> se <choice>
+                            <orig>há</orig>
+                            <reg>ha</reg>
+                        </choice> servido <choice>
+                            <orig>dárme</orig>
+                            <reg>darme</reg>
+                        </choice>
+                        <choice>
+                            <orig>co<g ref="#typoHyphen"/><lb break="no"/>municandole</orig>
+                            <reg>comunicándole</reg>
+                        </choice> la breve noticia <choice>
+                            <orig>míneralogíca</orig>
+                            <reg>mineralógica</reg>
+                        </choice> del Cerro de <lb/><choice>
+                            <abbr>Guanav<hi rendition="#sup"><hi rendition="#uu">a</hi></hi></abbr>
+                            <expan>Guanabacoa</expan>
+                        </choice> Toda la parte Occidental <choice>
+                            <orig>dela</orig>
+                            <reg>de la</reg>
+                        </choice>
+                        <choice>
+                            <orig>Ysla</orig>
+                            <reg>Isla</reg>
+                        </choice>
+                        <choice>
+                            <orig>deCuba</orig>
+                            <reg>de Cuba</reg>
+                        </choice>
+                        <lb/>desde el meridiano <choice>
+                            <orig>dela</orig>
+                            <reg>de la</reg>
+                        </choice>
+                        <choice>
+                            <orig>Trínídad</orig>
+                            <reg>Trinidad</reg>
+                        </choice> consiste de capas <hi rendition="#u">se<g ref="#typoHyphen"/><lb
+                                break="no"/>cundarias</hi>
+                        <choice>
+                            <orig>depiedras</orig>
+                            <reg>de piedras</reg>
+                        </choice>
+                        <choice>
+                            <orig>decál</orig>
+                            <reg>de cal</reg>
+                        </choice>, yeso y de formaciones de <lb/>areniscas, <choice>
+                            <orig>dela</orig>
+                            <reg>de la</reg>
+                        </choice>
+                        <choice>
+                            <orig>qual</orig>
+                            <reg>cual</reg>
+                        </choice> la una <choice>
+                            <orig>és</orig>
+                            <reg>es</reg>
+                        </choice> caliza blanca, <choice>
+                            <orig>yla</orig>
+                            <reg>y la</reg>
+                        </choice> otra <lb/>(piedra de <choice>
+                            <orig>canteria</orig>
+                            <reg>cantería</reg>
+                        </choice>) Rosa y arcillosa. En medio de <choice>
+                            <orig>éstas</orig>
+                            <reg>estas</reg>
+                        </choice>
+                        <lb/>capas llenas <choice>
+                            <orig>decuerpos</orig>
+                            <reg>de cuerpos</reg>
+                        </choice>
+                        <choice>
+                            <orig>organízados</orig>
+                            <reg>organizados</reg>
+                        </choice>, petrificados, se levanta <lb/>una cadena de cerritos que entre <choice>
+                            <orig>regla</orig>
+                            <reg>Regla</reg>
+                        </choice> y <choice>
+                            <orig>Guanavacoa</orig>
+                            <reg>Guanabacoa</reg>
+                        </choice>
+                        <lb/>llegan <choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> 40 toesas de altura sobre el <choice>
+                            <orig>nível</orig>
+                            <reg>nivel</reg>
+                        </choice> del mar, y <lb/>cuya <choice>
+                            <orig>formacion</orig>
+                            <reg>formación</reg>
+                        </choice>
+                        <choice>
+                            <orig>és</orig>
+                            <reg>es</reg>
+                        </choice> anterior <choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> la existencia <choice>
+                            <orig>delos</orig>
+                            <reg>de los</reg>
+                        </choice>
+                        <choice>
+                            <orig>aníma<lb break="no"/>les</orig>
+                            <reg>animales</reg>
+                        </choice>, <choice>
+                            <orig>ó</orig>
+                            <reg>o</reg>
+                        </choice>
+                        <hi rendition="#u"><choice>
+                                <orig>prímitíva</orig>
+                                <reg>primitiva</reg>
+                            </choice></hi>. La mayor parte de <choice>
+                            <orig>éstas</orig>
+                            <reg>estas</reg>
+                        </choice> colinas primi<g ref="#typoHyphen"/><lb break="no"/>tivas consiste
+                        en <hi rendition="#u">serpentinas</hi>, cuyas capas y regularmente <lb/><choice>
+                            <orig>ínclinadas</orig>
+                            <reg>inclinadas</reg>
+                        </choice> al norte y nordeste descansan (cerca de Mari<g ref="#typoHyphen"
+                            /><lb break="no"/>melena) sobre una roca bastante rara, que los
+                            mineralo<g ref="#typoHyphen"/><lb break="no"/>gistas modernos llaman <hi
+                            rendition="#u">Syenita</hi> por <choice>
+                            <orig>hallárse</orig>
+                            <reg>hallarse</reg>
+                        </choice> cerca de <lb/>Syene en el Alto Egipto. La <hi rendition="#u"
+                            >Serpentina</hi>
+                        <choice>
+                            <orig>és</orig>
+                            <reg>es</reg>
+                        </choice> una <choice>
+                            <orig>píedra</orig>
+                            <reg>piedra</reg>
+                        </choice> tal<g ref="#typoHyphen"/><lb break="no"/>cosa, que se trabaja en <choice>
+                            <orig>Ytalia</orig>
+                            <reg>Italia</reg>
+                        </choice> y <choice>
+                            <orig>Saxonia</orig>
+                            <reg>Sajonia</reg>
+                        </choice>
+                        <choice>
+                            <orig>p.<hi rendition="#sup">a</hi>Urnas</orig>
+                            <reg>para urnas</reg>
+                        </choice>, Vasos, <lb/>y Tinteros. La de <choice>
+                            <orig>guanavacoa</orig>
+                            <reg>Guanabacoa</reg>
+                        </choice> tomaría un pulido muy <lb/>bello <choice>
+                            <orig>ála</orig>
+                            <reg>a la</reg>
+                        </choice> vista. La Serpentina <choice>
+                            <orig>és</orig>
+                            <reg>es</reg>
+                        </choice> una Roca muy es<g ref="#typoHyphen"/><lb break="no"/>casa en el
+                        nuevo Continente, y apenas se conoce sino cerca <lb/>de Jaruma en la <choice>
+                            <abbr>Prov.<hi rendition="#sup">a</hi></abbr>
+                            <expan>provincia</expan>
+                        </choice> de Guito, y cerca de <choice>
+                            <abbr>S.<hi rendition="#sup">n</hi></abbr>
+                            <expan>San</expan>
+                        </choice> Juan y la <lb/><gap reason="illegible" unit="words" quantity="1"/>
+                        <choice>
+                            <orig>deCoro</orig>
+                            <reg>de Coro</reg>
+                        </choice> en los llanos <choice>
+                            <orig>deCaracas</orig>
+                            <reg>de Caracas</reg>
+                        </choice>. <choice>
+                            <abbr>Aúnq.<hi rendition="#sup">e</hi></abbr>
+                            <expan>Aunque</expan>
+                        </choice> la <choice>
+                            <orig>Serpentína</orig>
+                            <reg>serpentina</reg>
+                        </choice><lb/>peca <choice>
+                            <abbr>generalm.<hi rendition="#sup">te</hi></abbr>
+                            <expan>generalmente</expan>
+                        </choice> por <choice>
+                            <orig>sér</orig>
+                            <reg>ser</reg>
+                        </choice> algo blanda, como toda piedra debajo <lb/>de tierra, <choice>
+                            <orig>magnecíal</orig>
+                            <reg>magnecial</reg>
+                        </choice>, <choice>
+                            <orig>nó</orig>
+                            <reg>no</reg>
+                        </choice> dudo que <del rendition="#s"><gap reason="illegible" unit="words"
+                                quantity="1"/></del> la <choice>
+                            <orig>profundídad</orig>
+                            <reg>profundidad</reg>
+                        </choice> se ha<g ref="#typoHyphen"/><lb break="no"/>llasen piedras aptas <choice>
+                            <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                            <expan>para</expan>
+                        </choice> el empedrado, <choice>
+                            <orig>tán</orig>
+                            <reg>tan</reg>
+                        </choice>
+                        <choice>
+                            <orig>apetecído</orig>
+                            <reg>apetecido</reg>
+                        </choice>, de <lb/><choice>
+                            <orig>laCapital</orig>
+                            <reg>la Capital</reg>
+                        </choice>. Los cerritos de <choice>
+                            <abbr>Guanav.<hi rendition="#sup">a</hi></abbr>
+                            <expan>Guanabacoa</expan>
+                        </choice>
+                        <choice>
+                            <orig>hán</orig>
+                            <reg>han</reg>
+                        </choice>
+                        <choice>
+                            <orig>tenído</orig>
+                            <reg>tenido</reg>
+                        </choice> fama <lb/>de metales. Puede ser que no se funda sino sobre la
+                        <lb/>observacíon de <choice>
+                            <orig>sér</orig>
+                            <reg>ser</reg>
+                        </choice> su material diferente <choice>
+                            <orig>de él</orig>
+                            <reg>del</reg>
+                        </choice> que cons <pb n="3" facs="prohd0027_3.tif"/>
+                        <fw type="folNum">124</fw>tituye los terrenos <choice>
+                            <orig>al rededor</orig>
+                            <reg>alrededor</reg>
+                        </choice>. Los <choice>
+                            <orig>unícos</orig>
+                            <reg>únicos</reg>
+                        </choice> metales que <lb/>suele haber en otras partes del mundo en la
+                            Serpen<g ref="#typoHyphen"/><lb break="no"/>tina son Cobre y Pyrita <gap
+                            reason="illegible" unit="words" quantity="1"/> : el cobre algunas <choice>
+                            <orig>vezes</orig>
+                            <reg>veces</reg>
+                        </choice>
+                        <lb/>con ley de oro muy <choice>
+                            <orig>baxa</orig>
+                            <reg>baja</reg>
+                        </choice>. En las lomas al fuerte <choice>
+                            <orig>delos</orig>
+                            <reg>de los</reg>
+                        </choice>
+                        <lb/>baños <choice>
+                            <orig>deBarreto</orig>
+                            <reg>de Barreto</reg>
+                        </choice> cerca de <choice>
+                            <abbr>Guanav.<hi rendition="#sup">a</hi></abbr>
+                            <expan>Guanabacoa</expan>
+                        </choice>
+                        <choice>
+                            <orig>hé</orig>
+                            <reg>he</reg>
+                        </choice> observado vetillas <lb/>de <choice>
+                            <orig>quarzo</orig>
+                            <reg>cuarzo</reg>
+                        </choice> con <hi rendition="#u">pyrita</hi>
+                        <hi rendition="#u">cobriza</hi>. <choice>
+                            <orig>Nó</orig>
+                            <reg>No</reg>
+                        </choice> me <choice>
+                            <orig>hán</orig>
+                            <reg>han</reg>
+                        </choice> parecido dig<g ref="#typoHyphen"/><lb break="no"/>nas de mayores <choice>
+                            <orig>ínvestígacíones</orig>
+                            <reg>investigaciones</reg>
+                        </choice>, en un <choice>
+                            <orig>Paíf</orig>
+                            <reg>país</reg>
+                        </choice> cuya ver<g ref="#typoHyphen"/><lb break="no"/>dadera <choice>
+                            <orig>ríqueza</orig>
+                            <reg>riqueza</reg>
+                        </choice>
+                        <choice>
+                            <orig>consíste</orig>
+                            <reg>consiste</reg>
+                        </choice> en la <choice>
+                            <orig>agrícultura</orig>
+                            <reg>agricultura</reg>
+                        </choice>, y en el <choice>
+                            <orig>qual</orig>
+                            <reg>cual</reg>
+                        </choice>
+                        <lb/>el trabajo <choice>
+                            <orig>delas</orig>
+                            <reg>de las</reg>
+                        </choice>
+                        <choice>
+                            <orig>mínas</orig>
+                            <reg>minas</reg>
+                        </choice> convidaria <choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> la <choice>
+                            <orig>olgazaneria</orig>
+                            <reg>holgazanería</reg>
+                        </choice> de <lb/><choice>
+                            <orig>buscár</orig>
+                            <reg>buscar</reg>
+                        </choice> lo que se debe producir.= Las aguas de <choice>
+                            <orig>Guanavacoa</orig>
+                            <reg>Guanabacoa</reg>
+                        </choice>
+                        <lb/>contienen <gap reason="illegible" unit="pages" quantity="1"/> de
+                        fieras, y un poco de <choice>
+                            <orig>hydrogeno</orig>
+                            <reg>hidrógeno</reg>
+                        </choice> sulfurado <lb/>que indica la <choice>
+                            <orig>desconposícíon</orig>
+                            <reg>descomposición</reg>
+                        </choice>
+                        <choice>
+                            <orig>delos</orig>
+                            <reg>de los</reg>
+                        </choice> pyrites. Si la Habana fuera <lb/>un <choice>
+                            <orig>Paif</orig>
+                            <reg>país</reg>
+                        </choice> visitado por naturalistas, el <choice>
+                            <orig>zerrito</orig>
+                            <reg>cerrito</reg>
+                        </choice> de <choice>
+                            <abbr>Guanav.<hi rendition="#sup">a</hi></abbr>
+                            <expan>Guanabacoa</expan>
+                        </choice><lb/>tendría <choice>
+                            <orig>mas</orig>
+                            <reg>mas</reg>
+                        </choice> fama en el mundo. Alguna <choice>
+                            <orig>hé</orig>
+                            <reg>he</reg>
+                        </choice> buscado dar<g ref="#typoHyphen"/><lb break="no"/>le en una Memoria
+                        mía <choice>
+                            <orig>ímpresa</orig>
+                            <reg>impresa</reg>
+                        </choice> en Madrid el año 1802 <lb/>en los Annales del Abate Cavaníllas. <choice>
+                            <orig>Tambien</orig>
+                            <reg>También</reg>
+                        </choice>
+                        <choice>
+                            <orig>hé</orig>
+                            <reg>he</reg>
+                        </choice>
+                        <choice>
+                            <orig>envía<g ref="#typoHyphen"/><lb break="no"/>do</orig>
+                            <reg>enviado</reg>
+                        </choice> varios <choice>
+                            <orig>forciles</orig>
+                            <reg>fósiles</reg>
+                        </choice> de <choice>
+                            <abbr>Guanav.<hi rendition="#sup">a</hi></abbr>
+                            <expan>Guanabacoa</expan>
+                        </choice> al <choice>
+                            <orig>Gavinete</orig>
+                            <reg>Gabinete</reg>
+                        </choice> del Rey <choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> Ma<lb break="no"/>drid, y al Museo <choice>
+                            <orig>deParis</orig>
+                            <reg>de París</reg>
+                        </choice>. La <choice>
+                            <orig><hi rendition="#u">Calcedonía</hi></orig>
+                            <reg>calcedonia</reg>
+                        </choice>
+                        <choice>
+                            <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                            <expan>que</expan>
+                        </choice> se halla <unclear reason="illegible" cert="high">en</unclear>
+                        <lb/>vetas al Este <choice>
+                            <orig>delos</orig>
+                            <reg>de los</reg>
+                        </choice> baños <choice>
+                            <orig>deBarreto</orig>
+                            <reg>de Barreto</reg>
+                        </choice> cerca al palmar <choice>
+                            <orig><lb/>és</orig>
+                            <reg>es</reg>
+                        </choice> superior <choice>
+                            <orig>ála</orig>
+                            <reg>a la</reg>
+                        </choice>
+                        <choice>
+                            <orig>celebre</orig>
+                            <reg>célebre</reg>
+                        </choice> Calcedonia del <gap reason="illegible" unit="pages" quantity="1"/>
+                        ; pero los <lb/>derrumbes causados por los aguaceros <choice>
+                            <orig>hán</orig>
+                            <reg>han</reg>
+                        </choice> tapado parte <choice>
+                            <orig><lb/>dela</orig>
+                            <reg>de la</reg>
+                        </choice> veta que encontré hace tres años. La Serpentina de <lb/>Regla,
+                        contiene además un <choice>
+                            <orig>forsil</orig>
+                            <reg>fósil</reg>
+                        </choice> poco <choice>
+                            <orig>conocído</orig>
+                            <reg>conocido</reg>
+                        </choice> en Europa, <lb/>y que hasta <choice>
+                            <orig>áhora</orig>
+                            <reg>ahora</reg>
+                        </choice>
+                        <choice>
+                            <orig>nó</orig>
+                            <reg>no</reg>
+                        </choice>
+                        <choice>
+                            <orig>sehabía</orig>
+                            <reg>se había</reg>
+                        </choice> descubierto <choice>
+                            <orig>sinó</orig>
+                            <reg>sino</reg>
+                        </choice> en un <lb/>solo paraje <choice>
+                            <orig>dela</orig>
+                            <reg>de la</reg>
+                        </choice> Alemania, el <hi rendition="#u">Espato de Latur</hi> cuyo res<g
+                            ref="#typoHyphen"/><lb break="no"/>plandor <choice>
+                            <orig>metalíco</orig>
+                            <reg>metálico</reg>
+                        </choice> puede haber <choice>
+                            <orig>contribuído</orig>
+                            <reg>contribuido</reg>
+                        </choice> algo <choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> la <lb/>fama <choice>
+                            <orig>deplata</orig>
+                            <reg>de plata</reg>
+                        </choice> y oro <choice>
+                            <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                            <expan>que</expan>
+                        </choice> tienen aquellos <choice>
+                            <orig>Zerritos</orig>
+                            <reg>cerritos</reg>
+                        </choice>.- Dis<g ref="#typoHyphen"/><lb break="no"/>pense <choice>
+                            <abbr>Us.</abbr>
+                            <expan>usted</expan>
+                        </choice>
+                        <choice>
+                            <orig>laprolixidad</orig>
+                            <reg>la prolijidad</reg>
+                        </choice> de <choice>
+                            <orig>ésta</orig>
+                            <reg>esta</reg>
+                        </choice> noticia, y el fastidio <choice>
+                            <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                            <expan>que</expan>
+                        </choice><lb/>le causará mi mal Castellano. Desearía <choice>
+                            <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                            <expan>que</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Us.</abbr>
+                            <expan>Usted</expan>
+                        </choice> se dig<g ref="#typoHyphen"/><lb break="no"/>nase <choice>
+                            <orig>honrárme</orig>
+                            <reg>honrarme</reg>
+                        </choice> con sus <choice>
+                            <orig>ordenes</orig>
+                            <reg>órdenes</reg>
+                        </choice>, y pido <choice>
+                            <orig>áDios</orig>
+                            <reg>a Dios</reg>
+                        </choice> guarde <lb/><choice>
+                            <orig>áUs.</orig>
+                            <reg>a Usted</reg>
+                        </choice> muchos años. Habana el <date when="1804-04-01"
+                            calendar="#Gregorian">1. de Abril de1804</date>= <lb/><choice>
+                            <abbr>Sor.S</abbr>
+                            <expan>eñor</expan>
+                        </choice> Presidente= <choice>
+                            <orig>DeUs.</orig>
+                            <reg>De Usted</reg>
+                        </choice> el <choice>
+                            <orig>mas</orig>
+                            <reg>más</reg>
+                        </choice>
+                        <choice>
+                            <abbr>seg.o</abbr>
+                            <expan>seguro</expan>
+                        </choice>
+                        <choice>
+                            <abbr>at.</abbr>
+                            <expan>atento</expan>
+                        </choice>
+                        <choice>
+                            <abbr>serv.<hi rendition="#sup">or</hi></abbr>
+                            <expan>servidor</expan>
+                        </choice> que <lb/><choice>
+                            <orig>beza</orig>
+                            <reg>besa</reg>
+                        </choice> las manos <choice>
+                            <orig>deUs.</orig>
+                            <reg>de usted</reg>
+                        </choice>= El <choice>
+                            <orig>Baron</orig>
+                            <reg>Barón</reg>
+                        </choice> de Humboldt</quote>
+                    <pb n="4" facs="prohd0027_4.tif"/><fw type="folNum">125</fw>La Junta oyó con
+                    gusto la expresada <choice>
+                        <abbr>descripc.<hi rendition="#sup">n</hi></abbr>
+                        <expan>descripción</expan>
+                    </choice>
+                    <lb/> trasladó <choice>
+                        <orig>gracías</orig>
+                        <reg>gracias</reg>
+                    </choice> al <choice>
+                        <abbr>S.<hi rendition="#sup">or</hi></abbr>
+                        <expan>Señor</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Presid.<hi rendition="#sup">te</hi></abbr>
+                        <expan>Presidente</expan>
+                    </choice> por el interés <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> toma <lb/> en <choice>
+                        <orig>éstos</orig>
+                        <reg>estos</reg>
+                    </choice> asuntos, y acordó se ponga Copia en las Actas <lb/>
+                    <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice>
+                    <choice>
+                        <orig>Socíedad</orig>
+                        <reg>Sociedad</reg>
+                    </choice>, para los <choice>
+                        <orig><unclear reason="illegible" cert="high">uzos</unclear></orig>
+                        <reg>usos</reg>
+                    </choice>
+                    <choice>
+                        <orig>sucecívos</orig>
+                        <reg>sucesivos</reg>
+                    </choice>
+                    <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> convenga: con <lb/> lo que se concluyó_ </p>
+            </div>
+           <closer>
+                <signed> Benigno Duque <choice>
+                        <orig>deHeredia </orig>
+                        <reg>de Heredia</reg>
+                    </choice></signed>
+            <signed>
+                Ylincheta
+            </signed>
+           </closer>
+        </body>
+    </text>
+</TEI>
