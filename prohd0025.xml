@@ -901,12 +901,19 @@
                         <expan>Vuestra Excelencia</expan>
                     </choice> podra marcar con su acostum<lb break="no"/>brado acuerdo. <lb/>Dios <choice>
                         <abbr>gue.</abbr>
-                        <expan>guie</expan>
+                        <expan>guarde</expan>
                     </choice> a <choice>
                         <abbr>VE.</abbr>
                         <expan>Vuestra Excelencia</expan>
                     </choice>
-                    <unclear reason="illegible" cert="high">m.a.</unclear>
+                    <choice>
+                        <abbr>m.</abbr>
+                        <expan>muchos</expan>
+                    </choice>
+                    <choice>
+                        <abbr>a.</abbr>
+                        <expan>años</expan>
+                    </choice>
                     <date when="1828-01-12" calendar="#Gregorian">Habana doce de enero de
                         <lb/>1828</date>
                     <lb/>
@@ -997,10 +1004,12 @@
                         <reg>a</reg>
                     </choice> lo <lb/>que se solicita. <lb/>DIOS </p>
 
-               <p> <pb n="7v" facs="prohd0025_7v.tif"/> <lb/>
+               <p>
+                    <pb n="7v" facs="prohd0025_7v.tif"/>
+                    <lb/>
                     <choice>
                         <abbr>gue.</abbr>
-                        <expan>guie</expan>
+                        <expan>guarde</expan>
                     </choice>
                     <choice>
                         <orig>á</orig>
@@ -1010,7 +1019,14 @@
                         <abbr>V.E.</abbr>
                         <expan>Vuestra Excelencia</expan>
                     </choice>
-                    <unclear reason="illegible" cert="high">m.a.</unclear>
+                    <choice>
+                        <abbr>m.</abbr>
+                        <expan>muchos</expan>
+                    </choice>
+                    <choice>
+                        <abbr>a.</abbr>
+                        <expan>años</expan>
+                    </choice>
                     <date when="1828-02-04" calendar="#Gregorian">Habana <lb/>y Febrero 4 de
                         1828</date>
                     <lb/>
