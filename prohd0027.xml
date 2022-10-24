@@ -92,6 +92,7 @@
                     <category xml:id="subjects">
                         <category xml:id="climatology"/>
                         <category xml:id="mineralogy"/>
+                        <category xml:id="education"/>
                         <category xml:id="geology"/>
                         <category xml:id="colonialism"/>
                         <category xml:id="demography"/>
