@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
+<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Juntas generales de la Sociedad Patriótica celebradas en los días 13, 14 y 15 de diciembre de 1827</title>
+                    <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                    <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                    <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+                    <editor>
+                        <persName>
+                            <surname>Terrón Quintero</surname>
+                            <forename>Grisel</forename>
+                        </persName>
+                    </editor>
+            </titleStmt>
+            <editionStmt>
+                <p>
+                    Proyecto Humboldt digital ProHD (
+                    <date>2022</date>
+                    )
+                </p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Instituto de Literatura y Lingüística "José Antonio Portuondo
+                            Valdor"</institution>
+                        <collection>Actas de la Sociedad Económica de Amigos del País</collection>
+                        <idno>
+                            <idno type="shelfmark"></idno>
+                            <idno type="uri">https://prohd.ohc.cu/xmlui/handle/21.11149/37</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Manuscrito. Buen estado de conservación que permite su lectura.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1827-11-29">13 de diciembre de 1827</date>
+                <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
+            </creation>
+            <langUsage>
+                <language ident="es">Español</language>
+            </langUsage>
+            <abstract xml:lang="es">
+                <p>Entre otros asuntos, el acta hace referencia a la entrega a la biblioteca púbica
+                    de la Sociedad de las obras "Viaje botánico a las regiones equinocciales" y
+                    "Colección de plantas cultivadas en el Jardin de Cels", por parte de Andrés de
+                    Jauregui, quien pone solo la condición de que  la donación conste en acta.</p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>[Nein]</p>
+            </abstract>
+            <textClass>
+                <catRef scheme="#subject" target="#science"/>
+                <catRef scheme="#subject" target="#education"/>
+                <catRef scheme="#subject" target="#geography"/>
+                <catRef scheme="#subject" target="#climatology"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#genre" target="#minutes"/>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="minutes"/>
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="education"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+            <pb n="273r" />
+                <head>Juntas <choice>
+                        <abbr>grales</abbr>
+                        <expan>generales</expan>
+                    </choice> de la Real <choice>
+                        <abbr>Soc.<hi rendition="#sup">d</hi></abbr>
+                        <expan>Sociedad</expan>
+                    </choice>
+                    <choice>
+                        <abbr>pat.<hi rendition="#sup">ca</hi></abbr>
+                        <expan>Patriótica</expan>
+                    </choice> celebradas en los <choice>
+                        <orig>dias</orig>
+                        <reg>días</reg>
+                    </choice><lb/><hi rendition="#u"><date from="1827-12-13" to="1827-12-15"
+                            cert="high" calendar="#Gregorian">13.. 14.. y 15.. de diciembre de
+                            1827</date>.</hi><lb/><choice>
+                        <abbr>Presid.<hi rendition="#sup">te</hi></abbr>
+                        <expan>Presidente</expan>
+                    </choice> el <choice>
+                        <abbr>exmo</abbr>
+                        <expan>Excelentísimo</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Sor</abbr>
+                        <expan>Señor</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Fran.<hi rendition="#sup">co</hi></abbr>
+                        <expan>Francisco</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Dion.<hi rendition="#sup">o</hi></abbr>
+                        <expan>Dionisio</expan>
+                    </choice> Vives<lb/><hi rendition="#u"><choice>
+                            <abbr>gobern.<hi rendition="#sup">or</hi></abbr>
+                            <expan>Gobernador</expan>
+                        </choice> y <choice>
+                            <abbr>cap.<hi rendition="#sup">n</hi></abbr>
+                            <expan>Capitán</expan>
+                        </choice>
+                        <choice>
+                            <abbr>gral.</abbr>
+                            <expan>General</expan>
+                        </choice></hi></head></div>
+                    <div><head><hi rendition="#u">Socios concurrentes los <choice>
+                                <abbr>Sres.</abbr>
+                                <expan>Señores</expan>
+                            </choice></hi></head>
+                   <list>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice> Rafael Ofarrill<supplied cert="high">,</supplied> Director</item>
+                            <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice> José <choice>
+                            <abbr>M.<hi rendition="#sup">a</hi></abbr>
+                            <expan>María</expan>
+                        </choice> Calvo<supplied cert="high">,</supplied> Censor</item>
+                            <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Joaq.<hi rendition="#sup">n</hi></abbr>
+                            <expan>Joaquín</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Stos</abbr>
+                            <expan>Santos</expan>
+                        </choice>
+                        <choice>
+                            <orig>Suarez</orig>
+                            <reg>Suárez<supplied cert="high">,</supplied></reg>
+                        </choice>
+                        <choice>
+                            <abbr>Scrio.</abbr>
+                            <expan>Secretario</expan>
+                        </choice></item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Ang.<hi rendition="#sup">l</hi></abbr>
+                            <expan>Ángel</expan>
+                        </choice> José Cowley<supplied cert="high">,</supplied>
+                        <choice>
+                            <abbr>Cont.<hi rendition="#sup">or</hi></abbr>
+                            <expan>Contador</expan>
+                        </choice>
+                    </item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Ant.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Antonio</expan>
+                        </choice> Viera<supplied cert="high">,</supplied>
+                        <choice>
+                            <abbr>Tesor.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Tesorero</expan>
+                        </choice></item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Nic.<hi rendition="#sup">s</hi></abbr>
+                            <expan>Nocilás</expan>
+                        </choice> Muñoz y Zayas<supplied cert="high">,</supplied> 319</item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Ant.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Antonio</expan>
+                        </choice> Duarte<supplied cert="high">,</supplied> 448</item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Nic.<hi rendition="#sup">s</hi></abbr>
+                            <expan>Nicolás</expan>
+                        </choice> de <choice>
+                            <orig>Cardenas</orig>
+                            <reg>Cárdenas<supplied cert="high">,</supplied></reg>
+                        </choice> 502</item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Fran.<hi rendition="#sup">co</hi></abbr>
+                            <expan>Francisco</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Jav.<hi rendition="#sup">r</hi></abbr>
+                            <expan>Javier</expan>
+                        </choice> Troncoso<supplied cert="high">,</supplied> 927</item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Ygu.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Ignacio</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Gonz.<hi rendition="#sup">z</hi></abbr>
+                            <expan>González</expan>
+                        </choice> Cadrana<supplied cert="high">,</supplied> 534</item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Man.<hi rendition="#sup">l</hi></abbr>
+                            <expan>Manuel</expan>
+                        </choice> Avellaneda<supplied cert="high">,</supplied> 540</item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Dom.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Domingo</expan>
+                        </choice> Rosario<supplied cert="high">,</supplied> 561</item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice> Diego <choice>
+                            <abbr>Man.<hi rendition="#sup">l</hi></abbr>
+                            <expan>Manuel</expan>
+                        </choice> Govantes<supplied cert="high">,</supplied> 570</item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Dom.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Domingo</expan>
+                        </choice> Aristizabal<supplied cert="high">,</supplied> 592</item>
+                        <item><choice>
+                            <orig>Baron</orig>
+                            <reg>Barón</reg>
+                        </choice> de Colins<supplied cert="high">,</supplied> 602</item>
+                        <item><choice>
+                            <abbr>D.</abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Geron.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Gerónimo</expan>
+                        </choice> Nicasio <choice>
+                            <orig>Perez</orig>
+                            <reg>Pérez</reg>
+                        </choice><supplied cert="high">,</supplied> 625</item>
+                            </list>
+                        </div>
+           <div><head>Memoria de <lb/>las <choice>
+                        <orig>tareasy</orig>
+                        <reg>tareas y</reg>
+                    </choice> de <lb/>la junta de <lb/>beneficencia.</head>
+            <p>Aprobado el <choice>
+                        <abbr>ant.<hi rendition="#sup">or</hi></abbr>
+                        <expan>anterior</expan>
+                    </choice> acuerdo, se abrieron las<lb/><choice>
+                        <abbr>Jtas</abbr>
+                        <expan>Juntas</expan>
+                    </choice>
+                    <choice>
+                        <abbr>grales</abbr>
+                        <expan>generales</expan>
+                    </choice> con la memoria <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> el <choice>
+                        <abbr>Scrio</abbr>
+                        <expan>Secretario</expan>
+                    </choice> de la <lb/>casa de beneficiencia leyó, dando cuenta <choice>
+                        <orig>delos</orig>
+                        <reg>de los</reg>
+                    </choice>
+                    <lb/>progresos del <choice>
+                        <abbr>establecim.<hi rendition="#sup">to</hi></abbr>
+                        <expan>establecimiento</expan>
+                    </choice> y <choice>
+                        <orig>delas</orig>
+                        <reg>de las</reg>
+                    </choice> cosas <choice>
+                        <orig>mas</orig>
+                        <reg>más</reg>
+                    </choice> no<g ref="#typoHyphen"/><lb break="no"/>tables ocurridas durante el
+                    año. La <choice>
+                        <abbr>Soc.<hi rendition="#sup">d</hi></abbr>
+                        <expan>Sociedad</expan>
+                    </choice> la oyó <lb/>con el mayor aplauso y considerando <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> esta <lb/>clase de <choice>
+                        <abbr>docum.<hi rendition="#sup">to</hi></abbr>
+                        <expan>documento</expan>
+                    </choice> hace tanto honor <choice>
+                        <orig>ála</orig>
+                        <reg>a la</reg>
+                    </choice> cultura <lb/>del <choice>
+                        <orig>pais</orig>
+                        <reg>país</reg>
+                    </choice> como <choice>
+                        <orig>álas</orig>
+                        <reg>a las</reg>
+                    </choice> virtudes <choice>
+                        <orig>delos</orig>
+                        <reg>de los</reg>
+                    </choice> primeros <choice>
+                        <orig>ge<g ref="#typoHyphen"/><lb break="no"/>fes</orig>
+                        <reg>jefes</reg>
+                    </choice> y al celo <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice>
+                    <choice>
+                        <orig>diputacion</orig>
+                        <reg>diputación</reg>
+                    </choice>, acordó desde luego <lb/>imprimirla por <choice>
+                        <orig>médio</orig>
+                        <reg>medio</reg>
+                    </choice> del diario y q al mis<g ref="#typoHyphen"/><lb break="no"/>mo <choice>
+                        <abbr>tpo</abbr>
+                        <expan>tiempo</expan>
+                    </choice> le manifieste <choice>
+                        <orig>ála</orig>
+                        <reg>a la</reg>
+                    </choice>
+                    <choice>
+                        <abbr>Jta</abbr>
+                        <expan>Junta</expan>
+                    </choice> de beneficencia <lb/>la <choice>
+                        <orig>satisfaccion</orig>
+                        <reg>satisfacción</reg>
+                    </choice> con <choice>
+                        <abbr>q</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <choice>
+                        <abbr>ésta</abbr>
+                        <expan>esta</expan>
+                    </choice>
+                    <choice>
+                        <orig>vé</orig>
+                        <reg>ve</reg>
+                    </choice>
+                    <choice>
+                        <abbr>q</abbr>
+                        <expan>que</expan>
+                    </choice> se hace de <choice>
+                        <orig>dia</orig>
+                        <reg>día</reg>
+                    </choice>
+                    <lb/>en <choice>
+                        <orig>dia</orig>
+                        <reg>día</reg>
+                    </choice>
+                    <choice>
+                        <orig>mas</orig>
+                        <reg>más</reg>
+                    </choice>
+                    <choice>
+                        <orig>acrehedora</orig>
+                        <reg>acreedora</reg>
+                    </choice>
+                    <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> su <choice>
+                        <orig>estimacion</orig>
+                        <reg>estimación</reg>
+                    </choice> y <choice>
+                        <abbr>re<g ref="#typoHyphen"/><lb break="no"/>conocim.<hi rendition="#sup"
+                                >to</hi></abbr>
+                        <expan>reconocimiento</expan>
+                    </choice>
+                </p>
+           </div>
+            <div><head><choice>
+                        <abbr>Nombram.<hi rendition="#sup">to</hi></abbr>
+                        <expan>Nombramiento</expan>
+                    </choice>
+                    <lb/>de tres dipu<g ref="#typoHyphen"/><lb break="no"/>tados <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice> otra <lb/>junta </head>
+            <p>La misma <choice>
+                        <abbr>Jta</abbr>
+                        <expan>Junta</expan>
+                    </choice> de <choice>
+                        <abbr>benefic.<hi rendition="#sup">a</hi></abbr>
+                        <expan>beneficencia</expan>
+                    </choice> al comunicar <lb/><choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> ésta, por <choice>
+                        <orig>médio</orig>
+                        <reg>medio</reg>
+                    </choice> de oficio de su <choice>
+                        <abbr>Scrio</abbr>
+                        <expan>Secretario</expan>
+                    </choice>, el <choice>
+                        <orig>nom<g ref="#typoHyphen"/><pb n="273v"/><lb break="no"/>bram.</orig>
+                        <reg>nombramiento</reg>
+                    </choice> de algunos diputados de <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> se ocupó en su <lb/>última <choice>
+                        <orig>sesion</orig>
+                        <reg>sesión</reg>
+                    </choice> la manifestó <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <choice>
+                        <orig>habia</orig>
+                        <reg>había</reg>
+                    </choice> hecho <choice>
+                        <orig>elec<g ref="#typoHyphen"/><lb break="no"/>cion</orig>
+                        <reg>elección</reg>
+                    </choice>
+                    <choice>
+                        <orig>delos</orig>
+                        <reg>de los</reg>
+                    </choice>
+                    <choice>
+                        <abbr>Sres</abbr>
+                        <expan>señores</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice> Mariano de Arango <gap reason="illegible" unit="words" quantity="1"/>
+                    y <lb/><choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Ant.<hi rendition="#sup">o</hi></abbr>
+                        <expan>Antonio</expan>
+                    </choice> Toro <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <choice>
+                        <abbr>aunq.</abbr>
+                        <expan>aunque</expan>
+                    </choice> no estaban incorporardos <lb/>en esta <choice>
+                        <orig>asociacion</orig>
+                        <reg>asociación</reg>
+                    </choice>, eran sin embargo muy <lb/>dignos de este honor por las cualidades <choice>
+                        <abbr>q</abbr>
+                        <expan>que</expan>
+                    </choice> les <lb/>recomendaban y <choice>
+                        <orig>álas</orig>
+                        <reg>a las</reg>
+                    </choice>
+                    <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <choice>
+                        <orig>mas</orig>
+                        <reg>más</reg>
+                    </choice>
+                    <choice>
+                        <abbr>particularm.<hi rendition="#sup">te</hi>
+                        </abbr>
+                        <expan>particularmente</expan>
+                    </choice><lb/><choice>
+                        <orig>habia</orig>
+                        <reg>había</reg>
+                    </choice> atendido <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice> elegirlos sus Diputados: <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>por estas razones y acostrumbrada <gap reason="illegible" unit="words"
+                        quantity="1"/>
+                    <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice><lb/>hallar la mayor deferencia de parte de esta <lb/>Junta en todo lo <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <choice>
+                        <orig>tenia</orig>
+                        <reg>tenía</reg>
+                    </choice> por principal obje<g ref="#typoHyphen"/><lb break="no"/>to el bien <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice> humanidad, se <choice>
+                        <orig>decidia</orig>
+                        <reg>decidía</reg>
+                    </choice>
+                    <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice>
+                    <lb/>proponerlos como <choice>
+                        <orig>acrehedores</orig>
+                        <reg>acreedores</reg>
+                    </choice> al honor de <lb/>la <choice>
+                        <orig>incorporacion</orig>
+                        <reg>incorporación</reg>
+                    </choice>
+                    <choice>
+                        <orig>suplicandole</orig>
+                        <reg>suplicándole</reg>
+                    </choice> se dignase <lb/>admitirlos de socios; y la <choice>
+                        <abbr>soc.<hi rendition="#sup">d</hi></abbr>
+                        <expan>sociedad</expan>
+                    </choice>
+                    <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> divide la <lb/>buena <choice>
+                        <orig>opinion</orig>
+                        <reg>opinicón</reg>
+                    </choice>
+                    <choice>
+                        <abbr>q</abbr>
+                        <expan>que</expan>
+                    </choice> aquellos dos <choice>
+                        <abbr>indiv.</abbr>
+                        <expan>individuos</expan>
+                    </choice> merecen <lb/><choice>
+                        <orig>ála</orig>
+                        <reg>a la</reg>
+                    </choice>
+                    <choice>
+                        <abbr>Jta</abbr>
+                        <expan>Junta</expan>
+                    </choice> de beneficencia y deseando darle es<g ref="#typoHyphen"/><lb
+                        break="no"/>ta nueva prueba de su constante deferencia, <lb/>accedió desde
+                    luego <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> admitirlos <gap reason="illegible" unit="words" quantity="1"/> de
+                    <lb/>sus individuos. </p>
+            </div>
+            <div>
+                <head>Obras d<choice>
+                        <orig>e bota<g ref="#typoHyphen"/><lb break="no"/>nica</orig>
+                        <reg>botánica</reg>
+                    </choice> donadas <lb/>por el <choice>
+                        <abbr>S.<hi rendition="#sup">or</hi></abbr>
+                        <expan>Señor</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice>
+                    <lb/><choice>
+                        <orig>Andres</orig>
+                        <reg>Andrés</reg>
+                    </choice> de <lb/>Jauregui</head>
+<p>El <choice>
+                        <abbr>Sor</abbr>
+                        <expan>Señor</expan>
+                    </choice> Director presentó <choice>
+                        <orig>ála</orig>
+                        <reg>a la</reg>
+                    </choice>
+                    <choice>
+                        <abbr>Jta</abbr>
+                        <expan>Junta</expan>
+                    </choice> las dos <lb/>obras botánicas de los <choice>
+                        <abbr>Sres</abbr>
+                        <expan>Señores</expan>
+                    </choice>
+                    <choice>
+                        <orig>Humboldty</orig>
+                        <reg>Humboldt y</reg>
+                    </choice> Bom<g ref="#typoHyphen"/><lb break="no"/>pland y Ventenat titulada la
+                    primera <choice>
+                        <orig>Via<g ref="#typoHyphen"/><lb break="no"/>ge</orig>
+                        <reg>Viaje</reg>
+                    </choice> botánico <choice>
+                        <orig>álas</orig>
+                        <reg>a las</reg>
+                    </choice> regiones equinocciales, <lb/>y la <choice>
+                        <abbr>seg.<hi rendition="#sup">da</hi></abbr>
+                        <expan>segunda</expan>
+                    </choice> Colección de plantas cultivadas en <lb/>el <choice>
+                        <orig>Jardin</orig>
+                        <reg>Jardín</reg>
+                    </choice> de Cels, <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> el <choice>
+                        <abbr>Sor</abbr>
+                        <expan>Señor</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice>
+                    <choice>
+                        <orig>Andres</orig>
+                        <reg>Anrés</reg>
+                    </choice> de Jau<g ref="#typoHyphen"/><lb break="no"/>regui la <choice>
+                        <orig>ofrecia</orig>
+                        <reg>ofrecía</reg>
+                    </choice> por su conducto, <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice>
+                    <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> se <lb/>destinase en la <choice>
+                        <abbr>bibliot.<hi rendition="#sup">a</hi></abbr>
+                        <expan>biblioteca</expan>
+                    </choice> al servicio del <choice>
+                        <abbr>púb.<hi rendition="#sup">co</hi></abbr>
+                        <expan>público</expan>
+                    </choice>
+                    <lb/>como la carta confidencial en <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> el <choice>
+                        <abbr>Sor</abbr>
+                        <expan>Señor</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice>
+                    <choice>
+                        <orig><lb/>Andres</orig>
+                        <reg>andrés</reg>
+                    </choice> de Jauregui le explica su deseo, <choice>
+                        <orig>su<lb break="no"/>plicandole</orig>
+                        <reg>suplicándole</reg>
+                    </choice> al mismo <choice>
+                        <abbr>tpo</abbr>
+                        <expan>tiempo</expan>
+                    </choice> la haga aceptar<pb n="275r"/><choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> la <choice>
+                        <abbr>Jta</abbr>
+                        <expan>Junta</expan>
+                    </choice> como un pequeño obsequio <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> no merece <lb/>otra <choice>
+                        <orig>mencion</orig>
+                        <reg>mención</reg>
+                    </choice> sino la de <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> conste <choice>
+                        <orig>asi</orig>
+                        <reg>así</reg>
+                    </choice> en sus actas. <lb/>La <choice>
+                        <abbr>soc.<hi rendition="#sup">d</hi></abbr>
+                        <expan>sociedad</expan>
+                    </choice> agradecida, no solo por el mérito del <lb/>presente, sino también por
+                    la manera con <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> se <lb/>le hace, acordó aceptarlo destinando las obras <lb/><choice>
+                        <orig>ála</orig>
+                        <reg>a la</reg>
+                    </choice>
+                    <choice>
+                        <abbr>bibliot.<hi rendition="#sup">a</hi></abbr>
+                        <expan>biblioteca</expan>
+                    </choice>
+                    <choice>
+                        <abbr>púb.c<hi rendition="#sup">a</hi></abbr>
+                        <expan>pública</expan>
+                    </choice> y <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> se <choice>
+                        <orig>esprese</orig>
+                        <reg>exprese</reg>
+                    </choice> al <choice>
+                        <abbr>Sor</abbr>
+                        <expan>Señor</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice>
+                    <choice>
+                        <orig>Andres</orig>
+                        <reg>Andrés</reg>
+                    </choice>
+                    <lb/>la gratitud con <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> las recibe. </p>
+            </div>
+            <div><head>El gobierno <lb/>pide una ins<g ref="#typoHyphen"/><lb break="no"/>cripcion <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice>
+                    <lb/>poner en el <lb/>monumento <lb/><choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> se está <lb/>erigiendo en <lb/>el lugar don<g ref="#typoHyphen"/><lb
+                        break="no"/>de se dijo la <lb/><choice>
+                        <abbr>prim.<hi rendition="#sup">a</hi></abbr>
+                        <expan>primera</expan>
+                    </choice> misa <lb/>en esta plaza </head>
+            <p>El propio <choice>
+                        <abbr>Sor</abbr>
+                        <expan>Señor</expan>
+                    </choice> director presentó un oficio del <lb/><choice>
+                        <abbr>exmo</abbr>
+                        <expan>excelentísimo</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Sor</abbr>
+                        <expan>Señor</expan>
+                    </choice>
+                    <choice>
+                        <abbr>presid.<hi rendition="#sup">te</hi></abbr>
+                        <expan>presidente</expan>
+                    </choice>
+                    <choice>
+                        <abbr>gob.<hi rendition="#sup">or</hi></abbr>
+                        <expan>gobernador</expan>
+                    </choice> y <choice>
+                        <abbr>cap.<hi rendition="#sup">n</hi></abbr>
+                        <expan>capitán</expan>
+                    </choice>
+                    <choice>
+                        <abbr>gral</abbr>
+                        <expan>general</expan>
+                    </choice> en <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <choice>
+                        <abbr>S.</abbr>
+                        <expan>Su</expan>
+                    </choice><choice>
+                        <abbr>E.</abbr>
+                        <expan>Excelencia</expan>
+                    </choice>, <choice>
+                        <orig>refi<g ref="#typoHyphen"/><lb break="no"/>riendose</orig>
+                        <reg>refiriéndose</reg>
+                    </choice>
+                    <choice>
+                        <orig>ála</orig>
+                        <reg>a la</reg>
+                    </choice>
+                    <choice>
+                        <orig>reparacion</orig>
+                        <reg>reparación</reg>
+                    </choice> del <choice>
+                        <abbr>monum.<hi rendition="#sup">to</hi></abbr>
+                        <expan>monumento</expan>
+                    </choice>
+                    <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> decora <lb/>el lugar en <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> se dijo la <choice>
+                        <abbr>prim.<hi rendition="#sup">a</hi></abbr>
+                        <expan>primera</expan>
+                    </choice> misa, obra de <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>tanto se ocupa, le manifiesta su deseo de <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> por <lb/>la <choice>
+                        <abbr>soc.<hi rendition="#sup">d</hi></abbr>
+                        <expan>sociedad</expan>
+                    </choice>, como <choice>
+                        <abbr>cpo</abbr>
+                        <expan>cuerpo</expan>
+                    </choice> literario, se le presente en pro<g ref="#typoHyphen"/><lb break="no"
+                    />yecto la inscripcion <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> deba ponerse en él y <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>correspondiendo <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> la dignidad del objeto, indique <lb/><choice>
+                        <orig>tambien</orig>
+                        <reg>también</reg>
+                    </choice>
+                    <choice>
+                        <orig>ála</orig>
+                        <reg>a la</reg>
+                    </choice> posteridad el grado de <choice>
+                        <abbr>adelantam.<hi rendition="#sup">to</hi>
+                        </abbr>
+                        <expan>adelantamiento</expan>
+                    </choice><lb/>en <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> se encontraban las ciencias y las artes <choice>
+                        <orig><lb/>enla</orig>
+                        <reg>en la</reg>
+                    </choice> época de su <choice>
+                        <orig>dedicacion</orig>
+                        <reg>dedicación</reg>
+                    </choice> con los oficios en <lb/><choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> se escusaban de desempeñar <choice>
+                        <orig>éste</orig>
+                        <reg>este</reg>
+                    </choice> encargo los <lb/><choice>
+                        <abbr>am.<hi rendition="#sup">s</hi></abbr>
+                        <expan>amigos</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Doctor</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice> José <choice>
+                        <orig>Agustin</orig>
+                        <reg>Agustín</reg>
+                    </choice> Caballero <choice>
+                        <abbr>Lic.<hi rendition="#sup">do</hi></abbr>
+                        <expan>Licenciado</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice> José <lb/><choice>
+                        <orig>Agustin</orig>
+                        <reg>Agustín</reg>
+                    </choice> Govantes y <choice>
+                        <abbr>D.</abbr>
+                        <expan>Doctor</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice> Tomás Romay, <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice>
+                    <choice>
+                        <abbr>q.<hi rendition="#sup">nes</hi></abbr>
+                        <expan>quienes</expan>
+                    </choice><lb/>su <choice>
+                        <abbr>Sria.</abbr>
+                        <expan>Señoría</expan>
+                    </choice>
+                    <choice>
+                        <orig>habia</orig>
+                        <reg>había</reg>
+                    </choice> escogido entre otros <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice> llenar <lb/>mejor los deseos de <choice>
+                        <abbr>S.</abbr>
+                        <expan>Su</expan>
+                    </choice>
+                    <choice>
+                        <abbr>E.</abbr>
+                        <expan>Excelencia</expan>
+                    </choice>
+                    <choice>
+                        <orig>presentandole</orig>
+                        <reg>presentantándole</reg>
+                    </choice> diferentes <lb/>proyectos de inscripciones <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice>
+                    <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> se dignase es<g ref="#typoHyphen"/><lb break="no"/>coger la <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> mejor le pareciere. Enterada de <lb/>todo la <choice>
+                        <abbr>soc.<hi rendition="#sup">d</hi></abbr>
+                        <expan>sociedad</expan>
+                    </choice> y <choice>
+                        <orig>honrandose</orig>
+                        <reg>honrándose</reg>
+                    </choice> de merecer en este <lb/>punto la confianza de <choice>
+                        <abbr>S.</abbr>
+                        <expan>Su</expan>
+                    </choice>
+                    <choice>
+                        <abbr>E.</abbr>
+                        <expan>Excelencia</expan>
+                    </choice> acordó para cor<g ref="#typoHyphen"/><lb break="no"/>responder <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> ella insistir en el <choice>
+                        <abbr>nombram.<hi rendition="#sup">to</hi></abbr>
+                        <expan>nombramiento</expan>
+                    </choice>
+                    <lb/>hecho por el <choice>
+                        <abbr>Sor</abbr>
+                        <expan>Señor</expan>
+                    </choice> Director admitir las <lb/>escusas de dos <choice>
+                        <orig>delos</orig>
+                        <reg>de los</reg>
+                    </choice> nombrados <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> lo hacen <lb/>por falta de salud; suplicar al <choice>
+                        <abbr>D.</abbr>
+                        <expan>Doctor</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice>
+                    <choice>
+                        <orig>Tomas</orig>
+                        <reg>Tomás</reg>
+                    </choice>
+                    <pb n="275v"/> Romay <choice>
+                        <abbr>q</abbr>
+                        <expan>que</expan>
+                    </choice>. acepte el encargo supuesto <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>su escusa se funda en no considerarse con <lb/>la suficiente aptitud para
+                    desempañarlo <lb/><choice>
+                        <abbr>dignam.<hi rendition="#sup">te</hi></abbr>
+                        <expan>dignamente</expan>
+                    </choice>; y nombrar <choice>
+                        <orig>ademas</orig>
+                        <reg>además</reg>
+                    </choice> con el mismo <lb/>objeto <choice>
+                        <orig>álos</orig>
+                        <reg>a los</reg>
+                    </choice>
+                    <choice>
+                        <abbr>am.<hi rendition="#sup">s</hi></abbr>
+                        <expan>amigos</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice> José <choice>
+                        <abbr>M.a</abbr>
+                        <expan>María</expan>
+                    </choice> Calvo Censor <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice>
+                    <lb/>José <choice>
+                        <abbr>M.<hi rendition="#sup">a</hi></abbr>
+                        <expan>María</expan>
+                    </choice> Peñalver y <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Dom.<hi rendition="#sup">o</hi></abbr>
+                        <expan>Domingo</expan>
+                    </choice> Aristizabal. </p>
+            </div>
+               <div><head>Asuntos de <lb/><choice>
+                        <orig>prémios</orig>
+                        <reg>premios</reg>
+                    </choice></head>
+            <p>La <choice>
+                        <orig>comision</orig>
+                        <reg>comisión</reg>
+                    </choice> nombrada <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice> proponer <lb/>asuntos de <choice>
+                        <orig>prémios</orig>
+                        <reg>premios</reg>
+                    </choice> presentó el programa <lb/><choice>
+                        <orig>delos</orig>
+                        <reg>de los</reg>
+                    </choice>
+                    <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> ha <choice>
+                        <orig>creido</orig>
+                        <reg>creído</reg>
+                    </choice>
+                    <choice>
+                        <orig>mas</orig>
+                        <reg>más</reg>
+                    </choice> oportunos y <choice>
+                        <orig>leido</orig>
+                        <reg>leído</reg>
+                    </choice> con <lb/>el <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> la <choice>
+                        <abbr>Scria.</abbr>
+                        <expan>Secretaría</expan>
+                    </choice>
+                    <choice>
+                        <orig>habia</orig>
+                        <reg>había</reg>
+                    </choice> formado, por encargo <lb/>del <choice>
+                        <abbr>sor</abbr>
+                        <expan>señor</expan>
+                    </choice> director en virtud de ignorar <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <lb/>hubiese despachado <choice>
+                        <abbr>dha</abbr>
+                        <expan>dicha</expan>
+                    </choice>
+                    <choice>
+                        <orig>comision</orig>
+                        <reg>comisión</reg>
+                    </choice>, y consi<g ref="#typoHyphen"/><lb break="no"/>derando <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> entre todos <choice>
+                        <orig>podian</orig>
+                        <reg>podían</reg>
+                    </choice> escoger al<g ref="#typoHyphen"/><lb break="no"/>gunos <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice> ofrecerlos al público, acordó nom<g ref="#typoHyphen"/><lb break="no"
+                    />brar una <choice>
+                        <orig>comision</orig>
+                        <reg>comisión</reg>
+                    </choice> compuesta <choice>
+                        <orig>delos</orig>
+                        <reg>de los</reg>
+                    </choice>
+                    <choice>
+                        <abbr>sres</abbr>
+                        <expan>señores</expan>
+                    </choice>
+                    <lb/>director, censor y <choice>
+                        <abbr>presid.<hi rendition="#sup">te</hi></abbr>
+                        <expan>presidente</expan>
+                    </choice>
+                    <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice>
+                    <choice>
+                        <orig>seccion</orig>
+                        <reg>sección</reg>
+                    </choice> de <lb/><choice>
+                        <abbr>educ.<hi rendition="#sup">n</hi></abbr>
+                        <expan>educación</expan>
+                    </choice>
+                    <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice>
+                    <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> se encargase de este trabajo. </p>
+               </div>
+                <div>
+            <head>Se propone <lb/><choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> se <choice>
+                        <orig>reprente</orig>
+                        <reg>represente</reg>
+                    </choice>
+                    <lb/>al Rey <choice>
+                        <abbr>nro</abbr>
+                        <expan>nuestro</expan>
+                    </choice>
+                    <choice>
+                        <abbr>s.or</abbr>
+                        <expan>señor</expan>
+                    </choice>
+                    <lb/><choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice>
+                    <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> no se con<g ref="#typoHyphen"/><lb break="no"/>ceda privile<lb
+                        break="no"/>gio exclusivo <lb/><choice>
+                        <orig>álos</orig>
+                        <reg>a los</reg>
+                    </choice>
+                    <choice>
+                        <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> hacen <lb/>el comercio de <lb/><choice>
+                        <orig>cabotage</orig>
+                        <reg>cabotaje</reg>
+                    </choice> en <lb/>barcos de vapor </head>
+            <p>A propuesta del <choice>
+                        <abbr>Sor</abbr>
+                        <expan>Señor</expan>
+                    </choice> Censor, se acordó <lb/>nombrar <choice>
+                        <orig>álos</orig>
+                        <reg>a los</reg>
+                    </choice>
+                    <choice>
+                        <abbr>am.<hi rendition="#sup">s</hi></abbr>
+                        <expan>amigos</expan>
+                    </choice> Duarte y Troncoso <choice>
+                        <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice>
+                    <lb/><choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> manifiesten si será <choice>
+                        <abbr>conven.<hi rendition="#sup">te</hi></abbr>
+                        <expan>conveniente</expan>
+                    </choice> dirigir una <lb/>sumisa y acatada <choice>
+                        <orig>representacion</orig>
+                        <reg>representación</reg>
+                    </choice> al rey <lb/>nuestro <choice>
+                        <abbr>sor</abbr>
+                        <expan>señor</expan>
+                    </choice>
+                    <choice>
+                        <orig>áfin</orig>
+                        <reg>a fin</reg>
+                    </choice> de <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> en adelante se <lb/>digne no conceder nuevos privilegios <choice>
+                        <orig>es<g ref="#typoHyphen"/><lb break="no"/>clusivos</orig>
+                        <reg>exclusivos</reg>
+                    </choice>
+                    <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> ninguna persona <choice>
+                        <orig>ó</orig>
+                        <reg>o</reg>
+                    </choice>
+                    <choice>
+                        <orig>compañia</orig>
+                        <reg>compañía</reg>
+                    </choice>
+                    <lb/>de comercio <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> haga el de <choice>
+                        <orig>cabotage</orig>
+                        <reg>cabotaje</reg>
+                    </choice> con <lb/>barcos de vapor, por lo <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> puedan prejudi<g ref="#typoHyphen"/><lb break="no"/>car <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> este navío de prosperidad interior. </p>
+                </div>
+                <div>
+<head>Estado <choice>
+                        <abbr>gral</abbr>
+                        <expan>general</expan>
+                    </choice>
+                    <lb/>de caudales </head>
+            <p>Por último se <choice>
+                        <orig>vió</orig>
+                        <reg>vio</reg>
+                    </choice> el estado <choice>
+                        <abbr>gral</abbr>
+                        <expan>general</expan>
+                    </choice>
+                    <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> de<g ref="#typoHyphen"/><lb break="no"/>muestra la entrada salida y
+                    existencia de <lb/>caudales desde <date when="1827-01-01" calendar="#Gregorian"
+                            >1.<hi rendition="#sup">o</hi> de <choice>
+                            <abbr>en.<hi rendition="#sup">o</hi></abbr>
+                            <expan>enero</expan>
+                        </choice> de 1827</date> hasta fi<g ref="#typoHyphen"/><lb break="no"/>nes
+                    de <choice>
+                        <abbr>nov.<hi rendition="#sup">e</hi></abbr>
+                        <expan>noviembre</expan>
+                    </choice> del mismo presentado por la <pb n="277r"/>
+                    <choice>
+                        <abbr>contad.<hi rendition="#sup">a</hi></abbr>
+                        <expan>contaduría</expan>
+                    </choice> y del <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice> resulta <choice>
+                        <abbr>q.</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <choice>
+                        <orig>habian</orig>
+                        <reg>habían</reg>
+                    </choice> entrado en <lb/>todo él la cantidad de 17.217 con 1 <choice>
+                        <orig>delos</orig>
+                        <reg>de los</reg>
+                    </choice> cuales <lb/>se <choice>
+                        <orig>habian</orig>
+                        <reg>habían</reg>
+                    </choice> invertido <choice>
+                        <orig>enlos</orig>
+                        <reg>en los</reg>
+                    </choice> distintos objetos <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice>
+                    <lb/><choice>
+                        <abbr>Soc.<hi rendition="#sup">d</hi></abbr>
+                        <expan>Sociedad</expan>
+                    </choice> 16.931 con 6.1/2 quedando <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> su favor <lb/>un sobrante de 285 con 6.1/2. La <choice>
+                        <abbr>Jta</abbr>
+                        <expan>Junta</expan>
+                    </choice> acordó <lb/>imprimir este estado terminando con esto <lb/>el acto. </p></div>
+                        <closer>
+                            <signed><choice>
+                        <abbr>Joag.n</abbr>
+                        <expan>Joaquín</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Stos</abbr>
+                        <expan>Santos</expan>
+                    </choice>
+                    <choice>
+                        <orig>Suarez</orig>
+                        <reg>Suárez</reg>
+                    </choice></signed>
+                            <signed><choice>
+                        <orig>Jose</orig>
+                        <reg>José</reg>
+                    </choice>
+                    <choice>
+                        <abbr>M.</abbr>
+                        <expan>María</expan>
+                    </choice> Calvo</signed>
+                        </closer>
+        </body>
+    </text>
+</TEI>
