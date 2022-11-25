@@ -1,0 +1,2113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
+<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    type="document" xml:id="ed_hzx_xcq_dvb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Expediente sobre las noticias comunicadas por el Señor Sindico
+                    Don Francisco de Arango y Parreño, adquiridas en el viaje por encargo de Su
+                    Majestad </title>
+                <editor>
+                    <persName>
+                        <surname>Solernou</surname>
+                        <forename>Alaina</forename>
+                    </persName>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2022-10-12</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archivo Nacional de la República de Cuba </institution>
+                        <collection>Junta de Fomento de la Isla de Cuba</collection>
+                        <idno>
+                            <idno type="shelfmark">Legajo 92, No. 3923</idno>
+                            <idno type="uri">http://prohd.ohc.cu/xmlui/handle/21.11149/87</idno>
+                        </idno>
+                        <msName>Espediente N.23 sobre las noticias comunicadas por el Sr. Sindico
+                            Don Franco de Arango y Parreño, adquiridas en el viaje que por encargo
+                            de S.M hecho á Inglaterra, Portugal, Barbada y Jamaica</msName>
+                     </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1795" calendar="#Gregorian"/>
+            </creation>
+            <langUsage>
+                <language ident="es">Español</language>
+            </langUsage>
+            <textClass>
+                <catRef scheme="#subject" target="#economicconditions"/>
+                <catRef scheme="#subject" target="#trade"/>
+                <catRef scheme="#subject" target="#geography"/>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <div>
+                <pb n="1r" facs="prohd0026_1r.tif"/>
+                <p> JUNTA DE FOMENTO DE LA ISLA DE CUBA. <lb/><date when="1795-09-30"
+                        calendar="#Gregorian"><choice>
+                            <orig>Setiembre</orig>
+                            <reg>Septiembre</reg>
+                        </choice> 30. de 1795.</date>
+                    <lb/>NEGOCIADO DE <lb/>Agricultura <choice>
+                        <orig><lb/>NUMERO</orig>
+                        <reg>NÚMERO</reg>
+                    </choice> 3923 <lb/>Clasificado <lb/><choice>
+                        <orig>ESPEDIENTE</orig>
+                        <reg>EXPEDIENTE</reg>
+                    </choice> Nº 23. sobre las noti<g ref="#typoHyphen"/><lb break="no"/>cias
+                    comunicadas por el <choice>
+                        <abbr>S.<hi rendition="#sup">r</hi></abbr>
+                        <expan>Señor</expan>
+                    </choice> Sindico Don <lb/><choice>
+                        <abbr>Fran.<hi rendition="#sup">co</hi></abbr>
+                        <expan>Francisco</expan>
+                    </choice> de Arango y Parreño, adquiridas <lb/>en el <choice>
+                        <orig>viage</orig>
+                        <reg>vieje</reg>
+                    </choice> que por encargo de <choice>
+                        <abbr>S.M</abbr>
+                        <expan>Su Majestad</expan>
+                    </choice>, ha he<g ref="#typoHyphen"/><lb break="no"/>cho <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> Inglaterra, Portugal, Barbada y <choice>
+                        <orig>Ja<g ref="#typoHyphen"/><lb break="no"/>mayca</orig>
+                        <reg>Jamaica</reg>
+                    </choice>
+                    <lb/><table rows="4" cols="1">
+                        <row>
+                            <cell><choice>
+                                    <orig>REPUBLICA</orig>
+                                    <reg>REPÚBLICA</reg>
+                                </choice> DE CUBA</cell>
+                        </row>
+                        <row>
+                            <cell>ARCHIVO NACIONAL</cell>
+                        </row>
+                        <row>
+                            <cell>LEGAJO 92</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>NUMERO</orig>
+                                    <reg>NÚMERO</reg>
+                                </choice> 3923</cell>
+                        </row>
+                    </table>
+                    <lb/>JUNTA DE FOMENTO <lb/>E.Nº.6 <lb/>R.ALFº.3 </p>
+                </div>
+                <pb n="1v" facs="prohd0026_1v.tif"/> <gap unit="pages" quantity="1" reason="empty"></gap>
+                                
+                <div>
+                <p><pb n="2r" facs="prohd0026_2r.tif"/>
+                    <lb/>El <choice>
+                        <abbr>S.<hi rendition="#sup">r</hi></abbr>
+                        <expan>Señor</expan>
+                    </choice> Sindíco V  <date when="1795-09-30" calendar="#Gregorian"><choice>
+                            <abbr>Set.<hi rendition="#sup">e</hi></abbr>
+                            <expan>Septiembre</expan>
+                        </choice> 30/795</date>
+                </p>
+                    </div>
+                <div><head>Acuerdo</head>
+                <p> En <choice>
+                            <orig>sesion</orig>
+                            <reg>sesión</reg>
+                        </choice> de la Junta de <choice>
+                            <abbr>Gob.<hi rendition="#sup">no</hi></abbr>
+                            <expan>Gobierno</expan>
+                        </choice> del Consulado <lb/>de <date when="1795-09-30"
+                            calendar="#Gregorian">30 de <choice>
+                                <abbr>Set.<hi rendition="#sup">e</hi></abbr>
+                                <expan>Septiembre</expan>
+                            </choice> de 1795</date> precidida por el <choice>
+                            <abbr>Escmo.</abbr>
+                            <expan>Excelentísimo</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice>
+                        <lb/><choice>
+                            <abbr>Gob.<hi rendition="#sup">or</hi></abbr>
+                            <expan>Gobierno</expan>
+                        </choice> y <choice>
+                            <abbr>Cap.<hi rendition="#sup"><hi rendition="#u">n</hi></hi></abbr>
+                            <expan>Capitán</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Gral.</abbr>
+                            <expan>General</expan>
+                        </choice> el <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico recordando <lb/>los resultados de su <choice>
+                            <orig>viage</orig>
+                            <reg>viaje</reg>
+                        </choice>, observó que <choice>
+                            <orig>habia</orig>
+                            <reg>había</reg>
+                        </choice> co<lb break="no"/>municado ya ocasionalmente algunos de ellos
+                        <lb/>a la Junta, y que estaba pronto a dar cuenta <lb/>de los <choice>
+                            <orig>demas</orig>
+                            <reg>demás</reg>
+                        </choice>, junta <choice>
+                            <orig>ó</orig>
+                            <reg>o</reg>
+                        </choice> separadamente, como mejor le <lb/>pareciese a la Junta. Manifestó
+                        la Junta que - <lb/><choice>
+                            <orig>oiria</orig>
+                            <reg>oiría</reg>
+                        </choice> con el mayor gusto las noticias del <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice> Sin<lb break="no"/>dico dejando enteramente a su arbitrio el modo
+                        <lb/>y la forma que <choice>
+                            <abbr>mas</abbr>
+                            <expan>más</expan>
+                        </choice> le acomodasen= El Mar<g ref="#typoHyphen"/><lb break="no"/>ques
+                        del <choice>
+                            <abbr>R.<hi rendition="#sup">l</hi></abbr>
+                            <expan>Real</expan>
+                        </choice> Socorro = Juan Tomas de Jauregui= <lb/>Lorenzo de Quintana = <choice>
+                            <abbr>Ant.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Antonio</expan>
+                        </choice> del Valle Her<g ref="#typoHyphen"/><lb break="no"/>nandez.
+                            <lb/><add place="mBottom">Es copia</add>
+                        <lb/><table rows="4" cols="1">
+                            <row>
+                                <cell><choice>
+                                        <orig>REPUBLICA</orig>
+                                        <reg>REPÚBLICA</reg>
+                                    </choice> DE CUBA</cell>
+                            </row>
+                            <row>
+                                <cell>ARCHIVO NACIONAL</cell>
+                            </row>
+                            <row>
+                                <cell>LEGAJO 92</cell>
+                            </row>
+                            <row>
+                                <cell><choice>
+                                        <orig>NUMERO</orig>
+                                        <reg>NÚMERO</reg>
+                                    </choice> 3923</cell>
+                            </row>
+                        </table>JUNTA DE FOMENTO </p>
+                </div>
+                    <pb n="2v" facs="prohd0026_2v.tif"/> <gap unit="pages" quantity="1" reason="empty"></gap>
+                    <div>
+                    <p><pb n="3r" facs="prohd0026_3r.tif"/><lb/>Noticias que dá V <date when="1795-10-14" calendar="#Gregorian"><choice>
+                                <abbr>oct.<hi rendition="#sup">e</hi></abbr>
+                                <expan>Octubre</expan>
+                            </choice> 14/795</date>
+                    </p>
+           </div>
+            <div>
+                <head>Acuerdo</head>
+                <p> En <choice>
+                            <orig>sesion</orig>
+                            <reg>sesión</reg>
+                        </choice> de la Junta de <choice>
+                            <abbr>Gob.<hi rendition="#sup">no</hi></abbr>
+                            <expan>Gobierno</expan>
+                        </choice> del Consu<g ref="#typoHyphen"/><lb break="no"/>lado de <date
+                            when="1795-10-14" calendar="#Gregorian">14 de <choice>
+                                <abbr>Oct.<hi rendition="#sup">e</hi></abbr>
+                                <expan>Octubre</expan>
+                            </choice> de 1795</date> presedida por el <lb/><choice>
+                            <abbr>Escmo.</abbr>
+                            <expan>Excelentísimo</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Gob.<hi rendition="#sup">or</hi></abbr>
+                            <expan>Gobernador</expan>
+                        </choice> y <choice>
+                            <abbr>Cap.<hi rendition="#sup">n</hi></abbr>
+                            <expan>Capitán</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Gral.</abbr>
+                            <expan>General</expan>
+                        </choice> siguio luego <lb/>el <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico la <choice>
+                            <orig>relacion</orig>
+                            <reg>relación</reg>
+                        </choice> de su <choice>
+                            <orig>viage</orig>
+                            <reg>viaje</reg>
+                        </choice>, en <lb/>la parte que corresponde a su residencia en <lb/>Portugal <choice>
+                            <orig>é</orig>
+                            <reg>e</reg>
+                        </choice>
+                        <choice>
+                            <sic>Ynglaterra</sic>
+                            <corr cert="high">Inglaterra</corr>
+                        </choice>. Dio cuenta de las co- <lb/>sechas de <choice>
+                            <orig>azucar</orig>
+                            <reg>azúcar</reg>
+                        </choice> que hacen los Portugueses <lb/>de sus Colonias del Brasil, y del
+                        destino <lb/>que dan a otro fruto. Relato las noticias <choice>
+                            <abbr>q</abbr>
+                            <expan>que</expan>
+                        </choice>
+                        <lb/><choice>
+                            <orig>habia</orig>
+                            <reg>había</reg>
+                        </choice> adquirido en las fundaciones de <choice>
+                            <sic>Yn<g ref="#typoHyphen"/><lb break="no"/>glaterra</sic>
+                            <corr cert="high">Inglaterra</corr>
+                        </choice> sobre la <choice>
+                            <orig>fabricacion</orig>
+                            <reg>fabricación</reg>
+                        </choice>, y los precios de <lb/>factura de los utensilios necesarios para
+                        los <lb/><choice>
+                            <sic>Yngenios</sic>
+                            <corr cert="high">Ingenios</corr>
+                        </choice> de <choice>
+                            <orig>Azucar.</orig>
+                            <reg>Azúcar</reg>
+                        </choice>
+                        <choice>
+                            <orig>Ultimamente</orig>
+                            <reg>Últimamente</reg>
+                        </choice>, <choice>
+                            <orig>comunico</orig>
+                            <reg>comunicó</reg>
+                        </choice>
+                        <lb/>a la Junta el proyecto de la <choice>
+                            <orig>maquina</orig>
+                            <reg>máquina</reg>
+                        </choice> de <lb/>vapor que mando hacer el Conde de Casa <lb/>Montalvo en <choice>
+                            <sic>Ynglaterra</sic>
+                            <corr cert="high">Inglaterra</corr>
+                        </choice>, para mover los tra<lb break="no"/>piches, y presento a la Junta
+                        al mismo <lb/>tiempo un modelo pequeño, y varios planos <lb/>que
+                        manifestaban el mecanismo de la <choice>
+                            <orig><lb/>Maquina</orig>
+                            <reg>máquina</reg>
+                        </choice>. La Junta oyó con el mayor apu<lb break="no"/>ro las
+                        comunicaciones del <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico, y <lb/>manifestaron varios Consiliarios el deseo <lb/>de
+                        que el <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico escribiese, <choice>
+                            <orig>ó</orig>
+                            <reg>o</reg>
+                        </choice> impri<g ref="#typoHyphen"/><lb break="no"/>miese una <choice>
+                            <orig>relacion</orig>
+                            <reg>relación</reg>
+                        </choice> por <choice>
+                            <orig>estenso</orig>
+                            <reg>extenso</reg>
+                        </choice> de su <choice>
+                            <orig><lb/>viage</orig>
+                            <reg>viaje</reg>
+                        </choice> para que este <choice>
+                            <orig>Publico</orig>
+                            <reg>Público</reg>
+                        </choice> pudiese <lb/>aprovechar las importantes noticias que </p>
+            </div>
+                <div>
+                        <p><pb n="3v" facs="prohd0026_3v.tif"/><lb/>tan <choice>
+                            <orig>rapidamente</orig>
+                            <reg>rápidamente</reg>
+                        </choice> ha <choice>
+                            <orig>oido</orig>
+                            <reg>oído</reg>
+                        </choice> la Junta = El Mar<g ref="#typoHyphen"/><lb break="no"/>ques de <choice>
+                            <abbr>R.<hi rendition="#sup">l</hi></abbr>
+                            <expan>Real</expan>
+                        </choice> Socorro = Juan Tomas de Jauregui <lb/>Lorenzo Quintana = <choice>
+                            <abbr>Ant.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Antonio</expan>
+                        </choice> del Valle Hernandez <lb/><add place="left">Es copia</add>
+                    </p>
+            </div>
+            <div><p><pb n="4r" facs="prohd0026_4r.tif"/><lb/>Noticias V<date when="1795-10-21" calendar="#Gregorian">
+                <choice>
+                    <abbr>Oct.<hi rendition="#sup">e</hi></abbr>
+                    <expan>Octubre</expan>
+                </choice> 21/795</date>
+            </p>
+            </div>
+                  <div> 
+                      <head>Acuerdo-</head>
+                      <p>En <choice>
+                        <orig>sesion</orig>
+                        <reg>sesión</reg>
+                    </choice> de la Junta de <choice>
+                        <abbr>Gob.<hi rendition="#sup">no</hi></abbr>
+                        <expan>Gobierno</expan>
+                    </choice> del Consula<lb break="no"/>do de <date when="1795-10-21"
+                        calendar="#Gregorian">21 de Octubre de 1795</date> presidida por el
+                    <lb/>Marques del <choice>
+                        <abbr>R.<hi rendition="#sup">l</hi></abbr>
+                        <expan>Real</expan>
+                    </choice> Socorro: siguiendo el <choice>
+                        <abbr>Sr.</abbr>
+                        <expan>Señor</expan>
+                    </choice> Sin<lb break="no"/>dico la <choice>
+                        <orig>relacion</orig>
+                        <reg>relación</reg>
+                    </choice> de su <choice>
+                        <orig>viage</orig>
+                        <reg>viaje</reg>
+                    </choice>, <choice>
+                        <orig>comunico</orig>
+                        <reg>comunicó</reg>
+                    </choice>
+                    <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> la <lb/>Junta un aviso que <choice>
+                        <orig>habia</orig>
+                        <reg>había</reg>
+                    </choice> recibido por el <choice>
+                        <orig>ul<g ref="#typoHyphen"/><lb break="no"/>timo</orig>
+                        <reg>último</reg>
+                    </choice> Correo de España de que la <choice>
+                        <orig>Maquina</orig>
+                        <reg>máquina</reg>
+                    </choice> de <lb/>vapor, cuyos modelos y diseños habia presen<lb break="no"
+                    />tado en la <choice>
+                        <orig>ultima</orig>
+                        <reg>última</reg>
+                    </choice>
+                    <choice>
+                        <orig>sesion</orig>
+                        <reg>sesión</reg>
+                    </choice>, estaba acabada, <lb/>y visperas de embarcarse para Cadiz = El
+                    <lb/>Marques del <choice>
+                        <abbr>R.<hi rendition="#sup">l</hi></abbr>
+                        <expan>Real</expan>
+                    </choice> Socorro = Juan Tomas de <lb/>Jauregui = Lorenzo de Quintana = <choice>
+                        <abbr>Ant.<hi rendition="#sup">o</hi></abbr>
+                        <expan>Antonio</expan>
+                    </choice> del <lb/>Valle Hernandez. <lb/><add place="left">Es copia</add>
+                </p>
+                  </div>  
+                     <pb n="4v" facs="prohd0026_4v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
+                  
+                      <div><p><pb n="5r" facs="prohd0026_5r.tif"/><lb/>Noticia relativa <unclear reason="illegible" cert="high"
+                            >V</unclear>
+                        <date when="1795-10-28" calendar="#Gregorian"><choice>
+                                <abbr>Oct.<hi rendition="#sup">e</hi></abbr>
+                                <expan>Octubre</expan>
+                            </choice> 28/795</date></p></div>
+                    <div><head>Acuerdo-</head></div> 
+                    <div>
+                        <p>En <choice>
+                            <orig>sesion</orig>
+                            <reg>sesión</reg>
+                        </choice> de la Junta de <choice>
+                            <abbr>Gob.<hi rendition="#sup">no</hi></abbr>
+                            <expan>Gobierno</expan>
+                        </choice> del Consulado <lb/>de <date when="1795-10-28"
+                            calendar="#Gregorian">28 de Octubre de 1795</date> presedida por el <choice>
+                            <abbr>Escmo</abbr>
+                            <expan>Excelentísimo</expan>
+                        </choice>
+                        <lb/><choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Gob.<hi rendition="#sup">or</hi></abbr>
+                            <expan>Gobernador</expan>
+                        </choice> y <choice>
+                            <abbr>Cap.<hi rendition="#sup">n</hi></abbr>
+                            <expan>Capitán</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Gral</abbr>
+                            <expan>General</expan>
+                        </choice>: <choice>
+                            <orig>sigió</orig>
+                            <reg>siguió</reg>
+                        </choice> el <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico la <lb/><choice>
+                            <orig>relacion</orig>
+                            <reg>relación</reg>
+                        </choice> de su <choice>
+                            <orig>viage</orig>
+                            <reg>viaje</reg>
+                        </choice>, participando a la Junta las <lb/>noticias que <choice>
+                            <orig>habia</orig>
+                            <reg>había</reg>
+                        </choice> adquirido en <choice>
+                            <sic>Ynglaterra</sic>
+                            <corr cert="high">Inglaterra</corr>
+                        </choice>, <lb/>y en <choice>
+                            <sic>Jamayca</sic>
+                            <corr cert="high">Jamaica</corr>
+                        </choice> sobre las refinerias de <choice>
+                            <orig>azu<g ref="#typoHyphen"/><lb break="no"/>car</orig>
+                            <reg>azúcar</reg>
+                        </choice>, y comunicandola una memoria, que pa<g ref="#typoHyphen"/><lb
+                            break="no"/>so al Ministerio de <choice>
+                            <abbr>R.<hi rendition="#sup">l</hi></abbr>
+                            <expan>Real</expan>
+                        </choice> Hacienda para con<lb break="no"/>vencer las ventajas que <choice>
+                            <orig>resultarian</orig>
+                            <reg>resultarían</reg>
+                        </choice> al Es<g ref="#typoHyphen"/><lb break="no"/>tado de fomentar en
+                        esta <choice>
+                            <sic>Ysla</sic>
+                            <corr cert="high">Isla</corr>
+                        </choice> los refinos <lb/>de <choice>
+                            <orig>azucar</orig>
+                            <reg>azúcar</reg>
+                        </choice>. Luego se <choice>
+                            <orig>estendió</orig>
+                            <reg>extendió</reg>
+                        </choice>
+                        <choice>
+                            <abbr>sre.</abbr>
+                            <expan>sobre</expan>
+                        </choice> el <choice>
+                            <orig>viage</orig>
+                            <reg>viaje</reg>
+                        </choice> a <lb/><choice>
+                            <sic>Jamayca</sic>
+                            <corr cert="high">Jamaica</corr>
+                        </choice>, describiendo <choice>
+                            <orig>succesivamente</orig>
+                            <reg>sucesivamente</reg>
+                        </choice> el <lb/>actual estado de los varios ramos de agri<g
+                            ref="#typoHyphen"/><lb break="no"/>cultura en aquella <choice>
+                            <sic>Ysla</sic>
+                            <corr cert="high">Isla</corr>
+                        </choice> y en la de la Bar<lb break="no"/>bada, como son los ingenios de <choice>
+                            <orig>azucar</orig>
+                            <reg>azúcar</reg>
+                        </choice>, mo<g ref="#typoHyphen"/><lb break="no"/>vidos por bestias, por el
+                        agua y por el vien<lb break="no"/>to. estancias, <choice>
+                            <orig>cafe</orig>
+                            <reg>café</reg>
+                        </choice>, <choice>
+                            <orig>algodon</orig>
+                            <reg>algodón</reg>
+                        </choice>, añil y tabaco, <lb/>acompañando su <choice>
+                            <orig>relacion</orig>
+                            <reg>relación</reg>
+                        </choice> con la <choice>
+                            <orig>exhibi<g ref="#typoHyphen"/><lb break="no"/>cion</orig>
+                            <reg>exhibición</reg>
+                        </choice> de los modelos de las <unclear reason="illegible" cert="high"
+                            >prales</unclear>
+                        <choice>
+                            <orig>Maqui<lb break="no"/>nas</orig>
+                            <reg>máquinas</reg>
+                        </choice> que se emplean para beneficiar otros <lb/>frutos = El marques del <choice>
+                            <abbr>R.<hi rendition="#sup">l</hi></abbr>
+                            <expan>Real</expan>
+                        </choice> Socorro = Juan <lb/>Tomas de Jauregui = Lorenzo de Quin<g
+                            ref="#typoHyphen"/><lb break="no"/>tana = <choice>
+                            <abbr>Ant.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Antonio</expan>
+                        </choice> del Valle Hernandez <add place="left"><lb/>Es copia.</add>
+                    </p>
+                    </div>
+                        <pb n="5v" facs="prohd0026_5v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
+                    
+                        <div><p><pb n="6r" facs="prohd0026_6r.tif"/><lb/><choice>
+                            <orig>Viage</orig>
+                            <reg>Viaje</reg>
+                        </choice> del <choice>
+                            <abbr>S<hi rendition="#sup">r</hi></abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico <date when="1795-11-18" calendar="#Gregorian"><choice>
+                                <abbr>Nov.<hi rendition="#sup">e</hi></abbr>
+                                <expan>Noviembre</expan>
+                            </choice> 18/795</date></p></div>
+                        <div>
+                            <head>Acuerdo</head>
+                        </div>
+                        <div>
+                        <p>En <choice>
+                            <orig>sesion</orig>
+                            <reg>sesión</reg>
+                        </choice> de la Junta del <choice>
+                            <abbr>Gob.<hi rendition="#sup"><hi rendition="#u">no</hi></hi></abbr>
+                            <expan>Gobierno</expan>
+                        </choice> del Consu<g ref="#typoHyphen"/><lb break="no"/>lado de <date
+                            when="1795-11-18" calendar="#Gregorian">18 de Noviembre de 1795</date>.
+                        presidida por <lb/>el <choice>
+                            <abbr>Escmo.</abbr>
+                            <expan>Excelentísimo</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Gob.<hi rendition="#sup">or</hi></abbr>
+                            <expan>Gobernador</expan>
+                        </choice> y <choice>
+                            <abbr>Cap.<hi rendition="#sup">n</hi></abbr>
+                            <expan>Capitán</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Gral</abbr>
+                            <expan>General</expan>
+                        </choice>: prosiguien <lb/>do el <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico la <choice>
+                            <orig>relacion</orig>
+                            <reg>relación</reg>
+                        </choice> de su <choice>
+                            <orig>viage</orig>
+                            <reg>viaje</reg>
+                        </choice>, pre<lb break="no"/>sento a la Junta un nivel, un teodolito,
+                        <lb/>y un estuche de <choice>
+                            <orig>Matematicas</orig>
+                            <reg>Matemáticas</reg>
+                        </choice> que <choice>
+                            <orig>habia</orig>
+                            <reg>había</reg>
+                        </choice>
+                        <lb/>comprado en <choice>
+                            <sic>Ynglaterra</sic>
+                            <corr cert="high">Inglaterra</corr>
+                        </choice> para las opera<g ref="#typoHyphen"/><lb break="no"/>ciones de
+                        agrimensura que se ofreciesen <lb/>de orden del Consulado. La Junta, agra<lb
+                            break="no"/>deciendo la útil <choice>
+                            <orig>adquisicion</orig>
+                            <reg>adquisición</reg>
+                        </choice> que le pro<g ref="#typoHyphen"/><lb break="no"/>porcionaba el <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico acordó: Que <lb/>por <choice>
+                            <orig>Tesoreria</orig>
+                            <reg>Tesorería</reg>
+                        </choice> se pagase el importe de <lb/>estos instrumentos que asciende a
+                            tre<g ref="#typoHyphen"/><lb break="no"/>inta y media guinea, al cambio
+                        de vein <lb/>te y ocho y tres caurtillos = El Marques <lb/>del <choice>
+                            <abbr>R<hi rendition="#sup">l</hi></abbr>
+                            <expan>Real</expan>
+                        </choice> Socorro = Juan Tomas de Jau- <lb/>regui = Lorenzo de Quintana = <choice>
+                            <abbr>Ant.<hi rendition="#sup">o</hi></abbr>
+                            <expan>Antonio</expan>
+                        </choice> del <lb/>Valle Hernandez- <add place="left"><lb/>Es copia</add>
+                    </p>
+                           <pb n="6v" facs="prohd0026_6v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
+                        </div>
+                <div>
+                            <div><p><pb n="7r" facs="prohd0026_7r"/>
+                        <lb/><choice>
+                            <orig>Viage</orig>
+                            <reg>Vieje</reg>
+                        </choice> del <choice>
+                            <abbr>S<hi rendition="#sup">r</hi></abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico <date when="1795-12-12" calendar="#Gregorian"><choice>
+                                <abbr>Dic.</abbr>
+                                <expan>Diciembre</expan>
+                            </choice> 12/795</date></p></div>
+                    <div><head>Acuerdo</head></div>
+                    <div><p>En <choice>
+                                <orig>sesion</orig>
+                                <reg>sesión</reg>
+                            </choice> de la Junta de <choice>
+                                <abbr>Gob.<hi rendition="#sup">no</hi></abbr>
+                                <expan>Gobierno</expan>
+                            </choice> del Consulado <lb/>de <date when="1795-12-12"
+                                calendar="#Gregorian">12 de Diciembre de 1795</date> presidida por
+                            el Marques <lb/>del <choice>
+                                <abbr>R.<hi rendition="#sup">l</hi></abbr>
+                                <expan>Real</expan>
+                            </choice> Socorro Prior: prosiguió el <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Sindico la <choice>
+                                <orig>re<g ref="#typoHyphen"/><lb break="no"/>lacion</orig>
+                                <reg>relación</reg>
+                            </choice> de su <choice>
+                                <orig>viage</orig>
+                                <reg>viaje</reg>
+                            </choice>, tratando particularmente de <lb/>lo que observo en la <choice>
+                                <orig>Ysla</orig>
+                                <reg>Isla</reg>
+                            </choice> de <choice>
+                                <sic>Jamayca</sic>
+                                <corr cert="high">Jamaica</corr>
+                            </choice>, <choice>
+                                <orig>é</orig>
+                                <reg>e</reg>
+                            </choice> inciden<lb break="no"/>talmente de varios otros puntos
+                            interesantes <choice>
+                                <abbr>p.<hi rendition="#sup"><hi rendition="#u">a</hi></hi></abbr>
+                                <expan>para</expan>
+                            </choice>
+                            <lb/>esta <choice>
+                                <orig>Ysla</orig>
+                                <reg>Isla</reg>
+                            </choice> como son la moneda Provincial, <lb/>la <choice>
+                                <orig>introduccion</orig>
+                                <reg>introducción</reg>
+                            </choice> de la plata en esta <choice>
+                                <orig>Ysla</orig>
+                                <reg>Isla</reg>
+                            </choice>, las re<g ref="#typoHyphen"/><lb break="no"/>laciones de
+                                <unclear reason="illegible" cert="high">Com.</unclear><hi
+                                rendition="#sup"><hi rendition="#u"><unclear reason="illegible"
+                                        cert="high">o</unclear></hi></hi> de esta Plaza con la de
+                                Ca<g ref="#typoHyphen"/><lb break="no"/>diz, el privilegio de los <choice>
+                                <orig>Yngenios</orig>
+                                <reg>Ingenios</reg>
+                            </choice>; y habiendo <lb/>finalizado su <choice>
+                                <orig>relacion</orig>
+                                <reg>relación</reg>
+                            </choice> represento el <choice>
+                                <abbr>Secrio.</abbr>
+                                <expan>Secretario</expan>
+                            </choice>
+                            <lb/>que por la multitud de objetos y noticias que <lb/>habia tocado el <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Sindico en el curso inte<lb break="no"/>rrumpido de ella,
+                            quedaban muy imperfectos <lb/>en las actas los apuntes que <choice>
+                                <orig>habia</orig>
+                                <reg>había</reg>
+                            </choice> podido <choice>
+                                <orig>reco<g ref="#typoHyphen"/><lb break="no"/>jer</orig>
+                                <reg>recoger</reg>
+                            </choice>. por lo que pidió el <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Sindico una lista <lb/>exacta de todos los asuntos que <choice>
+                                <orig>habia</orig>
+                                <reg>había</reg>
+                            </choice> tratado <lb/>para que constase y se insertase en las actas =
+                            <lb/>El Marques del <choice>
+                                <abbr>R<hi rendition="#sup">l</hi></abbr>
+                                <expan>Real</expan>
+                            </choice> Socorro = Juan Tomas de <lb/>Jauregui = Lorenzo de Quintana = <choice>
+                                <abbr>Ant.<hi rendition="#sup">o</hi></abbr>
+                                <expan>Antonio</expan>
+                            </choice> del - <lb/>Valle Hernandez. <lb/><add place="mBottom">Es
+                                copia.</add>
+                        </p>
+                    </div>
+                    <pb n="7v" facs="prohd0026_7v.tif"/><gap unit="pages" quantity="1" reason="empty"/>
+                       <div> <p><pb n="8r" facs="prohd0026_8r.tif"/>
+                        <lb/><choice>
+                            <orig>Viage</orig>
+                            <reg>Viaje</reg>
+                        </choice> del <choice>
+                            <abbr>S<hi rendition="#sup">r</hi></abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico <date when="1795-12-23" calendar="#Gregorian"><choice>
+                                <abbr>Dic.<hi rendition="#sup">e</hi></abbr>
+                                <expan>Diciembre</expan>
+                            </choice> 23/795</date></p></div>
+                        <div><head>Acuerdo -</head></div>
+                        <div><p>En <choice>
+                                <orig>sesion</orig>
+                                <reg>sesión</reg>
+                            </choice> de la Junta de <choice>
+                                <abbr>Gob.<hi rendition="#sup"><hi rendition="#u"
+                                    >no</hi></hi></abbr>
+                                <expan>Gobierno</expan>
+                            </choice> del Consulado <lb/>de <date when="1795-12-23"
+                                calendar="#Gregorian">23 de Diciembre de 1795</date> - presidida por
+                            el <choice>
+                                <abbr>Escmo.</abbr>
+                                <expan>Excelentísimo</expan>
+                            </choice>
+                            <lb/>Sr. <choice>
+                                <abbr>Gob.<hi rendition="#sup">or</hi></abbr>
+                                <expan>Gobernador</expan>
+                            </choice> y <choice>
+                                <abbr>Cap.<hi rendition="#sup">n</hi></abbr>
+                                <expan>Capitán</expan>
+                            </choice>
+                            <choice>
+                                <abbr>Gral.</abbr>
+                                <expan>General</expan>
+                            </choice> el <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Sindico comunicó <lb/>a la Junta la lista que <choice>
+                                <orig>habia</orig>
+                                <reg>había</reg>
+                            </choice> ofrecido en la <choice>
+                                <orig>penul<g ref="#typoHyphen"/><lb break="no"/>tima</orig>
+                                <reg>penúltima</reg>
+                            </choice>
+                            <choice>
+                                <orig>sesion</orig>
+                                <reg>sesión</reg>
+                            </choice> de los objetos que trato en la <choice>
+                                <orig>relacion</orig>
+                                <reg>relación</reg>
+                            </choice>
+                            <lb/>de su <choice>
+                                <orig>viage</orig>
+                                <reg>viaje</reg>
+                            </choice>, para que se insertase en el presen<g ref="#typoHyphen"/><lb
+                                break="no"/>te acuerdo, la que a la letra es como se sigue.
+                            <lb/>Puntos de que he tratado en la <choice>
+                                <orig>relacion</orig>
+                                <reg>relación</reg>
+                            </choice> de mi <lb/><choice>
+                                <orig>viage</orig>
+                                <reg>viaje</reg>
+                            </choice> = En España = <choice>
+                                <orig>Metodo</orig>
+                                <reg>Método</reg>
+                            </choice> de Agricultura en <lb/>la Mancha y Andalucia = Conocimientos
+                            de es<g ref="#typoHyphen"/><lb break="no"/>tos Cultivadores = su fortuna
+                            comparada con los <lb/>de nuestros <choice>
+                                <abbr>Neg<hi rendition="#sup">o</hi></abbr>
+                                <expan>Negro</expan>
+                            </choice> = Estado del <unclear reason="illegible" cert="high"
+                                >Com</unclear><hi rendition="#sup"><hi rendition="#u"><unclear
+                                        reason="illegible" cert="high">o</unclear></hi></hi> de
+                            Cadiz = Utili<lb break="no"/>dades que <choice>
+                                <orig>resultarian</orig>
+                                <reg>resultarían</reg>
+                            </choice>
+                            <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice>
+                            <choice>
+                                <abbr>nra</abbr>
+                                <expan>nuestra</expan>
+                            </choice>
+                            <choice>
+                                <orig>Ysla</orig>
+                                <reg>Isla</reg>
+                            </choice> de estre<lb break="no"/>char con el sus relaciones= Consulado
+                            de esta <lb/>Ciudad = Sus ventajas y defectos, tanto en <lb/>lo <choice>
+                                <orig>economico</orig>
+                                <reg>económico</reg>
+                            </choice> como en lo judicial = <unclear reason="illegible" cert="high"
+                                >Yden</unclear> del <lb/>Hospicio = su floreciente <choice>
+                                <orig>situacion</orig>
+                                <reg>situación</reg>
+                            </choice> = Lo que de <lb/>el conviene adoptar para el de la habana=
+                            <lb/>Academia de las bellas Artes = Pie admirable <lb/>en que esta la
+                            Carcel de aquella Ciudad = Casa <lb/>de Viudas = Escuelas gratuitas de
+                            primeras letras= <lb/>Hospitales = Motivos que <choice>
+                                <orig>tubimos</orig>
+                                <reg>tuvimos</reg>
+                            </choice> para pasar <lb/>por Cadiz = Los principales fueron conocer
+                            <lb/>las facultades de aquellos Comerciantes con <lb/>el <choice>
+                                <orig>estramgero</orig>
+                                <reg>extranjero</reg>
+                            </choice>
+                            <choice>
+                                <orig>ntre</orig>
+                                <reg>entre</reg>
+                            </choice> nuestros frutos; y sus propor<lb break="no"/>ciones = sus
+                            relaciones para anticiparnos fondos = <lb/>Noticias y <choice>
+                                <orig>reflesciones</orig>
+                                <reg>reflexiones</reg>
+                            </choice> sobre todo esto- contra </p>
+                        </div>
+                        <div>
+                    <p><pb n="8v" facs="prohd0026_8v.tif"/>
+                            <lb/>hidas particularmente al <choice>
+                                <orig>azucar</orig>
+                                <reg>azúcar</reg>
+                            </choice> y aguardiente <lb/>de cañas, con <choice>
+                                <orig>esplicacion</orig>
+                                <reg>explicación</reg>
+                            </choice> del estado en que deje <lb/>varias instancias que <choice>
+                                <orig>ntre</orig>
+                                <reg>entre</reg>
+                            </choice> este <choice>
+                                <orig>ultimo</orig>
+                                <reg>último</reg>
+                            </choice> ramo <choice>
+                                <orig>tenia</orig>
+                                <reg>tenía</reg>
+                            </choice>
+                            <lb/>entabladas en la Corte = En Lisboa = <choice>
+                                <orig>Situacion</orig>
+                                <reg>Situación</reg>
+                            </choice> de <lb/>este Pueblo = <choice>
+                                <orig>Estension</orig>
+                                <reg>Extensión</reg>
+                            </choice> de su <unclear reason="illegible" cert="high">Com</unclear><hi
+                                rendition="#sup"><unclear reason="illegible" cert="high"
+                                >o</unclear></hi> producciones <lb/>de sus Colonias = Estado en que
+                            se halla en es<g ref="#typoHyphen"/><lb break="no"/>tas la <choice>
+                                <orig>Agricult<hi rendition="#sup">a</hi></orig>
+                                <reg>Agricultura</reg>
+                            </choice> sistema <choice>
+                                <orig>economico</orig>
+                                <reg>económico</reg>
+                            </choice> y guberna<lb break="no"/>tivo que en ellas se observa =
+                            Comodidad de <choice>
+                                <orig>q<hi rendition="#sup">e</hi></orig>
+                                <reg>que</reg>
+                            </choice>
+                            <lb/>disfrutan en el precio de Negros = Sus factorias <lb/>en la costa
+                            de <choice>
+                                <orig>Africa</orig>
+                                <reg>África</reg>
+                            </choice>, con cuantas noticias <lb/>pueden conducir al <unclear
+                                reason="illegible" cert="high">Com</unclear><hi rendition="#sup"
+                                    ><unclear reason="illegible" cert="high">o</unclear></hi> que <choice>
+                                <orig>alli</orig>
+                                <reg>allí</reg>
+                            </choice> hacen = <lb/>Medios <choice>
+                                <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                                <expan>para</expan>
+                            </choice>
+                            <choice>
+                                <abbr>q.<hi rendition="#sup">e</hi></abbr>
+                                <expan>que</expan>
+                            </choice> nosotros nos aprovechemos de <lb/>el = En <choice>
+                                <sic>Ynglaterra</sic>
+                                <corr cert="high">Inglaterra</corr>
+                            </choice> = Una <choice>
+                                <orig>descripcion</orig>
+                                <reg>descripción</reg>
+                            </choice> sucinta <lb/>de su opulencia = Hermosura de sus Campos = <lb/><choice>
+                                <orig>Perfeccion</orig>
+                                <reg>Perfección</reg>
+                            </choice> de su cultivo Medios de que se va<g ref="#typoHyphen"/><lb
+                                break="no"/>lieron para conseguirlo = <unclear reason="illegible"
+                                cert="high">Com.</unclear><hi rendition="#sup"><unclear
+                                    reason="illegible" cert="high">o</unclear></hi> con sus
+                            Colonias= <lb/>Reglas con que lo hacen = Ventajas que les pro- <lb/>duce
+                            = Comodidad de precios en las maquinas <lb/>y utensilios que <choice>
+                                <abbr>p<hi rendition="#sup">a</hi></abbr>
+                                <expan>para</expan>
+                            </choice> las Haciendas Coloniales se <lb/>necesitan = Facilidad que
+                            nosotros tenemos <choice>
+                                <abbr>p<hi rendition="#sup">a</hi></abbr>
+                                <expan>para</expan>
+                            </choice>
+                            <lb/>lograr esta ventaja y librarnos de la cares <lb/>tias con que las
+                            compramos = <unclear reason="illegible" cert="high">Com</unclear><hi
+                                rendition="#sup"><unclear reason="illegible" cert="high"
+                                >o</unclear></hi> de los <choice>
+                                <abbr>Yn<g ref="#typoHyphen"/><lb break="no"/>gleses</abbr>
+                                <expan>Ingleses</expan>
+                            </choice> de las Costa de <choice>
+                                <orig>Africa</orig>
+                                <reg>África</reg>
+                            </choice> Noticia circuntan<lb break="no"/>ciada de todos los
+                            particulares relativos <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice> es<g ref="#typoHyphen"/><lb break="no"/>te punto, indicando
+                            los medios que nos <choice>
+                                <orig>conven<g ref="#typoHyphen"/><lb break="no"/>dria</orig>
+                                <reg>convendría</reg>
+                            </choice> adoptar para participar de sus ventajas <lb/>Refinadurias =
+                            Memoria especial sobre este <lb/>importante ramo = Bomba de fuegos
+                            aplicable <lb/>a nuestros molinos de Caña = trapiche de nue<g
+                                ref="#typoHyphen"/><lb break="no"/>va <choice>
+                                <orig>invencion</orig>
+                                <reg>invención</reg>
+                            </choice>
+                            <choice>
+                                <orig>esplicado</orig>
+                                <reg>explicado</reg>
+                            </choice> por un modelo = Barbada <lb/><choice>
+                                <orig>Estension</orig>
+                                <reg>Extención</reg>
+                            </choice> de esta <choice>
+                                <orig>Ysla</orig>
+                                <reg>Isla</reg>
+                            </choice>; <choice>
+                                <orig>numero</orig>
+                                <reg>número</reg>
+                            </choice> de sus habitantes = <lb/>Causas de tan portentosas <choice>
+                                <orig>poblacion</orig>
+                                <reg>población</reg>
+                            </choice> - su sistema de <lb/>Cultivo - su producto <choice>
+                                <orig>annual</orig>
+                                <reg>anual</reg>
+                            </choice> = sus <unclear reason="illegible" cert="high"
+                                >athos</unclear><hi rendition="#sup"><unclear reason="illegible"
+                                    cert="high">r</unclear></hi> mu<lb break="no"/>nicipales = <choice>
+                                <orig>Jamayca</orig>
+                                <reg>Jamaica</reg>
+                            </choice> = Sistema de <choice>
+                                <orig>Gob<hi rendition="#sup"><hi rendition="#u">no</hi></hi></orig>
+                                <reg>Gobienro</reg>
+                            </choice> que <lb/>se observa en esta <choice>
+                                <orig>Ysla</orig>
+                                <reg>Isla</reg>
+                            </choice> = su <choice>
+                                <orig>estencion</orig>
+                                <reg>extención</reg>
+                            </choice> = </p>
+                        </div>
+                        <div>
+                    <p><pb n="9r" facs="prohd0026_9r.tif"/><lb/>cantidad de tierra cultivada = <choice>
+                                <orig>Numero</orig>
+                                <reg>Número</reg>
+                            </choice> de conda<lb break="no"/>dos, Villas, Parroquias, <choice>
+                                <orig>Yglesias</orig>
+                                <reg>Iglesias</reg>
+                            </choice>, Rectores, Habitadores - <lb/>blancos y <choice>
+                                <abbr>neg<hi rendition="#sup">o</hi></abbr>
+                                <expan>negros</expan>
+                            </choice> Gasto total de la Colonia para <lb/>su defensa, y para
+                            mantener el orden y la pureza <lb/>de la <choice>
+                                <orig>Religion</orig>
+                                <reg>Religión</reg>
+                            </choice> = De que modo se contribuyen oir <lb/>los moradores = <choice>
+                                <orig>Comparacion</orig>
+                                <reg>Comparación</reg>
+                            </choice> con el <choice>
+                                <abbr>nro.</abbr>
+                                <expan>negro</expan>
+                            </choice>: igual<lb break="no"/>mente que del Sistema de una y otra
+                            Colonia <lb/>Medios que en todos tiempos se han empleado <lb/>para
+                            alentar la <choice>
+                                <orig>poblacion</orig>
+                                <reg>población</reg>
+                            </choice> de blanco = <choice>
+                                <orig>Esamen</orig>
+                                <reg>Examen</reg>
+                            </choice>
+                            <lb/>de su eficacia y efectos = <choice>
+                                <orig>Yntroduccion</orig>
+                                <reg>Introducción</reg>
+                            </choice>
+                            <choice>
+                                <orig>annual</orig>
+                                <reg>anual</reg>
+                            </choice>
+                            <lb/>de negros. Autoridad que sobre ellos concedie<g ref="#typoHyphen"
+                                /><lb break="no"/>ron las Leyes a sus amos = Noticia e idea de los
+                            <lb/>diferentes Codigos <choice>
+                                <abbr>Neg<hi rendition="#sup">o</hi></abbr>
+                                <expan>Negro</expan>
+                            </choice> = Proyecto de Ley, para <lb/>que estos sea <hi rendition="#u"
+                                    ><unclear reason="illegible" cert="high">glebs</unclear></hi>
+                            <hi rendition="#u"><unclear reason="illegible" cert="high"
+                                    >adscripricios</unclear></hi> = Caminos = Como <lb/>los hacen =
+                            como los conservan Agricultura = Noticia <lb/>correcta del modo con que
+                            se cultiva en esta <choice>
+                                <orig>Ysla</orig>
+                                <reg>Isla</reg>
+                            </choice> la <lb/>caña; el algodon, café y añil = del orden que obser<g
+                                ref="#typoHyphen"/><lb break="no"/>van en el repartimiento de las
+                            tareas de sus ne<g ref="#typoHyphen"/><lb break="no"/>gros, y del <choice>
+                                <orig>metodo</orig>
+                                <reg>método</reg>
+                            </choice> con que se tienen establecidas las <lb/><choice>
+                                <orig>maquinas</orig>
+                                <reg>máquinas</reg>
+                            </choice> y oficinas necesarias para cada Hacien<lb break="no"/>da; con
+                            todo lo <choice>
+                                <orig>demas</orig>
+                                <reg>demás</reg>
+                            </choice> que es conducente a este <lb/>punto = Modelos presentados de
+                            las <choice>
+                                <orig>Maquinas</orig>
+                                <reg>Máquinas</reg>
+                            </choice>, <choice>
+                                <abbr>q<hi rendition="#sup">e</hi></abbr>
+                                <expan>que</expan>
+                            </choice>
+                            <lb/>con este objeto costeamos = Noticia de las que <lb/>practicaban los
+                            Franceses en la desgraciada co<g ref="#typoHyphen"/><lb break="no"
+                            />lonia de <choice>
+                                <abbr>S<hi rendition="#sup"><hi rendition="#u">to</hi></hi></abbr>
+                                <expan>Santo</expan>
+                            </choice> Domingo = de las causas de su <lb/>prosperiadad y de su ruina
+                            = Nota = <choice>
+                                <orig>Ademas</orig>
+                                <reg>Además</reg>
+                            </choice> de es<g ref="#typoHyphen"/><lb break="no"/>to he presentado
+                            las observaciones que hicimos <lb/>en todas las Colonias relativas a
+                            moneda <lb/>provincial, y a facilitar la correspondencia <lb/>del
+                            Agricultor Colonial con el <unclear reason="illegible" cert="high"
+                                >Com</unclear><hi rendition="#sup"><unclear reason="illegible"
+                                    cert="high">o</unclear></hi> me<g ref="#typoHyphen"/><lb
+                                break="no"/>tropolitano = Añadio el <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Sindico que </p>
+                        </div>
+                        <div>
+                    <p><pb n="9v" facs="prohd0026_9v.tif"/><lb/>aunque sus actuales ocupaciones no
+                        le <choice>
+                            <orig>permiti<g ref="#typoHyphen"/><lb break="no"/>an</orig>
+                            <reg>permitían</reg>
+                        </choice> absolutamente continuar la <choice>
+                            <orig>relacion</orig>
+                            <reg>relación</reg>
+                        </choice> escri<g ref="#typoHyphen"/><lb break="no"/>ta que <choice>
+                            <orig>habia</orig>
+                            <reg>había</reg>
+                        </choice> empezado, <choice>
+                            <orig>estaria</orig>
+                            <reg>estaría</reg>
+                        </choice> pronto a comu<g ref="#typoHyphen"/><lb break="no"/>nicar a
+                        cualquiera de los <choice>
+                            <abbr>Sres.</abbr>
+                            <expan>Señores</expan>
+                        </choice> Vocales todas las <lb/>noticias o <choice>
+                            <orig>esplicaciones</orig>
+                            <reg>explicaciones</reg>
+                        </choice> que le pidiesen <choice>
+                            <abbr>ntre.</abbr>
+                            <expan>entre</expan>
+                        </choice> los <lb/>presitados asuntos, <choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> cuyo fin <choice>
+                            <orig>podria</orig>
+                            <reg>podría</reg>
+                        </choice> cada uno <lb/>de <unclear reason="illegible" cert="high"
+                            >athos.</unclear>
+                        <choice>
+                            <abbr>Sres.</abbr>
+                            <expan>Señores</expan>
+                        </choice> tener <choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> la vista <unclear reason="illegible" cert="high">atha.</unclear>
+                        listo <choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> mo<g ref="#typoHyphen"/><lb break="no"/>do de indice o recuerdo =
+                        Agradecida la Junta <lb/><choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> las comunicaciones y ofertas del <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico, <choice>
+                            <orig>acor<g ref="#typoHyphen"/><lb break="no"/>do</orig>
+                            <reg>acordó</reg>
+                        </choice> unanimemente = Que <choice>
+                            <orig>habia</orig>
+                            <reg>había</reg>
+                        </choice> desempeñado con <lb/>igual talento y acierto el encargo que <choice>
+                            <orig>tenia</orig>
+                            <reg>tenía</reg>
+                        </choice>
+                        <lb/>de <choice>
+                            <abbr>S.</abbr>
+                            <expan>Su</expan>
+                        </choice>
+                        <choice>
+                            <abbr>M.</abbr>
+                            <expan>Majestad</expan>
+                        </choice> de comunicar las observaciones y <lb/>noticias que le hubiesen
+                        ocurrido en el <choice>
+                            <orig>viage</orig>
+                            <reg>viaje</reg>
+                        </choice>
+                        <lb/>que hizo a Portugal, <choice>
+                            <sic>Ynglaterra</sic>
+                            <corr cert="high">Inglaterra</corr>
+                        </choice>, <choice>
+                            <sic>Jamayca</sic>
+                            <corr cert="high">Jamaica</corr>
+                        </choice> y <lb/>Barbada con el <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice> Conde de Casa Montalvo, <lb/>en cuya vista <choice>
+                            <orig>creia</orig>
+                            <reg>creía</reg>
+                        </choice> de su <choice>
+                            <orig>obligacion</orig>
+                            <reg>obligación</reg>
+                        </choice> que se <lb/>le diere por un <choice>
+                            <abbr>of<hi rendition="#sup">o</hi></abbr>
+                            <expan>oficio</expan>
+                        </choice>, a nombre de la Junta, <lb/>las <choice>
+                            <orig>mas</orig>
+                            <reg>más</reg>
+                        </choice>
+                        <choice>
+                            <orig>espresivas</orig>
+                            <reg>expresivas</reg>
+                        </choice> gracias, haciendo pre<g ref="#typoHyphen"/><lb break="no"/>sente
+                        al Rey sus distinguidos Servicios en <lb/>desempeño del presitado encargo de <choice>
+                            <abbr>S.M</abbr>
+                            <expan>Su Majestad</expan>
+                        </choice>
+                        <lb/>El Marques de <choice>
+                            <abbr>R<hi rendition="#sup">l</hi></abbr>
+                            <expan>Real</expan>
+                        </choice> Socorro = Juan Tomas de <lb/>Jauregui = Lorenzo de Quintana = <choice>
+                            <abbr>Ant<hi rendition="#sup">o</hi></abbr>
+                            <expan>Antonio</expan>
+                        </choice> del <lb/>Valle Hernandez. <add place="mBottom"><lb/>Es copia</add>
+                    </p>
+                        </div>
+                        <div>
+                    <p><pb n="10r" facs="prohd0026_10r.tif"/><lb/><add place="left"><choice>
+                                <abbr>Exmo</abbr>
+                                <expan>Excelentísimo</expan>
+                            </choice>
+                            <choice>
+                                <abbr>Sor</abbr>
+                                <expan>Señor</expan>
+                            </choice><choice>
+                                <abbr>Dn</abbr>
+                                <expan>Don</expan>
+                            </choice> Diego De Sardoqui</add>
+                        <choice>
+                            <abbr>Exmo</abbr>
+                            <expan>Excelentísimo</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Sor</abbr>
+                            <expan>Señor</expan>
+                        </choice>
+                        <date when="1796-02-12" calendar="#Gregorian">12<choice>
+                                <abbr>feb<hi rendition="#sup">o</hi></abbr>
+                                <expan>febrero</expan>
+                            </choice>/796</date></p>
+                            <p>En cumplimiento del encargo <choice>
+                                <abbr>q<hi rendition="#sup">e</hi></abbr>
+                                <expan>que</expan>
+                            </choice>
+                            <choice>
+                                <orig><lb/>tenian</orig>
+                                <reg>tenían</reg>
+                            </choice>
+                            <add place="superlinear">de <choice>
+                                    <abbr>S</abbr>
+                                    <expan>Su</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>M</abbr>
+                                    <expan>Majestad</expan>
+                                </choice> el <choice>
+                                    <abbr>Sor</abbr>
+                                    <expan>Señor</expan>
+                                </choice></add>
+                            <choice>
+                                <orig>Donfr<hi rendition="#sup">co</hi></orig>
+                                <reg>Don <choice>
+                                        <abbr>Fr<hi rendition="#sup">co</hi></abbr>
+                                        <expan>Francisco</expan>
+                                    </choice></reg>
+                            </choice> de Arango <lb/>y <del rendition="#s">Conde</del> el difunto
+                            Conde de Casa <lb/>Montalvo de comunicar <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice> esta <lb/><choice>
+                                <abbr>J<hi rendition="#sup">ta</hi></abbr>
+                                <expan>Junta</expan>
+                            </choice> de Gobierno las experiencias y <lb/>noticias que en <add
+                                place="superlinear">su <choice>
+                                    <orig>viage</orig>
+                                    <reg>viaje</reg>
+                                </choice></add>
+                            <del rendition="#s">el</del> hubiesen adquirido, <lb/>se manifestaron
+                            pronto desde su <lb/>llegada <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice> comenzar la dicha <lb/><choice>
+                                <orig>comunicacion</orig>
+                                <reg>comunicación</reg>
+                            </choice>. Las atenciones <lb/>inseparables de <lb/>un nuevo estableci<subst>
+                                <del rendition="#ow"/>
+                                <add place="superlinear">miento</add>
+                            </subst>miento demoraron <lb/>la <choice>
+                                <orig>ejecucion</orig>
+                                <reg>ejecución</reg>
+                            </choice> de esta oferta durante <lb/>los primeros Meses del Consulado,
+                            <lb/>y la temprana muerte de nuestro <lb/>primer Prior, frustró
+                            inesperadamente <lb/>sus esperanzas y las de la <lb/><choice>
+                                <abbr>J<hi rendition="#sup">ta</hi></abbr>
+                                <expan>Junta</expan>
+                            </choice> Pero le quedo en la persona <lb/>de su compañero un
+                            depositario <lb/>que debia cumplir por los dos, y <lb/>asi ha sucedido.
+                            el <choice>
+                                <abbr>Sor</abbr>
+                                <expan>Señor</expan>
+                            </choice>
+                            <choice>
+                                <abbr>d<hi rendition="#sup">n</hi></abbr>
+                                <expan>Don</expan>
+                            </choice>
+                            <choice>
+                                <abbr>frco</abbr>
+                                <expan>Francisco</expan>
+                            </choice> de <lb/>Arango quien <choice>
+                                <orig>habia</orig>
+                                <reg>había</reg>
+                            </choice> ya <lb/>anotado ocasionalmente varios objetos <lb/>de su <choice>
+                                <orig>viage</orig>
+                                <reg>viaje</reg>
+                            </choice> como son fanales, negros <lb/>y algunos otros, empezó a <date
+                                when="1795-10-07" calendar="#Gregorian">7. de <choice>
+                                    <abbr>Oct.<hi rendition="#sup">re</hi></abbr>
+                                    <expan>Octubre</expan>
+                                </choice></date>
+                            <lb/>la <choice>
+                                <abbr>relacion</abbr>
+                                <expan>relación</expan>
+                            </choice> formal de él y la prosi<g ref="#typoHyphen"/><lb break="no"
+                            />guió en varios sesiones ordinarias <lb/>y extraordinarias hasta la de
+                                <date when="1795-12-23" calendar="#Gregorian">23. <lb/>de <choice>
+                                    <abbr>Diz<hi rendition="#sup">re</hi></abbr>
+                                    <expan>Diciembre</expan>
+                                </choice></date> en que la finalizó, ofreciendo <lb/>comunicar <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice> qualquiera <choice>
+                                <orig>delos</orig>
+                                <reg>de los</reg>
+                            </choice>
+                            <choice>
+                                <orig>Sres</orig>
+                                <reg>Señores</reg>
+                            </choice>
+                            <lb/>vocales dela Junta todas las noticias <lb/>o explicaciones <choice>
+                                <orig>quele</orig>
+                                <reg>que le</reg>
+                            </choice> pidiesen sobre </p>
+                        </div>
+                        <div>
+                    <p><pb n="10v" facs="prohd0026_10v.tif"/><lb/>los particulares <choice>
+                                <orig>delos</orig>
+                                <reg>de los</reg>
+                            </choice> asuntos que <lb/><choice>
+                                <orig>habia</orig>
+                                <reg>había</reg>
+                            </choice> tocado, <del rendition="#s"><add place="superlinear">ya que
+                                </add></del>
+                            <del rendition="#s">en cuyo <unclear reason="illegible" cert="high"
+                                    >tortion</unclear></del><lb/><del rendition="#s"><gap
+                                    reason="illegible" unit="words" quantity="14"
+                            /></del><lb/>Satisfecha <add place="superlinear">ya</add> la Junta del <choice>
+                                <orig>Zelo</orig>
+                                <reg>celo</reg>
+                            </choice>, y <lb/>distinguido talento de su Sindico, <lb/>por las muchas <choice>
+                                <orig>pruevas</orig>
+                                <reg>pruebas</reg>
+                            </choice> que <lb/>de uno y otro le <choice>
+                                <orig>habia</orig>
+                                <reg>habia</reg>
+                            </choice> dado, en el <lb/>desempeño de sus importantes y <lb/>penosas
+                            obligaciones, creo <add place="superlinear">yo deben <del rendition="#s"
+                                    >de la</del></add>
+                            <lb/><del rendition="#s">obligacion</del> hacer presente <del
+                                rendition="#s">a</del>
+                            <add place="superlinear">al Rey</add>
+                            <lb/>por manos de <choice>
+                                <abbr>N.E.</abbr>
+                                <expan>Nuestra Excelencia</expan>
+                            </choice>
+                            <add place="left">como lo hace actualmente</add> el acierto <lb/>con que
+                            ha cumplido por el y <lb/>por su difunto compañero el <lb/>encargo <choice>
+                                <orig>queles</orig>
+                                <reg>que les</reg>
+                            </choice>
+                            <choice>
+                                <orig>habia</orig>
+                                <reg>había</reg>
+                            </choice> contenido <lb/><choice>
+                                <abbr>S.M.</abbr>
+                                <expan>Su Majestad<del rendition="#s"><gap reason="illegible"
+                                            unit="words" quantity="19"/></del></expan>
+                            </choice>
+                            <add place="left">en cayo testimonio acompasiamos</add>
+                            <lb/><choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice>
+                            <choice>
+                                <abbr>N.E.</abbr>
+                                <expan>Nuestra Excelencia</expan>
+                            </choice> copia ceritificada <lb/><choice>
+                                <orig>dela</orig>
+                                <reg>de la</reg>
+                            </choice>
+                            <choice>
+                                <orig>declaracion</orig>
+                                <reg>declaración</reg>
+                            </choice> que <add place="superlinear">hizo</add> la <lb/>Junta con este <choice>
+                                <orig>motibo</orig>
+                                <reg>motivo</reg>
+                            </choice> a <date when="1795-12-23" calendar="#Gregorian">23 de <choice>
+                                    <abbr>Diz<hi rendition="#sup">bre</hi></abbr>
+                                    <expan>Diciembre</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>ult<hi rendition="#sup">o</hi></abbr>
+                                    <expan>útlimo</expan>
+                                </choice></date>
+                            <lb/><choice>
+                                <abbr>Nro</abbr>
+                                <expan>Nuestro</expan>
+                            </choice>
+                            <choice>
+                                <abbr>S<hi rendition="#sup">or.</hi></abbr>
+                                <expan>Señor</expan>
+                            </choice>
+                            <choice>
+                                <abbr>gu<hi rendition="#sup">e</hi></abbr>
+                                <expan>guarde</expan>
+                            </choice> la vida de <choice>
+                                <abbr>NE</abbr>
+                                <expan>Nuestra Excelencia</expan>
+                            </choice>
+                            <choice>
+                                <abbr>m.<hi rendition="#sup">s</hi></abbr>
+                                <expan>muchos</expan>
+                            </choice>
+                            <lb/><choice>
+                                <abbr>a.<hi rendition="#sup">s</hi></abbr>
+                                <expan>años</expan>
+                            </choice>
+                            <choice>
+                                <orig>Havana</orig>
+                                <reg>Habana</reg>
+                            </choice>, <date when="1796-02-12" calendar="#Gregorian">12 de <choice>
+                                    <abbr>febr</abbr>
+                                    <expan>febrero</expan>
+                                </choice> de <lb/>1796.</date>
+                        </p>
+                        </div>
+                        <div>
+                    <p><pb n="11r" facs="prohd0026_11r.tif"/><lb/><choice>
+                            <abbr>Sor</abbr>
+                            <expan>Señor</expan>
+                        </choice>
+                        <choice>
+                            <abbr>d<hi rendition="#sup">n</hi></abbr>
+                            <expan>Don</expan>
+                        </choice>
+                        <choice>
+                            <abbr>fr.<hi rendition="#sup">co</hi></abbr>
+                            <expan>Francisco</expan>
+                        </choice> de Arango y Parreño <date when="1796-02-12" calendar="#Gregorian"
+                            >12 <choice>
+                                <abbr>feb</abbr>
+                                <expan>febrero</expan>
+                            </choice>/96</date></p>
+                            <p>Habiendo <choice>
+                                <orig>oido</orig>
+                                <reg>oído</reg>
+                            </choice> con el mayor interes <lb/>esta Junta de Gobierno la <choice>
+                                <orig>relacion</orig>
+                                <reg>relación</reg>
+                            </choice> que <lb/>en cumplimiento del encargo de <choice>
+                                <abbr>S.M.</abbr>
+                                <expan>Su Majestad</expan>
+                            </choice>
+                            <lb/>le ha hecho <choice>
+                                <abbr>V.S.</abbr>
+                                <expan>Vuestra Señoría</expan>
+                            </choice> del <choice>
+                                <orig>viage</orig>
+                                <reg>viaje</reg>
+                            </choice> que verificó <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice>
+                            <lb/><choice>
+                                <sic>Ynglaterra</sic>
+                                <corr cert="high">Inglaterra</corr>
+                            </choice>, Portugal, Barbada y <choice>
+                                <sic>Jamayca</sic>
+                                <corr cert="high">Jamaica</corr>
+                            </choice>
+                            <lb/>en <choice>
+                                <abbr>Comp.<hi rendition="#sup">ia</hi></abbr>
+                                <expan>compañía</expan>
+                            </choice> del difunto Conde de Casa <lb/>Montalvo, nos ha encargado dar <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice>
+                            <choice>
+                                <abbr>V.S.</abbr>
+                                <expan>Vuestra Señoría</expan>
+                            </choice>
+                            <lb/>las <choice>
+                                <orig>mas</orig>
+                                <reg>más</reg>
+                            </choice> expresivas gracias por el acierto <lb/>y talento con que supo <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice> un tiempo <lb/>instruir y <choice>
+                                <orig>deleytarla</orig>
+                                <reg>deleitarla</reg>
+                            </choice>. Creyó de su <lb/>obligación y acordó al mismo tiempo
+                            <lb/>ponerlo expresamente en noticia de <choice>
+                                <abbr>S.</abbr>
+                                <expan>Su</expan>
+                            </choice>
+                            <choice>
+                                <abbr>M</abbr>
+                                <expan>Majestad</expan>
+                            </choice>
+                            <lb/>como lo <subst>
+                                <del rendition="#s">ha hecho</del>
+                                <add place="superlinear">hace</add>
+                            </subst> con fecha de este <choice>
+                                <orig>dia</orig>
+                                <reg>día</reg>
+                            </choice>, <choice>
+                                <abbr>p.<hi rendition="#sup">a</hi></abbr>
+                                <expan>para</expan>
+                            </choice>
+                            <lb/>que <choice>
+                                <orig>conosca</orig>
+                                <reg>conozca</reg>
+                            </choice>
+                            <add place="superlinear"><choice>
+                                    <abbr>S.M</abbr>
+                                    <expan>Su Majestad</expan>
+                                </choice></add> que sus beneficas miras <del rendition="#s"
+                                >apto</del><lb/><del rendition="#s"><gap reason="illegible"
+                                    unit="words" quantity="2"/>han cumplido</del> quedan cumplidas
+                            en esta <lb/>parte, como <del rendition="#s">S.M</del> no <choice>
+                                <orig>podia</orig>
+                                <reg>podía</reg>
+                            </choice> menos de <lb/><choice>
+                                <abbr>esperar<hi rendition="#sup">se</hi>lo</abbr>
+                                <expan>esperárselo</expan>
+                            </choice> del <choice>
+                                <orig>Zelo</orig>
+                                <reg>celo</reg>
+                            </choice> y patriotismo de <choice>
+                                <abbr>N.S.</abbr>
+                                <expan>Nuestra Señoría</expan>
+                            </choice>
+                            <lb/>Solo nos resta unir nuestras propias <lb/>expresiones a las de la
+                            Junta y acompañarla <lb/>copia certificada del Acuerdo de 23. de <lb/><choice>
+                                <abbr>Diz.<hi rendition="#sup">re</hi></abbr>
+                                <expan>Diciembre</expan>
+                            </choice>
+                            <choice>
+                                <orig>ultimo</orig>
+                                <reg>último</reg>
+                            </choice>
+                            <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice> que damos cumplimiento <lb/>en este instante. <lb/><choice>
+                                <abbr>gu.<hi rendition="#sup">e</hi></abbr>
+                                <expan>guarde</expan>
+                            </choice> a <choice>
+                                <abbr>N.S.</abbr>
+                                <expan>Nuestra Señoría</expan>
+                            </choice>
+                            <choice>
+                                <abbr>m.<hi rendition="#sup">s</hi></abbr>
+                                <expan>muchos</expan>
+                            </choice>
+                            <choice>
+                                <abbr>a.<hi rendition="#sup">s</hi></abbr>
+                                <expan>años</expan>
+                            </choice>
+                            <choice>
+                                <abbr>Hav.<hi rendition="#sup">a</hi></abbr>
+                                <expan>Habana</expan>
+                            </choice>
+                            <date when="1796-02-12" calendar="#Gregorian">12 de <lb/>febrero de
+                                1796.</date>
+                        </p>
+                        </div>
+                    <pb n="11v" facs="prohd0026_11v.tif"/><gap unit="pages" quantity="1"
+                        reason="empty"/>
+                        <div>
+                        <p><pb n="12r" facs="prohd0026_12r.tif"/>
+                        <lb/><add place="left"><choice>
+                                <orig>Viage</orig>
+                                <reg>Viaje</reg>
+                            </choice> del <choice>
+                                <abbr>S<hi rendition="#sup"><hi rendition="#u">r</hi></hi></abbr>
+                                <expan>Señor</expan>
+                            </choice> Sindico</add>
+                        <date when="1796-02-24" calendar="#Gregorian"><choice>
+                                <abbr>feb.<hi rendition="#sup">o</hi></abbr>
+                                <expan>febrero</expan>
+                            </choice> 24/796</date>
+                        </p>
+                        </div>
+                            <div><head>Acuerdo</head></div>
+                    <div>
+                            <p>En <choice>
+                                <orig>sesion</orig>
+                                <reg>sesión</reg>
+                            </choice> de la Junta de <choice>
+                                <abbr>Gob.<hi rendition="#sup">no</hi></abbr>
+                                <expan>Gobierno</expan>
+                            </choice> del Consulado <lb/>de <date when="1796-02-24"
+                                calendar="#Gregorian">24 de <choice>
+                                    <abbr>Feb.<hi rendition="#sup">o</hi></abbr>
+                                    <expan>Febrero</expan>
+                                </choice> de 1796</date>, presidida por el <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Visi<g ref="#typoHyphen"/><lb break="no"/>tador <choice>
+                                <abbr>Gral</abbr>
+                                <expan>General</expan>
+                            </choice>
+                            <choice>
+                                <sic>Yntendente</sic>
+                                <corr cert="high">Intendente</corr>
+                            </choice>: con motivo del <choice>
+                                <abbr>of.<hi rendition="#sup">o</hi></abbr>
+                                <expan>oficio</expan>
+                            </choice> que, <lb/>por acuerdo de la Junta, se paso al <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Sindico <lb/>para darle las gracias por la <choice>
+                                <abbr>relacion</abbr>
+                                <expan>relación</expan>
+                            </choice> de su <choice>
+                                <orig>via<lb break="no"/>ge</orig>
+                                <reg>viaje</reg>
+                            </choice>, <choice>
+                                <orig>recordo</orig>
+                                <reg>recordó</reg>
+                            </choice>
+                            <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice> la Junta todo lo que <choice>
+                                <orig>habia</orig>
+                                <reg>había</reg>
+                            </choice> pasado <lb/>en orden <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice>
+                            <unclear reason="illegible" cert="high">dha.</unclear>
+                            <choice>
+                                <orig>relacion</orig>
+                                <reg>relación</reg>
+                            </choice>, y <choice>
+                                <orig>pidio</orig>
+                                <reg>pidió</reg>
+                            </choice> que constase <lb/>nuevamente en el Acuerdo de este <choice>
+                                <orig>dia</orig>
+                                <reg>día</reg>
+                            </choice>, y ce<g ref="#typoHyphen"/><lb break="no"/>diendo la Junta <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice> tan justa instancia en un asun<lb break="no"/>to que consta a
+                            todos los <choice>
+                                <abbr>Sres.</abbr>
+                                <expan>Señores</expan>
+                            </choice> Vocales de ella, se <lb/><choice>
+                                <orig>acordo</orig>
+                                <reg>acordó</reg>
+                            </choice>
+                            <choice>
+                                <orig>asi</orig>
+                                <reg>así</reg>
+                            </choice>. Dijo, pues, el <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Sindico que desde su <lb/>llegada <choice>
+                                <orig>aqui</orig>
+                                <reg>aquí</reg>
+                            </choice>, no <choice>
+                                <orig>habia</orig>
+                                <reg>había</reg>
+                            </choice> cesado de solicitar que se <lb/>le permitiese dar cuenta de
+                            los resultados de su <lb/>viaje, y que <choice>
+                                <orig>habiendolo</orig>
+                                <reg>habiéndolo</reg>
+                            </choice> impedido las <choice>
+                                <orig>urjentes</orig>
+                                <reg>urgentes</reg>
+                            </choice>
+                            <choice>
+                                <orig>ocu<lb break="no"/>rencias</orig>
+                                <reg>ocurrencias</reg>
+                            </choice> de un cuerpo que se establecio y trataba <lb/>de su <choice>
+                                <orig>organizacion</orig>
+                                <reg>organización</reg>
+                            </choice>, condescendio por <choice>
+                                <orig>ultimo</orig>
+                                <reg>último</reg>
+                            </choice> la <lb/>Junta, en fuerza de sus repetidas instancias, a <choice>
+                                <abbr>q<hi rendition="#sup">e</hi></abbr>
+                                <expan>que</expan>
+                            </choice>
+                            <lb/>hubiese para esto Sesiones <choice>
+                                <orig>estraordinarias</orig>
+                                <reg>extraordinarias</reg>
+                            </choice>, y que <lb/>habiendo concluido su <choice>
+                                <orig>relacion</orig>
+                                <reg>relación</reg>
+                            </choice>, instado por los <lb/><choice>
+                                <abbr>Sres.</abbr>
+                                <expan>Señores</expan>
+                            </choice> para que la imprimiese, resistió hacerlo tan <lb/>de pronto,
+                            lo primero, por la multitud de ocupa<lb break="no"/>ciones que le
+                            rodeaban; lo segundo, por <choice>
+                                <abbr>l</abbr>
+                                <expan>lo</expan>
+                            </choice> que ha<g ref="#typoHyphen"/><lb break="no"/>biendo de Someter
+                            por su orden <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice> la <choice>
+                                <orig>resolucion</orig>
+                                <reg>relación</reg>
+                            </choice>
+                            <lb/>de la Junta las diferentes inovaciones que del <lb/>
+                            <choice>
+                                <orig>viage</orig>
+                                <reg>viaje</reg>
+                            </choice>
+                            <choice>
+                                <orig>habian</orig>
+                                <reg>habían</reg>
+                            </choice> de resultar, <choice>
+                                <orig>tenia</orig>
+                                <reg>tenía</reg>
+                            </choice> por <choice>
+                                <orig>mas</orig>
+                                <reg>más</reg>
+                            </choice> útil ir <lb/>publicando cada particular <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice> medida que la Jun </p>
+                        </div>
+                        <div>
+                    <p><pb n="12v" facs="prohd0026_12v.tif"/><lb/>ta lo fuese examinando para
+                        resolver, siendo de su <lb/>
+                        <choice>
+                            <orig>obligacion</orig>
+                            <reg>obligación</reg>
+                        </choice> ir presentando cada uno en los terminos 
+                        <choice>
+                            <abbr>q<hi rendition="#sup">e</hi></abbr>
+                            <expan>que</expan>
+                        </choice>
+                        <lb/>lo hizo, cuando se trató del <unclear reason="illegible" cert="high"
+                            >Com</unclear><hi rendition="#sup"><unclear reason="illegible"
+                                cert="high">o</unclear></hi> de Negros y de la 
+                        <choice>
+                            <orig>cons<g ref="#typoHyphen"/><lb break="no"/>truccion</orig>
+                            <reg>construcción</reg>
+                        </choice> de Caminos; e igualmente podrá la Junta de<g ref="#typoHyphen"
+                            /><lb break="no"/>terminar con <choice>
+                            <abbr>mas</abbr>
+                            <expan>más</expan>
+                        </choice> madurez lo que conviene publibar: <lb/>Que de esta manera el <choice>
+                            <orig>publico</orig>
+                            <reg>público</reg>
+                        </choice> sacara <choice>
+                            <orig>mas</orig>
+                            <reg>más</reg>
+                        </choice> utilidad <lb/>y en el intermedio tendra cada cual libertad <choice>
+                            <abbr>p<hi rendition="#sup">a</hi></abbr>
+                            <expan>para</expan>
+                        </choice>
+                        <lb/>ocurrir a el por las ilustraciones que necesitase <unclear
+                            reason="illegible" cert="high">nre.</unclear>
+                        <lb/>cada punto de los comprendidos en la <choice>
+                            <orig>relacion</orig>
+                            <reg>relación</reg>
+                        </choice>
+                        <lb/>de su <choice>
+                            <orig>viage</orig>
+                            <reg>viaje</reg>
+                        </choice> y señalados en la lista que entregó: <lb/><choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> todo lo cual se <choice>
+                            <orig>avizo</orig>
+                            <reg>avisó</reg>
+                        </choice> unanimemente la Junta <lb/>convencida de que <choice>
+                            <orig>zelo</orig>
+                            <reg>celo</reg>
+                        </choice> y talento del <choice>
+                            <abbr>Sr.</abbr>
+                            <expan>Señor</expan>
+                        </choice> Sindico <lb/>aseguraban el <choice>
+                            <abbr>cumplim<hi rendition="#sup">to</hi></abbr>
+                            <expan>cumplimiento</expan>
+                        </choice> de estas ofertas = Recordó <lb/><choice>
+                            <abbr>igualm.<hi rendition="#sup">te</hi></abbr>
+                            <expan>igualmente</expan>
+                        </choice>, en <choice>
+                            <abbr>cumplim<hi rendition="#sup">to</hi></abbr>
+                            <expan>cumplimiento</expan>
+                        </choice> de sus obligaciones, las ideas <lb/>que desde la <choice>
+                            <orig>instalacion</orig>
+                            <reg>instalación</reg>
+                        </choice> de la Junta <choice>
+                            <orig>habia</orig>
+                            <reg>había</reg>
+                        </choice> ofreci<g ref="#typoHyphen"/><lb break="no"/>do sobre el plan que <choice>
+                            <orig>habia</orig>
+                            <reg>había</reg>
+                        </choice> de seguir el Consulado <lb/>en la serie de sus trabajos, para que
+                        guardase or<g ref="#typoHyphen"/><lb break="no"/>den y consecuencia en sus
+                        operaciones, y no empren<g ref="#typoHyphen"/><lb break="no"/>diese <choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> un tiempo un conjunto de obras que superase <lb/>sus fuerzas. Que
+                        propusieron entonces los <choice>
+                            <abbr>Sres.</abbr>
+                            <expan>Señores</expan>
+                        </choice> Erice <lb/>y Calvo, Diputados al efecto, varias ideas y proyec<g
+                            ref="#typoHyphen"/><lb break="no"/>tos, entre los cuales se prefirió el
+                        de caminos eva<g ref="#typoHyphen"/><lb break="no"/>cuando al propio tiempo
+                        algunos otros. <choice>
+                            <orig>Ynsinuó</orig>
+                            <reg>Insinuó</reg>
+                        </choice> que <lb/>en esto, sea por descuido o por no tener <choice>
+                            <orig>á</orig>
+                            <reg>a</reg>
+                        </choice> la vista su <lb/><choice>
+                            <orig>preposicion</orig>
+                            <reg>preposición</reg>
+                        </choice>, la Junta <choice>
+                            <orig>habia</orig>
+                            <reg>había</reg>
+                        </choice> seguido <choice>
+                            <orig>mas</orig>
+                            <reg>más</reg>
+                        </choice> bien el <lb/>orden de los incidentes, que otro alguno; lo que
+                        <lb/>demostraba la necesidad de fijar definitivamente <lb/>un orden o serie
+                        de trabajos para reconocen<g ref="#typoHyphen"/><lb break="no"/>trar
+                        oportunamente todas las especies informes <lb/>y noticias e ir formalizando
+                        los <choice>
+                            <orig>espedientes</orig>
+                            <reg>expedientes</reg>
+                        </choice>
+                        <lb/>respectivos = Aplaudio <choice>
+                            <abbr>unanim<hi rendition="#sup">te</hi></abbr>
+                            <expan>unanimemente</expan>
+                        </choice> la Junta </p>
+                    <p><pb n="13r" facs="prohd0026_13r.tif"/>
+                            <lb/>el pensamiento del <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Sindico y lo apoyó particu<g ref="#typoHyphen"/>
+                            <lb break="no"/>larmente el <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Visitador <choice>
+                                <orig>Yntendente</orig>
+                                <reg>Intendente</reg>
+                            </choice> quien, <choice>
+                                <orig>haciendose</orig>
+                                <reg>haciéndose</reg>
+                            </choice>
+                            <lb/>cargo que era imposible formar un plan inalterable <choice>
+                                <abbr>p<hi rendition="#sup">a</hi></abbr>
+                                <expan>para</expan>
+                            </choice>- <lb/>estar la Junta pendiente de datos <choice>
+                                <orig>todavia</orig>
+                                <reg>todavía</reg>
+                            </choice> descono<g ref="#typoHyphen"/>
+                            <lb break="no"/>cidos y de incidentes casuales y ulteriores, propuso =
+                            Que <lb/>quedase encargado el <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Sindico de presentar un <lb/>plan provisional de trabajos
+                            dirigido a fijar el <lb/>orden que se ha de seguir en las operaciones
+                            del <lb/>Consulado, en vista de sus facultades y de las cir<g
+                                ref="#typoHyphen"/><lb break="no"/>cunstancias: y quedó asi acordado
+                            = El Mar<g ref="#typoHyphen"/><lb break="no"/>ques del <choice>
+                                <abbr>R<hi rendition="#sup">l</hi></abbr>
+                                <expan>Real</expan>
+                            </choice> Socorro= Juan Tomas de Jauregui = Juan <lb/>
+                            <choice>
+                                <abbr>Fran<hi rendition="#sup">co</hi></abbr>
+                                <expan>Francisco</expan>
+                            </choice> de Oliden = <choice>
+                                <abbr>Ant<hi rendition="#sup">o</hi></abbr>
+                                <expan>Antonio</expan>
+                            </choice> del Valle <choice>
+                                <orig>Hernandez</orig>
+                                <reg>Hernández</reg>
+                            </choice>. <lb/><add place="mBottom">Es copia.</add>
+                        </p>
+                </div>
+                            <pb n="13v" facs="prohd0026_13v.tif"/><gap unit="pages" quantity="1" reason="empty"/>
+                            <div> <p><pb n="14r" facs="prohd0026_14r.tif"/>
+                            <lb/><date when="1796-06-19" calendar="#Gregorian">Junio
+                            19/796</date></p></div>
+                      <div><head>Real orden</head></div>
+                            <div>
+                          <p>En carta de <date when="1796-02-27" calendar="#Gregorian">27 de <choice>
+                                    <abbr>Feb.<hi rendition="#sup">o</hi></abbr>
+                                    <expan>Febrero</expan>
+                                </choice>
+                                <choice>
+                                    <orig>proximo</orig>
+                                    <reg>próximo</reg>
+                                </choice> pasado</date> da <lb/><choice>
+                                <abbr>V.S.</abbr>
+                                <expan>Vuestra Señoria</expan>
+                            </choice> cuenta de que el Sindico <choice>
+                                <abbr>D.</abbr>
+                                <expan>Don</expan>
+                            </choice>
+                            <choice>
+                                <abbr>Fran.<hi rendition="#sup">co</hi></abbr>
+                                <expan>Francisco</expan>
+                            </choice> Aran<lb break="no"/>go ha hecho en la Junta de <choice>
+                                <abbr>Gob.<hi rendition="#sup">no</hi></abbr>
+                                <expan>Gobierno</expan>
+                            </choice>
+                            <choice>
+                                <orig>relacion</orig>
+                                <reg>relación</reg>
+                            </choice>
+                            <lb/>del <choice>
+                                <orig>viage</orig>
+                                <reg>viaje</reg>
+                            </choice> que en <choice>
+                                <orig>compañia</orig>
+                                <reg>compañía</reg>
+                            </choice> del Prior Conde <lb/>de Casa Montalvo a Portugal, <choice>
+                                <sic>Ynglaterra</sic>
+                                <corr cert="high">Inglaterra</corr>
+                            </choice> y <lb/>Colonias <choice>
+                                <sic>Ynglesas</sic>
+                                <corr cert="high">Inglesas</corr>
+                            </choice>; que habiendo desempeñado <lb/>cumplidamente esta <choice>
+                                <orig>comision</orig>
+                                <reg>comisión</reg>
+                            </choice> acordo la Junta <lb/>dar gracias a Arango, haciendo presente <choice>
+                                <orig>á</orig>
+                                <reg>a</reg>
+                            </choice>
+                            <choice>
+                                <abbr>S.E</abbr>
+                                <expan>Su Excelencia</expan>
+                            </choice>
+                            <lb/>como lo ejecuta el distinguido merito que ha <choice>
+                                <orig>con<lb break="no"/>trahido</orig>
+                                <reg>contraído</reg>
+                            </choice>, y que no se imprima por ahora <unclear reason="illegible"
+                                cert="high">dtha</unclear>
+                            <lb/><choice>
+                                <orig>relacion</orig>
+                                <reg>relación</reg>
+                            </choice> sin que se publique cada punto <choice>
+                                <orig>se<g ref="#typoHyphen"/><lb break="no"/>gun</orig>
+                                <reg>según</reg>
+                            </choice> lo vaya examinando la misma Junta. <lb/>Enterado el Rey de
+                            todo lo referido se ha <lb/>servido aprobar lo acordado por <choice>
+                                <abbr>V.S.</abbr>
+                                <expan>Vuestra Señoria</expan>
+                            </choice> y que<g ref="#typoHyphen"/><lb break="no"/>dar muy satisfecho
+                            del acreditado <choice>
+                                <orig>zelo</orig>
+                                <reg>celo</reg>
+                            </choice>, y ac<g ref="#typoHyphen"/><lb break="no"/>tivad de Arango, a
+                            quien con esta <unclear reason="illegible" cert="high">fha</unclear>
+                            <choice>
+                                <orig>doi</orig>
+                                <reg>doy</reg>
+                            </choice>
+                            <lb/>el aviso correspondiente: y de <choice>
+                                <abbr>R.<hi rendition="#sup"><hi rendition="#u">l</hi></hi></abbr>
+                                <expan>Real</expan>
+                            </choice> orden <lb/>lo participo a <choice>
+                                <abbr>N.S.</abbr>
+                                <expan>Nuestra Señoria</expan>
+                            </choice> para su inteligencia. Dios <lb/>guie a <choice>
+                                <abbr>V.S</abbr>
+                                <expan>Vuestra Señoria</expan>
+                            </choice>
+                            <unclear reason="illegible" cert="high">m.s</unclear>
+                            <unclear reason="illegible" cert="high">a.s</unclear> Aranguez <date
+                                when="1796-06-19" calendar="#Gregorian">19 de Junio de
+                                <lb/>1796</date> = Jardoqui = <choice>
+                                <abbr>Sr.</abbr>
+                                <expan>Señor</expan>
+                            </choice> Prior y Consules del <lb/>Consulado de la Habana <lb/><add
+                                place="mBottom">Es copia</add>
+                        </p>
+                            </div>
+                            
+
+                        <pb n="14v" facs="prohd0026_14v.tif"/><gap unit="pages" quantity="1" reason="empty"/>
+
+                        <div>
+                            <div>
+                               <p><pb n="15r" facs="prohd0026_15r.tif"/>
+                                <lb/><unclear reason="illegible" cert="high">V</unclear>- orden <choice>
+                                    <abbr>Sre</abbr>
+                                    <expan>Señores</expan>
+                                </choice> el <choice>
+                                    <orig>viage</orig>
+                                    <reg>viaje</reg>
+                                </choice>
+                                <unclear reason="illegible" cert="high">V</unclear>
+                                <date when="1796-08-24" calendar="#Gregorian">
+                                    <choice>
+                                        <abbr>Ag<hi rendition="#sup">to</hi></abbr>
+                                        <expan>Agosto</expan>
+                                    </choice> 24/796 </date></p>
+                        </div>
+                            <div><head>Acuerdo</head></div>
+                        <div>
+                         <p> En <choice>
+                                    <orig>sesion</orig>
+                                    <reg>sesión</reg>
+                                </choice>
+                                <choice>
+                                    <orig>dela</orig>
+                                    <reg>de la</reg>
+                                </choice> Junta de <choice>
+                                    <abbr>Gob<hi rendition="#sup">no</hi></abbr>
+                                    <expan>Gobierno</expan>
+                                </choice> del Consulado de <date when="1796-08-26">26 <lb/>de Agosto
+                                    de 1796</date> presidida por el <choice>
+                                    <abbr>Escmo</abbr>
+                                    <expan>Excelentísimo</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>Sr</abbr>
+                                    <expan>Señor</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>Gob<hi rendition="#sup">or</hi></abbr>
+                                    <expan>Gobernador</expan>
+                                </choice>
+                                <lb/>y <choice>
+                                    <abbr>Cap<hi rendition="#sup">n</hi></abbr>
+                                    <expan>Capitán</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>Gral</abbr>
+                                    <expan>General</expan>
+                                </choice>: leyó seguidamente el secretario <lb/>dos <choice>
+                                    <abbr>of<hi rendition="#sup">os</hi></abbr>
+                                    <expan>oficios</expan>
+                                </choice> del <choice>
+                                    <abbr>Escmo</abbr>
+                                    <expan>Excelentísimo</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>Sr</abbr>
+                                    <expan>Señor</expan>
+                                </choice>
+                                <unclear reason="illegible" cert="high">Altro</unclear> de Hacienda,
+                                el <lb/>uno con <choice>
+                                    <abbr>fha</abbr>
+                                    <expan>fecha</expan>
+                                </choice> de <date when="1796-06-19" calendar="#Gregorian">19 de
+                                    Junio último</date> paso, en <choice>
+                                    <abbr>q<hi rendition="#sup">e</hi></abbr>
+                                    <expan>que</expan>
+                                </choice>
+                                <lb/>
+                                <choice>
+                                    <abbr>S.M</abbr>
+                                    <expan>Su Majestad</expan>
+                                </choice> haciendo justicia al <choice>
+                                    <orig>zelo</orig>
+                                    <reg>celo</reg>
+                                </choice> y actividad que <lb/>ha manifestado el <choice>
+                                    <abbr>Sr</abbr>
+                                    <expan>Señor</expan>
+                                </choice> Sindico en la <choice>
+                                    <orig>relacion</orig>
+                                    <reg>relación</reg>
+                                </choice>
+                                <lb/>que ha hecho a la Junta de su <choice>
+                                    <orig>viage</orig>
+                                    <reg>viaje</reg>
+                                </choice> a <choice>
+                                    <orig>Yngla</orig>
+                                    <reg>Inglaterra</reg>
+                                </choice>
+                                <lb break="no"/>terra, Portugal, Barbada, y <choice>
+                                    <orig>Jamayca</orig>
+                                    <reg>Jamaica</reg>
+                                </choice>, aprue <lb break="no"/>ba todo lo actuado por la Junta en
+                                este par <lb break="no"/>ticular = El Marques del <choice>
+                                    <abbr>R<hi rendition="#sup">l</hi></abbr>
+                                    <expan>Real</expan>
+                                </choice> Socorro = Juan- <lb/>Tomas de Jauregui = Lorenzo de
+                                Quintana <lb/><add place="mBottom">Es copia</add>
+                            </p>
+                        </div>
+                        
+            <pb n="15v" facs="prohd0026_15v.tif"/><gap unit="pages" quantity="1" reason="empty"/>
+            <pb n="16r" facs="prohd0026_16r.tif"/><gap unit="pages" quantity="1" reason="empty"/>
+            <pb n="16v" facs="prohd0026_16v.tif"/><gap unit="pages" quantity="1" reason="empty"/>
+                        
+                        </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
