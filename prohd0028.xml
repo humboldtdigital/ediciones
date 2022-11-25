@@ -5,23 +5,20 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Juntas generales de la Sociedad Patriótica celebradas en los días 13, 14 y 15 de diciembre de 1827</title>
-                    <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
-                    <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
-                    <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
-                    <editor>
-                        <persName>
-                            <surname>Terrón Quintero</surname>
-                            <forename>Grisel</forename>
-                        </persName>
-                    </editor>
+                <title type="main">Juntas generales de la Sociedad Patriótica celebradas en los días
+                    13, 14 y 15 de diciembre de 1827</title>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+                <editor>
+                    <persName>
+                        <surname>Terrón Quintero</surname>
+                        <forename>Grisel</forename>
+                    </persName>
+                </editor>
             </titleStmt>
             <editionStmt>
-                <p>
-                    Proyecto Humboldt digital ProHD (
-                    <date>2022</date>
-                    )
-                </p>
+                <p> Proyecto Humboldt digital ProHD ( <date>2022</date> ) </p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -40,7 +37,7 @@
                             Valdor"</institution>
                         <collection>Actas de la Sociedad Económica de Amigos del País</collection>
                         <idno>
-                            <idno type="shelfmark"></idno>
+                            <idno type="shelfmark"/>
                             <idno type="uri">https://prohd.ohc.cu/xmlui/handle/21.11149/37</idno>
                         </idno>
                     </msIdentifier>
@@ -59,13 +56,17 @@
                 <language ident="es">Español</language>
             </langUsage>
             <abstract xml:lang="es">
-                <p>Entre otros asuntos, el acta hace referencia a la entrega a la biblioteca púbica
+                <p>Entre otros asuntos, el acta hace referencia a la entrega a la biblioteca púbilca
                     de la Sociedad de las obras "Viaje botánico a las regiones equinocciales" y
                     "Colección de plantas cultivadas en el Jardin de Cels", por parte de Andrés de
-                    Jauregui, quien pone solo la condición de que  la donación conste en acta.</p>
+                    Jauregui, quien pone solo la condición de que la donación conste en acta.</p>
             </abstract>
             <abstract xml:lang="de">
-                <p>[Nein]</p>
+                <p>DDas Protokoll verweist unter anderem auf die Schenkung der Werke "Viaje botánico
+                    a las regiones equinocciales" und "Colección de plantas cultivadas en el Jardin
+                    de Cels" von Andrés de Jauregui an die öffentliche Bibliothek der Gesellschaft,
+                    der nur die Bedingung stellte, dass die Schenkung in das Protokoll aufgenommen
+                    wird.</p>
             </abstract>
             <textClass>
                 <catRef scheme="#subject" target="#science"/>
@@ -86,6 +87,7 @@
                         <category xml:id="notebooks"/>
                         <category xml:id="correspondence"/>
                         <category xml:id="travelwriting"/>
+                        <category xml:id="records"/>
                     </category>
                     <category xml:id="form">
                         <category xml:id="manuscript"/>
@@ -114,7 +116,7 @@
     <text>
         <body>
             <div>
-            <pb n="273r" />
+                <pb n="273r" facs="prohd0028_1r.tif"/>
                 <head>Juntas <choice>
                         <abbr>grales</abbr>
                         <expan>generales</expan>
@@ -162,24 +164,26 @@
                         <choice>
                             <abbr>gral.</abbr>
                             <expan>General</expan>
-                        </choice></hi></head></div>
-                    <div><head><hi rendition="#u">Socios concurrentes los <choice>
-                                <abbr>Sres.</abbr>
-                                <expan>Señores</expan>
-                            </choice></hi></head>
-                   <list>
-                        <item><choice>
+                        </choice></hi></head>
+            </div>
+            <div>
+                <head><hi rendition="#u">Socios concurrentes los <choice>
+                            <abbr>Sres.</abbr>
+                            <expan>Señores</expan>
+                        </choice></hi></head>
+                <list>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice> Rafael Ofarrill<supplied cert="high">,</supplied> Director</item>
-                            <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice> José <choice>
                             <abbr>M.<hi rendition="#sup">a</hi></abbr>
                             <expan>María</expan>
                         </choice> Calvo<supplied cert="high">,</supplied> Censor</item>
-                            <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -199,7 +203,7 @@
                             <abbr>Scrio.</abbr>
                             <expan>Secretario</expan>
                         </choice></item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -212,7 +216,7 @@
                             <expan>Contador</expan>
                         </choice>
                     </item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -224,7 +228,7 @@
                             <abbr>Tesor.<hi rendition="#sup">o</hi></abbr>
                             <expan>Tesorero</expan>
                         </choice></item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -232,7 +236,7 @@
                             <abbr>Nic.<hi rendition="#sup">s</hi></abbr>
                             <expan>Nocilás</expan>
                         </choice> Muñoz y Zayas<supplied cert="high">,</supplied> 319</item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -240,7 +244,7 @@
                             <abbr>Ant.<hi rendition="#sup">o</hi></abbr>
                             <expan>Antonio</expan>
                         </choice> Duarte<supplied cert="high">,</supplied> 448</item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -251,7 +255,7 @@
                             <orig>Cardenas</orig>
                             <reg>Cárdenas<supplied cert="high">,</supplied></reg>
                         </choice> 502</item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -263,7 +267,7 @@
                             <abbr>Jav.<hi rendition="#sup">r</hi></abbr>
                             <expan>Javier</expan>
                         </choice> Troncoso<supplied cert="high">,</supplied> 927</item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -275,7 +279,7 @@
                             <abbr>Gonz.<hi rendition="#sup">z</hi></abbr>
                             <expan>González</expan>
                         </choice> Cadrana<supplied cert="high">,</supplied> 534</item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -283,7 +287,7 @@
                             <abbr>Man.<hi rendition="#sup">l</hi></abbr>
                             <expan>Manuel</expan>
                         </choice> Avellaneda<supplied cert="high">,</supplied> 540</item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -291,14 +295,14 @@
                             <abbr>Dom.<hi rendition="#sup">o</hi></abbr>
                             <expan>Domingo</expan>
                         </choice> Rosario<supplied cert="high">,</supplied> 561</item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice> Diego <choice>
                             <abbr>Man.<hi rendition="#sup">l</hi></abbr>
                             <expan>Manuel</expan>
                         </choice> Govantes<supplied cert="high">,</supplied> 570</item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -306,11 +310,11 @@
                             <abbr>Dom.<hi rendition="#sup">o</hi></abbr>
                             <expan>Domingo</expan>
                         </choice> Aristizabal<supplied cert="high">,</supplied> 592</item>
-                        <item><choice>
+                    <item><choice>
                             <orig>Baron</orig>
                             <reg>Barón</reg>
                         </choice> de Colins<supplied cert="high">,</supplied> 602</item>
-                        <item><choice>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice>
@@ -321,13 +325,14 @@
                             <orig>Perez</orig>
                             <reg>Pérez</reg>
                         </choice><supplied cert="high">,</supplied> 625</item>
-                            </list>
-                        </div>
-           <div><head>Memoria de <lb/>las <choice>
+                </list>
+            </div>
+            <div>
+                <head>Memoria de <lb/>las <choice>
                         <orig>tareasy</orig>
                         <reg>tareas y</reg>
                     </choice> de <lb/>la junta de <lb/>beneficencia.</head>
-            <p>Aprobado el <choice>
+                <p>Aprobado el <choice>
                         <abbr>ant.<hi rendition="#sup">or</hi></abbr>
                         <expan>anterior</expan>
                     </choice> acuerdo, se abrieron las<lb/><choice>
@@ -447,8 +452,9 @@
                         <expan>reconocimiento</expan>
                     </choice>
                 </p>
-           </div>
-            <div><head><choice>
+            </div>
+            <div>
+                <head><choice>
                         <abbr>Nombram.<hi rendition="#sup">to</hi></abbr>
                         <expan>Nombramiento</expan>
                     </choice>
@@ -456,7 +462,7 @@
                         <abbr>p.<hi rendition="#sup">a</hi></abbr>
                         <expan>para</expan>
                     </choice> otra <lb/>junta </head>
-            <p>La misma <choice>
+                <p>La misma <choice>
                         <abbr>Jta</abbr>
                         <expan>Junta</expan>
                     </choice> de <choice>
@@ -472,7 +478,7 @@
                         <abbr>Scrio</abbr>
                         <expan>Secretario</expan>
                     </choice>, el <choice>
-                        <orig>nom<g ref="#typoHyphen"/><pb n="273v"/><lb break="no"/>bram.</orig>
+                        <orig>nom<g ref="#typoHyphen"/><pb n="273v" facs="prohd0028_1v.tif"/><lb break="no"/>bram.</orig>
                         <reg>nombramiento</reg>
                     </choice> de algunos diputados de <choice>
                         <abbr>q.</abbr>
@@ -630,7 +636,7 @@
                         <orig>Andres</orig>
                         <reg>Andrés</reg>
                     </choice> de <lb/>Jauregui</head>
-<p>El <choice>
+                <p>El <choice>
                         <abbr>Sor</abbr>
                         <expan>Señor</expan>
                     </choice> Director presentó <choice>
@@ -711,7 +717,7 @@
                     </choice> al mismo <choice>
                         <abbr>tpo</abbr>
                         <expan>tiempo</expan>
-                    </choice> la haga aceptar<pb n="275r"/><choice>
+                    </choice> la haga aceptar<pb n="275r" facs="prohd0028_2r.tif"/><choice>
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice> la <choice>
@@ -770,7 +776,8 @@
                         <expan>que</expan>
                     </choice> las recibe. </p>
             </div>
-            <div><head>El gobierno <lb/>pide una ins<g ref="#typoHyphen"/><lb break="no"/>cripcion <choice>
+            <div>
+                <head>El gobierno <lb/>pide una ins<g ref="#typoHyphen"/><lb break="no"/>cripcion <choice>
                         <abbr>p.<hi rendition="#sup">a</hi></abbr>
                         <expan>para</expan>
                     </choice>
@@ -782,7 +789,7 @@
                         <abbr>prim.<hi rendition="#sup">a</hi></abbr>
                         <expan>primera</expan>
                     </choice> misa <lb/>en esta plaza </head>
-            <p>El propio <choice>
+                <p>El propio <choice>
                         <abbr>Sor</abbr>
                         <expan>Señor</expan>
                     </choice> director presentó un oficio del <lb/><choice>
@@ -1001,7 +1008,7 @@
                         <orig>Tomas</orig>
                         <reg>Tomás</reg>
                     </choice>
-                    <pb n="275v"/> Romay <choice>
+                    <pb n="275v" facs="prohd0028_2v.tif"/> Romay <choice>
                         <abbr>q</abbr>
                         <expan>que</expan>
                     </choice>. acepte el encargo supuesto <choice>
@@ -1045,11 +1052,12 @@
                         <expan>Domingo</expan>
                     </choice> Aristizabal. </p>
             </div>
-               <div><head>Asuntos de <lb/><choice>
+            <div>
+                <head>Asuntos de <lb/><choice>
                         <orig>prémios</orig>
                         <reg>premios</reg>
                     </choice></head>
-            <p>La <choice>
+                <p>La <choice>
                         <orig>comision</orig>
                         <reg>comisión</reg>
                     </choice> nombrada <choice>
@@ -1143,9 +1151,9 @@
                         <abbr>q.</abbr>
                         <expan>que</expan>
                     </choice> se encargase de este trabajo. </p>
-               </div>
-                <div>
-            <head>Se propone <lb/><choice>
+            </div>
+            <div>
+                <head>Se propone <lb/><choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> se <choice>
@@ -1179,7 +1187,7 @@
                         <orig>cabotage</orig>
                         <reg>cabotaje</reg>
                     </choice> en <lb/>barcos de vapor </head>
-            <p>A propuesta del <choice>
+                <p>A propuesta del <choice>
                         <abbr>Sor</abbr>
                         <expan>Señor</expan>
                     </choice> Censor, se acordó <lb/>nombrar <choice>
@@ -1240,14 +1248,14 @@
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice> este navío de prosperidad interior. </p>
-                </div>
-                <div>
-<head>Estado <choice>
+            </div>
+            <div>
+                <head>Estado <choice>
                         <abbr>gral</abbr>
                         <expan>general</expan>
                     </choice>
                     <lb/>de caudales </head>
-            <p>Por último se <choice>
+                <p>Por último se <choice>
                         <orig>vió</orig>
                         <reg>vio</reg>
                     </choice> el estado <choice>
@@ -1266,7 +1274,7 @@
                     de <choice>
                         <abbr>nov.<hi rendition="#sup">e</hi></abbr>
                         <expan>noviembre</expan>
-                    </choice> del mismo presentado por la <pb n="277r"/>
+                    </choice> del mismo presentado por la <pb n="277r" facs="prohd0028_3r.tif"/>
                     <choice>
                         <abbr>contad.<hi rendition="#sup">a</hi></abbr>
                         <expan>contaduría</expan>
@@ -1302,9 +1310,11 @@
                     </choice> su favor <lb/>un sobrante de 285 con 6.1/2. La <choice>
                         <abbr>Jta</abbr>
                         <expan>Junta</expan>
-                    </choice> acordó <lb/>imprimir este estado terminando con esto <lb/>el acto. </p></div>
-                        <closer>
-                            <signed><choice>
+                    </choice> acordó <lb/>imprimir este estado terminando con esto <lb/>el acto.
+                </p>
+            </div>
+            <closer>
+                <signed><choice>
                         <abbr>Joag.n</abbr>
                         <expan>Joaquín</expan>
                     </choice>
@@ -1316,7 +1326,7 @@
                         <orig>Suarez</orig>
                         <reg>Suárez</reg>
                     </choice></signed>
-                            <signed><choice>
+                <signed><choice>
                         <orig>Jose</orig>
                         <reg>José</reg>
                     </choice>
@@ -1324,7 +1334,7 @@
                         <abbr>M.</abbr>
                         <expan>María</expan>
                     </choice> Calvo</signed>
-                        </closer>
+            </closer>
         </body>
     </text>
 </TEI>
