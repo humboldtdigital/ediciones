@@ -49,7 +49,9 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <date when="1795" calendar="#Gregorian"/>
+                <persName>N/A</persName>
+                <date when="1795">1795</date>
+                <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
             <langUsage>
                 <language ident="es">Español</language>

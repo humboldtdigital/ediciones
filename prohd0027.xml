@@ -6,20 +6,18 @@
         <fileDesc>
             <titleStmt>
                 <title type="main"> Junta ordinaria del 31 de abril de 1804</title>
-                    <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
-                    <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
-                    <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
-                    <editor>
-                        <persName>
-                            <surname>Terrón Quintero</surname>
-                            <forename>Grisel</forename>
-                        </persName>
-                    </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+                <editor>
+                    <persName>
+                        <surname>Terrón Quintero</surname>
+                        <forename>Grisel</forename>
+                    </persName>
+                </editor>
             </titleStmt>
             <editionStmt>
-                <p>
-                    Proyecto Humboldt digital ProHD (<date>2022</date>)
-                </p>
+                <p> Proyecto Humboldt digital ProHD (<date>2022</date>) </p>
             </editionStmt>
             <publicationStmt>
                 <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
@@ -34,10 +32,11 @@
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>Instituto de Literatura y Lingüística "José Antonio Portuondo Valdor"</institution>
+                        <institution>Instituto de Literatura y Lingüística "José Antonio Portuondo
+                            Valdor"</institution>
                         <collection>Actas de la Sociedad Económica de Amigos del País</collection>
                         <idno>
-                            <idno type="shelfmark"></idno>
+                            <idno type="shelfmark"/>
                             <idno type="uri">https://prohd.ohc.cu/xmlui/handle/21.11149/35</idno>
                         </idno>
                     </msIdentifier>
@@ -54,17 +53,25 @@
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
             <langUsage>
-                <language ident="es">Español]</language>
+                <language ident="es">Español</language>
             </langUsage>
             <abstract xml:lang="es">
-                <p>Acta de la Sociedad Económica de Amigos del País presidida por el Marqués de Someruelos, Gobernador y Capitán General de la isla, en la que manifiesta "que se aprovecharía del talento y conocimiento del Sr, Barón de Homboldt" en su segundo viaje a Cuba. Se aborda las investgación de umboldt sobre los cerros mineralógicos de Guanabacoa.</p>
+                <p>Acta de la Sociedad Económica de Amigos del País presidida por el Marqués de
+                    Someruelos, Gobernador y Capitán General de la isla, en la que manifiesta "que
+                    se aprovecharía del talento y conocimiento del Sr, Barón de Homboldt" en su
+                    segundo viaje a Cuba. Se aborda las investgación de umboldt sobre los cerros
+                    mineralógicos de Guanabacoa.</p>
             </abstract>
             <abstract xml:lang="de">
-                <p>[Nein]</p>
+                <p>Protokoll der Wirtschaftlichen Gesellschaft der Freunde des Landes, unter dem
+                    Vorsitz des Marquis von Someruelos, Gouverneur und Generalkapitän der Insel, in
+                    dem er erklärt, dass er "das Talent und das Wissen von Herrn Someruelos nutzen
+                    würde. das Talent und das Wissen von Herrn Baron de Homboldt" auf seiner zweiten
+                    Reise nach Kuba nutzen würde. zweite Reise nach Kuba. Es handelt von Umboldts
+                    Forschungen zu den mineralogischen Hügeln von Guanabacoa. mineralogischen Hügeln
+                    von Guanabacoa.</p>
             </abstract>
             <textClass>
-                <catRef>
-                </catRef>
                 <catRef scheme="#subject" target="#science"/>
                 <catRef scheme="#subject" target="#education"/>
                 <catRef scheme="#subject" target="#mineralogy"/>
@@ -116,12 +123,10 @@
             <pb n="1" facs="prohd0027_1.tif"/>
             <fw type="folNum">122</fw>
             <div>
-                <head>Junta
-                    <choice>
-                            <abbr><orig>ord.<hi rendition="#sup">a</hi></orig></abbr>
-                            <expan>ordinaria</expan>
-                        </choice>
-                     del <date when="1804-04-30" calendar="#Gregorian"><choice>
+                <head>Junta <choice>
+                        <abbr><orig>ord.<hi rendition="#sup">a</hi></orig></abbr>
+                        <expan>ordinaria</expan>
+                    </choice> del <date when="1804-04-30" calendar="#Gregorian"><choice>
                             <sic>31</sic>
                             <corr cert="high">30</corr>
                         </choice> de <choice>
@@ -140,7 +145,7 @@
                         <expan>General</expan>
                     </choice>
                 </head>
-                </div>
+            </div>
             <div>
                 <head>Socios <choice>
                         <abbr>concurr.<hi rendition="#sup">tes</hi></abbr>
@@ -158,8 +163,8 @@
                             <orig>Jose</orig>
                             <reg>José</reg>
                         </choice> de Ylincheta. Director</item>
-                <item>El Conde de Vallellano. Censor</item>
-                 <item><choice>
+                    <item>El Conde de Vallellano. Censor</item>
+                    <item><choice>
                             <abbr>D.</abbr>
                             <expan>Don</expan>
                         </choice> B. D. de Heredia. <choice>
@@ -197,10 +202,10 @@
                             <expan>Don</expan>
                         </choice> Juan Tirry y Laci 15<gap reason="illegible" unit="chars"
                             quantity="1"/>
-                    </item>            
-            </list>
+                    </item>
+                </list>
             </div>
-                <div>
+            <div>
                 <p><choice>
                         <orig>Aprovado</orig>
                         <reg>Aprobado</reg>
@@ -1029,15 +1034,13 @@
                         <expan>que</expan>
                     </choice> convenga: con <lb/> lo que se concluyó_ </p>
             </div>
-           <closer>
+            <closer>
                 <signed> Benigno Duque <choice>
                         <orig>deHeredia </orig>
                         <reg>de Heredia</reg>
                     </choice></signed>
-            <signed>
-                Ylincheta
-            </signed>
-           </closer>
+                <signed> Ylincheta </signed>
+            </closer>
         </body>
     </text>
 </TEI>
