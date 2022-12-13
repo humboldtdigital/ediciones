@@ -103,10 +103,10 @@
     <text>
         <body>
             <div>
+                <div>
                 <pb n="9v" facs="prohd0021_9v.tif"/>
                 <gap reason="insignificant" unit="lines" quantity="19"/>
-                <p>
-                    <hi rendition="#b">
+                    <head>
                         <choice>
                             <abbr>Cab.<hi rendition="#sup">do</hi></abbr>
                             <expan>Cabildo</expan>
@@ -123,8 +123,7 @@
                             </choice>
                         </date>
                         <lb/>
-                    </hi>
-                </p>    
+                    </head> 
                 <p>En la siempre
                     <choice>
                         <orig>fidelisima</orig>
@@ -336,8 +335,10 @@
                     </choice> de Mora
                     <lb/>se trató y acordó lo siguiente.
                 </p>
-                <p>
-                    <hi rendition="#b">Lectura del
+                </div>
+                
+                <div>
+                    <head>Lectura del
                         <choice>
                             <abbr>ord.<hi rendition="#sup">o</hi></abbr>
                             <expan>ordinario</expan>
@@ -348,8 +349,8 @@
                                 <expan>diciembre</expan>
                             </choice>
                         </date> 
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>Se leyó el cabildo ordinario celebrado
                     <lb/>en
                     <date when="1827-12-20">veinte de
@@ -367,8 +368,9 @@
                     <lb/>
                     <pb n="10v" facs="prohd0021_10v.tif"/>partes.
                 </p>
-                <p>
-                    <hi rendition="#b">Se da cuenta de la 
+                </div>
+                <div>
+                    <head>Se da cuenta de la 
                         <choice>
                             <orig>apro<g ref="#typoHyphen"/><lb break="no"/>bacion</orig>
                             <reg>aprobación</reg>
@@ -399,8 +401,9 @@
                             <abbr>juram.<hi rendition="#sup">to</hi></abbr>
                             <expan>juramento</expan>
                         </choice>
-                    </hi>
-                </p>
+                    </head>
+                </div>
+                <div>
                 <p>En este estado di cuenta al
                     <choice>
                         <abbr>Exmo.</abbr>
@@ -583,8 +586,10 @@
                         <reg>sala</reg>
                     </choice>.
                 </p>
-                <p>
-                    <hi rendition="#b">
+            </div>
+            <div>
+               
+                    <head>
                         <choice>
                             <abbr>Ratif.<hi rendition="#sup">n</hi></abbr>
                             <expan>Ratificación</expan>
@@ -606,8 +611,8 @@
                             <orig>Garcia</orig>
                             <reg>García</reg>
                         </choice> de Mora
-                    </hi>   
-                </p>
+                    </head>   
+                
                 <p>
                     <choice>
                         <orig>Despues</orig>
@@ -662,8 +667,9 @@
                         <reg>procurador</reg>
                     </choice>.
                 </p>
-                <p>
-                    <hi rendition="#b">
+            </div>
+                <div>
+                    <head>
                         <choice>
                             <abbr>Nombram.<hi rendition="#sup">to</hi></abbr>
                             <expan>Nombramiento</expan>
@@ -677,8 +683,8 @@
                             <sic>Barrio</sic>
                             <corr>barrio</corr>
                         </choice>
-                    </hi>    
-                </p>
+                    </head>    
+                
                 <p>Estando presentes los
                     <choice>
                         <abbr>Sres.</abbr>
@@ -796,8 +802,10 @@
                     </choice> en
                     <lb/> el cabildo del dia primero.
                 </p>
-                <p>
-                    <hi rendition="#b">
+            </div>
+            <div>
+               
+                    <head>
                         <choice>
                             <abbr>Of.<hi rendition="#sup">o</hi></abbr>
                             <expan>Oficio</expan>
@@ -840,8 +848,8 @@
                             <abbr>conocim.<hi rendition="#sup">to</hi></abbr>
                             <expan>conocimiento</expan>
                         </choice> de <unclear reason="illegible" cert="low">reses</unclear>
-                    </hi>    
-                </p>
+                    </head>    
+                
                 <p>Se leyó un oficio
                     <choice>
                         <orig>dirijido</orig>
@@ -962,8 +970,9 @@
                         <reg>comisarios</reg>
                     </choice> con los antecedentes para que <unclear reason="illegible" cert="high">informen</unclear>.
                 </p>
-                <p>
-                    <hi rendition="#b">
+            </div>
+                <div>
+                    <head>
                         <choice>
                             <abbr>Of.<hi rendition="#sup">o</hi></abbr>
                             <expan>Oficio</expan>
@@ -976,8 +985,8 @@
                             <abbr>sre.</abbr>
                             <expan>sobre</expan>
                         </choice> incendios
-                    </hi>    
-                </p>
+                    </head>    
+                
                 <p>Se leyó otro oficio de
                     <choice>
                         <abbr>S. E.</abbr>
@@ -1127,8 +1136,9 @@
                         </choice>
                     </add>
                 </p>
-                <p>
-                    <hi rendition="#b">
+                </div>
+                <div>
+                    <head>
                         <choice>
                             <abbr>Of.<hi rendition="#sup">o</hi></abbr>
                             <expan>Oficio</expan>
@@ -1151,8 +1161,8 @@
                             <orig>establecér</orig>
                             <reg>establecer</reg>
                         </choice> escuela 
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>
                     <choice>
                         <orig>Ygualmente</orig>
@@ -1491,8 +1501,9 @@
                             <expan>don</expan>
                         </choice> Carlos Pedroso.
                 </p>
-                <p>
-                    <hi rendition="#b">El
+                </div>
+                <div>
+                    <head>El
                         <choice>
                             <abbr>S.<hi rendition="#sup">r</hi></abbr>
                             <expan>señor</expan>
@@ -1516,8 +1527,8 @@
                             <orig>comision</orig>
                             <reg>comisión</reg>
                         </choice> 
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>Se leyó una
                     <choice>
                         <orig>esposicion</orig>
@@ -1672,8 +1683,9 @@
                     <lb/> está enterada de sus continuos achaques, para providen<lb break="no"/>ciar
                     con su respuesta lo que convenga.      
                 </p>
-                <p>
-                    <hi rendition="#b">
+                    </div>
+                <div>
+                    <head>
                         <choice>
                             <abbr>Of.<hi rendition="#sup">o</hi></abbr>
                             <expan>Oficio</expan>
@@ -1691,8 +1703,8 @@
                             <abbr>D.</abbr>
                             <expan>don</expan>
                         </choice> Luciano Valdes
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>Los
                     <choice>
                         <abbr>Sres.</abbr>
@@ -1791,8 +1803,9 @@
                         <reg>mayordomo</reg>
                     </choice> de propios.                 
                 </p>
-                <p>
-                    <hi rendition="#b">
+                </div>
+                <div>
+                    <head>
                         <choice>
                             <abbr>Of.<hi rendition="#sup">o</hi></abbr>
                             <expan>Oficio</expan>
@@ -1806,8 +1819,8 @@
                             <expan>número</expan>
                         </choice> de presidiarios
                         <lb/>existentes en el presidio
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>Quedó enterado asimismo de otro
                     <lb/>oficio de 
                     <choice>
@@ -1837,8 +1850,9 @@
                         <expan>señores</expan>
                     </choice> comisarios para su conocimiento.
                 </p>
-                <p>
-                    <hi rendition="#b">
+            </div>
+                <div>
+                    <head>
                         <choice>
                             <abbr>Of.<hi rendition="#sup">o</hi></abbr>
                             <expan>Oficio</expan>
@@ -1864,8 +1878,8 @@
                             <abbr>ult.<hi rendition="#sup">o</hi></abbr>
                             <expan>último</expan>
                         </choice> 
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>
                     <choice>
                         <orig>Tambien</orig>
@@ -2625,8 +2639,9 @@
                     </choice>
                     <lb/>incurrido.
                 </p>
-                <p>
-                    <hi rendition="#b">El
+                </div>
+                <div>
+                    <head>El
                         <choice>
                             <abbr>S.<hi rendition="#sup">r</hi></abbr>
                             <expan>señor</expan>
@@ -2644,8 +2659,8 @@
                             <reg>Colegio</reg>
                         </choice> de
                         <lb/>Abogados
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>Con
                     <choice>
                         <orig>motibo</orig>
@@ -2844,8 +2859,9 @@
                         <reg>títulos</reg>
                     </choice>.                     
                 </p>
-                <p>
-                    <hi rendition="#b">
+                </div>
+                <div>
+                    <head>
                         <unclear cert="high" reason="illegible">El</unclear>
                         <choice>
                             <abbr>S.<hi rendition="#sup">r</hi></abbr>
@@ -2873,8 +2889,8 @@
                             <orig cert="high">Garcia</orig>
                             <reg>García</reg>
                         </choice>
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>El
                     <choice>
                         <abbr>Sor.</abbr>
@@ -3079,8 +3095,9 @@
                         <reg>obtener</reg>
                     </choice> su desagravio.
                 </p>
-                <p>
-                    <hi rendition="#b">Oficio de
+                </div>
+                <div>
+                    <head>Oficio de
                         <choice>
                             <abbr>S.E.</abbr>
                             <expan>su excelencia</expan>
@@ -3103,8 +3120,8 @@
                             <orig>espresa</orig>
                             <reg>expresa</reg>
                         </choice>
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>Los
                     <choice>
                         <abbr>Sres</abbr>
@@ -3213,8 +3230,9 @@
                         <reg>manutención</reg>
                     </choice> del presidio.     
                 </p>
-                <p>
-                    <hi rendition="#b">
+                </div>
+                <div>
+                    <head>
                         <gap reason="illegible" unit="chars" quantity="2"/> gracia
                         <choice>
                             <orig>á</orig>
@@ -3238,8 +3256,8 @@
                             <reg>poder</reg>
                         </choice> firmarse
                         <lb/>con el distintivo de Don
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>En este estado participé al
                     <choice>
                         <abbr>Exmo.</abbr>
@@ -3358,8 +3376,9 @@
                         <reg>razón</reg>
                     </choice> se devuelva al interesado. 
                 </p>
-                <p>
-                    <hi rendition="#b">
+                </div>
+                <div>
+                    <head>
                         <choice>
                             <abbr>Sre.</abbr>
                             <expan>Sobre</expan>
@@ -3378,8 +3397,8 @@
                             <expan>derecho</expan>
                         </choice> de marca en el
                         <lb/>año anterior
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>De conformidad con lo solicitado por el
                     <lb/>
                     <choice>
@@ -3426,8 +3445,9 @@
                         <reg>determinar</reg>
                     </choice> lo que cor<lb break="no"/>responda.
                 </p>
-                <p>
-                    <hi rendition="#b">El
+                </div>
+                <div>
+                    <head>El
                         <choice>
                             <abbr>S.<hi rendition="#sup">r</hi></abbr>
                             <expan>señor</expan>
@@ -3441,8 +3461,8 @@
                             <abbr>Diputac.<hi rendition="#sup">n</hi></abbr>
                             <expan>diputación</expan>
                         </choice>
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>El
                     <choice>
                         <abbr>Sor.</abbr>
@@ -3500,14 +3520,15 @@
                         <expan>Ayuntamiento</expan>
                     </choice>
                 </p>
-                <p>
-                    <hi rendition="#b">
+                </div>
+                <div>
+                    <head>
                         <choice>
                             <orig>Apelacion</orig>
                             <reg>Apelación</reg>
                         </choice>
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>Participé al
                     <choice>
                         <abbr>Exmo.</abbr>
@@ -3638,9 +3659,10 @@
                         <reg>a</reg>
                     </choice> las partes.
                 </p>
-                <p>
-                    <hi rendition="#b">Otra</hi>
-                </p>
+                </div>
+                <div>
+                    <head>Otra</head>
+                
                 <p>
                     <choice>
                         <abbr>D.</abbr>
@@ -3714,8 +3736,9 @@
                         <reg>Rodríguez</reg>
                     </choice>, quienes estando presentes lo aceptaron y juraron. 
                 </p>
-                <p>
-                    <hi rendition="#b">El
+                </div>
+                <div>
+                    <head>El
                         <choice>
                             <abbr>S.<hi rendition="#sup">r</hi></abbr>
                             <expan>señor</expan>
@@ -3729,8 +3752,8 @@
                             <orig>podér</orig>
                             <reg>poder</reg>
                         </choice> asistir al cabildo
-                    </hi>
-                </p>
+                    </head>
+                
                 <p>El
                     <choice>
                         <abbr>Sor.</abbr>
@@ -3848,6 +3871,7 @@
                             <reg>José</reg>
                         </choice> de Zubieta
                 </p>
+            </div>
             </div>
         </body>
     </text>
