@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
 <?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-    type="document" xml:id="ed_sj1_wwf_y5b">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_sj1_wwf_y5b">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -27,7 +26,8 @@
                 <pubPlace>Berlín</pubPlace>
                 <pubPlace>La Habana</pubPlace>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -35,7 +35,7 @@
                     <msIdentifier>
                         <institution>Archivo Nacional de la República de Cuba</institution>
                         <collection>Gobierno Superior Civil</collection>
-                        
+
                         <idno>
                             <idno type="shelfmark">Legajo 652. No.20407</idno>
                             <idno type="URLImages"
@@ -56,7 +56,8 @@
             <creation>
                 <persName>N/A</persName>
                 <placeName>La Habana</placeName>
-                <date notBefore="1827-12" notAfter="1828-02" cert="high">Entre Diciembre de 1827 y Febrero de 1828</date>
+                <date notBefore="1827-12" notAfter="1828-02" cert="high">Entre Diciembre de 1827 y
+                    Febrero de 1828</date>
             </creation>
             <abstract xml:lang="es">
                 <p>Expediente que recoge el proceso de consulta para la censura del Ensayo Político
@@ -115,9 +116,9 @@
     </teiHeader>
     <text>
         <body>
-           <div>
-                        <p>
-                            <pb n="1r" facs="prohd0025_1r.tif"/>
+            <div>
+                <p>
+                    <pb n="1r" facs="prohd0025_1r.tif"/>
                     <lb/>
                     <choice>
                         <abbr>Secret.<hi rendition="#sup">a</hi></abbr>
@@ -197,10 +198,11 @@
                     </table> GOBIERNO SUPERIOR CIVIL </p>
 
 
-               <pb n="1v" facs="prohd0025_1v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               
-                        <p>
-                            <pb n="2r" facs="prohd0025_2r.tif"/>
+                <pb n="1v" facs="prohd0025_1v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+
+                <p>
+                    <pb n="2r" facs="prohd0025_2r.tif"/>
                     <lb/>
                     <choice>
                         <orig>mas</orig>
@@ -227,11 +229,12 @@
                         <orig>else</orig>
                         <reg>el se</reg>
                     </choice> expresa </p>
-               
-               <pb n="2v" facs="prohd0025_2v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
 
-                        <p>
-                            <pb n="3r" facs="prohd0025_3r.tif"/>
+                <pb n="2v" facs="prohd0025_2v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+
+                <p>
+                    <pb n="3r" facs="prohd0025_3r.tif"/>
                     <lb/>Como mejor puedo y debo Certífico: que en el Ca <lb break="no"/>bildo
                     ordinario celebrado <choice>
                         <orig>antemi</orig>
@@ -318,9 +321,9 @@
                         <reg>civilización</reg>
                     </choice> por des<g ref="#typoHyphen"/>
                 </p>
-                                                
-                        <p>
-                            <pb n="3v" facs="prohd0025_3v.tif"/>
+
+                <p>
+                    <pb n="3v" facs="prohd0025_3v.tif"/>
                     <lb/>gracia demasiada adelantada <choice>
                         <orig>yá</orig>
                         <reg>ya</reg>
@@ -427,9 +430,9 @@
                     </choice>, era sin embargo sobremanera <lb/>peligrosa entre nosotros por las
                         opinion<g ref="#typoHyphen"/>
                 </p>
-                                              
-                        <p>
-                            <pb n="4r" facs="prohd0025_4r.tif"/>
+
+                <p>
+                    <pb n="4r" facs="prohd0025_4r.tif"/>
                     <lb/>es su autor acerca <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
@@ -545,9 +548,9 @@
                         <abbr>q</abbr>
                         <expan>que</expan>
                     </choice>
-                    <lb/>se tomen las convenientes medidas  </p>
-                       
-                        <p>
+                    <lb/>se tomen las convenientes medidas </p>
+
+                <p>
                     <pb n="4v" facs="prohd0025_4v.tif"/>
                     <lb/>a efecto de precaver la nueva <choice>
                         <orig>intro <g ref="#typoHyphen"/><lb/>duccion</orig>
@@ -608,8 +611,8 @@
                         <abbr>d</abbr>
                         <expan>de</expan>
                     </choice> Zubieta </p>
-                        
-                        <p>
+
+                <p>
                     <pb n="5r" facs="prohd0025_5r.tif"/>
                     <lb/><date when="1828-01-07" calendar="#Gregorian">7 de Enero de 1828</date>
                     <lb/>Al <choice>
@@ -721,11 +724,12 @@
                             <expan>Diciembre</expan>
                         </choice>
                         <unclear reason="illegible" cert="high">1827</unclear></date></p>
-                           
-                           
-               <pb n="5v" facs="prohd0025_5v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-                           
-                        <p>
+
+
+                <pb n="5v" facs="prohd0025_5v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+
+                <p>
                     <pb n="6r" facs="prohd0025_6r.tif"/>
                     <lb/>
                     <choice>
@@ -790,7 +794,7 @@
                         <expan>corriente</expan>
                     </choice>
                 </p>
-                        <p>
+                <p>
                     <lb/>Por las listas <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
@@ -826,7 +830,7 @@
                     </choice>
                 </p>
 
-                        <p>
+                <p>
                     <lb/>En ninguna otra libreria se presenta a expensa <lb/>la precitada obra; <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
@@ -875,8 +879,8 @@
                         <abbr>D.</abbr>
                         <expan>Don</expan>
                     </choice> Prospero Amador Garcia; y tal vez </p>
-                      
-                        <p>
+
+                <p>
                     <pb n="6v" facs="prohd0025_6v.tif"/>
                     <lb/>tomen otros en distintos almacenes, si es <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
@@ -939,7 +943,9 @@
                         <expan>Capitán</expan>
                     </choice> General </p>
 
-               <p> <pb n="7r" facs="prohd0025_7r.tif"/> <lb/>
+                <p>
+                    <pb n="7r" facs="prohd0025_7r.tif"/>
+                    <lb/>
                     <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
@@ -1003,7 +1009,7 @@
                         <reg>a</reg>
                     </choice> lo <lb/>que se solicita. <lb/>DIOS </p>
 
-               <p>
+                <p>
                     <pb n="7v" facs="prohd0025_7v.tif"/>
                     <lb/>
                     <choice>
@@ -1063,14 +1069,18 @@
                         <expan>General</expan>
                     </choice>
                 </p>
-               
-               <pb n="8r" facs="prohd0025_8r.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               <pb n="8v" facs="prohd0025_8v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               <pb n="9r" facs="prohd0025_9r.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               <pb n="9v" facs="prohd0025_9v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
 
-                        <p>
-                            <pb n="10r" facs="prohd0025_10r.tif"/>
+                <pb n="8r" facs="prohd0025_8r.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="8v" facs="prohd0025_8v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="9r" facs="prohd0025_9r.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="9v" facs="prohd0025_9v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+
+                <p>
+                    <pb n="10r" facs="prohd0025_10r.tif"/>
                     <lb/>En la libreria de <choice>
                         <abbr>D.<hi rendition="#sup">n</hi></abbr>
                         <expan>Don</expan>
@@ -1116,12 +1126,15 @@
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> he entregado <lb/>Nicolas Ramos </p>
-               
-               <pb n="10v" facs="prohd0025_10v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               <pb n="11r" facs="prohd0025_11r.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               <pb n="11v" facs="prohd0025_11v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
 
-               <p><pb n="12r" facs="prohd0025_12r.tif"/>
+                <pb n="10v" facs="prohd0025_10v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="11r" facs="prohd0025_11r.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="11v" facs="prohd0025_11v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+
+                <p><pb n="12r" facs="prohd0025_12r.tif"/>
                     <lb/><date when="1828-01-15" calendar="#Gregorian">15 de Enero de 1828</date>
                     <del rendition="#s"><lb/>Al Director dela sociedad</del>
                     <lb/>Al Director <choice>
@@ -1216,10 +1229,11 @@
                         <orig>cele</orig>
                         <reg>se le</reg>
                     </choice> ofresca al <lb/>devolver el referido expediente </p>
-               
-               <pb n="12v" facs="prohd0025_12v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
 
-               <p><pb n="13r" facs="prohd0025_13r.tif"/>
+                <pb n="12v" facs="prohd0025_12v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+
+                <p><pb n="13r" facs="prohd0025_13r.tif"/>
                     <lb/>Como mejor puedo y debo certifico: que en el cabildo ordi- <lb/>nario
                     celebrado en <date when="1828-01-11" calendar="#Gregorian">once de Enero <choice>
                             <orig>ultimo</orig>
@@ -1331,9 +1345,9 @@
                     </choice> Regidores <unclear reason="illegible" cert="high">ci</unclear> otra
                     persona para que </p>
 
-                        <p>
-                            <pb n="13v" facs="prohd0025_13v.tif"/><lb/>recoja dicha obra y la deposite hasta que
-                    <lb/>con <choice>
+                <p>
+                    <pb n="13v" facs="prohd0025_13v.tif"/><lb/>recoja dicha obra y la deposite hasta
+                    que <lb/>con <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
                     </choice> conocimiento de causa pueda <lb/>providenciarse lo que corresponda
@@ -1440,8 +1454,8 @@
                         <expan>Su Excelencia</expan>
                     </choice>
                 </p>
-                        
-               <p><pb n="14r" facs="prohd0025_14r.tif"/>
+
+                <p><pb n="14r" facs="prohd0025_14r.tif"/>
                     <lb/>que en el inesperado caso, de que la sociedad <lb/>
                     <choice>
                         <orig>séa</orig>
@@ -1502,9 +1516,10 @@
                         <orig>Jose</orig>
                         <reg>José</reg>
                     </choice> de Zubieta</p>
-               <pb n="14v" facs="prohd0025_14v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               
-                </div>
+                <pb n="14v" facs="prohd0025_14v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+
+            </div>
         </body>
     </text>
 </TEI>
