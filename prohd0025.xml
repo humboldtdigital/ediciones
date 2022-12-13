@@ -232,7 +232,7 @@
 
                         <p>
                             <pb n="3r" facs="prohd0025_3r.tif"/>
-                    <lb/>Como mejor puedo y debo Certífico: que en el Ca <lb break="no"/>bildo
+                    <lb/>Como mejor puedo y debo Certífico: que en el Ca<lb break="no"/>bildo
                     ordinario celebrado <choice>
                         <orig>antemi</orig>
                         <reg>ante mi</reg>
@@ -244,7 +244,7 @@
                         <orig>ynue</orig>
                         <reg>y nue</reg>
                     </choice>
-                    <lb/>ve de <choice>
+                    <lb break="no"/>ve de <choice>
                         <abbr>Nov.<hi rendition="#sup">re</hi></abbr>
                         <expan>Noviembre</expan>
                     </choice> ultimo, entre otras <choice>
@@ -276,8 +276,7 @@
                     <choice>
                         <abbr>J<hi rendition="#sup">se</hi></abbr>
                         <expan>José</expan>
-                    </choice> Anastacio Ca<g ref="#typoHyphen"/>
-                    <lb/>rrillo de Arango dijo: que aunque parecía <lb/>que la <choice>
+                    </choice> Anastacio Ca<g ref="#typoHyphen"/><lb break="no"/>rrillo <!-- por favor, revisar todos los line beginnings que separen una palabra --> de Arango dijo: que aunque parecía <lb/>que la <choice>
                         <orig>rason</orig>
                         <reg>razón</reg>
                     </choice> y la humanidad <choice>
@@ -353,7 +352,7 @@
                     <choice>
                         <abbr>Exmo</abbr>
                         <expan>Excelentísimo</expan>
-                    </choice> Ayunta <lb/>miento, proponia se detubiese la to- <lb/>ma <choice>
+                    </choice> Ayunta<lb break="no"/>miento, proponia se detubiese la to<g ref="#typoHyphen"/><lb break="no"/>ma <choice>
                         <orig>derason</orig>
                         <reg>de <choice>
                                 <orig>rason</orig>
@@ -363,7 +362,7 @@
                     <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
-                    </choice> licencia que se por- <lb/>sentada, <choice>
+                    </choice> licencia que se por<g ref="#typoHyphen"/><lb break="no"/>sentada, <choice>
                         <orig>representandose</orig>
                         <reg>respetándose</reg>
                     </choice> al <choice>
@@ -378,7 +377,7 @@
                         <orig>obgeto</orig>
                         <reg>objeto</reg>
                     </choice> de que procu<g ref="#typoHyphen"/>
-                    <lb/>rase no conceder semejantes permi- <lb/>sos, adptandose al efecto los
+                    <lb/>rase no conceder semejantes permi<g ref="#typoHyphen"/><lb break="no"/>sos, adptandose al efecto los
                     medios <lb/>que la presidencia indicase ser <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
@@ -407,8 +406,9 @@
                         <orig>elensayo</orig>
                         <reg>el ensayo</reg>
                     </choice>
+                            <lb/>
                     <choice>
-                        <orig><lb/>politico</orig>
+                        <orig>politico</orig>
                         <reg>político</reg>
                     </choice>
                     <choice>
@@ -422,15 +422,10 @@
                         <sic>Humbold</sic>
                         <corr cert="high">Humboldt</corr>
                     </choice>; que esta <lb/>obra bajo muchos aspectos <choice>
-                        <orig>apreciabi- <lb/>lisimos</orig>
+                        <orig>apreciabi<g ref="#typoHyphen"/><lb break="no"/>lisimos</orig>
                         <reg>apreciabilísimos</reg>
                     </choice>, era sin embargo sobremanera <lb/>peligrosa entre nosotros por las
-                        opinion<g ref="#typoHyphen"/>
-                </p>
-                                              
-                        <p>
-                            <pb n="4r" facs="prohd0025_4r.tif"/>
-                    <lb/>es su autor acerca <choice>
+                        opinion<g ref="#typoHyphen"/><pb n="4r" facs="prohd0025_4r.tif"/><lb break="no"/>es <!-- hay que revisar si esta codificación no causa problemas en la visualización --> su autor acerca <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
                     </choice> esclavitud, y <choice>
