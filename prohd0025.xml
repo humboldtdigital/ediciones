@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main"> Expediente sobre la obra ensayo político de la Isla de Cuba y
+                <title type="main">Expediente sobre la obra ensayo político de la Isla de Cuba y
                     que se nieguen las licencias a la gente de color para escuelas </title>
                 <editor>
                     <persName>
@@ -117,8 +117,8 @@
     <text>
         <body>
             <div>
-                <p>
-                    <pb n="1r" facs="prohd0025_1r.tif"/>
+                <pb n="1r" facs="prohd0025_1r.tif"/>
+                <p>    
                     <lb/>
                     <choice>
                         <abbr>Secret.<hi rendition="#sup">a</hi></abbr>
@@ -126,10 +126,11 @@
                     </choice> del Gobierno <choice>
                         <orig>politico</orig>
                         <reg>político</reg>
-                    </choice> N95 = n33 <lb/><choice>
+                    </choice></p> <p>N95 = n33 <lb/><choice>
                         <abbr>Dre.</abbr>
                         <expan>Diciembre</expan>
-                    </choice> de 1827. <lb/>N20,407. <lb/>Expediente en que <choice>
+                    </choice> de 1827. <lb/>N20,407.</p>
+                    <p>Expediente en que <choice>
                         <orig>elNuevo</orig>
                         <reg>el Nuevo</reg>
                     </choice>
@@ -222,15 +223,14 @@
                     <lb/><choice>
                         <orig>Jose</orig>
                         <reg>José</reg>
-                    </choice> Amo Jesdaqués <lb/>Habana 4 de Enero de 1828 <lb/>Me conformo con el
+                    </choice> Amo Jesdaqués <lb/>Habana 4 de Enero de 1828.<lb/></p>
+                    <p>Me conformo con el
                     dictamen que <lb/>antecede y hagase como en <choice>
                         <orig>else</orig>
                         <reg>el se</reg>
                     </choice> expresa </p>
-
                 <pb n="2v" facs="prohd0025_2v.tif"/>
                 <gap unit="pages" quantity="1" reason="empty"/>
-
                 <p>
                     <pb n="3r" facs="prohd0025_3r.tif"/>
                     <lb/>Como mejor puedo y debo Certífico: que en el Ca<lb break="no"/>bildo
@@ -250,7 +250,7 @@
                     </choice> ultimo, entre otras <choice>
                         <orig>Cosas</orig>
                         <reg>cosas</reg>
-                    </choice> se halla lo <lb/>siguiente <lb/>Se dió cuenta para la toma de razón <lb/>
+                    </choice> se halla lo <lb/>siguiente<lb/></p><p>Se dió cuenta para la toma de razón <lb/>
                     <choice>
                         <orig>deuna</orig>
                         <reg>de una</reg>
@@ -313,12 +313,11 @@
                     <choice>
                         <orig>civilisacion</orig>
                         <reg>civilización</reg>
-                    </choice> por des<g ref="#typoHyphen"/>
+                    </choice> por des<g ref="#typoHyphen"/><lb break="no"/>gracia
                 </p>
-
                 <p>
                     <pb n="3v" facs="prohd0025_3v.tif"/>
-                    gracia demasiada adelantada <choice>
+                     demasiada adelantada <choice>
                         <orig>yá</orig>
                         <reg>ya</reg>
                     </choice> entre <lb/>los libertos, era lo mismo que descoserles <lb/>
@@ -573,6 +572,8 @@
                         <orig>Comis</orig>
                         <reg>Comisionados</reg>
                     </choice>
+                    </p>
+                <p>
                     <lb/>Es conforme <choice>
                         <orig>asu</orig>
                         <reg>a su</reg>
@@ -585,7 +586,8 @@
                             <reg>veinte</reg>
                         </choice>
                         <lb/>y siete años</date>
-                    <lb/>
+                    <lb/></p>
+                <p>
                     <choice>
                         <abbr>Scimo.</abbr>
                         <expan>Excelentísimo</expan>
@@ -602,11 +604,13 @@
                 <p>
                     <pb n="5r" facs="prohd0025_5r.tif"/>
                     <date when="1828-01-07" calendar="#Gregorian">7 de Enero de 1828</date>
-                    <lb/>Al <choice>
+                </p>
+                <p><lb/>Al <choice>
                         <abbr>Ayuntam.<hi rendition="#sup">to</hi></abbr>
                         <expan>Ayuntamiento</expan>
                     </choice>
-                    <lb/>
+                </p>
+                <p><lb/>
                     <choice>
                         <abbr>Exmo</abbr>
                         <expan>Excelentísimo</expan>
@@ -719,7 +723,9 @@
                     <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
-                    </choice> Señor <lb/>Comisionado <choice>
+                    </choice> Señor</p>
+                <p>
+                    <lb/>Comisionado <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
                     </choice> el <choice>
@@ -885,7 +891,7 @@
                     <choice>
                         <abbr>VE.</abbr>
                         <expan>Vuestra Excelencia</expan>
-                    </choice> podra marcar con su acostum<lb break="no"/>brado acuerdo. <lb/>Dios <choice>
+                    </choice> podra marcar con su acostum<lb break="no"/>brado acuerdo.<lb/></p><p>Dios <choice>
                         <abbr>gue.</abbr>
                         <expan>guarde</expan>
                     </choice> a <choice>
@@ -902,15 +908,16 @@
                     </choice>
                     <date when="1828-01-12" calendar="#Gregorian">Habana doce de enero de
                         <lb/>1828</date>
-                    <lb/>
+                    <lb/></p>
+                <p>
                     <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
-                    </choice> Señor <lb/>
+                    </choice> Señor <lb/></p><p>
                     <choice>
                         <abbr>Man.l</abbr>
                         <expan>Manuel</expan>
-                    </choice> Ramírez <lb/>
+                    </choice> Ramírez <lb/></p><p>
                     <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
@@ -925,9 +932,8 @@
                         <abbr>Cap.<hi rendition="#sup">n</hi></abbr>
                         <expan>Capitán</expan>
                     </choice> General </p>
-
+                <pb n="7r" facs="prohd0025_7r.tif"/>
                 <p>
-                    <pb n="7r" facs="prohd0025_7r.tif"/>
                     <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
@@ -936,7 +942,7 @@
                         <abbr>Sor.</abbr>
                         <expan>Señor</expan>
                     </choice>
-                    <lb/>El adjunto testimonio instruirá <lb/>
+                    <lb/></p><p>El adjunto testimonio instruirá <lb/>
                     <choice>
                         <orig>á</orig>
                         <reg>a</reg>
@@ -987,7 +993,7 @@
                     <choice>
                         <orig>á</orig>
                         <reg>a</reg>
-                    </choice> lo <lb/>que se solicita. <lb/>DIOS </p>
+                    </choice> lo <lb/>que se solicita. <lb/></p><p>DIOS </p>
 
                 <p>
                     <pb n="7v" facs="prohd0025_7v.tif"/>
@@ -1013,7 +1019,8 @@
                     </choice>
                     <date when="1828-02-04" calendar="#Gregorian">Habana <lb/>y Febrero 4 de
                         1828</date>
-                    <lb/>
+                    <lb/></p>
+                <p>
                     <choice>
                         <abbr>Exmo</abbr>
                         <expan>Excelentísimo</expan>
@@ -1022,7 +1029,7 @@
                         <abbr>Sor.</abbr>
                         <expan>Señor</expan>
                     </choice>
-                    <lb/>Anastacio Arango <lb/>Andres de Zayas <lb/>
+                    <lb/>Anastacio Arango<lb/></p><p>Andres de Zayas <lb/></p><p>
                     <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
@@ -1066,7 +1073,7 @@
                     </choice> José <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
-                    </choice> Cova <lb/>un Exemplar del <choice>
+                    </choice> Cova <lb/></p><p>un Exemplar del <choice>
                         <orig>Baron</orig>
                         <reg>Barón</reg>
                     </choice> de <choice>
@@ -1095,7 +1102,7 @@
                     </choice>sinco ejem<g ref="#typoHyphen"/><lb break="no"/>plares <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
-                    </choice> misma obra, los cuales he entregado <lb/>VColmenarez <lb/>En la de <choice>
+                    </choice> misma obra, los cuales he entregado<lb/></p><p>VColmenarez<lb/></p><p>En la de <choice>
                         <abbr>D</abbr>
                         <expan>Don</expan>
                     </choice> Nicolas Ramos un ejemplar <choice>
@@ -1104,26 +1111,25 @@
                     </choice> predicha <lb/>obra de <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> he entregado <lb/>Nicolas Ramos </p>
-
+                    </choice> he entregado<lb/></p><p>Nicolas Ramos</p>
                 <pb n="10v" facs="prohd0025_10v.tif"/>
                 <gap unit="pages" quantity="1" reason="empty"/>
                 <pb n="11r" facs="prohd0025_11r.tif"/>
                 <gap unit="pages" quantity="1" reason="empty"/>
                 <pb n="11v" facs="prohd0025_11v.tif"/>
                 <gap unit="pages" quantity="1" reason="empty"/>
-
-                <p><pb n="12r" facs="prohd0025_12r.tif"/>
-                    <date when="1828-01-15" calendar="#Gregorian">15 de Enero de 1828</date>
-                    <del rendition="#s"><lb/>Al Director dela sociedad</del>
-                    <lb/>Al Director <choice>
+                <pb n="12r" facs="prohd0025_12r.tif"/>
+                <p>
+                    <date when="1828-01-15" calendar="#Gregorian">15 de Enero de 1828</date></p>
+                    <p><del rendition="#s"><lb/>Al Director dela sociedad</del></p>
+                    <p><lb/>Al Director <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
                     </choice> sociedad <choice>
                         <orig>Patriotica</orig>
                         <reg>Patriótica</reg>
                     </choice>
-                    <lb/>Con fecha de 2 del actual me ha consultado <lb/>el <choice>
+                    <lb/></p><p>Con fecha de 2 del actual me ha consultado <lb/>el <choice>
                         <abbr>sor.</abbr>
                         <expan>Señor</expan>
                     </choice> Segundo Acesor <choice>
@@ -1470,7 +1476,7 @@
                         <abbr>D.</abbr>
                         <expan>Don</expan>
                     </choice>
-                    <lb/>Carlos Pedroso <lb/>Es conforme <choice>
+                    <lb/>Carlos Pedroso <lb/></p><p>Es conforme <choice>
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice> su original <choice>
@@ -1485,7 +1491,7 @@
                             <orig>demil</orig>
                             <reg>de mil</reg>
                         </choice> ochicientos veinte y ocho años</date>
-                    <lb/>
+                    <lb/></p><p>
                     <choice>
                         <abbr>Scimo.</abbr>
                         <expan>Excelentísimo</expan>
@@ -1496,7 +1502,6 @@
                     </choice> de Zubieta</p>
                 <pb n="14v" facs="prohd0025_14v.tif"/>
                 <gap unit="pages" quantity="1" reason="empty"/>
-
             </div>
         </body>
     </text>
