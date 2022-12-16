@@ -53,6 +53,25 @@
                 <date when="1795">1795</date>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
+            <abstract xml:lang="es">
+                <p>Expediente conformado por doce documentos fechados de entre el 4 de septiembre de
+                    1795 al 24 de agosto de 1796. Documentos manuscritos de tipo carta, acuerdos y
+                    Decreto Real, declaran explícitamente "Es Copia" al finalizar cada texto, en los
+                    cuales se abordan cuestiones referidas al viaje realizado por Francisco de
+                    Arango y Parreño por Inglaterra, Portugal, Barbados y Jamaica, para conocer y
+                    establecer relaciones con respecto al comercio y la producción de azúcar. El
+                    expediente presenta afectaciones por la acción de la tinta ferrogálica.</p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>Dossier, bestehend aus zwölf Dokumenten, die zwischen dem 4. September 1795 und
+                    dem 24. August 1796 datiert sind. Handschriftliche Dokumente wie Briefe,
+                    Vereinbarungen und königliche Dekrete mit dem ausdrücklichen Vermerk "Es handelt
+                    sich um eine Kopie" am Ende jedes Textes, die sich mit Fragen im Zusammenhang
+                    mit der Reise von Francisco de Arango y Parreño nach England, Portugal, Barbados
+                    und Jamaika befassen, um sich über den Handel und die Produktion von Zucker zu
+                    informieren und Beziehungen aufzubauen. Das Dossier ist von der Wirkung der
+                    Eisengallustinte betroffen.</p>
+            </abstract>
             <langUsage>
                 <language ident="es">Español</language>
             </langUsage>
