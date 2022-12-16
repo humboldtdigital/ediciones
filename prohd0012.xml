@@ -3,8 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Relación de la calentura biliosa remitente amarilla que se
-                    manifestó en Filadelfia en 1793 [in: C’est mon cahier de la Havane intitule sur
-                    la salubrite de l’air]</title>
+                    manifestó en Filadelfia en 1793</title>
                 <editor>
                     <persName>
                         <surname>Kraller</surname>
@@ -46,6 +45,7 @@
                                 >http://jbc.bj.uj.edu.pl/dlibra/publication/363975</idno>
                             <!-- the JBC site server is currently down, as of Aug 26, 2022, but this is hopefully temporary, the URL is ok -->
                         </idno>
+                        <msName>C’est mon cahier de la Havane intitule sur la salubrite de l’air</msName>
                     </msIdentifier>
                 </msDesc>
             </sourceDesc>

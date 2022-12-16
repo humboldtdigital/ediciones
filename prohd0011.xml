@@ -2,8 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Fièvre jaune 2 [in: C’est mon cahier de la Havane intitule sur la
-                    salubrite de l’air]</title>
+                <title type="main">Fièvre jaune 2</title>
                 <editor>
                     <persName>
                         <surname>Kraller</surname>
@@ -39,6 +38,7 @@
                                 >http://jbc.bj.uj.edu.pl/dlibra/publication/363975</idno>
                             <!-- the JBC site server is currently down, as of Aug 26, 2022, but this is hopefully temporary, the URL is ok -->
                         </idno>
+                        <msName>C’est mon cahier de la Havane intitule sur la salubrite de l’air</msName>
                     </msIdentifier>
                 </msDesc>
             </sourceDesc>

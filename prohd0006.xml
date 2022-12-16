@@ -3,8 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Considérations sur l’Atmosphere des Tropiques, regardée comme
-                    objet de la Pathologie chymique [in: C’est mon cahier de la Havane intitule sur
-                    la salubrite de l’air]</title>
+                    objet de la Pathologie chymique</title>
                 <editor>
                     <persName>
                         <surname>Tylus</surname>
@@ -54,6 +53,7 @@
                                 >http://jbc.bj.uj.edu.pl/dlibra/publication/363975</idno>
                             <!-- the JBC site server is currently down, as of Aug 26, 2022, but this is hopefully temporary, the URL is ok -->
                         </idno>
+                        <msName>C’est mon cahier de la Havane intitule sur la salubrite de l’air</msName>
                     </msIdentifier>
                 </msDesc>
             </sourceDesc>
