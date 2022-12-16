@@ -75,8 +75,8 @@
                 <catRef scheme="#subject" target="#administration"/>
                 <catRef scheme="#subject" target="#trade"/>
                 <catRef scheme="#subject" target="#slavery"/>
-                <catRef scheme="#genre" target="#essays"/>
                 <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#genre" target="#records"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
