@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
 <?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-    type="document" xml:id="ed_sj1_wwf_y5b">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_sj1_wwf_y5b">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main"> Expediente sobre la obra ensayo político de la Isla de Cuba y
+                <title type="main">Expediente sobre la obra ensayo político de la Isla de Cuba y
                     que se nieguen las licencias a la gente de color para escuelas </title>
                 <editor>
                     <persName>
@@ -27,15 +26,16 @@
                 <pubPlace>Berlín</pubPlace>
                 <pubPlace>La Habana</pubPlace>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>Archivo Nacional de Cuba</institution>
+                        <institution>Archivo Nacional de la República de Cuba</institution>
                         <collection>Gobierno Superior Civil</collection>
-                        
+
                         <idno>
                             <idno type="shelfmark">Legajo 652. No.20407</idno>
                             <idno type="URLImages"
@@ -56,8 +56,8 @@
             <creation>
                 <persName>N/A</persName>
                 <placeName>La Habana</placeName>
-                <date notBefore="1827-12" notAfter="1828-02" cert="high">Entre Diciembre de 1827 y Febrero de 1828</date>
-                
+                <date notBefore="1827-12" notAfter="1828-02" cert="high">Entre Diciembre de 1827 y
+                    Febrero de 1828</date>
             </creation>
             <abstract xml:lang="es">
                 <p>Expediente que recoge el proceso de consulta para la censura del Ensayo Político
@@ -75,8 +75,8 @@
                 <catRef scheme="#subject" target="#administration"/>
                 <catRef scheme="#subject" target="#trade"/>
                 <catRef scheme="#subject" target="#slavery"/>
-                <catRef scheme="#genre" target="#essays"/>
                 <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#genre" target="#records"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
@@ -116,20 +116,20 @@
     </teiHeader>
     <text>
         <body>
-           <div>
-                        <p>
-                            <pb n="1r" facs="prohd0025_1r.tif"/>
-                    <lb/>
-                    <choice>
+            <div>
+                <pb n="1r" facs="prohd0025_1r.tif"/>
+                <p>
+                    <lb/><choice>
                         <abbr>Secret.<hi rendition="#sup">a</hi></abbr>
-                        <expan>Secretaria</expan>
+                        <expan>Secretaría</expan>
                     </choice> del Gobierno <choice>
                         <orig>politico</orig>
                         <reg>político</reg>
-                    </choice> N95 = n33 <lb/><choice>
+                    </choice></p> <p>N95 = n33 <lb/><choice>
                         <abbr>Dre.</abbr>
                         <expan>Diciembre</expan>
-                    </choice> de 1827. <lb/>N20,407. <lb/>Expediente en que <choice>
+                    </choice> de 1827. <lb/>N20,407.</p>
+                    <p>Expediente en que <choice>
                         <orig>elNuevo</orig>
                         <reg>el Nuevo</reg>
                     </choice>
@@ -140,8 +140,7 @@
                     </choice> sobre que <choice>
                         <orig>sereco</orig>
                         <reg>se reco<g ref="#typoHyphen"/></reg>
-                    </choice>
-                    <lb break="no"/>ja la obra del <choice>
+                    </choice><lb break="no"/>ja la obra del <choice>
                         <orig>Baronde</orig>
                         <reg>Barón de</reg>
                     </choice>
@@ -154,7 +153,7 @@
                         <reg>Ensayo</reg>
                     </choice>
                     <choice>
-                        <orig>poli <lb break="no"/>tico</orig>
+                        <orig>poli<lb break="no"/>tico</orig>
                         <reg>político</reg>
                     </choice>
                     <choice>
@@ -180,7 +179,7 @@
                         <orig>ála</orig>
                         <reg>a la</reg>
                     </choice>
-                    <lb/>gente de color, para escuelas. </p>
+                    <lb/>gente de color, para escuelas.</p>
                 <p>
                     <table rows="3" cols="1">
                         <row>
@@ -195,14 +194,13 @@
                         <row>
                             <cell>NÚMERO 20407</cell>
                         </row>
-                    </table> GOBIERNO SUPERIOR CIVIL </p>
+                    </table>GOBIERNO SUPERIOR CIVIL </p>
 
 
-               <pb n="1v" facs="prohd0025_1v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               
-                        <p>
-                            <pb n="2r" facs="prohd0025_2r.tif"/>
-                    <lb/>
+                <pb n="1v" facs="prohd0025_1v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+
+                <p><pb n="2r" facs="prohd0025_2r.tif"/>
                     <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
@@ -211,8 +209,7 @@
                         <corr cert="high">Habana</corr>
                     </choice>
                     <date when="1828-01-02" calendar="#Gregorian">2 de <lb/>Enero de 1828</date>
-                    <lb/>
-                    <choice>
+                    <lb/><choice>
                         <abbr>Exmo</abbr>
                         <expan>Excelentísimo</expan>
                     </choice>
@@ -223,20 +220,21 @@
                     <lb/><choice>
                         <orig>Jose</orig>
                         <reg>José</reg>
-                    </choice> Amo Jesdaqués <lb/>Habana 4 de Enero de 1828 <lb/>Me conformo con el
-                    dictamen que <lb/>antecede y hagase como en <choice>
+                    </choice> Amo Jesdaqués <lb/>Habana 4 de Enero de 1828.<lb/></p>
+                    <p>Me conformo con el dictamen que <lb/>antecede y <choice>
+                        <orig>hagase</orig>
+                        <reg>hágase</reg>
+                    </choice> como en <choice>
                         <orig>else</orig>
-                        <reg>el se</reg>
+                        <reg>él se</reg>
                     </choice> expresa </p>
-               
-               <pb n="2v" facs="prohd0025_2v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-
-                        <p>
-                            <pb n="3r" facs="prohd0025_3r.tif"/>
-                    <lb/>Como mejor puedo y debo Certífico: que en el Ca <lb break="no"/>bildo
+                <pb n="2v" facs="prohd0025_2v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <p><pb n="3r" facs="prohd0025_3r.tif"/>
+                    <lb/>Como mejor puedo y debo Certifico: que en el Ca<lb break="no"/>bildo
                     ordinario celebrado <choice>
                         <orig>antemi</orig>
-                        <reg>ante mi</reg>
+                        <reg>ante mí</reg>
                     </choice> en <choice>
                         <orig>vente</orig>
                         <reg>veinte</reg>
@@ -244,15 +242,17 @@
                     <choice>
                         <orig>ynue</orig>
                         <reg>y nue</reg>
-                    </choice>
-                    <lb/>ve de <choice>
+                    </choice><lb break="no"/>ve de <choice>
                         <abbr>Nov.<hi rendition="#sup">re</hi></abbr>
                         <expan>Noviembre</expan>
-                    </choice> ultimo, entre otras <choice>
+                    </choice>
+                    <choice>
+                        <orig>ultimo</orig>
+                        <reg>último</reg>
+                    </choice>, entre otras <choice>
                         <orig>Cosas</orig>
                         <reg>cosas</reg>
-                    </choice> se halla lo <lb/>siguiente <lb/>Se dió cuenta para la toma de razón <lb/>
-                    <choice>
+                    </choice> se halla lo <lb/>siguiente<lb/></p><p>Se dió cuenta para la toma de razón <lb/><choice>
                         <orig>deuna</orig>
                         <reg>de una</reg>
                     </choice> licencia concedida <choice>
@@ -277,15 +277,14 @@
                     <choice>
                         <abbr>J<hi rendition="#sup">se</hi></abbr>
                         <expan>José</expan>
-                    </choice> Anastacio Ca<g ref="#typoHyphen"/>
-                    <lb/>rrillo de Arango dijo: que aunque parecía <lb/>que la <choice>
+                    </choice> Anastacio Ca<g ref="#typoHyphen"/><lb break="no"/>rrillo de Arango
+                    dijo: que aunque parecía <lb/>que la <choice>
                         <orig>rason</orig>
                         <reg>razón</reg>
                     </choice> y la humanidad <choice>
                         <orig>delas</orig>
                         <reg>de las</reg>
-                    </choice> leyes <lb/>
-                    <choice>
+                    </choice> leyes <lb/><choice>
                         <orig>exigian</orig>
                         <reg>exigían</reg>
                     </choice> que no se privase a esa clase <choice>
@@ -295,11 +294,10 @@
                     <lb/>ventajas <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
-                    </choice> educación primaria, el su<g ref="#typoHyphen"/>
-                    <lb/>perior dictado de nuestra seguridad y con<g ref="#typoHyphen"/>
-                    <lb/>servación, oponían una resistencia <lb/>triste, pero poderosa a seguir los
-                        prin<g ref="#typoHyphen"/>
-                    <lb/>cipios <choice>
+                    </choice> educación primaria, el su<g ref="#typoHyphen"/><lb/>perior dictado de
+                    nuestra seguridad y con<g ref="#typoHyphen"/><lb/>servación, oponían una
+                    resistencia <lb/>triste, pero poderosa a seguir los prin<g ref="#typoHyphen"
+                    /><lb/>cipios <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
                     </choice> justicia universal y <choice>
@@ -317,16 +315,11 @@
                     <choice>
                         <orig>civilisacion</orig>
                         <reg>civilización</reg>
-                    </choice> por des<g ref="#typoHyphen"/>
-                </p>
-                                                
-                        <p>
-                            <pb n="3v" facs="prohd0025_3v.tif"/>
-                    <lb/>gracia demasiada adelantada <choice>
+                    </choice> por des<g ref="#typoHyphen"/><lb break="no"/>gracia </p>
+                <p><pb n="3v" facs="prohd0025_3v.tif"/> demasiada adelantada <choice>
                         <orig>yá</orig>
                         <reg>ya</reg>
-                    </choice> entre <lb/>los libertos, era lo mismo que descoserles <lb/>
-                    <choice>
+                    </choice> entre <lb/>los libertos, era lo mismo que descoserles <lb/><choice>
                         <orig>elvelo</orig>
                         <reg>el velo</reg>
                     </choice> del prestigio <choice>
@@ -335,8 +328,10 @@
                     </choice> nuestras propias <lb/>manos; en cuya <choice>
                         <orig>fuersa</orig>
                         <reg>fuerza</reg>
-                    </choice> moral solo se <lb/>funda nuestra superioridad descubriendo<g
-                        ref="#typoHyphen"/><lb break="no"/>les la funesta realidad <choice>
+                    </choice> moral solo se <lb/>funda nuestra superioridad <choice>
+                        <orig>descubriendo<g ref="#typoHyphen"/><lb break="no"/>les</orig>
+                        <reg>descubriéndoles</reg>
+                    </choice> la funesta realidad <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
                     </choice> suya <choice>
@@ -354,17 +349,20 @@
                     <choice>
                         <abbr>Exmo</abbr>
                         <expan>Excelentísimo</expan>
-                    </choice> Ayunta <lb/>miento, proponia se detubiese la to- <lb/>ma <choice>
+                    </choice> Ayunta<lb break="no"/>miento, <choice>
+                        <orig>proponia</orig>
+                        <reg>proponía</reg>
+                    </choice> se <choice>
+                        <orig>detubiese</orig>
+                        <reg>detuviese</reg>
+                    </choice> la to<g ref="#typoHyphen"/><lb break="no"/>ma <choice>
                         <orig>derason</orig>
-                        <reg>de <choice>
-                                <orig>rason</orig>
-                                <reg>razón</reg>
-                            </choice>rason </reg>
+                        <reg>de razón</reg>
                     </choice>
                     <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
-                    </choice> licencia que se por- <lb/>sentada, <choice>
+                    </choice> licencia que de por<lb/>sentada, <choice>
                         <orig>representandose</orig>
                         <reg>respetándose</reg>
                     </choice> al <choice>
@@ -378,9 +376,11 @@
                     <lb/>Presidente con <choice>
                         <orig>obgeto</orig>
                         <reg>objeto</reg>
-                    </choice> de que procu<g ref="#typoHyphen"/>
-                    <lb/>rase no conceder semejantes permi- <lb/>sos, adptandose al efecto los
-                    medios <lb/>que la presidencia indicase ser <choice>
+                    </choice> de que procu<g ref="#typoHyphen"/><lb/>rase no conceder semejantes
+                        permi<g ref="#typoHyphen"/><lb break="no"/>sos, <choice>
+                        <orig>adaptandose</orig>
+                        <reg>adaptándose</reg>
+                    </choice> al efecto los medios <lb/>que la presidencia indicase ser <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
                     </choice>
@@ -392,7 +392,11 @@
                     <choice>
                         <abbr>dn</abbr>
                         <expan>Don</expan>
-                    </choice> Andres de <choice>
+                    </choice>
+                    <choice>
+                        <orig>Andres</orig>
+                        <reg>Andrés</reg>
+                    </choice> de <choice>
                         <orig>zayas</orig>
                         <reg>Zayas</reg>
                     </choice>
@@ -403,13 +407,16 @@
                         <abbr>q</abbr>
                         <expan>que</expan>
                     </choice>
-                    <lb/>en las librerias de esta ciudad se esta<g ref="#typoHyphen"/>
-                    <lb/>ba vendiendo en castellano <choice>
+                    <lb/>en las <choice>
+                        <orig>librerias</orig>
+                        <reg>librerías</reg>
+                    </choice> de esta ciudad se esta<g ref="#typoHyphen"/><lb/>ba vendiendo en
+                    castellano <choice>
                         <orig>elensayo</orig>
                         <reg>el ensayo</reg>
                     </choice>
-                    <choice>
-                        <orig><lb/>politico</orig>
+                    <lb/><choice>
+                        <orig>politico</orig>
                         <reg>político</reg>
                     </choice>
                     <choice>
@@ -423,15 +430,11 @@
                         <sic>Humbold</sic>
                         <corr cert="high">Humboldt</corr>
                     </choice>; que esta <lb/>obra bajo muchos aspectos <choice>
-                        <orig>apreciabi- <lb/>lisimos</orig>
+                        <orig>apreciabi<g ref="#typoHyphen"/><lb break="no"/>lisimos</orig>
                         <reg>apreciabilísimos</reg>
                     </choice>, era sin embargo sobremanera <lb/>peligrosa entre nosotros por las
-                        opinion<g ref="#typoHyphen"/>
-                </p>
-                                              
-                        <p>
-                            <pb n="4r" facs="prohd0025_4r.tif"/>
-                    <lb/>es su autor acerca <choice>
+                        opinion<g ref="#typoHyphen"/><pb n="4r" facs="prohd0025_4r.tif"/><lb
+                        break="no"/>es su autor acerca <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
                     </choice> esclavitud, y <choice>
@@ -454,7 +457,7 @@
                     <lb/>gentes de color de su inmensa fuerza <lb/>en esta <choice>
                         <sic>Ysla</sic>
                         <corr cert="high">Isla</corr>
-                    </choice> y su preponderancia desiciva <lb/>en todas las Antillas y las costas
+                    </choice> y su preponderancia decisiva <lb/>en todas las Antillas y las costas
                     del <lb/>continente que nos cerca; que en <choice>
                         <abbr>consec.<hi rendition="#sup">a</hi></abbr>
                         <expan>consecuencia</expan>
@@ -481,8 +484,7 @@
                         <orig>circulacion</orig>
                         <reg>circulación</reg>
                     </choice> de este libro, <choice>
-                        <orig>nom<g ref="#typoHyphen"/>
-                            <lb/>brandose</orig>
+                        <orig>nom<g ref="#typoHyphen"/><lb/>brandose</orig>
                         <reg>nombrándose</reg>
                     </choice> una <choice>
                         <orig>comision</orig>
@@ -520,18 +522,19 @@
                     </choice> primera que el mismo <choice>
                         <abbr>Sr</abbr>
                         <expan>Señor</expan>
-                    </choice> Ca<g ref="#typoHyphen"/>
-                    <lb/>rrillo se encargue de hacer la <choice>
+                    </choice> Ca<g ref="#typoHyphen"/><lb/>rrillo se encargue de hacer la <choice>
                         <abbr>repres.<hi rendition="#sup">n</hi></abbr>
                         <expan>representación</expan>
-                    </choice>; <lb/>y sobre la segunda que el caballero <lb/>Sindico se acerque <choice>
+                    </choice>; <lb/>y sobre la segunda que el caballero <choice>
+                        <orig><lb/>Sindico</orig>
+                        <reg>Síndico</reg>
+                    </choice> se acerque <choice>
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice> sus <choice>
                         <abbr>Exas</abbr>
                         <expan>Excelencias</expan>
-                    </choice> los <lb/>
-                    <choice>
+                    </choice> los <lb/><choice>
                         <abbr>Sres</abbr>
                         <expan>Señores</expan>
                     </choice> Presidentes e <choice>
@@ -546,12 +549,12 @@
                         <abbr>q</abbr>
                         <expan>que</expan>
                     </choice>
-                    <lb/>se tomen las convenientes medidas  </p>
-                       
-                        <p>
+                    <lb/>se tomen las convenientes medidas </p>
+
+                <p>
                     <pb n="4v" facs="prohd0025_4v.tif"/>
                     <lb/>a efecto de precaver la nueva <choice>
-                        <orig>intro <g ref="#typoHyphen"/><lb/>duccion</orig>
+                        <orig>intro<g ref="#typoHyphen"/><lb/>duccion</orig>
                         <reg>introducción</reg>
                     </choice> del ensayo <choice>
                         <orig>politico</orig>
@@ -561,10 +564,9 @@
                         <reg>demás</reg>
                     </choice>
                     <lb/>obras que esten en el mismo caso, <choice>
-                        <orig>co- <lb/>municandose</orig>
+                        <orig>co<g ref="#typoHyphen"/><lb/>municandose</orig>
                         <reg>ccomunicándose</reg>
-                    </choice> este acuerdo al referido <lb/>
-                    <choice>
+                    </choice> este acuerdo al referido<lb/><choice>
                         <abbr>Exmo</abbr>
                         <expan>Excelentísimo</expan>
                     </choice>
@@ -583,21 +585,22 @@
                         <orig>Comis</orig>
                         <reg>Comisionados</reg>
                     </choice>
+                </p>
+                <p>
                     <lb/>Es conforme <choice>
                         <orig>asu</orig>
                         <reg>a su</reg>
                     </choice> original <choice>
                         <sic>aque</sic>
                         <corr cert="high">a que</corr>
-                    </choice> me remito. Ha<g ref="#typoHyphen"/>
-                    <lb/>bana <date when="1827-12-13" calendar="#Gregorian">trece de diciembre de
+                    </choice> me remito. Ha<g ref="#typoHyphen"/><lb/>bana <date when="1827-12-13" calendar="#Gregorian">trece de diciembre de
                         mil ochocientos <choice>
                             <orig>vente</orig>
                             <reg>veinte</reg>
                         </choice>
                         <lb/>y siete años</date>
-                    <lb/>
-                    <choice>
+                    <lb/></p>
+                <p><choice>
                         <abbr>Scimo.</abbr>
                         <expan>Excelentísimo</expan>
                     </choice>
@@ -609,15 +612,17 @@
                         <abbr>d</abbr>
                         <expan>de</expan>
                     </choice> Zubieta </p>
-                        
-                        <p>
+
+                <p>
                     <pb n="5r" facs="prohd0025_5r.tif"/>
-                    <lb/><date when="1828-01-07" calendar="#Gregorian">7 de Enero de 1828</date>
-                    <lb/>Al <choice>
+                    <date when="1828-01-07" calendar="#Gregorian">7 de Enero de 1828</date>
+                </p>
+                <p><lb/>Al <choice>
                         <abbr>Ayuntam.<hi rendition="#sup">to</hi></abbr>
                         <expan>Ayuntamiento</expan>
                     </choice>
-                    <lb/>
+                </p>
+                <p><lb/>
                     <choice>
                         <abbr>Exmo</abbr>
                         <expan>Excelentísimo</expan>
@@ -722,17 +727,16 @@
                             <expan>Diciembre</expan>
                         </choice>
                         <unclear reason="illegible" cert="high">1827</unclear></date></p>
-                           
-                           
-               <pb n="5v" facs="prohd0025_5v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-                           
-                        <p>
-                    <pb n="6r" facs="prohd0025_6r.tif"/>
+                <pb n="5v" facs="prohd0025_5v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <p><pb n="6r" facs="prohd0025_6r.tif"/>
                     <lb/>
                     <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
-                    </choice> Señor <lb/>Comisionado <choice>
+                    </choice> Señor</p>
+                <p>
+                    <lb/>Comisionado <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
                     </choice> el <choice>
@@ -742,7 +746,10 @@
                     <choice>
                         <abbr>Ayuntam.to</abbr>
                         <expan>Ayuntamiento</expan>
-                    </choice> en acuerdo orden <lb/>del dia de ayer <choice>
+                    </choice> en acuerdo orden <lb/>del <choice>
+                        <orig>dia</orig>
+                        <reg>día</reg>
+                    </choice> de ayer <choice>
                         <abbr>p.<hi rendition="#sup">a</hi></abbr>
                         <expan>para</expan>
                     </choice> formar la lista <choice>
@@ -761,24 +768,29 @@
                     </choice> titulado "Ensayo <choice>
                         <orig>politico</orig>
                         <reg>político</reg>
-                    </choice> so<g ref="#typoHyphen"/>
-                    <lb/>bre la <choice>
+                    </choice> so<g ref="#typoHyphen"/><lb/>bre la <choice>
                         <sic>Ysla</sic>
                         <corr>Isla</corr>
-                    </choice> de Cuba", existente en las librerias he proce<g ref="#typoHyphen"/><lb
-                        break="no"/>dido a evacuarla en esta mañana, recogiendo aquellos <choice>
+                    </choice> de Cuba", existente en las <choice>
+                        <orig>librerias</orig>
+                        <reg>librerías</reg>
+                    </choice> he proce<g ref="#typoHyphen"/><lb break="no"/>dido a evacuarlos en esta
+                    mañana, recogiendo aquellos <choice>
                         <abbr>i<g ref="#typoHyphen"/><lb break="no"/>gualm.<hi rendition="#sup"
                                 >te</hi></abbr>
                         <expan>igualmente</expan>
-                    </choice> conforme inspiraba la letra y copiacen del oficial <lb/>
-                    <choice>
+                    </choice> conforme inspiraba la letra y copiaron del oficio <lb/><choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice>
                     <choice>
                         <abbr>VE.</abbr>
                         <expan>Vuestra Excelencia</expan>
-                    </choice> se sirvio dirigia a aquella <choice>
+                    </choice> se <choice>
+                        <orig>sirvio</orig>
+                        <reg>sirvió</reg>
+                    </choice>
+                    dirigir a aquella <choice>
                         <abbr>Exma</abbr>
                         <expan>Excelentísima</expan>
                     </choice>
@@ -789,9 +801,9 @@
                     <lb/>con fecha 7 del <choice>
                         <abbr>corr.<hi rendition="#sup">te</hi></abbr>
                         <expan>corriente</expan>
-                    </choice>
+                    </choice>.
                 </p>
-                        <p>
+                <p>
                     <lb/>Por las listas <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
@@ -802,32 +814,47 @@
                         <abbr>q.</abbr>
                         <expan>que</expan>
                     </choice>
-                    <lb/>en los de <choice>
+                    <lb/>en la de <choice>
                         <abbr>D.</abbr>
                         <expan>Don</expan>
                     </choice> José <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
-                    </choice> Cova tan solo existia uno: <choice>
+                    </choice> Cova tan solo <choice>
+                        <orig>existia</orig>
+                        <reg>existía</reg>
+                    </choice> uno: <choice>
                         <sic>sinco</sic>
                         <corr cert="high">cinco</corr>
                     </choice> en <lb/>la de <choice>
                         <abbr>D.</abbr>
                         <expan>Don</expan>
-                    </choice> Valentin Colmenarez; y una en la de <choice>
+                    </choice>
+                    <choice>
+                        <orig>Valentin</orig>
+                        <reg>Valentín</reg>
+                    </choice> Colmenares; y una en la de <choice>
                         <abbr>D.</abbr>
                         <expan>Don</expan>
-                    </choice> Nicolas <lb/>Ramos, cuyo numero de siete volumenes quedan en mi po<g
-                        ref="#typoHyphen"/><lb break="no"/>der a la <choice>
+                    </choice>
+                    <choice>
+                        <orig>Nicolas</orig>
+                        <reg>Nicolás</reg>
+                    </choice>
+                    <lb/>Ramos, cuyo <choice>
+                        <orig>numero</orig>
+                        <reg>número</reg>
+                    </choice> de siete volumenes quedan en mi po<g ref="#typoHyphen"/><lb break="no"
+                    />der a la <choice>
                         <abbr>disposic.<hi rendition="#sup">n</hi></abbr>
                         <expan>dispocisión</expan>
                     </choice> de <choice>
                         <abbr>VE.</abbr>
                         <expan>Vuestra Excelencia</expan>
-                    </choice>
+                    </choice>.
                 </p>
 
-                        <p>
+                <p>
                     <lb/>En ninguna otra libreria se presenta a expensa <lb/>la precitada obra; <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
@@ -863,9 +890,11 @@
                     </choice> registrados <lb/>muy <choice>
                         <sic>serca</sic>
                         <corr cert="high">cerca</corr>
-                    </choice> de doscientos ejemplares, estando ya (segun <lb/>me han indicado)
-                    sesenta y tantos de ellos en la Casa de <lb/>
-                    <choice>
+                    </choice> de doscientos ejemplares, estando ya (<choice>
+                        <orig>segun</orig>
+                        <reg>según</reg>
+                    </choice>
+                    <lb/>me han indicado) sesenta y tantos de ellos en la Casa de <lb/><choice>
                         <orig>comersio</orig>
                         <reg>comercio</reg>
                     </choice> del <choice>
@@ -875,21 +904,31 @@
                     <choice>
                         <abbr>D.</abbr>
                         <expan>Don</expan>
-                    </choice> Prospero Amador Garcia; y tal vez </p>
-                      
-                        <p>
-                    <pb n="6v" facs="prohd0025_6v.tif"/>
+                    </choice>
+                    <choice>
+                        <orig>Prospero</orig>
+                        <reg>Próspero</reg>
+                    </choice> Amador <choice>
+                        <orig>Garcia</orig>
+                        <reg>García</reg>
+                    </choice>; y tal vez </p>
+
+                <p><pb n="6v" facs="prohd0025_6v.tif"/>
                     <lb/>tomen otros en distintos almacenes, si es <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> lograron los con<g ref="#typoHyphen"/>
-                    <lb/>signatarios su despacho en aquella oficina, <choice>
-                        <orig>mas</orig>
-                        <reg>más</reg>
-                    </choice> no siendo <lb/>licita practicar <choice>
+                    <lb/>signatarios su despacho en aquella oficina, mas no siendo <lb/><choice>
+                        <orig>licita</orig>
+                        <reg>lícita</reg>
+                    </choice> practicar <choice>
                         <abbr>dilig.<hi rendition="#sup">a</hi></abbr>
                         <expan>diligencia</expan>
-                    </choice> extraña de libreria <choice>
+                    </choice> extraña de <choice>
+                        <orig>libreria</orig>
+                        <reg>librería</reg>
+                    </choice>
+                    <choice>
                         <orig>publica</orig>
                         <reg>pública</reg>
                     </choice> me he abu<lb break="no"/>rrido de avanzar con pasos <choice>
@@ -899,7 +938,11 @@
                     <choice>
                         <abbr>VE.</abbr>
                         <expan>Vuestra Excelencia</expan>
-                    </choice> podra marcar con su acostum<lb break="no"/>brado acuerdo. <lb/>Dios <choice>
+                    </choice>
+                    <choice>
+                        <orig>podra</orig>
+                        <reg>podrá</reg>
+                    </choice> marcar con su acostum<lb break="no"/>brado acuerdo.<lb/></p><p>Dios <choice>
                         <abbr>gue.</abbr>
                         <expan>guarde</expan>
                     </choice> a <choice>
@@ -916,15 +959,16 @@
                     </choice>
                     <date when="1828-01-12" calendar="#Gregorian">Habana doce de enero de
                         <lb/>1828</date>
-                    <lb/>
+                    <lb/></p>
+                <p>
                     <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
-                    </choice> Señor <lb/>
+                    </choice> Señor <lb/></p><p>
                     <choice>
                         <abbr>Man.l</abbr>
                         <expan>Manuel</expan>
-                    </choice> Ramírez <lb/>
+                    </choice> Ramírez <lb/></p><p>
                     <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
@@ -939,8 +983,8 @@
                         <abbr>Cap.<hi rendition="#sup">n</hi></abbr>
                         <expan>Capitán</expan>
                     </choice> General </p>
-
-               <p> <pb n="7r" facs="prohd0025_7r.tif"/> <lb/>
+                <pb n="7r" facs="prohd0025_7r.tif"/>
+                <p>
                     <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
@@ -949,8 +993,7 @@
                         <abbr>Sor.</abbr>
                         <expan>Señor</expan>
                     </choice>
-                    <lb/>El adjunto testimonio instruirá <lb/>
-                    <choice>
+                    <lb/></p><p>El adjunto testimonio instruirá <lb/><choice>
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice>
@@ -965,15 +1008,18 @@
                         <expan>Excelentísimo</expan>
                     </choice>
                     <lb/>Ayuntaminerto en el cabildo de <lb/><date when="1828-01-11"
-                        calendar="#Gregorian">11 de Enero</date> ultimo con vista del <lb/>oficio de <choice>
+                        calendar="#Gregorian">11 de Enero</date>
+                    <choice>
+                        <orig>ultimo</orig>
+                        <reg>último</reg>
+                    </choice> con vista del <lb/>oficio de <choice>
                         <abbr>N.E.</abbr>
                         <expan>Nuestra Excelencia</expan>
                     </choice> de <date when="1828-01-07" calendar="#Gregorian">7 del mismo</date>
                     <lb/>en orden <choice>
                         <orig>á</orig>
                         <reg>a</reg>
-                    </choice> la licencia concedida <lb/>
-                    <choice>
+                    </choice> la licencia concedida <lb/><choice>
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice> la morena Ana del Toro <choice>
@@ -983,16 +1029,14 @@
                     <choice>
                         <orig><lb/>establecér</orig>
                         <reg>establecer</reg>
-                    </choice> una escuela de prime<g ref="#typoHyphen"/>
-                    <lb/>ras letras, y esperamos que to<g ref="#typoHyphen"/>
-                    <lb/>mando <choice>
+                    </choice> una escuela de prime<g ref="#typoHyphen"/><lb break="no"/>ras letras,
+                    y esperamos que to<g ref="#typoHyphen"/><lb/>mando <choice>
                         <abbr>V.E.</abbr>
                         <expan>Vuestra Excelencia</expan>
                     </choice> en <choice>
                         <orig>consideracion</orig>
                         <reg>consideración</reg>
-                    </choice> lo <lb/>
-                    <choice>
+                    </choice> lo <lb/><choice>
                         <sic>espuesto</sic>
                         <corr cert="high">expuesto</corr>
                     </choice>, se servirá <choice>
@@ -1002,11 +1046,9 @@
                     <choice>
                         <orig>á</orig>
                         <reg>a</reg>
-                    </choice> lo <lb/>que se solicita. <lb/>DIOS </p>
+                    </choice> lo <lb/>que se solicita. <lb/></p><p>DIOS </p>
 
-               <p>
-                    <pb n="7v" facs="prohd0025_7v.tif"/>
-                    <lb/>
+                <p><pb n="7v" facs="prohd0025_7v.tif"/>
                     <choice>
                         <abbr>gue.</abbr>
                         <expan>guarde</expan>
@@ -1029,8 +1071,8 @@
                     </choice>
                     <date when="1828-02-04" calendar="#Gregorian">Habana <lb/>y Febrero 4 de
                         1828</date>
-                    <lb/>
-                    <choice>
+                    <lb/></p>
+                <p><choice>
                         <abbr>Exmo</abbr>
                         <expan>Excelentísimo</expan>
                     </choice>
@@ -1038,7 +1080,13 @@
                         <abbr>Sor.</abbr>
                         <expan>Señor</expan>
                     </choice>
-                    <lb/>Anastacio Arango <lb/>Andres de Zayas <lb/>
+                    <lb/><choice>
+                        <orig>Anastacio</orig>
+                        <reg>Anastasio</reg>
+                    </choice> Arango<lb/></p><p><choice>
+                        <orig>Andres</orig>
+                        <reg>Andrés</reg>
+                    </choice> de Zayas <lb/></p><p>
                     <choice>
                         <abbr>Exmo.</abbr>
                         <expan>Excelentísimo</expan>
@@ -1064,25 +1112,30 @@
                         <expan>General</expan>
                     </choice>
                 </p>
-               
-               <pb n="8r" facs="prohd0025_8r.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               <pb n="8v" facs="prohd0025_8v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               <pb n="9r" facs="prohd0025_9r.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               <pb n="9v" facs="prohd0025_9v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
 
-                        <p>
-                            <pb n="10r" facs="prohd0025_10r.tif"/>
-                    <lb/>En la libreria de <choice>
+                <pb n="8r" facs="prohd0025_8r.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="8v" facs="prohd0025_8v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="9r" facs="prohd0025_9r.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="9v" facs="prohd0025_9v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+
+                <p><pb n="10r" facs="prohd0025_10r.tif"/> En la libreria de <choice>
                         <abbr>D.<hi rendition="#sup">n</hi></abbr>
                         <expan>Don</expan>
                     </choice> José <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
-                    </choice> Cova <lb/>un Exemplar del <choice>
+                    </choice> Cova <lb/></p><p>un <choice>
+                        <orig>Exemplar</orig>
+                        <reg>ejemplar</reg>
+                    </choice> del <choice>
                         <orig>Baron</orig>
                         <reg>Barón</reg>
                     </choice> de <choice>
-                        <orig>Hum <lb/>bolt</orig>
+                        <orig>Hum<lb break="no"/>bolt</orig>
                         <reg>Humboldt</reg>
                     </choice>. Ensayo <choice>
                         <orig>politico</orig>
@@ -1094,48 +1147,74 @@
                         >12 <choice>
                             <abbr>En.o</abbr>
                             <expan>Enero</expan>
-                        </choice> 1828 </date><lb/>Cova <lb/>
-                    <choice>
+                        </choice> 1828 </date><lb/>Cova <lb/><choice>
                         <orig>Enla</orig>
                         <reg>En la</reg>
-                    </choice> libreria de <choice>
+                    </choice>
+                    <choice>
+                        <orig>libreria</orig>
+                        <reg>librería</reg>
+                    </choice> de <choice>
                         <abbr>D.</abbr>
                         <expan>Don</expan>
-                    </choice> Valentin de Colmenarez <choice>
+                    </choice>
+                    <choice>
+                        <orig>Valentin</orig>
+                        <reg>Valentín</reg>
+                    </choice> de <choice>
+                        <orig>Colmenarez</orig>
+                        <reg>Colmenaras</reg>
+                    </choice>
+                    <choice>
                         <sic>sinco</sic>
                         <corr cert="high">cinco</corr>
-                    </choice>sinco ejem<g ref="#typoHyphen"/><lb/>plares <choice>
+                    </choice> ejem<g ref="#typoHyphen"/><lb break="no"/>plares <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
-                    </choice> misma obra, los cuales he entregado <lb/>VColmenarez <lb/>En la de <choice>
+                    </choice> misma obra, los cuales he entregado<lb/></p><p>V<choice>
+                        <orig>Colmenarez</orig>
+                        <reg>Colmenares</reg>
+                    </choice><lb/></p><p>En la de <choice>
                         <abbr>D</abbr>
                         <expan>Don</expan>
-                    </choice> Nicolas Ramos un ejemplar <choice>
+                    </choice>
+                    <choice>
+                        <orig>Nicolas</orig>
+                        <reg>Nicolás</reg>
+                    </choice> Ramos un ejemplar <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
                     </choice> predicha <lb/>obra de <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> he entregado <lb/>Nicolas Ramos </p>
-               
-               <pb n="10v" facs="prohd0025_10v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               <pb n="11r" facs="prohd0025_11r.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               <pb n="11v" facs="prohd0025_11v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-
-               <p><pb n="12r" facs="prohd0025_12r.tif"/>
-                    <lb/><date when="1828-01-15" calendar="#Gregorian">15 de Enero de 1828</date>
-                    <del rendition="#s"><lb/>Al Director dela sociedad</del>
-                    <lb/>Al Director <choice>
+                    </choice> he entregado<lb/></p><p><choice>
+                        <orig>Nicolas</orig>
+                        <reg>Nicolás</reg>
+                    </choice> Ramos</p>
+                <pb n="10v" facs="prohd0025_10v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="11r" facs="prohd0025_11r.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="11v" facs="prohd0025_11v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="12r" facs="prohd0025_12r.tif"/>
+                <p><date when="1828-01-15" calendar="#Gregorian">15 de Enero de 1828</date></p>
+                    <p><del rendition="#s"><lb/>Al Director dela sociedad</del></p>
+                    <p><lb/>Al Director <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
                     </choice> sociedad <choice>
                         <orig>Patriotica</orig>
                         <reg>Patriótica</reg>
                     </choice>
-                    <lb/>Con fecha de 2 del actual me ha consultado <lb/>el <choice>
+                    <lb/></p><p>Con fecha de 2 del actual me ha consultado <lb/>el <choice>
                         <abbr>sor.</abbr>
                         <expan>Señor</expan>
-                    </choice> Segundo Acesor <choice>
+                    </choice> Segundo <choice>
+                        <orig>Acesor</orig>
+                        <reg>Asesor</reg>
+                    </choice>
+                    <choice>
                         <abbr>gral</abbr>
                         <expan>General</expan>
                     </choice> del <choice>
@@ -1162,8 +1241,10 @@
                     <choice>
                         <abbr>Ayuntam.<hi rendition="#sup">to</hi></abbr>
                         <expan>Ayuntamiento</expan>
-                    </choice>, comprehende.....conforme". <lb/>Y estandolo yo con este dictamen, lo
-                    traslado <lb/>
+                    </choice>, comprehende.....conforme". <lb/>Y <choice>
+                        <orig>estandolo</orig>
+                        <reg>estándolo</reg>
+                    </choice> yo con este dictamen, lo traslado <lb/>
                     <choice>
                         <orig>á</orig>
                         <reg>a</reg>
@@ -1171,8 +1252,11 @@
                     <choice>
                         <abbr>N.S</abbr>
                         <expan>Nuestro Señor</expan>
-                    </choice> íncluyendole copia del oficio y testimonio <lb/>
+                    </choice>
                     <choice>
+                        <orig>incluyendole</orig>
+                        <reg>incluyéndole</reg>
+                    </choice> copia del oficio y testimonio <lb/><choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice> se cita, e <choice>
@@ -1194,8 +1278,7 @@
                     <choice>
                         <orig>ála</orig>
                         <reg>a la</reg>
-                    </choice> morena <lb/>
-                    <choice>
+                    </choice> morena <lb/><choice>
                         <sic>injenua</sic>
                         <corr cert="high">ingenua</corr>
                     </choice> Ana del Toro con el <hi rendition="#u">objetivo</hi> de <choice>
@@ -1216,13 +1299,18 @@
                     <choice>
                         <orig>cele</orig>
                         <reg>se le</reg>
-                    </choice> ofresca al <lb/>devolver el referido expediente </p>
-               
-               <pb n="12v" facs="prohd0025_12v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
+                    </choice>
+                    <choice>
+                        <orig>ofresca</orig>
+                        <reg>ofrezca</reg>
+                    </choice> al <lb/>devolver el referido expediente </p>
 
-               <p><pb n="13r" facs="prohd0025_13r.tif"/>
-                    <lb/>Como mejor puedo y debo certifico: que en el cabildo ordi- <lb/>nario
-                    celebrado en <date when="1828-01-11" calendar="#Gregorian">once de Enero <choice>
+                <pb n="12v" facs="prohd0025_12v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+
+                <p><pb n="13r" facs="prohd0025_13r.tif"/> Como mejor puedo y debo certifico: que en
+                    el cabildo ordi<g ref="#typoHyphen"/><lb break="no"/>nario celebrado en <date
+                        when="1828-01-11" calendar="#Gregorian">once de Enero <choice>
                             <orig>ultimo</orig>
                             <reg>ultimo</reg>
                         </choice></date>
@@ -1236,7 +1324,10 @@
                     </choice> concurrió <lb/>la justicia y regimiento <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
-                    </choice> de el parecerá entre otras <lb/>cosas retrató y acordó lo siguiente <lb/>
+                    </choice> de <choice>
+                        <orig>el</orig>
+                        <reg>él</reg>
+                    </choice> parecerá entre otras <lb/>cosas retrató y acordó lo siguiente <lb/>
                     <choice>
                         <sic>Ygualmente</sic>
                         <corr cert="high">Igualmente</corr>
@@ -1259,12 +1350,12 @@
                     <choice>
                         <orig>á</orig>
                         <reg>a</reg>
-                    </choice> la morena libre Ana del Toro para estable<g ref="#typoHyphen"/>
-                    <lb/>cér una escuela de primeras letras de niñas <lb/>
+                    </choice> la morena libre Ana del Toro para estable<g ref="#typoHyphen"/><lb
+                        break="no"/>cér una escuela de primeras letras de niñas <lb/>
                     <choice>
                         <orig>desu</orig>
                         <reg>de su</reg>
-                    </choice> colór, el cual calificó este cuerpo de funesto, <lb/>y acerca <choice>
+                    </choice> color, el cual calificó este cuerpo de funesto, <lb/>y acerca <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
                     </choice> venta <choice>
@@ -1276,8 +1367,12 @@
                     </choice> de <lb/>
                     <choice>
                         <orig>Humbold</orig>
-                        <reg>Humbldt</reg>
-                    </choice> intitulada "ensayo <choice>
+                        <reg>Humboldt</reg>
+                    </choice> intitulada "<choice>
+                        <orig>ensayo</orig>
+                        <reg>Ensayo</reg>
+                    </choice>
+                    <choice>
                         <orig>politico</orig>
                         <reg>político</reg>
                     </choice>
@@ -1289,7 +1384,10 @@
                         <sic>Ysla</sic>
                         <corr cert="high">Isla</corr>
                     </choice>
-                    <lb/>de cuba" que igualmente graduó de peligrosa <choice>
+                    <lb/>de <choice>
+                        <orig>cuba</orig>
+                        <reg>Cuba</reg>
+                    </choice>" que igualmente graduó de peligrosa <choice>
                         <abbr>p.<hi rendition="#sup">r</hi></abbr>
                         <expan>por</expan>
                     </choice>
@@ -1310,8 +1408,7 @@
                         <orig>patriotica</orig>
                         <reg>patriótica</reg>
                     </choice> para que infor<lb break="no"/>me lo que tenga por conveniente, y en
-                    cuanto <lb/>
-                    <choice>
+                    cuanto <lb/><choice>
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice> lo segundo se dé <choice>
@@ -1325,16 +1422,15 @@
                         <orig>delos</orig>
                         <reg>de los</reg>
                     </choice>
-                    <lb/>
-                    <choice>
+                    <lb/><choice>
                         <abbr>Sres.</abbr>
                         <expan>Señores</expan>
                     </choice> Regidores <unclear reason="illegible" cert="high">ci</unclear> otra
                     persona para que </p>
 
-                        <p>
-                            <pb n="13v" facs="prohd0025_13v.tif"/><lb/>recoja dicha obra y la deposite hasta que
-                    <lb/>con <choice>
+                <p>
+                    <pb n="13v" facs="prohd0025_13v.tif"/><lb/>recoja dicha obra y la deposite hasta
+                    que <lb/>con <choice>
                         <orig>mas</orig>
                         <reg>más</reg>
                     </choice> conocimiento de causa pueda <lb/>providenciarse lo que corresponda
@@ -1353,20 +1449,24 @@
                         <expan>que</expan>
                     </choice>
                     <lb/>este Ayuntamiento nombre un caballero Re<g ref="#typoHyphen"/>
-                    <lb/>gidór que forme una lista <choice>
+                    <lb break="no"/>gidor que forme una lista <choice>
                         <orig>detodos</orig>
                         <reg>de todos</reg>
                     </choice> los ejem<lb break="no"/>plares que haya de dicha obra <choice>
                         <orig>enlas</orig>
                         <reg>en las</reg>
-                    </choice> librerias <lb/>para en su vista <choice>
+                    </choice>
+                    <choice>
+                        <orig>librerias</orig>
+                        <reg>librerías</reg>
+                    </choice>
+                    <lb/>para en su vista <choice>
                         <orig>determinár</orig>
                         <reg>determinar</reg>
                     </choice>. Se acordó <choice>
                         <orig>que<lb break="no"/>dár</orig>
                         <reg>quedar</reg>
-                    </choice> enterado el Ayuntamiento: que por los <lb/>
-                    <choice>
+                    </choice> enterado el Ayuntamiento: que por los <lb/><choice>
                         <abbr>Sres.</abbr>
                         <expan>Señores</expan>
                     </choice> Comisarios se suplique <choice>
@@ -1379,8 +1479,8 @@
                     </choice> se <choice>
                         <orig>sirbe</orig>
                         <reg>sirve</reg>
-                    </choice> co<g ref="#typoHyphen"/><lb/>municarle el informe que diese la
-                    Sociedad <lb/>en el asunto <choice>
+                    </choice> co<g ref="#typoHyphen"/><lb break="no"/>municarle el informe que diese
+                    la Sociedad <lb/>en el asunto <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
                     </choice> escuela de Ana del Toro <lb/>antes de <choice>
@@ -1399,24 +1499,34 @@
                         <orig>quele</orig>
                         <reg>que le</reg>
                     </choice> corresponde pri<g ref="#typoHyphen"/>
-                    <lb/>vativativamente <choice>
+                    <lb break="no"/>vativamente <choice>
                         <orig>porlas</orig>
                         <reg>por las</reg>
-                    </choice> leyes no pudiendo desen <lb/>tenderse de hacerlo asi por que sería <choice>
+                    </choice> leyes no pudiendo desen<lb break="no"/>tenderse de hacerlo <choice>
+                        <orig>asi</orig>
+                        <reg>así</reg>
+                    </choice>
+                    <choice>
+                        <orig>por que</orig>
+                        <reg>porque</reg>
+                    </choice> sería <choice>
                         <orig>abando<g ref="#typoHyphen"/>
-                            <lb/>nár</orig>
+                            <lb break="no"/>nár</orig>
                         <reg>abandonar</reg>
-                    </choice> con responsabilidad uno de sus princi<g ref="#typoHyphen"/><lb/>pales
-                    deberes, y que desde luego se nombraba <lb/>al <choice>
+                    </choice> con responsabilidad uno de sus princi<g ref="#typoHyphen"/><lb
+                        break="no"/>pales deberes, y que desde luego se nombraba <lb/>al <choice>
                         <abbr>Sor.</abbr>
                         <expan>Señor</expan>
                     </choice>
                     <choice>
                         <abbr>D.</abbr>
                         <expan>Don</expan>
-                    </choice> Manuel Ramirez para la <choice>
+                    </choice> Manuel <choice>
+                        <orig>Ramirez</orig>
+                        <reg>Ramírez</reg>
+                    </choice> para la <choice>
                         <orig>co<g ref="#typoHyphen"/>
-                            <lb/>mision</orig>
+                            <lb break="no"/>mision</orig>
                         <reg>comisión</reg>
                     </choice> que <choice>
                         <orig>espresa</orig>
@@ -1432,7 +1542,11 @@
                     <choice>
                         <abbr>D.</abbr>
                         <expan>Don</expan>
-                    </choice> An<lb break="no"/>dres de Zayas dijo: que se suplique <choice>
+                    </choice>
+                    <choice>
+                        <orig>An<lb break="no"/>dres</orig>
+                        <reg>Andrés</reg>
+                    </choice> de Zayas dijo: que se suplique <choice>
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice>
@@ -1441,9 +1555,9 @@
                         <expan>Su Excelencia</expan>
                     </choice>
                 </p>
-                        
-               <p><pb n="14r" facs="prohd0025_14r.tif"/>
-                    <lb/>que en el inesperado caso, de que la sociedad <lb/>
+
+                <p><pb n="14r" facs="prohd0025_14r.tif"/>
+                    que en el inesperado caso, de que la sociedad <lb/>
                     <choice>
                         <orig>séa</orig>
                         <reg>sea</reg>
@@ -1479,7 +1593,7 @@
                         <abbr>D.</abbr>
                         <expan>Don</expan>
                     </choice>
-                    <lb/>Carlos Pedroso <lb/>Es conforme <choice>
+                    <lb/>Carlos Pedroso <lb/></p><p>Es conforme <choice>
                         <orig>á</orig>
                         <reg>a</reg>
                     </choice> su original <choice>
@@ -1494,7 +1608,7 @@
                             <orig>demil</orig>
                             <reg>de mil</reg>
                         </choice> ochicientos veinte y ocho años</date>
-                    <lb/>
+                    <lb/></p><p>
                     <choice>
                         <abbr>Scimo.</abbr>
                         <expan>Excelentísimo</expan>
@@ -1503,9 +1617,9 @@
                         <orig>Jose</orig>
                         <reg>José</reg>
                     </choice> de Zubieta</p>
-               <pb n="14v" facs="prohd0025_14v.tif"/><gap unit="pages" quantity="1" reason="empty"></gap>
-               
-                </div>
+                <pb n="14v" facs="prohd0025_14v.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+            </div>
         </body>
     </text>
 </TEI>
