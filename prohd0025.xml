@@ -362,7 +362,10 @@
                     <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
-                    </choice> licencia que se por<g ref="#typoHyphen"/><lb break="no"/>sentada, <choice>
+                    </choice> licencia que <choice>
+                        <orig>de</orig>
+                        <reg>dé</reg>
+                    </choice> por <lb/>sentada, <choice>
                         <orig>representandose</orig>
                         <reg>respetándose</reg>
                     </choice> al <choice>
@@ -774,12 +777,12 @@
                     </choice> de Cuba", existente en las <choice>
                         <orig>librerias</orig>
                         <reg>librerías</reg>
-                    </choice> he proce<g ref="#typoHyphen"/><lb break="no"/>dido a evacuarla en esta
+                    </choice> he proce<g ref="#typoHyphen"/><lb break="no"/>dido a evacuarlos en esta
                     mañana, recogiendo aquellos <choice>
                         <abbr>i<g ref="#typoHyphen"/><lb break="no"/>gualm.<hi rendition="#sup"
                                 >te</hi></abbr>
                         <expan>igualmente</expan>
-                    </choice> conforme inspiraba la letra y copiacen del oficial <lb/><choice>
+                    </choice> conforme inspiraba la letra y copiaron del oficial <lb/><choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
                         <expan>que</expan>
                     </choice>
@@ -790,10 +793,7 @@
                         <orig>sirvio</orig>
                         <reg>sirvió</reg>
                     </choice>
-                    <choice>
-                        <orig>dirigia</orig>
-                        <reg>dirigía</reg>
-                    </choice> a aquella <choice>
+                    dirigir a aquella <choice>
                         <abbr>Exma</abbr>
                         <expan>Excelentísima</expan>
                     </choice>
