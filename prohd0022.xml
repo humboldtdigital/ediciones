@@ -30,12 +30,13 @@
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>Staatsbibliothek zu Berlin</institution>
+                        <institution>Staatsbibliothek zu Berlin Preußischer
+                            Kulturbesitz</institution>
                         <collection>Handschriftenabteilung</collection>
                         <idno>
                             <idno type="shelfmark">Nachl. Alexander von Humboldt, gr. Kasten 2, Mappe 3, Nr. 11</idno>
                             <idno type="uri">http://kalliope-verbund.info/DE-611-HS-1007953</idno>
-                            <idno type="URLImages">"http://resolver.staatsbibliothek-berlin.de/SBB0001698D00000000"</idno>
+                            <idno type="URLImages">http://resolver.staatsbibliothek-berlin.de/SBB0001698D00000000</idno>
                         </idno>
                     </msIdentifier>
                     <physDesc>
