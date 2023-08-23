@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
 <?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-    type="document" xml:id="ed_ifv_drr_gwb">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_ifv_drr_gwb">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,7 +25,8 @@
                 <pubPlace>Berlín</pubPlace>
                 <pubPlace>La Habana</pubPlace>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -45,7 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <creation> 
+            <creation>
                 <persName>N/A</persName>
                 <persName>Alexander von Humboldt</persName>
                 <date when="1823">1823</date>
@@ -372,7 +372,7 @@
                             <cell>1317.</cell>
                         </row>
                     </table></p>
-                
+
                 <p>Nota. Toda esta concurren<g ref="#typoHyphen"/><lb break="no"/>cia <choice>
                         <orig>debuques</orig>
                         <reg>de buques</reg>
