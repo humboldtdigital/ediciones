@@ -295,12 +295,12 @@
                         <orig>Havana</orig>
                         <reg>Habana</reg>
                     </choice> 31 de Diciembre de 1803. </p>
-                <pb n="1r"/>
+                <pb n="1r" facs="prohd0032_1r.tif"/>
                 <gap unit="pages" quantity="1" reason="empty"/>
-                <pb n="2v"/>
+                <pb n="2v" facs="prohd0032_2v.tif"/>
                 <fw type="folNum">158</fw>
                 <gap unit="pages" quantity="1" reason="empty"/>
-                <pb n="2r"/>
+                <pb n="2r" facs="prohd0032_2r.tif"/>
                 <gap unit="pages" quantity="1" reason="empty"/>
             </div>
         </body>
