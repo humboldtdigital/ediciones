@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
 <?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-    type="document" xml:id="ed_mr5_km2_lwb">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_mr5_km2_lwb">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="main">Resumen por mayor de la riqueza civil rural e industrial de la
-                    provincia de la Havana</title>
+                    provincia de la Habana</title>
                 <editor><persName><surname>Zarama</surname>
                         <forename>Nicolás</forename>
                     </persName>
@@ -60,8 +59,8 @@
             </abstract>
             <abstract xml:lang="es">
                 <p>Documento en el que se recopilan los números de casas, estancias, parroquias y
-                    negocios, entre otros, de la provincia de la Havana. Se presenta una división de
-                    la provincia en cuestión en doce diferentes partidos; ciudad de la Havana, Villa
+                    negocios, entre otros, de la provincia de la Habana. Se presenta una división de
+                    la provincia en cuestión en doce diferentes partidos; ciudad de la Habana, Villa
                     de Santiago de las Vegas, Ciudad de San Felipe y Santiago de Bejucal, Villa de
                     San Antonio Abad, Guanajay, Villa de Guanabacoa, Nueva Filipinas, Ciudad de San
                     Juan de Jaruco, Villa de Guines, Ciudad de Matanzas, Villa de Santa Clara y por
@@ -119,7 +118,7 @@
                     <note place="mTop" hand="#author">AA.A en 1769. 10 <unclear reason="illegible"
                             cert="high"/>
                         <unclear reason="illegible" cert="high"/> 118. Agricultura</note></p>
-                <pb/>
+
                 <p>Resumen por mayor de la riqueza civil <lb/>rural <choice>
                         <orig>é</orig>
                         <reg>e</reg>
@@ -528,7 +527,7 @@
                                 </choice>, <unclear reason="illegible" cert="high"/>, y fuera de
                                 muros la <choice>
                                     <orig>Factoria</orig>
-                                    <reg>factoria</reg>
+                                    <reg>factoría</reg>
                                 </choice> y B<choice>
                                     <orig>e<g ref="#typoHyphen"/><lb break="no"/>neficiencias</orig>
                                     <reg>beneficiencias</reg>
@@ -601,7 +600,7 @@
                 </p>
                 <p><note place="mBottom" hand="#author">800 700 / 810 2480 Vergleiche mit
                         Guia</note></p>
-                <pb/>
+
                 <pb n="1r" facs="prohd0030_1r.tif"/>
                 <p>Partido <choice>
                         <abbr>2.o</abbr>
@@ -974,7 +973,7 @@
                         </row>
                     </table>
                 </p>
-                <pb/>
+
                 <pb n="2r" facs="prohd0030_2r.tif"/>
                 <p>Partido <choice>
                         <abbr>8.o</abbr>
@@ -1335,7 +1334,7 @@
                         </row>
                     </table>
                 </p>
-                <pb/>
+
                 <pb n="3r" facs="prohd0030_3r.tif"/>
                 <p>Resumen </p>
                 <p>
@@ -1421,12 +1420,6 @@
                     </table>
                 </p>
             </div>
-            <pb n="4v"/>
-            <gap unit="pages" quantity="1" reason="empty"/>
-            <fw type="folNum">90</fw>
-            
-            <pb n="4r"/>
-            <gap unit="pages" quantity="1" reason="empty"/>
         </body>
     </text>
 </TEI>
