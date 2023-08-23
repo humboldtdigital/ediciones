@@ -1,6 +1,5 @@
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-    type="document" xml:id="ed_ghn_mlc_gxb">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_ghn_mlc_gxb">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,8 +7,8 @@
                     de R.tas R.s deMar y tierra en los ramos q.e le son á cargo, en todo el año
                     1803 </title>
                 <editor>
-                        <surname>Zarama</surname>
-                        <forename>Nicolás</forename>
+                    <surname>Zarama</surname>
+                    <forename>Nicolás</forename>
                 </editor>
                 <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
                 <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
@@ -24,21 +23,23 @@
                 <pubPlace>Berlín</pubPlace>
                 <pubPlace>La Habana</pubPlace>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
                         <institution>Biblioteka Jagiellońska</institution>
-                                                <idno>
-                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl. 157-158</idno>
+                        <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl.
+                                157-158</idno>
                             <idno type="URLImages"
                                 >http://kalliope-verbund.info/DE-611-HS-2877867</idno>
                             <idno type="URLImages"
                                 >http://jbc.bj.uj.edu.pl/dlibra/publication/367144/content</idno>
                         </idno>
-                      </msIdentifier>
+                    </msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -106,7 +107,7 @@
         <body>
             <div>
                 <p>
-                    <pb n="1v" facs="prohd0032_1v.tif"/><fw type="folNum">157</fw> 
+                    <pb n="1v" facs="prohd0032_1v.tif"/><fw type="folNum">157</fw>
                 </p>
             </div>
             <div>
@@ -232,7 +233,7 @@
                             <cell/>
                             <cell>1.230.165_2½</cell>
                         </row>
-                        
+
                     </table>
                 </p>
                 <p>Advertencia. <lb/>Que en el 1.230.165 <choice>
@@ -286,9 +287,9 @@
                         <orig>x.s</orig>
                         <reg>centimos</reg>
                     </choice>
-                    <lb/>Havana 31 de Diciembre de 1803.   </p>
+                    <lb/>Havana 31 de Diciembre de 1803. </p>
                 <pb n="1r"/>
-                <gap unit="pages" quantity="1" reason="empty"/> 
+                <gap unit="pages" quantity="1" reason="empty"/>
                 <pb n="2v"/>
                 <fw type="folNum">158</fw>
                 <gap unit="pages" quantity="1" reason="empty"/>
