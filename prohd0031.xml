@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
+<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    type="document" xml:id="ed_g2t_vq1_dxb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Estado General de los derechos reales cobrados y debidos cobrar en las Administraciones generales de Rentas de Mar y Tierra</title>
+                <editor> Zarama, Nicolás </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2023</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska</institution>
+                        <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl. 96 </idno>
+                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2877240</idno>
+                            <idno type="URLImages"
+                                >http://jbc.bj.uj.edu.pl/dlibra/publication/367134/content </idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName>Alexander von Humboldt</persName>
+                <date when="1804-01-02" cert="high"/>
+                <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
+                            </creation>
+            <abstract xml:lang="de">
+                <p>Dokument über die königlichen Zölle (Steuern), die die Verwaltungen der Insel im
+                    Jahr 1803 für Importe und Exporte sowohl auf dem See- als auch auf dem Landweg
+                    erhoben. Von besonderem Interesse sind die Einfuhren nach Kuba, die die
+                    Behandlung von Sklaven von der Insel widerspiegeln.</p>
+            </abstract>
+            <abstract xml:lang="es">
+                <p>Documento sobre los derechos reales (impuestos) que las Administraciones de la
+                    isla cobraron por importaciones y exportaciones tanto marítimas como terrestres
+                    en el año de 1803. De especial interés resultan las importaciones a Cuba en las
+                    que se refleja el trato de esclavos de la isla.</p>
+            </abstract>
+            <langUsage>
+                <language ident="es">Español</language>
+            </langUsage>
+            <textClass>
+                <catRef scheme="#genre" target="#records"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#subject" target="#trade"/>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb n="1v" facs="prohd0031_1v.tif"/><fw type="folNum">96</fw></p>
+                <p><choice>
+                        <orig>ESTADO</orig>
+                        <reg>Estado</reg>
+                    </choice>
+                    <choice>
+                        <orig>GENERAL</orig>
+                        <reg>general</reg>
+                    </choice>
+                    <choice>
+                        <orig>DE</orig>
+                        <reg>de</reg>
+                    </choice>
+                    <choice>
+                        <orig>LOS</orig>
+                        <reg>los</reg>
+                    </choice>
+                    <choice>
+                        <orig>DERECHOS</orig>
+                        <reg>derechos</reg>
+                    </choice>
+                    <choice>
+                        <orig>REALES</orig>
+                        <reg>reales</reg>
+                    </choice>
+                    <choice>
+                        <orig>COBRADOS</orig>
+                        <reg>cobrados</reg>
+                    </choice>
+                    <lb/>y debidos cobrar en <choice>
+                        <orig>lasAdministraciones</orig>
+                        <reg>las administraciones</reg>
+                    </choice> generales de <choice>
+                        <orig>Rentas</orig>
+                        <reg>rentas</reg>
+                    </choice>
+                    <choice>
+                        <orig>deMar</orig>
+                        <reg>de Mar</reg>
+                    </choice>
+                    <choice>
+                        <orig>yTier<g ref="#typoHyphen"/><lb break="no"/>ra</orig>
+                        <reg>y tierra</reg>
+                    </choice>; de las cantidades procedentes de <choice>
+                        <orig>Comisos</orig>
+                        <reg>comisos</reg>
+                    </choice>; de las exigidas para el <choice>
+                        <orig>Ves<g ref="#typoHyphen"/><lb break="no"/>tuario</orig>
+                        <reg>vestuario</reg>
+                    </choice> de <choice>
+                        <orig>Milicias</orig>
+                        <reg>milicias</reg>
+                    </choice>; del medio por ciento de <choice>
+                        <orig>Consulado</orig>
+                        <reg>consulado</reg>
+                    </choice>; de los <choice>
+                        <orig>Licores</orig>
+                        <reg>licores</reg>
+                    </choice>, <lb/><choice>
+                        <orig>Harinas</orig>
+                        <reg>harinas</reg>
+                    </choice>, y <choice>
+                        <orig>Negros</orig>
+                        <reg>negros</reg>
+                    </choice> introducidos; de las <choice>
+                        <orig>Caxas</orig>
+                        <reg>cajas</reg>
+                    </choice> de <choice>
+                        <orig>Azucar</orig>
+                        <reg>azúcar</reg>
+                    </choice>
+                    <choice>
+                        <orig>extrahidas</orig>
+                        <reg>extraídas</reg>
+                    </choice>; y de <lb/>los buques de <choice>
+                        <orig>Guerra</orig>
+                        <reg>guerra</reg>
+                    </choice>, <choice>
+                        <orig>Correos</orig>
+                        <reg>correos</reg>
+                    </choice>, y <choice>
+                        <orig>Mercantes</orig>
+                        <reg>mercantes</reg>
+                    </choice> entrados y salidos en 1803</p>
+            </div>
+            <div>
+                <p>
+                    <table rows="3" cols="2">
+                        <head>Productos <choice>
+                                <orig>Reales</orig>
+                                <reg>reales</reg>
+                            </choice> de <choice>
+                                <orig>Mar</orig>
+                                <reg>mar</reg>
+                            </choice></head>
+                        <row>
+                            <cell>Cobrados</cell>
+                            <cell>"650.157.2.</cell>
+                        </row>
+                        <row>
+                            <cell>Debidos cobrar</cell>
+                            <cell>"205.547.2.</cell>
+                        </row>
+                        <row>
+                            <cell><add place="intralinear">(Total)</add>
+                            </cell>
+                            <cell>"851.704.4</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <table rows="3" cols="2">
+                        <head>Productos <choice>
+                                <orig>Reales</orig>
+                                <reg>reales</reg>
+                            </choice> de <choice>
+                                <orig>Tierra</orig>
+                                <reg>tierra</reg>
+                            </choice></head>
+                        <row>
+                            <cell>Cobrados</cell>
+                            <cell>"478.273.6½</cell>
+                        </row>
+                        <row>
+                            <cell>Debidos cobrar</cell>
+                            <cell>"56.643.6</cell>
+                        </row>
+                        <row>
+                            <cell><add place="intralinear">(Total)</add>
+                            </cell>
+                            <cell>"534.913.4½</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <table rows="3" cols="2">
+                        <head>Comisos</head>
+                        <row>
+                            <cell>De <choice>
+                                    <orig>Mar</orig>
+                                    <reg>mar</reg>
+                                </choice></cell>
+                            <cell>"88.457.6½</cell>
+                        </row>
+                        <row>
+                            <cell>De <choice>
+                                    <orig>Tierra</orig>
+                                    <reg>tierra</reg>
+                                </choice></cell>
+                            <cell>"18.662.3½</cell>
+                        </row>
+                        <row>
+                            <cell><add place="intralinear">(Total)</add>
+                            </cell>
+                            <cell>"107.120.2</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <table rows="2" cols="2">
+                        <row>
+                            <cell>Vestuario de <choice>
+                                    <orig>Milicias</orig>
+                                    <reg>milicias</reg>
+                                </choice></cell>
+                            <cell>"82.397."</cell>
+                        </row>
+                        <row>
+                            <cell>Consulado </cell>
+                            <cell>"61.330.1</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <table rows="1" cols="2">
+                        <row>
+                            <cell>Producto total</cell>
+                            <cell>1.637.465.3½</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <table rows="5" cols="2">
+                        <head>Entrada</head>
+                        <row>
+                            <cell>Barriles de <choice>
+                                    <orig>Vino</orig>
+                                    <reg>vino</reg>
+                                </choice> de 1½ arrobas</cell>
+                            <cell>"39.130.1/9</cell>
+                        </row>
+                        <row>
+                            <cell>de <choice>
+                                    <orig>Vinagre</orig>
+                                    <reg>vinagre</reg>
+                                </choice></cell>
+                            <cell>"5.553.5/9</cell>
+                        </row>
+                        <row>
+                            <cell>de <choice>
+                                    <orig>Aguardiente</orig>
+                                    <reg>aguardiente</reg>
+                                </choice>
+                            </cell>
+                            <cell>"405.4/9</cell>
+                        </row>
+                        <row>
+                            <cell>de <choice>
+                                    <orig>Harina</orig>
+                                    <reg>harina</reg>
+                                </choice>
+                            </cell>
+                            <cell>"69.254."</cell>
+                        </row>
+                        <row>
+                            <cell>Negros bozales, de ambos sexos</cell>
+                            <cell>"9.671"</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <table rows="1" cols="2">
+                        <head>Salida</head>
+                        <row>
+                            <cell><choice>
+                                    <orig>Caxas</orig>
+                                    <reg>Cajas</reg>
+                                </choice> de <choice>
+                                    <orig>Azucar</orig>
+                                    <reg>azúcar</reg>
+                                </choice></cell>
+                            <cell>"158.073.1/4</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <table rows="6" cols="4">
+                        <head><choice>
+                                <orig>BUQUES</orig>
+                                <reg>Buques</reg>
+                            </choice>.</head>
+                        <row>
+                            <cell/>
+                            <cell>Entrados.</cell>
+                            <cell>Salidos. </cell>
+                            <cell>Total.</cell>
+                        </row>
+                        <row>
+                            <cell>Guerra</cell>
+                            <cell>28</cell>
+                            <cell>26</cell>
+                            <cell>54.</cell>
+                        </row>
+                        <row>
+                            <cell>Correos</cell>
+                            <cell>32</cell>
+                            <cell>34</cell>
+                            <cell>66.</cell>
+                        </row>
+                        <row>
+                            <cell>Mercantes</cell>
+                            <cell>544</cell>
+                            <cell>515</cell>
+                            <cell>1.059. </cell>
+                        </row>
+                        <row>
+                            <cell>Extrangeros.</cell>
+                            <cell>241</cell>
+                            <cell>263</cell>
+                            <cell>504. </cell>
+                        </row>
+                        <row>
+                            <cell>Totales</cell>
+                            <cell>845</cell>
+                            <cell>838</cell>
+                            <cell>1.683. </cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Havana 2 de <choice>
+                        <orig>Enero</orig>
+                        <reg>enero</reg>
+                    </choice> de 1804</p>
+            </div>
+            <pb n="1r"/>
+            <gap unit="pages" quantity="1" reason="empty"/>
+        </body>
+    </text>
+</TEI>

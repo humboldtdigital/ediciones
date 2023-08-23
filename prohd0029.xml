@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
+<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    type="document" xml:id="ed_ifv_drr_gwb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Población de la isla de Cuba</title>
+                <editor>
+                    <persName>
+                        <surname>Zarama</surname>
+                        <forename>Nicolás</forename>
+                    </persName>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2023</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska</institution>
+                        <collection>Nachlass Alexander von Humboldt</collection>
+                        <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl. 91 </idno>
+                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2877075</idno>
+                            <idno type="URLImages"
+                                >http://jbc.bj.uj.edu.pl/dlibra/publication/367129/content </idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation> 
+                <persName>N/A</persName>
+                <persName>Alexander von Humboldt</persName>
+                <date when="1823">1823</date>
+                <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
+            </creation>
+            <abstract xml:lang="de">
+                <p>Manuskript über die Bevölkerung der Insel Kuba, das die demografischen Daten der
+                    verschiedenen Sektoren des kubanischen Territoriums dokumentiert. Darüber hinaus
+                    enthält das Dokument eine Tabelle mit den Handelsbewegungen auf der Insel und
+                    eine Auflistung der Schiffe der verschiedenen Nationen, die die Insel betreten
+                    und verlassen haben. Mit handschriftlichen Kommentaren  bzw. Marginalien von
+                    Humboldt .</p>
+            </abstract>
+            <abstract xml:lang="es">
+                <p>Manuscrito sobre la población de la Isla de Cuba en el que se documenta la
+                    demografía de los diferentes sectores del territorio cubano. Además de esto, el
+                    documento contiene una tabla con el movimiento mercantil de la isla y un
+                    recuento de los buques de las diversas naciones que entraron y salieron de la
+                    isla. Con anotaciones directamente de la mano de Humboldt</p>
+            </abstract>
+            <langUsage>
+                <language ident="es">Español</language>
+            </langUsage>
+            <textClass>
+                <catRef scheme="#genre" target="#records"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#subject" target="#demography"/>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="1v" facs="prohd0029_1v.tif"/>
+                <fw type="folNum">91</fw>
+                <p><note place="mTop" hand="#author">1823 <unclear reason="illegible" cert="high"
+                        />214 / <unclear reason="illegible" cert="high"/> Mexique I, 116 Libres 18.3
+                        C / <choice>
+                            <abbr>feb.</abbr>
+                            <expan>febrero</expan>
+                        </choice>
+                        <unclear reason="illegible" cert="high"/> I, 535</note></p>
+                <p><choice>
+                        <orig>Jurisdiccion</orig>
+                        <reg>Jurisdicción</reg>
+                    </choice> de Cuba, que comprende Cuba, Bayamo, Hol<g ref="#typoHyphen"/><lb
+                        break="no"/>guin, Baracoa y <choice>
+                        <abbr>Pto</abbr>
+                        <expan>Puerto</expan>
+                    </choice> Principe <lb/><table rows="2" cols="4">
+                        <row>
+                            <cell>Blancos</cell>
+                            <cell>Libres de color.</cell>
+                            <cell>Esclavos.</cell>
+                            <cell>Total.</cell>
+                        </row>
+                        <row>
+                            <cell>59.722</cell>
+                            <cell>57.185</cell>
+                            <cell>63.079</cell>
+                            <cell>179.986</cell>
+                        </row>
+                    </table></p>
+                <p><choice>
+                        <orig>Jurisd.on</orig>
+                        <reg>Jurisdicción</reg>
+                    </choice>
+                    <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice>
+                    <choice>
+                        <abbr>Hab.a</abbr>
+                        <expan>Habana</expan>
+                    </choice> que comprende <choice>
+                        <orig>La</orig>
+                        <reg>la</reg>
+                    </choice> Habana<choice>
+                        <orig> </orig>
+                        <reg>, </reg>
+                    </choice>Matanza, <lb/>Trinidad, <choice>
+                        <orig>Stospiritu</orig>
+                        <reg>Sancti Spíritus</reg>
+                    </choice>, Remedios y Villa Clara <lb/><table rows="2" cols="4">
+                        <row>
+                            <cell>Blancos</cell>
+                            <cell>Libres de color.</cell>
+                            <cell>Esclavos.</cell>
+                            <cell>Total.</cell>
+                        </row>
+                        <row>
+                            <cell>197.658.</cell>
+                            <cell>58.506.</cell>
+                            <cell>136.213.</cell>
+                            <cell>392.377</cell>
+                        </row>
+                    </table></p>
+                <p>Aumento <choice>
+                        <abbr>q.e</abbr>
+                        <expan>que</expan>
+                    </choice> se considera de 1817 a 1819 en toda la isla <lb/><table rows="2"
+                        cols="4">
+                        <row>
+                            <cell>Blancos</cell>
+                            <cell>Libres de color.</cell>
+                            <cell>Esclavos.</cell>
+                            <cell>Total.</cell>
+                        </row>
+                        <row>
+                            <cell>32.641.</cell>
+                            <cell/>
+                            <cell>25.976.</cell>
+                            <cell>58.617.</cell>
+                        </row>
+                    </table></p>
+                <p>Total general.…. 630.980</p>
+                <p><note place="left" hand="#author">190,21 blancos Libres 115,691 <choice>
+                            <abbr>lib</abbr>
+                            <expan>libres</expan>
+                        </choice> color 405.712 225.268 <unclear reason="illegible" cert="high"/>
+                        640.980</note></p>
+                <p><choice>
+                        <orig>Delos</orig>
+                        <reg>De los</reg>
+                    </choice> puertos habilitados <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice>
+                    <choice>
+                        <abbr>Hab.a</abbr>
+                        <expan>Habana</expan>
+                    </choice> y Matanzas corres<g ref="#typoHyphen"/><lb break="no"/>pondientes <choice>
+                        <orig>ala</orig>
+                        <reg>a la</reg>
+                    </choice>
+                    <choice>
+                        <abbr>intend.a</abbr>
+                        <expan>intendencia</expan>
+                    </choice> de <choice>
+                        <orig>ejercito</orig>
+                        <reg>ejército</reg>
+                    </choice>, <choice>
+                        <orig>delos</orig>
+                        <reg>de los</reg>
+                    </choice> que <choice>
+                        <orig>unicamente</orig>
+                        <reg>únicamente</reg>
+                    </choice>
+                    <lb/>hay constancia <choice>
+                        <orig>porlo</orig>
+                        <reg>por lo</reg>
+                    </choice> respectivo al año pasado de 1823, se <choice>
+                        <orig>extra<g ref="#typoHyphen"/><lb break="no"/>geron</orig>
+                        <reg>extrajeron</reg>
+                    </choice> en frutos y producciones del <choice>
+                        <orig>pais</orig>
+                        <reg>país</reg>
+                    </choice> un valor apro<g ref="#typoHyphen"/><lb break="no"/>ximado a 15.139.188 <choice>
+                        <abbr>p.s</abbr>
+                        <expan>pesetas</expan>
+                    </choice>. <choice>
+                        <abbr>P.s</abbr>
+                        <expan>Pesetas</expan>
+                    </choice> en 5.254.680. arrobay de <choice>
+                        <orig><lb/>azucar</orig>
+                        <reg>azúcar</reg>
+                    </choice>, y 979.864 <unclear reason="illegible" cert="high"/> de café, <choice>
+                        <orig>yenlos</orig>
+                        <reg>y en los</reg>
+                    </choice>
+                    <choice>
+                        <orig>demas</orig>
+                        <reg>demás</reg>
+                    </choice> articulos in<g ref="#typoHyphen"/><lb break="no"/>industriales de
+                    tabaco labrado <choice>
+                        <orig>yde</orig>
+                        <reg>y de</reg>
+                    </choice> rama, miel de purga <choice>
+                        <orig><lb/>yde</orig>
+                        <reg>y de</reg>
+                    </choice> abejas, cera, cueros <choice>
+                        <orig>enpelo</orig>
+                        <reg>en pelo</reg>
+                    </choice>, dulces <choice>
+                        <orig>ymaderas</orig>
+                        <reg>y maderas</reg>
+                    </choice>. <lb/>Hicieron <choice>
+                        <orig>èsta</orig>
+                        <reg>esta</reg>
+                    </choice>
+                    <choice>
+                        <orig>extraccion</orig>
+                        <reg>extracción</reg>
+                    </choice> 1972. <choice>
+                        <orig>embarcaciones</orig>
+                        <reg>embaraciónes</reg>
+                    </choice> de <choice>
+                        <orig>trave<g ref="#typoHyphen"/><lb break="no"/>sia</orig>
+                        <reg>travesía</reg>
+                    </choice> nacionales y <choice>
+                        <orig>extrangeras</orig>
+                        <reg>extranjeras</reg>
+                    </choice>
+                    <choice>
+                        <orig>delas</orig>
+                        <reg>de las</reg>
+                    </choice> cuales las 1317. que <lb/>concurrieron al <choice>
+                        <abbr>prim.o</abbr>
+                        <expan>primero</expan>
+                    </choice> de aquellos dos puertos <choice>
+                        <orig>me<g ref="#typoHyphen"/><lb break="no"/>dian</orig>
+                        <reg>medían</reg>
+                    </choice> 167.578. toneladas repartidas <choice>
+                        <orig>enlos</orig>
+                        <reg>en los</reg>
+                    </choice> buques de <lb/>las naciones siguientes. <lb/><table rows="16" cols="2">
+                        <row>
+                            <cell><choice>
+                                    <abbr>Esp</abbr>
+                                    <expan>Españoles</expan>
+                                </choice> mercantes</cell>
+                            <cell>274.</cell>
+                        </row>
+                        <row>
+                            <cell>Anglo americanos</cell>
+                            <cell>708.</cell>
+                        </row>
+                        <row>
+                            <cell>Ingleses</cell>
+                            <cell>96.</cell>
+                        </row>
+                        <row>
+                            
+                            <cell><choice>
+                                    <orig>Olandeses</orig>
+                                    <reg>Holandeses</reg>
+                                </choice></cell>
+                            <cell>19.</cell>
+                        </row>
+                        <row>
+                            <cell>Franceses</cell>
+                            <cell>18.</cell>
+                        </row>
+                        <row>
+                            <cell>Hamburgueses</cell>
+                            <cell>16.</cell>
+                        </row>
+                        <row>
+                            <cell>Dinamarqueses </cell>
+                            <cell>15.</cell>
+                        </row>
+                        <row>
+                            <cell>Bremeses</cell>
+                            <cell>15.</cell>
+                        </row>
+                        <row>
+                            <cell>Suecos</cell>
+                            <cell>4. </cell>
+                        </row>
+                        <row>
+                            <cell>Hannoverianos</cell>
+                            <cell>1. </cell>
+                        </row>
+                        <row>
+                            <cell>Oldenmburguenses</cell>
+                            <cell>1. </cell>
+                        </row>
+                        <row>
+                            <cell>Lubekianos</cell>
+                            <cell>1.</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>Esp.</abbr>
+                                    <expan>Españoles</expan>
+                                </choice> de gira</cell>
+                            <cell>61.</cell>
+                        </row>
+                        <row>
+                            <cell>Americanos</cell>
+                            <cell>53.</cell>
+                        </row>
+                        <row>
+                            <cell>Luqueses</cell>
+                            <cell>34</cell>
+                        </row>
+                        <row>
+                            <cell><unclear reason="illegible" cert="high"
+                                >Brasileses</unclear></cell>
+                            <cell>1.</cell>
+                        </row>
+                        <row>
+                            <cell>Total</cell>
+                            <cell>1317.</cell>
+                        </row>
+                    </table></p>
+                
+                <p>Nota. Toda esta concurren<g ref="#typoHyphen"/><lb break="no"/>cia <choice>
+                        <orig>debuques</orig>
+                        <reg>de buques</reg>
+                    </choice> y movi<g ref="#typoHyphen"/><lb break="no"/>miento <choice>
+                        <orig>mercancial</orig>
+                        <reg>mercantil</reg>
+                    </choice> se </p>
+                <pb n="1r" facs="prohd0029_1r.tif"/>
+                <p><lb/>
+                    <pb/>debe en mucha parte <choice>
+                        <orig>àlos</orig>
+                        <reg>a los</reg>
+                    </choice> alma<g ref="#typoHyphen"/><lb break="no"/>cenes establecidos el 15. de <choice>
+                        <abbr>oct.r</abbr>
+                        <expan>octubre</expan>
+                    </choice>
+                    <lb/>de 1822. para el <choice>
+                        <orig>aposito</orig>
+                        <reg>apósito</reg>
+                    </choice>
+                    <choice>
+                        <orig>delos</orig>
+                        <reg>de los</reg>
+                    </choice>
+                    <lb/>efectos <choice>
+                        <orig>extrangeros</orig>
+                        <reg>extranjeros</reg>
+                    </choice> por el ter<g ref="#typoHyphen"/><lb break="no"/>mino de un año,
+                        <unclear reason="illegible" cert="high"/> otro <lb/>pago de <unclear
+                        reason="illegible" cert="high"/> cuando van de <lb/><choice>
+                        <orig>transito</orig>
+                        <reg>tránsito</reg>
+                    </choice> que uno por ciento <choice>
+                        <orig>àla</orig>
+                        <reg>a la</reg>
+                    </choice>
+                    <lb/>entrada <choice>
+                        <orig>yotro</orig>
+                        <reg>y otro</reg>
+                    </choice>
+                    <choice>
+                        <orig>àla</orig>
+                        <reg>a la</reg>
+                    </choice> salida. El <choice>
+                        <abbr><lb/>reglam.to</abbr>
+                        <expan>reglamento</expan>
+                    </choice>
+                    <choice>
+                        <orig>està</orig>
+                        <reg>está</reg>
+                    </choice> impreso con todos <lb/>los relativos <choice>
+                        <orig>à</orig>
+                        <reg>a</reg>
+                    </choice> derecho de aduana <lb/>y comisiones de vigilancia con<g
+                        ref="#typoHyphen"/><lb break="no"/>tra el fraude. Lo <choice>
+                        <orig>firmò</orig>
+                        <reg>firmó</reg>
+                    </choice> el <choice>
+                        <abbr>supe<g ref="#typoHyphen"/><lb break="no"/>rintend.te</abbr>
+                        <expan>superintendente</expan>
+                    </choice>
+                    <unclear reason="illegible" cert="high"/> Claudio Urrea de <lb/>Prisillos y se
+                    ha mandado obser<g ref="#typoHyphen"/><lb break="no"/>var en lo demas de
+                        <unclear reason="illegible" cert="high"/>
+                    <choice>
+                        <orig>porel</orig>
+                        <reg>por el</reg>
+                    </choice>
+                    <lb/>decreto <choice>
+                        <orig>delibre</orig>
+                        <reg>de libre</reg>
+                    </choice>
+                    <choice>
+                        <abbr>com.o</abbr>
+                        <expan>comercio</expan>
+                    </choice> de 9. <choice>
+                        <orig>defeb.o</orig>
+                        <reg>de febrero</reg>
+                    </choice>
+                    <lb/>de 1824 <lb/>se <choice>
+                        <abbr>acomp.a</abbr>
+                        <expan>acompaña</expan>
+                    </choice> el estado dela <choice>
+                        <abbr>tesor.a</abbr>
+                        <expan>tesorería</expan>
+                    </choice>
+                    <unclear reason="illegible" cert="high"/> : <lb/><choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice> Havana de 1822. <choice>
+                        <abbr>p.a</abbr>
+                        <expan>para</expan>
+                    </choice>
+                    <choice>
+                        <orig>daridea</orig>
+                        <reg>dar idea</reg>
+                    </choice>
+                    <lb/><choice>
+                        <orig>delas</orig>
+                        <reg>de las</reg>
+                    </choice> entradas <choice>
+                        <orig>ygastos</orig>
+                        <reg>y gastos</reg>
+                    </choice> principa<g ref="#typoHyphen"/><lb break="no"/>les de aquella isla <choice>
+                        <orig>detallandolos</orig>
+                        <reg>detallándolos</reg>
+                    </choice>
+                    <choice>
+                        <orig><lb/>acontinuacion</orig>
+                        <reg>a continuación</reg>
+                    </choice> del mismo do<g ref="#typoHyphen"/><lb break="no"/>cumento en varias
+                    notas. Ca<g ref="#typoHyphen"/><lb break="no"/>reciendo de estas el de 1823.
+                    <lb/>formado por otro <choice>
+                        <orig>gefe</orig>
+                        <reg>jefe</reg>
+                    </choice>
+                    <choice>
+                        <orig>yhabien<g ref="#typoHyphen"/><lb break="no"/>do</orig>
+                        <reg>y habiendo</reg>
+                    </choice> poca <choice>
+                        <orig>alteracion</orig>
+                        <reg>alteración</reg>
+                    </choice>
+                    <choice>
+                        <orig>enlo</orig>
+                        <reg>en lo</reg>
+                    </choice> subs<g ref="#typoHyphen"/><lb break="no"/>tancial de las partidas y
+                    sus <lb/>aplicaciones <choice>
+                        <orig>bastarà</orig>
+                        <reg>bastará</reg>
+                    </choice> presentar <lb/>el resumen y es <table rows="3" cols="2">
+                        <row>
+                            <cell>Entradas</cell>
+                            <cell>4.101.344 ½</cell>
+                        </row>
+                        <row>
+                            <cell>Salidas</cell>
+                            <cell>4101.093.5 ½</cell>
+                        </row>
+                        <row>
+                            <cell><unclear reason="illegible" cert="high"/></cell>
+                            <cell>250.3</cell>
+                        </row>
+                    </table></p>
+                <p>La <choice>
+                        <abbr>juris.on</abbr>
+                        <expan>jurisdicción</expan>
+                    </choice>
+                    <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice> Havana <choice>
+                        <orig>àrea</orig>
+                        <reg>área</reg>
+                    </choice> dela intendencia de <lb/>aquella capital <choice>
+                        <orig>reune</orig>
+                        <reg>reúne</reg>
+                    </choice>
+                    <unclear reason="illegible" cert="high"/><lb/><table rows="17" cols="2">
+                        <row>
+                            <cell>Iglesias</cell>
+                            <cell>204.</cell>
+                        </row>
+                        <row>
+                            <cell>casas</cell>
+                            <cell>42.268</cell>
+                        </row>
+                        <row>
+                            <cell>estancias</cell>
+                            <cell>1.762</cell>
+                        </row>
+                        <row>
+                            <cell>Tejares</cell>
+                            <cell>100</cell>
+                        </row>
+                        <row>
+                            <cell>Huertas y quintas</cell>
+                            <cell>183. </cell>
+                        </row>
+                        <row>
+                            <cell>higerias</cell>
+                            <cell>625</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetales</cell>
+                            <cell>779. </cell>
+                        </row>
+                        <row>
+                            <cell>potreros</cell>
+                            <cell>1193. </cell>
+                        </row>
+                        <row>
+                            <cell>Sitios de labor</cell>
+                            <cell>9821. </cell>
+                        </row>
+                        <row>
+                            <cell>Colmenares</cell>
+                            <cell>1601. </cell>
+                        </row>
+                        <row>
+                            <cell>Alambiques</cell>
+                            <cell>354</cell>
+                        </row>
+                        <row>
+                            <cell>Haciendas de <choice>
+                                    <orig>cria</orig>
+                                    <reg>cría</reg>
+                                </choice></cell>
+                            <cell>830</cell>
+                        </row>
+                        <row>
+                            <cell>Cacaguales</cell>
+                            <cell>17. </cell>
+                        </row>
+                        <row>
+                            <cell>Cererias</cell>
+                            <cell>5. </cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Tenerias</orig>
+                                    <reg>Tenerías</reg>
+                                </choice></cell>
+                            <cell>9. </cell>
+                        </row>
+                        <row>
+                            <cell>Fundiciones</cell>
+                            <cell>3</cell>
+                        </row>
+                        <row>
+                            <cell><unclear reason="illegible" cert="high"/>anques de miel</cell>
+                            <cell>5. 1</cell>
+                        </row>
+                    </table></p>
+            </div>
+        </body>
+    </text>
+</TEI>

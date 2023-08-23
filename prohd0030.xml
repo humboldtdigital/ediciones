@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
+<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    type="document" xml:id="ed_mr5_km2_lwb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Resumen por mayor de la riqueza civil rural e industrial de la
+                    provincia de la Havana</title>
+                <editor><persName><surname>Zarama</surname>
+                        <forename>Nicolás</forename>
+                    </persName>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2023</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska</institution>
+                        <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl.
+                                87-90</idno>
+                            <idno type="URLImages"
+                                >http://jbc.bj.uj.edu.pl/dlibra/publication/367128/content</idno>
+                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2877069</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName>Alexander von Humboldt</persName>
+                <date notBefore="1823" notAfter="1824" cert="high"/>
+                <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
+            </creation>
+            <abstract xml:lang="de">
+                <p>Dokument, in dem u. a. die Anzahl der Häuser, Estancias, Pfarreien und
+                    Unternehmen in der Provinz Havanna zusammengestellt ist. Darin wird die Provinz
+                    in zwölf verschiedene Bezirke unterteilt: Ciudad de la Havana, Villa de Santiago
+                    de las Vegas, San Felipe y Santiago de Bejucal, Villa de San Antonio Abad,
+                    Guanajay, Villa de Guanabacoa, Nueva Filipinas, San Juan de Jaruco, Villa de
+                    Guines, Matanzas, Villa de Santa Clara und schließlich Ciudad de Trinidad.</p>
+            </abstract>
+            <abstract xml:lang="es">
+                <p>Documento en el que se recopilan los números de casas, estancias, parroquias y
+                    negocios, entre otros, de la provincia de la Havana. Se presenta una división de
+                    la provincia en cuestión en doce diferentes partidos; ciudad de la Havana, Villa
+                    de Santiago de las Vegas, Ciudad de San Felipe y Santiago de Bejucal, Villa de
+                    San Antonio Abad, Guanajay, Villa de Guanabacoa, Nueva Filipinas, Ciudad de San
+                    Juan de Jaruco, Villa de Guines, Ciudad de Matanzas, Villa de Santa Clara y por
+                    último la Ciudad de Trinidad.</p>
+            </abstract>
+            <langUsage>
+                <language ident="es">Español</language>
+            </langUsage>
+            <textClass>
+                <catRef scheme="#genre" target="#records"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#subject" target="#demography"/>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><pb n="1v" facs="prohd0030_1v.tif"/>
+                    <fw type="folNum">87</fw>
+                    <note place="mTop" hand="#author">AA.A en 1769. 10 <unclear reason="illegible"
+                            cert="high"/>
+                        <unclear reason="illegible" cert="high"/> 118. Agricultura</note></p>
+                <pb/>
+                <p>Resumen por mayor de la riqueza civil <lb/>rural <choice>
+                        <orig>é</orig>
+                        <reg>e</reg>
+                    </choice> industrial de la <choice>
+                        <orig>Provincia</orig>
+                        <reg>provincia</reg>
+                    </choice> de la Habana. </p>
+                <p>
+                    <table rows="14" cols="19">
+                        <row>
+                            <cell/>
+                            <cell>Iglesias</cell>
+                            <cell>Casas</cell>
+                            <cell>Ingenios</cell>
+                            <cell>Cafetales</cell>
+                            <cell>Sitios</cell>
+                            <cell>Estancias</cell>
+                            <cell>Potreros</cell>
+                            <cell>Haciendas de <choice>
+                                    <orig>crias</orig>
+                                    <reg>crías</reg>
+                                </choice></cell>
+                            <cell>Vegas de tabaco</cell>
+                            <cell>Colmenares</cell>
+                            <cell>Huertas</cell>
+                            <cell><choice>
+                                    <orig>Texares</orig>
+                                    <reg>Tejares</reg>
+                                </choice></cell>
+                            <cell>Alambiques</cell>
+                            <cell>Cererias</cell>
+                            <cell>Tenerias</cell>
+                            <cell><choice>
+                                    <abbr>Fundicion.s</abbr>
+                                    <expan>Fundiciones</expan>
+                                </choice></cell>
+                            <cell><choice>
+                                    <orig>Tanq.s</orig>
+                                    <reg>Tanques</reg>
+                                </choice>
+                                <choice>
+                                    <orig>demiel</orig>
+                                    <reg>de miel</reg>
+                                </choice></cell>
+                            <cell>Cacaguales</cell>
+                        </row>
+                        <row>
+                            <cell>Habana</cell>
+                            <cell>31</cell>
+                            <cell>16.613</cell>
+                            <cell>1</cell>
+                            <cell>"</cell>
+                            <cell>33</cell>
+                            <cell>636</cell>
+                            <cell>12</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>183</cell>
+                            <cell>19</cell>
+                            <cell>"</cell>
+                            <cell>5</cell>
+                            <cell>5</cell>
+                            <cell>3</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>V.a</abbr>
+                                    <expan>Villa</expan>
+                                </choice> Santiago</cell>
+                            <cell>32</cell>
+                            <cell>3.321</cell>
+                            <cell>43</cell>
+                            <cell>17</cell>
+                            <cell>1135</cell>
+                            <cell>194</cell>
+                            <cell>190</cell>
+                            <cell>"</cell>
+                            <cell>30</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>19</cell>
+                            <cell>2</cell>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>C.</abbr>
+                                    <expan>Ciudad</expan>
+                                </choice> Vejuncal</cell>
+                            <cell>6</cell>
+                            <cell>872</cell>
+                            <cell>49</cell>
+                            <cell>14</cell>
+                            <cell>590</cell>
+                            <cell>32</cell>
+                            <cell>62</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>1</cell>
+                            <cell>"</cell>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>V.a</abbr>
+                                    <expan>Villa</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>S.n</abbr>
+                                    <expan>San</expan>
+                                </choice> Antonio</cell>
+                            <cell>10</cell>
+                            <cell>1684</cell>
+                            <cell>4</cell>
+                            <cell>124</cell>
+                            <cell>199</cell>
+                            <cell>7</cell>
+                            <cell>51</cell>
+                            <cell>51</cell>
+                            <cell>76</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>1</cell>
+                            <cell>"</cell>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>V.a</abbr>
+                                    <expan>Villa</expan>
+                                </choice> Guanajay</cell>
+                            <cell>30</cell>
+                            <cell>1139</cell>
+                            <cell>122</cell>
+                            <cell>295</cell>
+                            <cell>698</cell>
+                            <cell>"</cell>
+                            <cell>96</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>9</cell>
+                            <cell>"</cell>
+                            <cell>13</cell>
+                            <cell>2</cell>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>V.a</abbr>
+                                    <expan>Villa</expan>
+                                </choice> Guanabacoa</cell>
+                            <cell>36</cell>
+                            <cell>3654</cell>
+                            <cell>9</cell>
+                            <cell>1</cell>
+                            <cell>2241</cell>
+                            <cell>168</cell>
+                            <cell>1</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>3</cell>
+                            <cell>2</cell>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell>.</cell>
+                            <cell>5</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>P.</abbr>
+                                    <expan>Pueblo</expan>
+                                </choice> de Felipinas</cell>
+                            <cell>13</cell>
+                            <cell>1822</cell>
+                            <cell>"</cell>
+                            <cell>16</cell>
+                            <cell>1167</cell>
+                            <cell>"</cell>
+                            <cell>48</cell>
+                            <cell>196</cell>
+                            <cell>883</cell>
+                            <cell>80</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>C.</abbr>
+                                    <expan>Ciudad</expan>
+                                </choice> Jaruco</cell>
+                            <cell>8</cell>
+                            <cell>1793</cell>
+                            <cell>133</cell>
+                            <cell>81</cell>
+                            <cell>811</cell>
+                            <cell>"</cell>
+                            <cell>148</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>5</cell>
+                            <cell>"</cell>
+                            <cell>1</cell>
+                            <cell>2</cell>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>V.a</abbr>
+                                    <expan>Villa</expan>
+                                </choice> Guines</cell>
+                            <cell>17</cell>
+                            <cell>2055</cell>
+                            <cell>78</cell>
+                            <cell>35</cell>
+                            <cell>821</cell>
+                            <cell>"</cell>
+                            <cell>124</cell>
+                            <cell>1</cell>
+                            <cell>500</cell>
+                            <cell>10</cell>
+                            <cell>"</cell>
+                            <cell>4</cell>
+                            <cell>10</cell>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>C.</abbr>
+                                    <expan>Ciudad</expan>
+                                </choice> Matanzas</cell>
+                            <cell>10</cell>
+                            <cell>1954</cell>
+                            <cell>95</cell>
+                            <cell>83</cell>
+                            <cell>973</cell>
+                            <cell>15</cell>
+                            <cell>200</cell>
+                            <cell>12</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>"</cell>
+                            <cell>2</cell>
+                            <cell>2</cell>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>V.a</abbr>
+                                    <expan>Villa</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>S.ta</abbr>
+                                    <expan>Santa</expan>
+                                </choice> Clara</cell>
+                            <cell>7</cell>
+                            <cell>3441</cell>
+                            <cell>14</cell>
+                            <cell>78</cell>
+                            <cell>321</cell>
+                            <cell>150</cell>
+                            <cell>220</cell>
+                            <cell>267</cell>
+                            <cell>37</cell>
+                            <cell>100</cell>
+                            <cell>"</cell>
+                            <cell>22</cell>
+                            <cell>6</cell>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>12</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <abbr>C.</abbr>
+                                    <expan>Ciudad</expan>
+                                </choice> de Trinidad</cell>
+                            <cell>24</cell>
+                            <cell>3914</cell>
+                            <cell>77</cell>
+                            <cell>35</cell>
+                            <cell>832</cell>
+                            <cell>560</cell>
+                            <cell>45</cell>
+                            <cell>403</cell>
+                            <cell>75</cell>
+                            <cell>150</cell>
+                            <cell>"</cell>
+                            <cell>15</cell>
+                            <cell>7</cell>
+                            <cell>.</cell>
+                            <cell>4</cell>
+                            <cell>.</cell>
+                            <cell/>
+                            <cell>5</cell>
+                        </row>
+                        <row>
+                            <cell>Totales</cell>
+                            <cell>204</cell>
+                            <cell>42.268</cell>
+                            <cell>625</cell>
+                            <cell>779</cell>
+                            <cell>9821</cell>
+                            <cell>1762</cell>
+                            <cell>1197</cell>
+                            <cell>930</cell>
+                            <cell>1601</cell>
+                            <cell>354</cell>
+                            <cell>183</cell>
+                            <cell>100</cell>
+                            <cell>33</cell>
+                            <cell>5</cell>
+                            <cell>9</cell>
+                            <cell>3</cell>
+                            <cell>5</cell>
+                            <cell>17</cell>
+                        </row>
+                    </table>
+                </p>
+                <p><note place="right" hand="#author">Cererias 1 Porte a 216 qui le <unclear
+                            reason="illegible" cert="high"/> 1817 <unclear reason="illegible"
+                            cert="high"/> 1822, 60, </note></p>
+                <p/>
+                <p><choice>
+                        <orig>Especificacion</orig>
+                        <reg>Especificación</reg>
+                    </choice> por partidos <lb/>El de la capital de la Habana comprende 4 barrios
+                    extramuros y <lb/>5 <choice>
+                        <orig>Parroquias</orig>
+                        <reg>parroquias</reg>
+                    </choice>, y se le han agregado en <choice>
+                        <orig>Ultramar</orig>
+                        <reg>ultramar</reg>
+                    </choice> Florida y Panzacola. </p>
+                <p>
+                    <table rows="12" cols="2">
+                        <row>
+                            <cell><choice>
+                                    <orig>Yglesias</orig>
+                                    <reg>Iglesias</reg>
+                                </choice> con <choice>
+                                    <orig>inclusion</orig>
+                                    <reg>inclusión</reg>
+                                </choice> de la <choice>
+                                    <orig>Catedral</orig>
+                                    <reg>catedral</reg>
+                                </choice>, dentro de muro, 19. y fuera 12</cell>
+                            <cell>31</cell>
+                        </row>
+                        <row>
+                            <cell>Casas 9585 dentro de la <choice>
+                                    <orig>Capital</orig>
+                                    <reg>capital</reg>
+                                </choice>, incluidas la de <choice>
+                                    <orig>Gobierno</orig>
+                                    <reg>gobierno</reg>
+                                </choice>, <choice>
+                                    <orig>Intenden<g ref="#typoHyphen"/><lb break="no"/>cia</orig>
+                                    <reg>intendencia</reg>
+                                </choice>, <choice>
+                                    <orig>Correo</orig>
+                                    <reg>correo</reg>
+                                </choice>, <unclear reason="illegible" cert="high"/>, y fuera de
+                                muros la <choice>
+                                    <orig>Factoria</orig>
+                                    <reg>factoria</reg>
+                                </choice> y B<choice>
+                                    <orig>e<g ref="#typoHyphen"/><lb break="no"/>neficiencias</orig>
+                                    <reg>beneficiencias</reg>
+                                </choice> "<lb break="no"/></cell>
+                            <cell>16.613</cell>
+                        </row>
+                        <row>
+                            <cell>Estancias en las inmediaciones son 11. en Florida y Panzacola
+                                "</cell>
+                            <cell>636</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Texares</orig>
+                                    <reg>Tejares</reg>
+                                </choice> de <choice>
+                                    <orig>Loza</orig>
+                                    <reg>loza</reg>
+                                </choice> vidriada ordinaria "</cell>
+                            <cell>19</cell>
+                        </row>
+                        <row>
+                            <cell>Huertas de riego "</cell>
+                            <cell>178</cell>
+                        </row>
+                        <row>
+                            <cell>Juristas con <choice>
+                                    <orig>Casas</orig>
+                                    <reg>casas</reg>
+                                </choice> de <unclear reason="illegible" cert="high"/> "</cell>
+                            <cell>5</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios en el <choice>
+                                    <orig>Partido</orig>
+                                    <reg>partido</reg>
+                                </choice> del calvario "</cell>
+                            <cell>1</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros, <choice>
+                                    <orig>quatro</orig>
+                                    <reg>cuatro</reg>
+                                </choice> de ellos en Florida "</cell>
+                            <cell>12</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios <choice>
+                                    <orig>delabor</orig>
+                                    <reg>de labor</reg>
+                                </choice> con arboleda frutal. "</cell>
+                            <cell>33</cell>
+                        </row>
+                        <row>
+                            <cell>Cererias <choice>
+                                    <orig>Extramuros</orig>
+                                    <reg>extramuros</reg>
+                                </choice> "</cell>
+                            <cell>5</cell>
+                        </row>
+                        <row>
+                            <cell>Tenerias "</cell>
+                            <cell>5</cell>
+                        </row>
+                        <row>
+                            <cell>Fundiciones "</cell>
+                            <cell>3</cell>
+                        </row>
+                    </table>
+                </p>
+                <p><note place="mBottom" hand="#author">800 700 / 810 2480 Vergleiche mit
+                        Guia</note></p>
+                <pb/>
+                <pb n="1r" facs="prohd0030_1r.tif"/>
+                <p>Partido <choice>
+                        <abbr>2.o</abbr>
+                        <expan>segundo</expan>
+                    </choice> de la Villa <lb/>de Santiago de las Vegas con <choice>
+                        <abbr>s.</abbr>
+                        <expan>sus</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Parroq.s</abbr>
+                        <expan>parroquias</expan>
+                    </choice>
+                    <lb/><table rows="10" cols="2">
+                        <row>
+                            <cell>Iglesias <choice>
+                                    <orig>Parroquiales</orig>
+                                    <reg>parroquiales</reg>
+                                </choice> y sus anexos "</cell>
+                            <cell>12</cell>
+                        </row>
+                        <row>
+                            <cell>Casas en los <choice>
+                                    <orig>Pueblos</orig>
+                                    <reg>pueblos</reg>
+                                </choice> rurales en las <choice>
+                                    <orig>Haciendas</orig>
+                                    <reg>haciendas</reg>
+                                </choice> "</cell>
+                            <cell>3327</cell>
+                        </row>
+                        <row>
+                            <cell>Estancias de labor "</cell>
+                            <cell>194</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Texares</orig>
+                                    <reg>Tejares</reg>
+                                </choice> de <choice>
+                                    <orig>texa</orig>
+                                    <reg>teja</reg>
+                                </choice> y ladrillo "</cell>
+                            <cell>19</cell>
+                        </row>
+                        <row>
+                            <cell>Vegas de tabaco "</cell>
+                            <cell>30</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios de <choice>
+                                    <orig>azucar</orig>
+                                    <reg>azúcar</reg>
+                                </choice> "</cell>
+                            <cell>43</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetales "</cell>
+                            <cell>17</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros para engordar ganados de <unclear reason="illegible"
+                                    cert="high"/> con chiquero <lb/>para los de cerda "</cell>
+                            <cell>" 19</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios de labor y cazabe "</cell>
+                            <cell>1135</cell>
+                        </row>
+                        <row>
+                            <cell>Alambiques de aguardiente "</cell>
+                            <cell>2</cell>
+                        </row>
+                    </table></p>
+                <p>Partido <choice>
+                        <abbr>3.o</abbr>
+                        <expan>tercero</expan>
+                    </choice> Ciudad de <choice>
+                        <abbr>S.n</abbr>
+                        <expan>San</expan>
+                    </choice>
+                    <lb/>Felipe y Santiago de Bejucal </p>
+                <p>
+                    <table rows="10" cols="2">
+                        <row>
+                            <cell>Iglesias <choice>
+                                    <orig>Parroquiales</orig>
+                                    <reg>parroquiales</reg>
+                                </choice> "</cell>
+                            <cell>" 8</cell>
+                        </row>
+                        <row>
+                            <cell>Casas <choice>
+                                    <orig>delos</orig>
+                                    <reg>de los</reg>
+                                </choice>
+                                <choice>
+                                    <orig>Pueblos</orig>
+                                    <reg>pueblos</reg>
+                                </choice> y <choice>
+                                    <orig>Campos</orig>
+                                    <reg>campos</reg>
+                                </choice> "</cell>
+                            <cell>" 872</cell>
+                        </row>
+                        <row>
+                            <cell>Estancias " </cell>
+                            <cell>" 32</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Texar</orig>
+                                    <reg>Tejar</reg>
+                                </choice> "</cell>
+                            <cell>" 1</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios de <choice>
+                                    <orig>azucar</orig>
+                                    <reg>azúcar</reg>
+                                </choice> "</cell>
+                            <cell>" 49</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetales "</cell>
+                            <cell>" 14</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros " </cell>
+                            <cell>" 62</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios de labor "</cell>
+                            <cell>" 590</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Partido <choice>
+                        <abbr>4.o</abbr>
+                        <expan>cuarto</expan>
+                    </choice> Villa de <lb/><choice>
+                        <abbr>S.n</abbr>
+                        <expan>San</expan>
+                    </choice> Antonio Abad</p>
+                <p>
+                    <table rows="10" cols="2">
+                        <row>
+                            <cell>Iglesias con la principal y 7 partidos con el de Isla <choice>
+                                    <orig>dePinos</orig>
+                                    <reg>de Pinos</reg>
+                                </choice></cell>
+                            <cell>" 10</cell>
+                        </row>
+                        <row>
+                            <cell>Casas <choice>
+                                    <orig>delos</orig>
+                                    <reg>de los</reg>
+                                </choice>
+                                <choice>
+                                    <orig>Pueblos</orig>
+                                    <reg>pueblos</reg>
+                                </choice>, campos y haciendas</cell>
+                            <cell>1684</cell>
+                        </row>
+                        <row>
+                            <cell>Estancias "</cell>
+                            <cell>7</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Texar</orig>
+                                    <reg>Tejar</reg>
+                                </choice> de ladrillo y <choice>
+                                    <orig>texa</orig>
+                                    <reg>teja</reg>
+                                </choice> "</cell>
+                            <cell>" 1</cell>
+                        </row>
+                        <row>
+                            <cell>Vegas de Tabaco "</cell>
+                            <cell>" 16</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios "</cell>
+                            <cell>" 4</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetales " </cell>
+                            <cell>" 124</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros "</cell>
+                            <cell>" 51</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios de labor " </cell>
+                            <cell>" 199</cell>
+                        </row>
+                        <row>
+                            <cell>Haciendas de <choice>
+                                    <orig>crias</orig>
+                                    <reg>crías</reg>
+                                </choice> de ganado mayor y menor "</cell>
+                            <cell>" 51</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <pb n="2v" facs="prohd0030_2v.tif"/><fw type="folNum">88</fw>Partido <choice>
+                        <abbr>5.o</abbr>
+                        <expan>quinto</expan>
+                    </choice> Guanajay</p>
+                <p>
+                    <table rows="9" cols="2">
+                        <row>
+                            <cell>Iglesias, <choice>
+                                    <orig>Hermitas</orig>
+                                    <reg>ermitas</reg>
+                                </choice> y <choice>
+                                    <orig>Oratorios</orig>
+                                    <reg>oratorios</reg>
+                                </choice> en el <unclear reason="illegible" cert="high"/> y 8. <choice>
+                                    <orig>anejos</orig>
+                                    <reg>anexos</reg>
+                                </choice></cell>
+                            <cell>" 30</cell>
+                        </row>
+                        <row>
+                            <cell>Casas <unclear reason="illegible" cert="high"/> " </cell>
+                            <cell>" 1139</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Texares</orig>
+                                    <reg>Tejares</reg>
+                                </choice> "</cell>
+                            <cell>" 13</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios " </cell>
+                            <cell>" 122</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetales </cell>
+                            <cell>295</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros </cell>
+                            <cell>96</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios de labor "</cell>
+                            <cell>698</cell>
+                        </row>
+                        <row>
+                            <cell>Alambiques " </cell>
+                            <cell>2</cell>
+                        </row>
+                        <row>
+                            <cell>Colmenares "</cell>
+                            <cell>9</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Partido <choice>
+                        <abbr>6.o</abbr>
+                        <expan>sexto</expan>
+                    </choice> Villa de <lb/>Guanabacoa</p>
+                <p>
+                    <table rows="10" cols="2">
+                        <row>
+                            <cell>Iglesias <choice>
+                                    <orig>Parroquiales</orig>
+                                    <reg>parroquiales</reg>
+                                </choice>, <choice>
+                                    <orig>Hermitas</orig>
+                                    <reg>ermitas</reg>
+                                </choice>, <choice>
+                                    <orig>Oratorios</orig>
+                                    <reg>oratorios</reg>
+                                </choice> y dos <lb/>de conventos " </cell>
+                            <cell>36</cell>
+                        </row>
+                        <row>
+                            <cell>Casas en <choice>
+                                    <orig>Pueblos</orig>
+                                    <reg>pueblos</reg>
+                                </choice>, campos y haciendas "</cell>
+                            <cell>3654</cell>
+                        </row>
+                        <row>
+                            <cell>Estancias " </cell>
+                            <cell>168</cell>
+                        </row>
+                        <row>
+                            <cell>Texares " </cell>
+                            <cell>3</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios "</cell>
+                            <cell>9</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetal </cell>
+                            <cell>1</cell>
+                        </row>
+                        <row>
+                            <cell>Potrero </cell>
+                            <cell>1</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios en otras tantas caballerias de fierro" </cell>
+                            <cell>2241</cell>
+                        </row>
+                        <row>
+                            <cell>Alambiques " </cell>
+                            <cell>2</cell>
+                        </row>
+                        <row>
+                            <cell>Tanques de miel en regla "</cell>
+                            <cell>5</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Partido <choice>
+                        <abbr>7.o</abbr>
+                        <expan>séptimo</expan>
+                    </choice> de nueva <lb/>Filipinas </p>
+                <p>
+                    <table rows="8" cols="2">
+                        <row>
+                            <cell>Iglesias en el <choice>
+                                    <orig>Pueblo</orig>
+                                    <reg>pueblo</reg>
+                                </choice> principal de Pinal del <lb/>Rio y nueve anexos "</cell>
+                            <cell>13</cell>
+                        </row>
+                        <row>
+                            <cell>Casas de <choice>
+                                    <orig>Pueblos</orig>
+                                    <reg>pueblos</reg>
+                                </choice> y campos "</cell>
+                            <cell>1822</cell>
+                        </row>
+                        <row>
+                            <cell>Vegas de tabaco "</cell>
+                            <cell>883</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetales " </cell>
+                            <cell>16</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros "</cell>
+                            <cell>48</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios "</cell>
+                            <cell>1167</cell>
+                        </row>
+                        <row>
+                            <cell>Colmenares "</cell>
+                            <cell>80 </cell>
+                        </row>
+                        <row>
+                            <cell>Haciendas de <choice>
+                                    <orig>crias</orig>
+                                    <reg>crías</reg>
+                                </choice> "</cell>
+                            <cell>196</cell>
+                        </row>
+                    </table>
+                </p>
+                <pb/>
+                <pb n="2r" facs="prohd0030_2r.tif"/>
+                <p>Partido <choice>
+                        <abbr>8.o</abbr>
+                        <expan>octavo</expan>
+                    </choice> Ciudad de <choice>
+                        <abbr><lb/>S.n</abbr>
+                        <expan>San</expan>
+                    </choice> Juan de Jaruco</p>
+                <p>
+                    <table rows="9" cols="2">
+                        <row>
+                            <cell>Iglesias del <choice>
+                                    <orig>Principal</orig>
+                                    <reg>principal</reg>
+                                </choice> y partidos anexos "</cell>
+                            <cell>8</cell>
+                        </row>
+                        <row>
+                            <cell>Casas de <choice>
+                                    <orig>Pueblos</orig>
+                                    <reg>pueblos</reg>
+                                </choice> y campos "</cell>
+                            <cell>1793</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Texar</orig>
+                                    <reg>Tejar</reg>
+                                </choice> "</cell>
+                            <cell>1</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios "</cell>
+                            <cell>133</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetales " </cell>
+                            <cell>81</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios de labor "</cell>
+                            <cell>811</cell>
+                        </row>
+                        <row>
+                            <cell>Alambiques "</cell>
+                            <cell>2</cell>
+                        </row>
+                        <row>
+                            <cell>Colmenares " </cell>
+                            <cell>5</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros "</cell>
+                            <cell>148</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Partido <choice>
+                        <abbr>9.o</abbr>
+                        <expan>noveno</expan>
+                    </choice> Villa de <lb/>Guines</p>
+                <p>
+                    <table rows="11" cols="2">
+                        <row>
+                            <cell>Iglesias <choice>
+                                    <orig>Parroquiales</orig>
+                                    <reg>parroquiales</reg>
+                                </choice> la principal y de <choice>
+                                    <abbr>s.</abbr>
+                                    <expan>sus</expan>
+                                </choice> partidos <lb/>anexos a ella "</cell>
+                            <cell>17</cell>
+                        </row>
+                        <row>
+                            <cell>Casas de <choice>
+                                    <orig>Pueblos</orig>
+                                    <reg>pueblos</reg>
+                                </choice> y campos "</cell>
+                            <cell>2055</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Texares </orig>
+                                    <reg>Tejares</reg>
+                                </choice></cell>
+                            <cell>4</cell>
+                        </row>
+                        <row>
+                            <cell>Vegas de <choice>
+                                    <orig>tabacos </orig>
+                                    <reg>tabaco</reg>
+                                </choice></cell>
+                            <cell>500</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios </cell>
+                            <cell>78</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetales </cell>
+                            <cell>35</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros </cell>
+                            <cell>124</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios de labor "</cell>
+                            <cell>821</cell>
+                        </row>
+                        <row>
+                            <cell>Alambiques "</cell>
+                            <cell>10</cell>
+                        </row>
+                        <row>
+                            <cell>Colmenares "</cell>
+                            <cell>10</cell>
+                        </row>
+                        <row>
+                            <cell>Hacienda de <choice>
+                                    <orig>crias</orig>
+                                    <reg>crías</reg>
+                                </choice> en Macurijes "</cell>
+                            <cell>1</cell>
+                        </row>
+                    </table>
+                </p>
+                <p><choice>
+                        <abbr>Part.do</abbr>
+                        <expan>Partido</expan>
+                    </choice>
+                    <choice>
+                        <abbr>10.</abbr>
+                        <expan>décimo</expan>
+                    </choice> Ciudad de <lb/>Matanzas</p>
+                <p>
+                    <table rows="10" cols="2">
+                        <row>
+                            <cell>Iglesias <choice>
+                                    <orig>Parroquiales</orig>
+                                    <reg>parroquiales</reg>
+                                </choice>, la principal y 12 <choice>
+                                    <abbr>partid.s</abbr>
+                                    <expan>partidos</expan>
+                                </choice> anexos</cell>
+                            <cell>10</cell>
+                        </row>
+                        <row>
+                            <cell>Casas de <choice>
+                                    <orig>Pueblos</orig>
+                                    <reg>pueblos</reg>
+                                </choice> y campos "</cell>
+                            <cell>1954</cell>
+                        </row>
+                        <row>
+                            <cell>Estancias " </cell>
+                            <cell>15</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Texares</orig>
+                                    <reg>Tejares</reg>
+                                </choice> "</cell>
+                            <cell>2</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios " </cell>
+                            <cell>95</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetales " </cell>
+                            <cell>83</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios "</cell>
+                            <cell>973</cell>
+                        </row>
+                        <row>
+                            <cell>Alambiques "</cell>
+                            <cell>2</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros "</cell>
+                            <cell>200 </cell>
+                        </row>
+                        <row>
+                            <cell>Haciendas de <choice>
+                                    <orig>crias</orig>
+                                    <reg>crías</reg>
+                                </choice> "</cell>
+                            <cell>12</cell>
+                        </row>
+                    </table>
+                </p>
+                <pb n="3v" facs="prohd0030_3v.tif"/>
+                <fw type="folNum">89</fw>
+                <p>Partido <choice>
+                        <abbr>11.</abbr>
+                        <expan>undécimo</expan>
+                    </choice> Villa de <choice>
+                        <abbr><lb/>S.ta</abbr>
+                        <expan>Santa</expan>
+                    </choice> Clara</p>
+                <p>
+                    <table rows="13" cols="2">
+                        <row>
+                            <cell>Iglesias, la principal, ayudas, un convento <lb/>y las 4 <choice>
+                                    <orig>Parroquias</orig>
+                                    <reg>parroquias</reg>
+                                </choice> de <choice>
+                                    <abbr>S.n</abbr>
+                                    <expan>San</expan>
+                                </choice> Juan <choice>
+                                    <orig>delos</orig>
+                                    <reg>de los</reg>
+                                </choice> Remedios "</cell>
+                            <cell>7</cell>
+                        </row>
+                        <row>
+                            <cell>Casas de <choice>
+                                    <orig>Pueblos</orig>
+                                    <reg>pueblos</reg>
+                                </choice> y campos "</cell>
+                            <cell>3441</cell>
+                        </row>
+                        <row>
+                            <cell>Estancias "</cell>
+                            <cell>150</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Texares</orig>
+                                    <reg>Tejares</reg>
+                                </choice> "</cell>
+                            <cell>22</cell>
+                        </row>
+                        <row>
+                            <cell>Vegas de tabaco "</cell>
+                            <cell>37</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios "</cell>
+                            <cell>14</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros " </cell>
+                            <cell>220 </cell>
+                        </row>
+                        <row>
+                            <cell>Cacaguales "</cell>
+                            <cell>12</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios "</cell>
+                            <cell>321</cell>
+                        </row>
+                        <row>
+                            <cell>Colmenares "</cell>
+                            <cell>100</cell>
+                        </row>
+                        <row>
+                            <cell>Alambiques " </cell>
+                            <cell>6</cell>
+                        </row>
+                        <row>
+                            <cell>Haciendas de <choice>
+                                    <orig>cria</orig>
+                                    <reg>cría</reg>
+                                </choice> "</cell>
+                            <cell>267. </cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Partido <choice>
+                        <abbr>12.</abbr>
+                        <expan>duodécimo</expan>
+                    </choice> Ciudad <lb/>de Trinidad</p>
+                <p>
+                    <table rows="14" cols="2">
+                        <row>
+                            <cell>Iglesias, la principal, un convento y partidos con <lb/>trece<choice>
+                                    <abbr> correspond.te</abbr>
+                                    <expan>correspondiente</expan>
+                                </choice>
+                                <choice>
+                                    <orig>ala</orig>
+                                    <reg>a la</reg>
+                                </choice>
+                                <choice>
+                                    <abbr>v.a</abbr>
+                                    <expan>villa</expan>
+                                </choice> de <choice>
+                                    <abbr>S.to</abbr>
+                                    <expan>Santo</expan>
+                                </choice> Espiritu anexo "</cell>
+                            <cell>24</cell>
+                        </row>
+                        <row>
+                            <cell>Casas de <choice>
+                                    <orig>Pueblos</orig>
+                                    <reg>pueblos</reg>
+                                </choice> y campos "</cell>
+                            <cell>3914</cell>
+                        </row>
+                        <row>
+                            <cell>Estancias "</cell>
+                            <cell>560</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Texares</orig>
+                                    <reg>Tejares</reg>
+                                </choice> "</cell>
+                            <cell>15</cell>
+                        </row>
+                        <row>
+                            <cell>Vegas "</cell>
+                            <cell>75</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios " </cell>
+                            <cell>77</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetales "</cell>
+                            <cell>35</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros "</cell>
+                            <cell>45</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios de labor "</cell>
+                            <cell>832</cell>
+                        </row>
+                        <row>
+                            <cell>Alambiques </cell>
+                            <cell>7</cell>
+                        </row>
+                        <row>
+                            <cell>Colmenares " </cell>
+                            <cell>150</cell>
+                        </row>
+                        <row>
+                            <cell>Cacaguales " </cell>
+                            <cell>5</cell>
+                        </row>
+                        <row>
+                            <cell>Haciendas de <choice>
+                                    <orig>cria</orig>
+                                    <reg>cría</reg>
+                                </choice> "</cell>
+                            <cell>403</cell>
+                        </row>
+                        <row>
+                            <cell>Tenerias "</cell>
+                            <cell>4</cell>
+                        </row>
+                    </table>
+                </p>
+                <pb/>
+                <pb n="3r" facs="prohd0030_3r.tif"/>
+                <p>Resumen </p>
+                <p>
+                    <table rows="18" cols="2">
+                        <row>
+                            <cell>Iglesias </cell>
+                            <cell>204</cell>
+                        </row>
+                        <row>
+                            <cell>Casas "</cell>
+                            <cell>42268</cell>
+                        </row>
+                        <row>
+                            <cell>Estancias "</cell>
+                            <cell>1762</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Texares</orig>
+                                    <reg>Tejares</reg>
+                                </choice> "</cell>
+                            <cell>100 </cell>
+                        </row>
+                        <row>
+                            <cell>Huertas y quintas "</cell>
+                            <cell>183</cell>
+                        </row>
+                        <row>
+                            <cell>Ingenios "</cell>
+                            <cell>625</cell>
+                        </row>
+                        <row>
+                            <cell>Cafetales "</cell>
+                            <cell>779</cell>
+                        </row>
+                        <row>
+                            <cell>Potreros "</cell>
+                            <cell>1197</cell>
+                        </row>
+                        <row>
+                            <cell>Sitios de labor "</cell>
+                            <cell>9821 </cell>
+                        </row>
+                        <row>
+                            <cell>Vegas de tabaco "</cell>
+                            <cell>1601</cell>
+                        </row>
+                        <row>
+                            <cell>Colmenares "</cell>
+                            <cell>354</cell>
+                        </row>
+                        <row>
+                            <cell>Alambiques "</cell>
+                            <cell>33 </cell>
+                        </row>
+                        <row>
+                            <cell>Haciendas de <choice>
+                                    <orig>cria</orig>
+                                    <reg>cría</reg>
+                                </choice> "</cell>
+                            <cell>380</cell>
+                        </row>
+                        <row>
+                            <cell>Cacaguales "</cell>
+                            <cell>17</cell>
+                        </row>
+                        <row>
+                            <cell>Cererias "</cell>
+                            <cell>5</cell>
+                        </row>
+                        <row>
+                            <cell>Tenerias "</cell>
+                            <cell>9</cell>
+                        </row>
+                        <row>
+                            <cell>Fundiciones "</cell>
+                            <cell>3</cell>
+                        </row>
+                        <row>
+                            <cell>Tanques de miel "</cell>
+                            <cell>5</cell>
+                        </row>
+                    </table>
+                </p>
+            </div>
+            <pb n="4v"/>
+            <gap unit="pages" quantity="1" reason="empty"/>
+            <fw type="folNum">90</fw>
+            
+            <pb n="4r"/>
+            <gap unit="pages" quantity="1" reason="empty"/>
+        </body>
+    </text>
+</TEI>

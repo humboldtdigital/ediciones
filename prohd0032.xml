@@ -1,0 +1,300 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    type="document" xml:id="ed_ghn_mlc_gxb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Noticia del rendim.to q.e tubieron las Administraciones gener.s
+                    de R.tas R.s deMar y tierra en los ramos q.e le son á cargo, en todo el año
+                    1803 </title>
+                <editor>
+                        <surname>Zarama</surname>
+                        <forename>Nicolás</forename>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2023</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska</institution>
+                                                <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl. 157-158</idno>
+                            <idno type="URLImages"
+                                >http://kalliope-verbund.info/DE-611-HS-2877867</idno>
+                            <idno type="URLImages"
+                                >http://jbc.bj.uj.edu.pl/dlibra/publication/367144/content</idno>
+                        </idno>
+                      </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName>Alexander von Humboldt</persName>
+                <date notBefore="1803-12-31" notAfter="1803-12-31" cert="high"/>
+                <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
+            </creation>
+            <abstract xml:lang="de">
+                <p>Dokument, in dem die von den Inselverwaltungen in jedem Monat des Jahres 1803
+                    erhobenen Werte der Ein- und Ausfuhren der Insel aufgeführt sind. Mit
+                    handschriftlichem Kommentar von Humbold; "Etat de L'iIle de Cuba".</p>
+            </abstract>
+            <abstract xml:lang="es">
+                <p>Documento que enumera los valores de las importaciones y exportaciones de la isla
+                    recogidos por las administraciones insulares en cada mes de 1803. Con comentario
+                    manuscrito de Humbold; "Etat de L'iIle de Cuba".</p>
+            </abstract>
+            <langUsage>
+                <language ident="es">Español</language>
+            </langUsage>
+            <textClass>
+                <catRef scheme="#genre" target="#records"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#subject" target="#economicconditions"/>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb n="1v" facs="prohd0032_1v.tif"/><fw type="folNum">157</fw> 
+                </p>
+            </div>
+            <div>
+                <p><note place="mTop" hand="#author">Etat de L'Ille de Cuba. </note></p>
+                <p>Noticia del <choice>
+                        <abbr>rendim.to</abbr>
+                        <expan>rendimiento</expan>
+                    </choice>
+                    <choice>
+                        <abbr>q.e</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <choice>
+                        <orig>tubieron</orig>
+                        <reg>tuvieron</reg>
+                    </choice> las <choice>
+                        <orig>Administraciones</orig>
+                        <reg>administraciones</reg>
+                    </choice>
+                    <choice>
+                        <abbr>gener.s</abbr>
+                        <expan>generales</expan>
+                    </choice> de <lb/><choice>
+                        <abbr>R.tas</abbr>
+                        <expan>rentas</expan>
+                    </choice>
+                    <choice>
+                        <abbr>R.s</abbr>
+                        <expan>reales</expan>
+                    </choice>
+                    <choice>
+                        <orig>deMar</orig>
+                        <reg>de mar</reg>
+                    </choice> y tierra en los ramos <choice>
+                        <abbr>q.e</abbr>
+                        <expan>que</expan>
+                    </choice>
+                    <choice>
+                        <orig>leson</orig>
+                        <reg>le son</reg>
+                    </choice>
+                    <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> cargo, en todo el <lb/>año 1803 .</p>
+                <p>
+                    <table rows="14" cols="4">
+                        <row>
+                            <cell/>
+                            <cell>La de Mar.</cell>
+                            <cell>La de tierra.</cell>
+                            <cell>Total.</cell>
+                        </row>
+                        <row>
+                            <cell>En Enero</cell>
+                            <cell>"44.220"_½.</cell>
+                            <cell>34.861_2½.</cell>
+                            <cell>79.081_3.</cell>
+                        </row>
+                        <row>
+                            <cell>En Febrero</cell>
+                            <cell>"28.199_2.</cell>
+                            <cell>22.305_3½.</cell>
+                            <cell>50.504_5½</cell>
+                        </row>
+                        <row>
+                            <cell>En Marzo</cell>
+                            <cell>"62.635_1.</cell>
+                            <cell>34.397_2½</cell>
+                            <cell>97.032_3½</cell>
+                        </row>
+                        <row>
+                            <cell>En Abril</cell>
+                            <cell>"53.776_".</cell>
+                            <cell>47.680_1½.</cell>
+                            <cell>101.456_1½</cell>
+                        </row>
+                        <row>
+                            <cell>En Junio </cell>
+                            <cell>"67.309_1½.</cell>
+                            <cell>43.130_3.</cell>
+                            <cell>110.439_4½</cell>
+                        </row>
+                        <row>
+                            <cell>En Julio </cell>
+                            <cell>"57.441_6½.</cell>
+                            <cell>40.884_.</cell>
+                            <cell>98.325_6½</cell>
+                        </row>
+                        <row>
+                            <cell>En Agosto</cell>
+                            <cell>"56.329_2½</cell>
+                            <cell>36.202_4.</cell>
+                            <cell>92.531_6½</cell>
+                        </row>
+                        <row>
+                            <cell>En Septiembre</cell>
+                            <cell>"41.725_7½</cell>
+                            <cell>52.754_5½</cell>
+                            <cell>94.484_5</cell>
+                        </row>
+                        <row>
+                            <cell>En Octubre</cell>
+                            <cell>"55.440_6½.</cell>
+                            <cell>58.800_7.</cell>
+                            <cell>114.241_5½</cell>
+                        </row>
+                        <row>
+                            <cell>En Noviembre</cell>
+                            <cell>"51.703_6.</cell>
+                            <cell>32.403_5.</cell>
+                            <cell>84.107_3.</cell>
+                        </row>
+                        <row>
+                            <cell>En Diciembre</cell>
+                            <cell>159.716_5.</cell>
+                            <cell>66.102_6½</cell>
+                            <cell>225.819_3½</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>1.230.165_2½</cell>
+                        </row>
+                        
+                    </table>
+                </p>
+                <p>Advertencia. <lb/>Que en el 1.230.165 <choice>
+                        <abbr>p.s</abbr>
+                        <expan>pesetas</expan>
+                    </choice> 2½ <choice>
+                        <orig>x.s</orig>
+                        <reg>centimos</reg>
+                    </choice>, se comprenden 119.061. <choice>
+                        <abbr>p.s</abbr>
+                        <expan>pesetas</expan>
+                    </choice> 4 <choice>
+                        <orig>x.s</orig>
+                        <reg>centimos</reg>
+                    </choice> de credito <unclear reason="illegible" cert="high"/>
+                    <lb/>selados. <choice>
+                        <orig>asaver</orig>
+                        <reg>A saber</reg>
+                    </choice>: 99.681 <choice>
+                        <abbr>p.s</abbr>
+                        <expan>pesetas</expan>
+                    </choice> 4 <choice>
+                        <orig>x.s</orig>
+                        <reg>centimos</reg>
+                    </choice> en la <choice>
+                        <abbr>Adm.on</abbr>
+                        <expan>administración</expan>
+                    </choice>
+                    <choice>
+                        <orig>deMar</orig>
+                        <reg>de mar</reg>
+                    </choice>, y 19.380 <choice>
+                        <abbr>p.s</abbr>
+                        <expan>pesetas</expan>
+                    </choice> en la <choice>
+                        <orig>detierra</orig>
+                        <reg>de tierra</reg>
+                    </choice>; con <lb/>cuya <choice>
+                        <orig>baxa</orig>
+                        <reg>baja</reg>
+                    </choice>, resulta <unclear reason="illegible" cert="high"/> la efectiva <choice>
+                        <orig>produccion</orig>
+                        <reg>producción</reg>
+                    </choice> en <choice>
+                        <orig>Dinero</orig>
+                        <reg>dinero</reg>
+                    </choice> de 1.111.103 <choice>
+                        <abbr>p.s</abbr>
+                        <expan>pesetas</expan>
+                    </choice> 6½ <choice>
+                        <orig>x.s</orig>
+                        <reg>centimos</reg>
+                    </choice>
+                    <lb/>Havana 31 de Diciembre de 1803.   </p>
+                <pb n="1r"/>
+                <gap unit="pages" quantity="1" reason="empty"/> 
+                <pb n="2v"/>
+                <fw type="folNum">158</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="2r"/>
+                <gap unit="pages" quantity="1" reason="empty"/>
+            </div>
+        </body>
+    </text>
+</TEI>
