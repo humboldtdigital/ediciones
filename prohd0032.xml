@@ -3,9 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Noticia del rendim.to q.e tubieron las Administraciones gener.s
-                    de R.tas R.s deMar y tierra en los ramos q.e le son á cargo, en todo el año
-                    1803 </title>
+                <title type="main">Noticia del rendimiento que tuvieron las Administraciones
+                    generales de Rentas Reales de Mar y tierra en los ramos que le son a cargo en
+                    todo el año 1803 </title>
                 <editor>
                     <surname>Zarama</surname>
                     <forename>Nicolás</forename>
@@ -52,12 +52,12 @@
             <abstract xml:lang="de">
                 <p>Dokument, in dem die von den Inselverwaltungen in jedem Monat des Jahres 1803
                     erhobenen Werte der Ein- und Ausfuhren der Insel aufgeführt sind. Mit
-                    handschriftlichem Kommentar von Humbold; "Etat de L'iIle de Cuba".</p>
+                    handschriftlichem Kommentar von Humbold:"Etat de L'iIle de Cuba".</p>
             </abstract>
             <abstract xml:lang="es">
                 <p>Documento que enumera los valores de las importaciones y exportaciones de la isla
                     recogidos por las administraciones insulares en cada mes de 1803. Con comentario
-                    manuscrito de Humbold; "Etat de L'iIle de Cuba".</p>
+                    manuscrito de Humbold:"Etat de L'iIle de Cuba".</p>
             </abstract>
             <langUsage>
                 <language ident="es">Español</language>
@@ -247,8 +247,12 @@
                         <expan>pesetas</expan>
                     </choice> 4 <choice>
                         <orig>x.s</orig>
-                        <reg>centimos</reg>
-                    </choice> de credito <unclear reason="illegible" cert="high"/>
+                        <reg>céntimos</reg>
+                    </choice> de <choice>
+                        <orig>credito</orig>
+                        <reg>crédito</reg>
+                    </choice>
+                    <unclear reason="illegible" cert="high"/>
                     <lb/>selados. <choice>
                         <orig>asaver</orig>
                         <reg>A saber</reg>
@@ -257,7 +261,7 @@
                         <expan>pesetas</expan>
                     </choice> 4 <choice>
                         <orig>x.s</orig>
-                        <reg>centimos</reg>
+                        <reg>céntimos</reg>
                     </choice> en la <choice>
                         <abbr>Adm.on</abbr>
                         <expan>administración</expan>
@@ -285,9 +289,12 @@
                         <expan>pesetas</expan>
                     </choice> 6½ <choice>
                         <orig>x.s</orig>
-                        <reg>centimos</reg>
+                        <reg>céntimos</reg>
                     </choice>
-                    <lb/>Havana 31 de Diciembre de 1803. </p>
+                    <lb/><choice>
+                        <orig>Havana</orig>
+                        <reg>Habana</reg>
+                    </choice> 31 de Diciembre de 1803. </p>
                 <pb n="1r"/>
                 <gap unit="pages" quantity="1" reason="empty"/>
                 <pb n="2v"/>
