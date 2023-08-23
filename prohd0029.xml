@@ -56,15 +56,15 @@
                     verschiedenen Sektoren des kubanischen Territoriums dokumentiert. Darüber hinaus
                     enthält das Dokument eine Tabelle mit den Handelsbewegungen auf der Insel und
                     eine Auflistung der Schiffe der verschiedenen Nationen, die die Insel betreten
-                    und verlassen haben. Mit handschriftlichen Kommentaren  bzw. Marginalien von
-                    Humboldt .</p>
+                    und verlassen haben. Mit handschriftlichen Kommentaren bzw. Marginalien von
+                    Humboldt.</p>
             </abstract>
             <abstract xml:lang="es">
                 <p>Manuscrito sobre la población de la Isla de Cuba en el que se documenta la
                     demografía de los diferentes sectores del territorio cubano. Además de esto, el
                     documento contiene una tabla con el movimiento mercantil de la isla y un
                     recuento de los buques de las diversas naciones que entraron y salieron de la
-                    isla. Con anotaciones directamente de la mano de Humboldt</p>
+                    isla. Con anotaciones directamente de la mano de Humboldt.</p>
             </abstract>
             <langUsage>
                 <language ident="es">Español</language>
@@ -243,7 +243,7 @@
                     </choice>. <choice>
                         <abbr>P.s</abbr>
                         <expan>Pesetas</expan>
-                    </choice> en 5.254.680. arrobay de <choice>
+                    </choice> en 5.254.680. arroba y de <choice>
                         <orig><lb/>azucar</orig>
                         <reg>azúcar</reg>
                     </choice>, y 979.864 <unclear reason="illegible" cert="high"/> de café, <choice>
@@ -273,10 +273,7 @@
                     <choice>
                         <orig>extraccion</orig>
                         <reg>extracción</reg>
-                    </choice> 1972. <choice>
-                        <orig>embarcaciones</orig>
-                        <reg>embaraciónes</reg>
-                    </choice> de <choice>
+                    </choice> 1972. embarcaciones de <choice>
                         <orig>trave<g ref="#typoHyphen"/><lb break="no"/>sia</orig>
                         <reg>travesía</reg>
                     </choice> nacionales y <choice>
@@ -312,7 +309,6 @@
                             <cell>96.</cell>
                         </row>
                         <row>
-                            
                             <cell><choice>
                                     <orig>Olandeses</orig>
                                     <reg>Holandeses</reg>
@@ -385,8 +381,7 @@
                         <reg>mercantil</reg>
                     </choice> se </p>
                 <pb n="1r" facs="prohd0029_1r.tif"/>
-                <p><lb/>
-                    <pb/>debe en mucha parte <choice>
+                <p><lb/><pb/>debe en mucha parte <choice>
                         <orig>àlos</orig>
                         <reg>a los</reg>
                     </choice> alma<g ref="#typoHyphen"/><lb break="no"/>cenes establecidos el 15. de <choice>
@@ -466,7 +461,11 @@
                     <unclear reason="illegible" cert="high"/> : <lb/><choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
-                    </choice> Havana de 1822. <choice>
+                    </choice>
+                    <choice>
+                        <orig>Havana</orig>
+                        <reg>Habana</reg>
+                    </choice> de 1822. <choice>
                         <abbr>p.a</abbr>
                         <expan>para</expan>
                     </choice>
@@ -528,7 +527,12 @@
                     <choice>
                         <orig>dela</orig>
                         <reg>de la</reg>
-                    </choice> Havana <choice>
+                    </choice>
+                    <choice>
+                        <orig>Havana</orig>
+                        <reg>Habana</reg>
+                    </choice>
+                    <choice>
                         <orig>àrea</orig>
                         <reg>área</reg>
                     </choice> dela intendencia de <lb/>aquella capital <choice>
