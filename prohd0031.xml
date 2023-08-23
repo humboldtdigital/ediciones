@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
 <?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-    type="document" xml:id="ed_g2t_vq1_dxb">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_g2t_vq1_dxb">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Estado General de los derechos reales cobrados y debidos cobrar en las Administraciones generales de Rentas de Mar y Tierra</title>
-                <editor> Zarama, Nicolás </editor>
+                <title type="main">Estado General de los derechos reales cobrados y debidos cobrar
+                    en las Administraciones generales de Rentas de Mar y Tierra</title>
+                <editor>Zarama, Nicolás</editor>
                 <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
                 <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
                 <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
@@ -21,7 +21,8 @@
                 <pubPlace>Berlín</pubPlace>
                 <pubPlace>La Habana</pubPlace>
                 <availability status="free">
-                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons (CC BY 4.0)</licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -43,7 +44,7 @@
                 <persName>Alexander von Humboldt</persName>
                 <date when="1804-01-02" cert="high"/>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
-                            </creation>
+            </creation>
             <abstract xml:lang="de">
                 <p>Dokument über die königlichen Zölle (Steuern), die die Verwaltungen der Insel im
                     Jahr 1803 für Importe und Exporte sowohl auf dem See- als auch auf dem Landweg
@@ -383,13 +384,14 @@
                         </row>
                     </table>
                 </p>
-                <p>Havana 2 de <choice>
+                <p><choice>
+                        <orig>Havana</orig>
+                        <reg>Habana</reg>
+                    </choice> 2 de <choice>
                         <orig>Enero</orig>
                         <reg>enero</reg>
                     </choice> de 1804</p>
             </div>
-            <pb n="1r"/>
-            <gap unit="pages" quantity="1" reason="empty"/>
         </body>
     </text>
 </TEI>
