@@ -106,11 +106,8 @@
     <text>
         <body>
             <div>
-                <p>
-                    <pb n="1v" facs="prohd0032_1v.tif"/><fw type="folNum">157</fw>
-                </p>
-            </div>
-            <div>
+                <pb n="1v" facs="prohd0032_1v.tif"/>
+                <fw type="folNum">157</fw>
                 <p><note place="mTop" hand="#author">Etat de L'Ille de Cuba. </note></p>
                 <p>Noticia del <choice>
                         <abbr>rendim.to</abbr>
@@ -241,7 +238,7 @@
                         <expan>pesetas</expan>
                     </choice> 2½ <choice>
                         <orig>x.s</orig>
-                        <reg>centimos</reg>
+                        <reg>céntimos</reg>
                     </choice>, se comprenden 119.061. <choice>
                         <abbr>p.s</abbr>
                         <expan>pesetas</expan>

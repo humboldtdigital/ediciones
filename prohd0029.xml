@@ -253,8 +253,12 @@
                     <choice>
                         <orig>demas</orig>
                         <reg>demás</reg>
-                    </choice> articulos in<g ref="#typoHyphen"/><lb break="no"/>industriales de
-                    tabaco labrado <choice>
+                    </choice>
+                    <choice>
+                        <orig>articulos</orig>
+                        <reg>artículos</reg>
+                    </choice>
+                    <g ref="#typoHyphen"/><lb break="no"/>industriales de tabaco labrado <choice>
                         <orig>yde</orig>
                         <reg>y de</reg>
                     </choice> rama, miel de purga <choice>
@@ -372,7 +376,6 @@
                             <cell>1317.</cell>
                         </row>
                     </table></p>
-
                 <p>Nota. Toda esta concurren<g ref="#typoHyphen"/><lb break="no"/>cia <choice>
                         <orig>debuques</orig>
                         <reg>de buques</reg>
@@ -381,7 +384,7 @@
                         <reg>mercantil</reg>
                     </choice> se </p>
                 <pb n="1r" facs="prohd0029_1r.tif"/>
-                <p><lb/><pb/>debe en mucha parte <choice>
+                <p>debe en mucha parte <choice>
                         <orig>àlos</orig>
                         <reg>a los</reg>
                     </choice> alma<g ref="#typoHyphen"/><lb break="no"/>cenes establecidos el 15. de <choice>
@@ -399,9 +402,11 @@
                     <lb/>efectos <choice>
                         <orig>extrangeros</orig>
                         <reg>extranjeros</reg>
-                    </choice> por el ter<g ref="#typoHyphen"/><lb break="no"/>mino de un año,
-                        <unclear reason="illegible" cert="high"/> otro <lb/>pago de <unclear
-                        reason="illegible" cert="high"/> cuando van de <lb/><choice>
+                    </choice> por el <choice>
+                        <orig>ter<g ref="#typoHyphen"/><lb break="no"/>mino</orig>
+                        <reg>término</reg>
+                    </choice> de un año, <unclear reason="illegible" cert="high"/> otro <lb/>pago de
+                        <unclear reason="illegible" cert="high"/> cuando van de <lb/><choice>
                         <orig>transito</orig>
                         <reg>tránsito</reg>
                     </choice> que uno por ciento <choice>
@@ -535,7 +540,11 @@
                     <choice>
                         <orig>àrea</orig>
                         <reg>área</reg>
-                    </choice> dela intendencia de <lb/>aquella capital <choice>
+                    </choice>
+                    <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice> intendencia de <lb/>aquella capital <choice>
                         <orig>reune</orig>
                         <reg>reúne</reg>
                     </choice>
