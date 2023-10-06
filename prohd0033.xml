@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
+<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_o5w_bf3_kyb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Estado por mayor de las exportaciones de frutos de esta Isla por
+                    su Puerto principal de la Habana</title>
+                <editor>
+                    <surname>Zarama</surname>
+                    <forename>Nicolás</forename>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2023</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska ; Nachl. Alexander von
+                            Humboldt</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl.
+                                85-86</idno>
+                            <idno type="URLImages"
+                                >http://jbc.bj.uj.edu.pl/dlibra/publication/367127/content</idno>
+                            <idno type="uri"> http://kalliope-verbund.info/DE-611-HS-2877058</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName>Alexander von Humboldt</persName>
+                <date notBefore="1819-12-31" notAfter="1820-12-31" cert="high"/>
+                <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
+            </creation>
+            <abstract xml:lang="es">
+                <p>Estadística de los productos agrícolas exportados de los años 1815-1819 en la
+                    Havana. Los productos principales que se exportaron en dicho periodo fueron;
+                    Miel, Aguardiente de caña, azúcar, café y cueros. Podemos observar algunos
+                    cambios en las sumas recolectadas a raíz de dichas exportaciones, sin embargo,
+                    las variaciones son ligeras y no parecen representar ningun cambio abrupto en la
+                    situación economica de Cuba (1815-1819). Con anotaciones y calculos de Humboldt,
+                    y con la nota "FFF". La hoja 86 está parcialmente cortada de manera que no es
+                    posible ver la totalidad de las graficas del manuscrito.</p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>Statistiken über die von 1815 bis 1819 in Havanna ausgeführten
+                    landwirtschaftlichen Erzeugnisse. Die wichtigsten in diesem Zeitraum
+                    exportierten Produkte waren: Honig, Zuckerrohrschnaps, Zucker, Kaffee und Häute.
+                    Bei den durch diese Exporte eingenommenen Beträgen lassen sich einige
+                    Veränderungen feststellen, die jedoch geringfügig sind und keine abrupte
+                    Veränderung der wirtschaftlichen Lage Kubas (1815-1819) zu repräsentieren
+                    scheinen. Mit Anmerkungen und Berechnungen von Humboldt und mit dem Vermerk
+                    "FFF". Blatt 86 ist teilweise beschnitten, so dass nicht alle Diagramme im
+                    Manuskript zu sehen sind.</p>
+            </abstract>
+            <langUsage>
+                <language ident="es">Español</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="1v" facs="prohd0033_1v.tif"/>
+                <fw type="folNum">85</fw>
+                <p><note place="mTop" hand="#author">FFF</note></p>
+                <p>Estado por mayor de las exportaciones <lb/>de frutos de esta <choice>
+                        <orig>Isla</orig>
+                        <reg>isla</reg>
+                    </choice>
+                    <choice>
+                        <orig>porsu</orig>
+                        <reg>por su</reg>
+                    </choice>
+                    <choice>
+                        <orig>Puerto</orig>
+                        <reg>puerto</reg>
+                    </choice> principal de la Habana en el quinquenio<lb/>de 1815 <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> 1819, y sus valores <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> precios medios </p>
+                <p>
+                    <table rows="7" cols="8">
+                        <row>
+                            <cell>Años </cell>
+                            <cell><choice>
+                                    <orig>Caxas</orig>
+                                    <reg>Cajas</reg>
+                                </choice> de <choice>
+                                    <orig>azucar</orig>
+                                    <reg>azúcar</reg>
+                                </choice></cell>
+                            <cell>Arrobas de <choice>
+                                    <orig>Café</orig>
+                                    <reg>café</reg>
+                                </choice></cell>
+                            <cell>Idem de cera</cell>
+                            <cell>Pipas de <choice>
+                                    <abbr>aguard.te</abbr>
+                                    <expan>aguardiente</expan>
+                                </choice> de caña</cell>
+                            <cell>Bocoy de miel</cell>
+                            <cell>Valor de cueros crudos y curtidos</cell>
+                            <cell>Valores totales</cell>
+                        </row>
+                        <row>
+                            <cell>1815</cell>
+                            <cell>214111</cell>
+                            <cell>918263</cell>
+                            <cell>23.398</cell>
+                            <cell>3000</cell>
+                            <cell>17.874</cell>
+                            <cell rendition="#right">60.000</cell>
+                            <cell>11.955.705</cell>
+                        </row>
+                        <row>
+                            <cell>1816</cell>
+                            <cell>200487</cell>
+                            <cell>37.0.229</cell>
+                            <cell>22.365</cell>
+                            <cell>1860</cell>
+                            <cell>26793</cell>
+                            <cell>80.000</cell>
+                            <cell>10.111.872</cell>
+                        </row>
+                        <row>
+                            <cell>1817</cell>
+                            <cell>217076</cell>
+                            <cell>709.351</cell>
+                            <cell>20.076</cell>
+                            <cell>….</cell>
+                            <cell>30.759</cell>
+                            <cell>60.000</cell>
+                            <cell>10.691.219</cell>
+                        </row>
+                        <row>
+                            <cell>1818</cell>
+                            <cell>207378</cell>
+                            <cell>779.618</cell>
+                            <cell>24.156</cell>
+                            <cell>3.219</cell>
+                            <cell>34.990</cell>
+                            <cell>60.000</cell>
+                            <cell>12.628.248</cell>
+                        </row>
+                        <row>
+                            <cell>1819</cell>
+                            <cell>192743</cell>
+                            <cell>642.716</cell>
+                            <cell>19.373</cell>
+                            <cell>2.830</cell>
+                            <cell>30.845</cell>
+                            <cell>60.000</cell>
+                            <cell>10.746.997</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>1.031.795</cell>
+                            <cell>3.420.174</cell>
+                            <cell>111.368</cell>
+                            <cell>10.909</cell>
+                            <cell>141.265</cell>
+                            <cell>280.000</cell>
+                            <cell>56.224041.</cell>
+                        </row>
+                    </table>
+                </p>
+                <p><note place="inline" hand="#author">1817 109068</note><choice>
+                        <orig>Especificacion</orig>
+                        <reg>Especificación</reg>
+                    </choice> por años, y precios de los frutos exportados</p>
+                <p><note place="inline" hand="#author">9418,177</note>Año de 1815.<note
+                        place="inline" hand="#author">370000</note>
+                    <lb/><table rows="8" cols="3">
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell>Pesos</cell>
+                        </row>
+                        <row>
+                            <cell>214.111</cell>
+                            <cell><choice>
+                                    <orig>Caxas</orig>
+                                    <reg>Cajas</reg>
+                                </choice> de <choice>
+                                    <orig>azucar</orig>
+                                    <reg>azúcar</reg>
+                                </choice> de <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 16 <choice>
+                                    <abbr>@</abbr>
+                                    <expan>arrobas</expan>
+                                </choice>
+                                <choice>
+                                    <orig>queson</orig>
+                                    <reg>que son</reg>
+                                </choice> 3.425.776 <choice>
+                                    <abbr>@</abbr>
+                                    <expan>arrobas</expan>
+                                </choice>, los 3/5 <lb/>blanco a 16 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice> y 2/5 quebrado a 12 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice>
+                            </cell>
+                            <cell>"7.879.282</cell>
+                        </row>
+                        <row>
+                            <cell>918.263</cell>
+                            <cell><choice>
+                                    <abbr>@</abbr>
+                                    <expan>arrobas</expan>
+                                </choice> café <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 15 pesos quintal</cell>
+                            <cell>"3.443476</cell>
+                        </row>
+                        <row>
+                            <cell>23.398</cell>
+                            <cell><choice>
+                                    <abbr>@</abbr>
+                                    <expan>arrobas</expan>
+                                </choice> de cera <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 16 pesos</cell>
+                            <cell>"374.108</cell>
+                        </row>
+                        <row>
+                            <cell>3000</cell>
+                            <cell>Pipas de <choice>
+                                    <abbr>aguard.te</abbr>
+                                    <expan>aguardiente</expan>
+                                </choice> caña a 35. pesos</cell>
+                            <cell>"105000</cell>
+                        </row>
+                        <row>
+                            <cell>17.874</cell>
+                            <cell>Bocoy de miel de purga de <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 6 barriles <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 7 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice></cell>
+                            <cell>"93.839</cell>
+                        </row>
+                        <row>
+                            <cell>60000</cell>
+                            <cell>Pesos de cueros secos y curtidos</cell>
+                            <cell>"60000</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell><add place="intralinear">(Total)</add></cell>
+                            <cell>11.955.705 </cell>
+                        </row>
+                    </table></p>
+                <p><note place="inline" hand="#author">918 000 590000 / 770,000</note></p>
+                <p>Se omiten tabaco, plata, <choice>
+                        <orig>embases</orig>
+                        <reg>envases</reg>
+                    </choice>, dulces, licores <lb/>conchas de carey, y otras menudencias</p>
+                <p><choice>
+                        <orig>Exportac.n </orig>
+                        <reg>Exportación </reg>
+                    </choice>de 1816. <note place="right" hand="#author">15 5 / 17500.
+                        110000</note><lb/><table rows="8" cols="3">
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell>Pesos</cell>
+                        </row>
+                        <row>
+                            <cell>200487. </cell>
+                            <cell><choice>
+                                    <orig>Caxas</orig>
+                                    <reg>Cajas</reg>
+                                </choice> de <choice>
+                                    <orig>azucar</orig>
+                                    <reg>azúcar</reg>
+                                </choice> con 3.207.792. <choice>
+                                    <abbr>@</abbr>
+                                    <expan>arrobas</expan>
+                                </choice>
+                                <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 16. cada una, su valor <lb/><choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 3/5 blanco <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 22 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice> y 2/5 quebrado <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 18</cell>
+                            <cell>"8.169.867</cell>
+                        </row>
+                        <row>
+                            <cell>370.229</cell>
+                            <cell>Café <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 15 pesos</cell>
+                            <cell>"1_388.356</cell>
+                        </row>
+                        <row>
+                            <cell>1860½</cell>
+                            <cell>Pipas de <choice>
+                                    <abbr>aguard.te</abbr>
+                                    <expan>aguardiente</expan>
+                                </choice> de caña <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 35. pesos </cell>
+                            <cell>"35.117</cell>
+                        </row>
+                        <row>
+                            <cell>26.797</cell>
+                            <cell>Bocoy de <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 6 barriles de miel <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 7 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice></cell>
+                            <cell>"140684</cell>
+                        </row>
+                        <row>
+                            <cell>22.365½</cell>
+                            <cell><choice>
+                                    <abbr>@</abbr>
+                                    <expan>Arrobas</expan>
+                                </choice> de cera <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 16 pesos</cell>
+                            <cell>"357.848</cell>
+                        </row>
+                        <row>
+                            <cell>80000</cell>
+                            <cell>Pesos de cueros crudos y curtidos</cell>
+                            <cell>"80000</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell><add place="intralinear">(Total)</add></cell>
+                            <cell>10.171.872.</cell>
+                        </row>
+                    </table></p>
+                <p/>
+                <pb n="1r" facs="prohd0033_1r.tif"/>
+                <p>1817 <lb/><table rows="7" cols="3">
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell>Pesos</cell>
+                        </row>
+                        <row>
+                            <cell>217.076</cell>
+                            <cell><choice>
+                                    <orig>Caxas</orig>
+                                    <reg>Cajas</reg>
+                                </choice> de <choice>
+                                    <orig>azucar</orig>
+                                    <reg>azúcar</reg>
+                                </choice> con 3.473.216. <choice>
+                                    <abbr>@</abbr>
+                                    <expan>arrobas</expan>
+                                </choice>
+                                <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 16. cada una: su <lb/>valor, los 3/5 blanco <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 20 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice> y 2/5 quebrado <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 16</cell>
+                            <cell>"7.988.403</cell>
+                        </row>
+                        <row>
+                            <cell>709.351</cell>
+                            <cell><choice>
+                                    <abbr>@</abbr>
+                                    <expan>Arrobas</expan>
+                                </choice> de <choice>
+                                    <orig>cafe</orig>
+                                    <reg>café</reg>
+                                </choice> a 12 pesos</cell>
+                            <cell>"2.128.175</cell>
+                        </row>
+                        <row>
+                            <cell>30.759</cell>
+                            <cell>Bocoy de miel de purga de <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 6 barriles <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 7 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice></cell>
+                            <cell>"161.485</cell>
+                        </row>
+                        <row>
+                            <cell>22.076</cell>
+                            <cell><choice>
+                                    <abbr>@</abbr>
+                                    <expan>Arrobas</expan>
+                                </choice> de cera <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 16. pesos</cell>
+                            <cell>"353.156</cell>
+                        </row>
+                        <row>
+                            <cell>60000</cell>
+                            <cell>Pesos en cueros curtidos y crudos</cell>
+                            <cell>60000</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell><add place="intralinear">(Total)</add></cell>
+                            <cell>10.691.219.</cell>
+                        </row>
+                    </table></p>
+                <p>1818 <lb/><table rows="8" cols="3">
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell>Pesos</cell>
+                        </row>
+                        <row>
+                            <cell>207.378</cell>
+                            <cell><choice>
+                                    <orig>Caxas</orig>
+                                    <reg>Cajas</reg>
+                                </choice> de <choice>
+                                    <orig>azucar</orig>
+                                    <reg>azúcar</reg>
+                                </choice> con 3.318.048 <choice>
+                                    <abbr>@</abbr>
+                                    <expan>arrobas</expan>
+                                </choice>
+                                <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 16 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice> cada una <lb/>los 3/5 blanco <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 22 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice> y 2/5 quebrado a 18 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice></cell>
+                            <cell>8.571.021</cell>
+                        </row>
+                        <row>
+                            <cell>779.618</cell>
+                            <cell><choice>
+                                    <abbr>@</abbr>
+                                    <expan>Arrobas</expan>
+                                </choice> de Cafe <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 17. pesos quintal</cell>
+                            <cell>"3.313.368</cell>
+                        </row>
+                        <row>
+                            <cell>24.156</cell>
+                            <cell><choice>
+                                    <abbr>@</abbr>
+                                    <expan>Arrobas</expan>
+                                </choice> de cera <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 16 pesos</cell>
+                            <cell>"387.496</cell>
+                        </row>
+                        <row>
+                            <cell>34990</cell>
+                            <cell>Bocoy de miel de 6 barriles <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 7 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice></cell>
+                            <cell>183.698</cell>
+                        </row>
+                        <row>
+                            <cell><unclear reason="illegible" cert="high">32109</unclear></cell>
+                            <cell>Pipas de <choice>
+                                    <abbr>aguard.te</abbr>
+                                    <expan>aguardiente</expan>
+                                </choice> de caña a 35. pesos</cell>
+                            <cell>"112.665.</cell>
+                        </row>
+                        <row>
+                            <cell>60000</cell>
+                            <cell>Pesos en cueros curtidos y crudos</cell>
+                            <cell>"60000</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell><add place="intralinear">(Total)</add></cell>
+                            <cell>12.628.248</cell>
+                        </row>
+                    </table></p>
+                <p>1819 <lb/>
+                    <table rows="8" cols="3">
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell>Pesos</cell>
+                        </row>
+                        <row>
+                            <cell>192.743</cell>
+                            <cell><choice>
+                                    <orig>Caxas</orig>
+                                    <reg>Cajas</reg>
+                                </choice> de <choice>
+                                    <orig>azucar</orig>
+                                    <reg>azúcar</reg>
+                                </choice> con 3.083.888. <choice>
+                                    <abbr>@</abbr>
+                                    <expan>arrobas</expan>
+                                </choice>
+                                <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 16 cada una <lb/>su valor por 3/5 blanco <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 20 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice> y 2/5 quebrado a 16 <choice>
+                                    <abbr>p.s</abbr>
+                                    <expan>pesos</expan>
+                                </choice></cell>
+                            <cell>7.092.942</cell>
+                        </row>
+                        <row>
+                            <cell>642.716</cell>
+                            <cell><choice>
+                                    <abbr>@</abbr>
+                                    <expan>Arrobas</expan>
+                                </choice> cafe <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 19. pesos quintal</cell>
+                            <cell>"3.053.101</cell>
+                        </row>
+                        <row>
+                            <cell>19.373</cell>
+                            <cell><choice>
+                                    <abbr>@</abbr>
+                                    <expan>Arrobas</expan>
+                                </choice>
+                                <choice>
+                                    <orig>Cera</orig>
+                                    <reg>cera</reg>
+                                </choice>
+                                <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 16. pesos</cell>
+                            <cell>"309.986</cell>
+                        </row>
+                        <row>
+                            <cell>30.845</cell>
+                            <cell>Bocoy de miel de purga de 6 barriles a 7 <choice>
+                                    <abbr>p.s </abbr>
+                                    <expan>pesos</expan>
+                                </choice></cell>
+                            <cell>"161.936</cell>
+                        </row>
+                        <row>
+                            <cell>2830</cell>
+                            <cell>Pipas <choice>
+                                    <abbr>aguard.te</abbr>
+                                    <expan>aguardiente</expan>
+                                </choice> de caña <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> 35 pesos</cell>
+                            <cell>"99.050</cell>
+                        </row>
+                        <row>
+                            <cell>60000</cell>
+                            <cell>Pesos de cueros crudos y curtidos</cell>
+                            <cell>"60000</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell><add place="intralinear">(Total)</add></cell>
+                            <cell>10.776.997</cell>
+                        </row>
+                    </table></p>
+                <p><note place="mBottom" hand="#author">Re</note></p>
+                <pb n="2v" facs="prohd0033_2v.tif"/>
+                <fw type="folNum">86</fw>
+                <p>Resumen <lb/>Años Pesos</p>
+                <gap reason="lost" unit="lines" quantity="4"/>
+                <p>Estado de los buques entrados en el <choice>
+                        <orig>Puerto</orig>
+                        <reg>puerto</reg>
+                    </choice> de la Habana <lb/>y de los <choice>
+                        <orig>años</orig>
+                        <reg>años,</reg>
+                    </choice>
+                    <choice>
+                        <orig>p.s</orig>
+                        <reg>pesos,</reg>
+                    </choice> y municipales recaudados en su <choice>
+                        <abbr>Adm.on</abbr>
+                        <expan>administración</expan>
+                    </choice>
+                    <choice>
+                        <abbr>gral</abbr>
+                        <expan>general</expan>
+                    </choice> de <choice>
+                        <orig>Rentas</orig>
+                        <reg>rentas</reg>
+                    </choice> en <lb/>el quinquenio expresado de 1815. <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> 1819. inclusive. <lb/><note place="left" hand="#author"
+                        >Fisirer</note><gap reason="lost" unit="lines" quantity="4"/>
+                    <table rows="1" cols="4">
+                        <row>
+                            <cell/>
+                            <cell>11.976</cell>
+                            <cell>11.575.460</cell>
+                            <cell>6.709.337.</cell>
+                        </row>
+                    </table></p>
+                <p>Nota <lb/>Con la <choice>
+                        <orig>denominacion</orig>
+                        <reg>denominación</reg>
+                    </choice> de derechos municipales se comprenden los <lb/>impuestos y arbitrios
+                    modernos de diferentes aplicaciones del servicio <choice>
+                        <orig><lb/>publico</orig>
+                        <reg>público</reg>
+                    </choice> general, á saber, subvenciones de guerra que se invierte en
+                    <lb/>tabaco para España, reemplazo para la <choice>
+                        <orig>Junta</orig>
+                        <reg>junta</reg>
+                    </choice> de este nombre que <lb/><unclear reason="illegible" cert="high"
+                        >junto</unclear> en Cadiz, <choice>
+                        <orig>Almirantazgo</orig>
+                        <reg>almirantazgo</reg>
+                    </choice>, toneladas y <choice>
+                        <orig>Corsarios</orig>
+                        <reg>corsarios</reg>
+                    </choice> para la Ma<lb break="no"/> rina, y otros con destino al <choice>
+                        <abbr>exto.</abbr>
+                        <expan>extranjero</expan>
+                    </choice> expedicionario de <choice>
+                        <orig>Costa</orig>
+                        <reg>costa</reg>
+                    </choice> firme. </p>
+                <p><note place="mBottom" hand="#author">Z225 11972 / 1143</note></p>
+                <p/>
+                <pb n="2r" facs="prohd0033_2r.tif"/>
+                <p><note place="mBottom" hand="#author">Exportaciones <unclear reason="illegible"
+                            cert="high"/> Total Todo, 61 Cafe,57 <unclear reason="illegible"
+                            cert="high"/>area Patriota 292<unclear reason="illegible" cert="high"
+                        /></note></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
+<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_rdr_hfr_pyb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Estado que demuestra el número de hombres blancos alistados en
+                    todos los cuerpos de milicias de infantería y caballería y rurales de la isla de
+                    Cuba</title>
+                <editor>
+                    <surname>Zarama</surname>
+                    <forename>Nicolás</forename>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2023</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska ; Nachl. Alexander von
+                            Humboldt</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl.
+                                159-160</idno>
+                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2877882</idno>
+                            <idno type="URLImages"
+                                >http://jbc.bj.uj.edu.pl/dlibra/publication/367145/content </idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName>Alexander von Humboldt</persName>
+                <date notBefore="1804-04-19" notAfter="1804-04-20" cert="high"/>
+                <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
+            </creation>
+            <abstract xml:lang="es">
+                <p>Documento en el que se hace un listado de los hombres "blancos" en las Milicias
+                    cubanas. Resulta interesante la nota final en la que el autor enlista las
+                    profesiones exentadas del alistamiento en alguno de los cuerpos militares de la
+                    Isla. Entre estas profesiones resaltan los abogados, maestros de escuela,
+                    factores de tabaco, como también los estudiantes, entre otros. El documento
+                    concluye con la firma del posible autor del texto (inferimos que se trata de
+                    alguien con un rango relativamente alto en la Milicia cubana de aquel
+                    entonces).</p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>Dokument mit einer Liste der Anzahl an "weißen" Männer in den kubanischen
+                    Milizen. Interessant ist die Schlussnotiz, in der der Verfasser die Berufe
+                    auflistet, die von der Einberufung in eines der Militärkorps der Insel
+                    ausgenommen sind. Zu diesen Berufen gehören u. a. Rechtsanwälte, Lehrer,
+                    Tabakfabrikanten und Studenten. Das Dokument schließt mit der Unterschrift des
+                    möglichen Verfassers des Textes (wir schließen daraus, dass es sich um eine
+                    Person mit einem relativ hohen Rang in der kubanischen Miliz der Zeit
+                    handelt).</p>
+            </abstract>
+            <langUsage>
+                <language ident="es">Español</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="1v" facs="prohd0034_1v.tif"/>
+                <fw type="folNum">159</fw>
+                <p>Estado que demuestra el <choice>
+                        <orig>numero</orig>
+                        <reg>número</reg>
+                    </choice> de hombres blancos alista<g ref="#typoHyphen"/><lb break="no"/>dos en
+                    todos los cuerpos de Milicias disciplinadas de <choice>
+                        <orig>Infanteria</orig>
+                        <reg>infantería</reg>
+                    </choice>, y <choice>
+                        <orig><lb/>caballeria</orig>
+                        <reg>caballería</reg>
+                    </choice>, y rurales de la <choice>
+                        <orig>Ysla</orig>
+                        <reg>isla</reg>
+                    </choice> de Cuba. </p>
+                <p>
+                    <table rows="3" cols="2">
+                        <row>
+                            <cell>Milicias disciplinadas de <choice>
+                                    <orig>Ynfanteria</orig>
+                                    <reg>infanteria</reg>
+                                </choice>.</cell>
+                            <cell>Total de hombres.</cell>
+                        </row>
+                        <row>
+                            <cell>En la Plaza de la Havana</cell>
+                            <cell><unclear reason="illegible" cert="high">1442</unclear></cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Ydem</orig>
+                                    <reg>Ídem</reg>
+                                </choice> en la Villa de Puerto del Principe</cell>
+                            <cell>"721</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <table rows="2" cols="2">
+                        <row>
+                            <cell>Milicias disciplinadas de <choice>
+                                    <orig>Caballeria</orig>
+                                    <reg>caballería</reg>
+                                </choice>.</cell>
+                            <cell><add place="intralinear">(Total de hombres.)</add></cell>
+                        </row>
+                        <row>
+                            <cell>En la Havana y su <choice>
+                                    <orig>Jurisdiccion</orig>
+                                    <reg>jurisdicción</reg>
+                                </choice></cell>
+                            <cell>"517</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>
+                    <table rows="8" cols="2">
+                        <row>
+                            <cell>Milicias <choice>
+                                    <orig>Rurales</orig>
+                                    <reg>rurales</reg>
+                                </choice>.</cell>
+                            <cell><add place="intralinear">(Total de hombres.)</add></cell>
+                        </row>
+                        <row>
+                            <cell>A barlovento de la Ciudad de la Havana, comprendida la <choice>
+                                    <abbr>Jurisd.on</abbr>
+                                    <expan>jurisdicción</expan>
+                                </choice> de <choice>
+                                    <abbr>Matanz.s</abbr>
+                                    <expan>Matanzas</expan>
+                                </choice></cell>
+                            <cell>7.995</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Ydem</orig>
+                                    <reg>Ídem</reg>
+                                </choice>
+                                <choice>
+                                    <orig>á</orig>
+                                    <reg>a</reg>
+                                </choice> Sotavento</cell>
+                            <cell>5.688</cell>
+                        </row>
+                        <row>
+                            <cell>En los barrios extramuros de la Havana</cell>
+                            <cell><unclear reason="illegible" cert="high">1.368</unclear></cell>
+                        </row>
+                        <row>
+                            <cell>En la <choice>
+                                    <orig>Jurisdiccion</orig>
+                                    <reg>jurisdicción</reg>
+                                </choice> delas Quatro Villas</cell>
+                            <cell>2.640</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Ydem</orig>
+                                    <reg>Ídem</reg>
+                                </choice> en la de Puerto del Principe</cell>
+                            <cell>1.728</cell>
+                        </row>
+                        <row>
+                            <cell><choice>
+                                    <orig>Ydem</orig>
+                                    <reg>Ídem</reg>
+                                </choice> en la de Cuba</cell>
+                            <cell>2.412</cell>
+                        </row>
+                        <row>
+                            <cell>Total General</cell>
+                            <cell>24.511</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Nota: Que <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> mas de los Nobles <choice>
+                        <orig>estan</orig>
+                        <reg>están</reg>
+                    </choice>
+                    <choice>
+                        <orig>ecentos</orig>
+                        <reg>exentos</reg>
+                    </choice> del alistamiento de <choice>
+                        <orig>Milicias</orig>
+                        <reg>milicias,</reg>
+                    </choice> los <lb/><choice>
+                        <orig>Abogados</orig>
+                        <reg>abogados</reg>
+                    </choice>, escribanos, <choice>
+                        <orig>Mayordomos</orig>
+                        <reg>mayordomos</reg>
+                    </choice> de las <choice>
+                        <orig>Ciudades</orig>
+                        <reg>ciudades</reg>
+                    </choice>, <choice>
+                        <orig>Medicos</orig>
+                        <reg>médicos</reg>
+                    </choice>, <choice>
+                        <orig>Boticarios</orig>
+                        <reg>boticarios</reg>
+                    </choice>, <choice>
+                        <orig>Cirujanos</orig>
+                        <reg>cirujanos</reg>
+                    </choice>, <lb/><choice>
+                        <orig>Notarios</orig>
+                        <reg>notarios</reg>
+                    </choice>, <choice>
+                        <orig>Procuradores</orig>
+                        <reg>procuradores</reg>
+                    </choice> de <choice>
+                        <orig>Numero</orig>
+                        <reg>número</reg>
+                    </choice>, <choice>
+                        <orig>Administradores</orig>
+                        <reg>administradores</reg>
+                    </choice> de <choice>
+                        <orig>Rentas</orig>
+                        <reg>rentas</reg>
+                    </choice>, <choice>
+                        <orig>sindicos</orig>
+                        <reg>síndicos</reg>
+                    </choice> de <choice>
+                        <abbr>s.n</abbr>
+                        <expan>san</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Fran.co</abbr>
+                        <expan>Francisco</expan>
+                    </choice>, <lb/>sacristanes y sirvientes de <choice>
+                        <orig>Yglesia</orig>
+                        <reg>iglesia</reg>
+                    </choice>, <choice>
+                        <orig>Maestros</orig>
+                        <reg>maestros</reg>
+                    </choice> de escuela, y <choice>
+                        <orig>Grammatica</orig>
+                        <reg>gramática</reg>
+                    </choice>, <choice>
+                        <orig>Mayorales</orig>
+                        <reg>mayorales</reg>
+                    </choice>
+                    <lb/>de <choice>
+                        <orig>Yngenio</orig>
+                        <reg>ingenio</reg>
+                    </choice>, <choice>
+                        <orig>Mercaderes</orig>
+                        <reg>mercaderes</reg>
+                    </choice> de <choice>
+                        <orig>Lonja</orig>
+                        <reg>lonja</reg>
+                    </choice>, <choice>
+                        <orig>Factores</orig>
+                        <reg>factores</reg>
+                    </choice>
+                    <choice>
+                        <orig>ó</orig>
+                        <reg>o</reg>
+                    </choice>
+                    <choice>
+                        <orig>Interventores</orig>
+                        <reg>interventores</reg>
+                    </choice> de tabaco, sirvientes <lb/>que tengan nombramientos, los <choice>
+                        <orig>Apoderados</orig>
+                        <reg>apoderados</reg>
+                    </choice> de los cocheros en cada <choice>
+                        <orig>Partido</orig>
+                        <reg>partido</reg>
+                    </choice>, <lb/>y los estudiantes que tengan las primeras <choice>
+                        <orig>ordenes</orig>
+                        <reg>órdenes</reg>
+                    </choice>: siendo la edad para ser admi<g ref="#typoHyphen"/><lb break="no"
+                    />tidos al servicio desde 15, hasta 45. años: Havana 20. de <choice>
+                        <orig>Abril</orig>
+                        <reg>abril</reg>
+                    </choice> 1804. <lb/>
+                    <lb/></p>
+                <p/>
+                <pb n="1r" facs="prohd0034_1r.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/> 
+                <pb n="2v" facs="prohd0034_2v.tif"/>
+            <fw type="folNum">160</fw>
+                <gap unit="pages" quantity="1" reason="empty"/> 
+                <pb n="2r" facs="prohd0034_2r.tif"/>
+                <gap unit="pages" quantity="1" reason="empty"/> 
+            </div>
+        </body>
+    </text>
+</TEI>
