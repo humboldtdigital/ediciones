@@ -48,7 +48,7 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <persName>Alexander von Humboldt</persName>
+                <persName>Humboldt, Alexander von</persName>
                 <date notBefore="1804-04-19" notAfter="1804-04-20" cert="high"/>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
@@ -337,12 +337,12 @@
                     <lb/></p>
                 <p/>
                 <pb n="1r" facs="prohd0034_1r.tif"/>
-                <gap unit="pages" quantity="1" reason="empty"/> 
+                <gap unit="pages" quantity="1" reason="empty"/>
                 <pb n="2v" facs="prohd0034_2v.tif"/>
-            <fw type="folNum">160</fw>
-                <gap unit="pages" quantity="1" reason="empty"/> 
+                <fw type="folNum">160</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
                 <pb n="2r" facs="prohd0034_2r.tif"/>
-                <gap unit="pages" quantity="1" reason="empty"/> 
+                <gap unit="pages" quantity="1" reason="empty"/>
             </div>
         </body>
     </text>
