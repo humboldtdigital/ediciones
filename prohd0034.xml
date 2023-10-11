@@ -35,7 +35,7 @@
                         <institution>Biblioteka Jagiellońska</institution>
                         <collection>Nachl. Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl.
+                            <idno type="shelfmark">Bd. 3/1 Bl.
                                 159-160</idno>
                             <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2877882</idno>
                             <idno type="URLImages"
@@ -47,6 +47,7 @@
         </fileDesc>
         <profileDesc>
             <creation>
+                <persName>N/A</persName>
                 <persName>Humboldt, Alexander von</persName>
                 <date notBefore="1804-04-19" notAfter="1804-04-20" cert="high"/>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
