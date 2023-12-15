@@ -9,8 +9,9 @@
                     todos los cuerpos de milicias de infantería y caballería y rurales de la isla de
                     Cuba</title>
                 <editor>
-                    <surname>Zarama</surname>
-                    <forename>Nicolás</forename>
+                    <persName>
+                        <surname>Zarama</surname>
+                        <forename>Nicolás</forename></persName>
                 </editor>
                 <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
                 <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
@@ -35,8 +36,7 @@
                         <institution>Biblioteka Jagiellońska</institution>
                         <collection>Nachl. Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">Bd. 3/1 Bl.
-                                159-160</idno>
+                            <idno type="shelfmark">Bd. 3/1 Bl. 159-160</idno>
                             <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2877882</idno>
                             <idno type="URLImages"
                                 >http://jbc.bj.uj.edu.pl/dlibra/publication/367145/content </idno>
@@ -48,8 +48,8 @@
         <profileDesc>
             <creation>
                 <persName>N/A</persName>
-                <persName>Humboldt, Alexander von</persName>
-                <date notBefore="1804-04-19" notAfter="1804-04-20" cert="high"/>
+                <persName>Humboldt, Alexander von (1769-1859)</persName>
+                <date when="1804-04-19">1804-04-19</date>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
             <abstract xml:lang="es">

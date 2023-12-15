@@ -41,8 +41,8 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <persName>Alexander von Humboldt</persName>
-                <date when="1804-01-02" cert="high"/>
+                <persName>Humboldt, Alexander von (1769-1859)</persName>
+                <date when="1804-01-02" cert="high">1804-01-02</date>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
             <abstract xml:lang="de">

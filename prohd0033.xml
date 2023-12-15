@@ -8,8 +8,10 @@
                 <title type="main">Estado por mayor de las exportaciones de frutos de esta Isla por
                     su Puerto principal de la Habana</title>
                 <editor>
-                    <surname>Zarama</surname>
-                    <forename>Nicolás</forename>
+                    <persName>
+                        <surname>Zarama</surname>
+                        <forename>Nicolás</forename>
+                    </persName>
                 </editor>
                 <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
                 <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
@@ -31,12 +33,10 @@
             <sourceDesc>
                 <msDesc rend="manuscript">
                     <msIdentifier>
-                        <institution>Biblioteka Jagiellońska </institution>
-                        <collection>Nachl. Alexander von
-                            Humboldt</collection>
+                        <institution>Biblioteka Jagiellońska</institution>
+                        <collection>Nachl. Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">Bd. 3/1 Bl.
-                                85-86</idno>
+                            <idno type="shelfmark">Bd. 3/1 Bl. 85-86</idno>
                             <idno type="URLImages"
                                 >http://jbc.bj.uj.edu.pl/dlibra/publication/367127/content</idno>
                             <idno type="uri"> http://kalliope-verbund.info/DE-611-HS-2877058</idno>
@@ -48,8 +48,8 @@
         <profileDesc>
             <creation>
                 <persName>N/A</persName>
-                <persName>Humboldt, Alexander von</persName>
-                <date notBefore="1819-12-31" notAfter="1820-12-31" cert="high"/>
+                <persName>Humboldt, Alexander von (1769-1859)</persName>
+                <date when="1819-12-31">1819-12-31</date>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
             <abstract xml:lang="es">

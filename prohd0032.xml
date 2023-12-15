@@ -7,8 +7,8 @@
                     generales de Rentas Reales de Mar y tierra en los ramos que le son a cargo en
                     todo el año 1803 </title>
                 <editor>
-                    <surname>Zarama</surname>
-                    <forename>Nicolás</forename>
+                    <persName><surname>Zarama</surname>
+                        <forename>Nicolás</forename></persName>
                 </editor>
                 <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
                 <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
@@ -34,7 +34,7 @@
                         <idno>
                             <idno type="shelfmark">Nachlass Alexander von Humboldt Bd. 3/1 Bl.
                                 157-158</idno>
-                            <idno type="URLImages"
+                            <idno type="uri"
                                 >http://kalliope-verbund.info/DE-611-HS-2877867</idno>
                             <idno type="URLImages"
                                 >http://jbc.bj.uj.edu.pl/dlibra/publication/367144/content</idno>
@@ -45,8 +45,9 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <persName>Alexander von Humboldt</persName>
-                <date notBefore="1803-12-31" notAfter="1803-12-31" cert="high"/>
+                <persName>N/A</persName>
+                <persName>Humboldt, Alexander von (1769-1859)</persName>
+                <date when="1803-12-31" notAfter="1803-12-31" cert="high">1803-12-31</date>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
             <abstract xml:lang="de">

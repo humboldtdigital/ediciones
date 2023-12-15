@@ -7,7 +7,9 @@
             <titleStmt>
                 <title type="main">Resumen por mayor de la riqueza civil rural e industrial de la
                     provincia de la Habana</title>
-                <editor><persName><surname>Zarama</surname>
+                <editor>
+                    <persName>
+                        <surname>Zarama</surname>
                         <forename>Nicolás</forename>
                     </persName>
                 </editor>
@@ -34,8 +36,7 @@
                         <institution>Biblioteka Jagiellońska</institution>
                         <collection>Nachlass Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">Bd. 3/1 Bl.
-                                87-90</idno>
+                            <idno type="shelfmark">Bd. 3/1 Bl. 87-90</idno>
                             <idno type="URLImages"
                                 >http://jbc.bj.uj.edu.pl/dlibra/publication/367128/content</idno>
                             <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2877069</idno>
@@ -45,9 +46,9 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <persName>N/A</persName>
             <creation>
-                <persName>Alexander von Humboldt</persName>
+                <persName>N/A</persName>
+                <persName>Humboldt, Alexander von (1769-1859)</persName>
                 <date notBefore="1823" notAfter="1824" cert="high"/>
                 <placeName key="https://www.geonames.org/3553478">La Habana</placeName>
             </creation>
