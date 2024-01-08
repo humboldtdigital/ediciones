@@ -72,6 +72,11 @@
                     Person mit einem relativ hohen Rang in der kubanischen Miliz der Zeit
                     handelt).</p>
             </abstract>
+            <textClass>
+                <catRef scheme="#subject" target="#demography"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#genre" target="#notebooks"/>
+            </textClass>
             <langUsage>
                 <language ident="es">Español</language>
             </langUsage>

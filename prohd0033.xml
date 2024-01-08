@@ -73,6 +73,13 @@
                     "FFF". Blatt 86 ist teilweise beschnitten, so dass nicht alle Diagramme im
                     Manuskript zu sehen sind.</p>
             </abstract>
+            <textClass>
+                <catRef scheme="#genre" target="#records"/>
+                <catRef scheme="#genre" target="#notebooks"/>
+                <catRef scheme="#form" target="#manuscript"/>
+                <catRef scheme="#subject" target="#economicconditions"/>
+                <catRef scheme="#subject" target="#administration"/>
+            </textClass>
             <langUsage>
                 <language ident="es">Español</language>
             </langUsage>

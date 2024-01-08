@@ -67,6 +67,7 @@
                 <catRef scheme="#genre" target="#records"/>
                 <catRef scheme="#form" target="#manuscript"/>
                 <catRef scheme="#subject" target="#economicconditions"/>
+                <catRef scheme="#subject" target="#trade"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
