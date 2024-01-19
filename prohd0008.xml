@@ -118,7 +118,7 @@
                             <cell>1. Qué es la Epidemia de Vómito <lb/>más antigua en Veracruz, de
                                 la qual <lb/>hai noticia cierta? En los escritores <lb/>de la
                                 Conquista no veo quejas <lb/>del Clima de Veracruz o de S. Domingo. </cell>
-                            <cell>Para Comoto.<lb/><note hand="Humboldt, Alexander von">Los libros
+                            <cell>Para Comoto.<lb/><note hand="#humboldt">Los libros
                                     Nordaméricanos citan <lb/>frequentemente el hecho que antes
                                     <lb/>de 1725 no huvo Vómito en <lb/>Veracruz. Tiene esta
                                     tradition <lb/>algún fundamento?</note></cell>
@@ -180,7 +180,7 @@
                                 </choice> (digo a la Sombra) como lo he <lb/>experimentado en
                                 Acapulco, el Orinoco <lb/>y Río de las Amazonas.</cell>
                             <cell>La 6. Para Orta<lb/><note place="inline"
-                                    hand="#Humboldt, Alexander von">3637/363</note></cell>
+                                    hand="#humboldt">3637/363</note></cell>
                         </row>
                         <row>
                             <cell>7. Qué número de habitantes hai en Veracruz <lb/>en Tiempos de más
@@ -401,7 +401,7 @@
                                     <abbr>r.<hi rendition="#sup">es</hi></abbr>
                                     <expan>reales</expan>
                                 </choice> en la <lb/>Provincia de Campeche. <lb/><note
-                                    place="inline" hand="#Humboldt, Alexander von"><del
+                                    place="inline" hand="#humboldt"><del
                                         rendition="#s">pas possible</del></note></cell>
                         </row>
                         <row>
@@ -415,13 +415,13 @@
                                 </choice>
                                 <lb/>Andrés<supplied cert="high">.</supplied></cell>
                             <cell>
-                                <note place="inline" hand="#Humboldt, Alexander von">16,000000
+                                <note place="inline" hand="#humboldt">16,000000
                                     <lb/>13,800000</note>
                             </cell>
                         </row>
                     </table>
                     <lb> </lb>
-                    <note place="inline" hand="#Humboldt, Alexander von">
+                    <note place="inline" hand="#humboldt">
                         <seg type="comment">
                             <orig>
                                 <gap quantity="1" unit="lines" reason="insignificant"/>

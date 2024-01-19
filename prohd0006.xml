@@ -149,11 +149,11 @@
                             <sic>Tropique</sic>
                             <corr cert="high">Tropiques</corr>
                         </choice>, regardée comme <lb/>objet de la Pathologie chymi<lb break="no"
-                        />que</hi>. <note place="right" hand="Humboldt, Alexander von">très mauvais! <lb/><choice>
+                        />que</hi>. <note place="right" hand="#humboldt">très mauvais! <lb/><choice>
                             <abbr>AHt</abbr>
                             <expan>Alexander Humboldt</expan>
                         </choice></note>
-                    <note place="right" hand="Humboldt, Alexander von">Paris 1810 <lb/>quant aux <choice>
+                    <note place="right" hand="#humboldt">Paris 1810 <lb/>quant aux <choice>
                             <abbr>exper</abbr>
                             <expan>expériments</expan>
                         </choice>
@@ -368,7 +368,7 @@
                         <corr cert="high">veineux</corr>
                     </choice> peut décomposer cet air <lb/>dans les poumons pour se convertir en
                     <lb/>sang artériel ou suroxygené.</p>
-                <p>Si <metamark place="above"><note place="right" hand="Humboldt, Alexander von"
+                <p>Si <metamark place="above"><note place="right" hand="#humboldt"
                             >dans l’état <lb/>actuel de nos <lb/>conaissances<supplied cert="high"
                                 >,</supplied></note></metamark> des expériences directes nous
                     apprenent <lb/>si peu sur les miasmes qui causent <lb/>les maladies affreuses
@@ -473,7 +473,7 @@
                     causes produisent <lb/>plus facilement de grandes maladies dans <lb/>ces
                     dernières contrées que dans les premières. Nous <lb/>voyons que les
                         pays<metamark place="above"><note place="left"
-                            hand="#Humboldt, Alexander von">dans lesquels les grandes chaleurs sont
+                            hand="#humboldt">dans lesquels les grandes chaleurs sont
                             interrompues par des hivers dans lesquels le Thermomètre descend jusqu’à
                             6° et moins de degrés</note></metamark>, tels que la Caroline
                     <lb/>méridionale, la Louisiane, Vera Crux, l’Isle <lb/>de Cube<supplied
@@ -532,7 +532,7 @@
                         <sic>habitué</sic>
                         <corr cert="high">habituer</corr>
                     </choice>
-                    <metamark place="above"><note place="right" hand="#Humboldt, Alexander von"> peu
+                    <metamark place="above"><note place="right" hand="#humboldt"> peu
                             à peu</note>
                     </metamark>des animaux à vivre dans un gas <lb/>qui contient peu d’oxygène. Ils
                     se meurent <lb/><pb n="203v" facs="prohd0006_203v.tif"/>en les exposant tout
@@ -648,7 +648,7 @@
                     </subst> que j’ai faites depuis 1 an <lb/>dans l’Amérique méridionale prouvent
                     que l’Atmos<g ref="#typoHyphen"/><lb break="no"/>phère de la zone torride est
                         <metamark place="above">
-                        <note place="left" hand="#Humboldt, Alexander von"
+                        <note place="left" hand="#humboldt"
                         >généralement</note></metamark> plus riche en <lb/>gas oxygéné que l’air de
                     l’Europe. J’ai trou<lb break="no"/>vé ce dernier (Voyez mon Mémoire sur la
                         Constitu<g ref="#typoHyphen"/><lb break="no"/>tion chymique de l’Atmosphère)
@@ -720,7 +720,7 @@
                     les basses régions que <lb/>nous habitons. Notre système nerveux est con<g
                         ref="#typoHyphen"/><lb break="no"/>stemment mais <del rendition="#s"
                         >médiocrement</del>
-                    <metamark place="above"><note place="left" hand="Humboldt, Alexander von"
+                    <metamark place="above"><note place="left" hand="#humboldt"
                             >doucement</note></metamark> stimulé par <lb/>le fluide électrique. Dans
                     la zone torride <lb/>tout prend le charactère de l’impétuosité, <lb/><del
                         rendition="#s">de</del> d’une irritation véhémente. Deux tiers <lb/>du jour
@@ -761,7 +761,7 @@
                         <corr cert="high">causer</corr>
                     </choice> des fièvres <lb/>intermittentes. <del rendition="#s">à chez le prof
                         J'ai</del>
-                    <metamark place="above"><note place="right" hand="Humboldt, Alexander von">La
+                    <metamark place="above"><note place="right" hand="#humboldt">La
                             Chymie ne <lb/>nous enseigne pas de <lb/>composer des gas<choice>
                                 <sic>,</sic>
                                 <corr type="deleted"/>
@@ -887,7 +887,7 @@
                     </choice>
                     <del rendition="#s">l'</del> celui d’un mélange physique <lb/><del
                         rendition="#s">que</del>
-                    <metamark place="above"><note place="right" hand="#Humboldt, Alexander von"
+                    <metamark place="above"><note place="right" hand="#humboldt"
                             >qu’une grande partie de</note></metamark> l’oxygène malgré son affinité
                     pour l’azote obéit <lb/>aux loix de la gravitation et descend dans les
                     <lb/>basses régions habitées par les êtres <choice>
@@ -924,7 +924,7 @@
                     l’ardeur des rayons solaires et <lb/>la forte charge électrique, <supplied
                         cert="high">ce</supplied> que nous avons exposé <lb/>ci-dessus, <del
                         rendition="#s">porte</del><metamark place="above"><note place="left"
-                            hand="#Humboldt, Alexander von">porte</note></metamark> l’Atmosphère au
+                            hand="#humboldt">porte</note></metamark> l’Atmosphère au
                     moins au premier <lb/>degré de cette échelle d’affinités, en faisant naître
                     <lb/>de l’oxide gaseux d’azote. Comme les coups <lb/>électriques composent
                     simultanéement de l’eau <del rendition="#s">et</del>
@@ -1024,7 +1024,7 @@
                     laissant à <lb/>leurs enfans <add place="superlinear">et</add> une terre
                     labourable et une atmos<g ref="#typoHyphen"/><lb break="no"/>phère plus
                     salutaire.</p>
-                <p><note hand="Humboldt, Alexander von">écrit à l'île de <lb/>Cuba <lb/>en
+                <p><note hand="#humboldt">écrit à l'île de <lb/>Cuba <lb/>en
                         1801.</note></p>
                 <p>J’ai trouvé par un travail assez <choice>
                         <sic>exacte</sic>

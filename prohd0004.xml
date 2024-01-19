@@ -122,7 +122,7 @@
             <div>
                 <pb n="3r" facs="prohd0004_3r.tif"/>
                 <p>
-                    <note hand="#H0012069">
+                    <note hand="#humboldt">
                         <hi rendition="#uu">finances <choice>
                                 <abbr>p</abbr>
                                 <expan>page</expan>
@@ -130,7 +130,7 @@
                         </hi> 14</note>
                 </p>
                 <p>
-                    <note hand="#H0012069">134/94 
+                    <note hand="#humboldt">134/94 
                         <lb/>30/ 
                         <lb/>
                         <hi rendition="#u">129/
@@ -1106,7 +1106,7 @@
                     <choice>
                         <abbr>&amp;.<hi rendition="#sup">ra</hi></abbr>
                         <expan>etcétera</expan>
-                    </choice><note place="left" hand="#H0012069">Mariel,
+                    </choice><note place="left" hand="#humboldt">Mariel,
                         <lb/>Matanzas 
                         <lb/>y <unclear reason="illegible" cert="low">P</unclear></note><supplied cert="high">,</supplied> regados por
                     <choice>
@@ -1432,7 +1432,7 @@
                         <choice>
                             <orig>millon</orig>
                             <reg>millón</reg>
-                        </choice> de libras de esta sal</hi>.<note place="left" hand="#H0012069">45 
+                        </choice> de libras de esta sal</hi>.<note place="left" hand="#humboldt">45 
                         <lb/>
                         <hi rendition="#u">75 </hi>
                         <lb/>270 
@@ -1737,7 +1737,7 @@
                     <choice>
                         <orig>Parroquias</orig>
                         <reg>parroquias</reg>
-                    </choice> ocupadas en estas grandes labranzas,<note place="left" hand="#H0012069"><hi rendition="#u">870</hi>
+                    </choice> ocupadas en estas grandes labranzas,<note place="left" hand="#humboldt"><hi rendition="#u">870</hi>
                         <lb/>217</note> y 
                     <lb/>en ellas se
                     <choice>
@@ -1751,7 +1751,7 @@
                     <choice>
                         <orig>Yngenios</orig>
                         <reg>ingenios</reg>
-                    </choice> como sigue.<note place="left" hand="#H0012069">1796</note>
+                    </choice> como sigue.<note place="left" hand="#humboldt">1796</note>
                     <table rows="6" cols="4">
                         <row role="label">
                             <cell>Parroquias</cell>
@@ -1814,7 +1814,7 @@
                         </row>
                     </table>
                 </p>
-                <note place="right" hand="#H0012069">154 
+                <note place="right" hand="#humboldt">154 
                     <lb/><hi rendition="#u">625</hi>
                     <lb/>779</note>
             <pb n="9v" facs="prohd0004_9v.tif"/>
@@ -2476,7 +2476,7 @@
                         </row>
                     </table>
                 </p>
-                <note place="left" hand="#H0012069">Note 6.</note>
+                <note place="left" hand="#humboldt">Note 6.</note>
                 <p>
                     <hi rendition="#u">Con el de las ren<g ref="#typoHyphen"/><lb break="no"/>tas
                         decimales des<g ref="#typoHyphen"/><lb break="no"/>de 1789.</hi>
@@ -3365,7 +3365,7 @@
                         <reg>Cuatro</reg>
                     </choice> Villas, que quiere 
                     <lb/>decir un espacio que comprehende como mil quinientas leguas
-                    <lb/>planas de superficie.<note place="left" hand="#H0012069">je comptais
+                    <lb/>planas de superficie.<note place="left" hand="#humboldt">je comptais
                         <lb/>environ 
                         <lb/>432.000 
                         <lb/>Mille <choice>
@@ -3609,7 +3609,7 @@
                     <choice>
                         <orig>Guarico</orig>
                         <reg>Guárico</reg>
-                    </choice></hi><note place="left" hand="#H0012069">m</note>
+                    </choice></hi><note place="left" hand="#humboldt">m</note>
                     <choice>
                         <orig>por que</orig>
                         <reg>porque</reg>
@@ -3691,7 +3691,7 @@
                         <orig>estaran</orig>
                         <reg>estarán</reg>
                     </choice> los jornales de 
-                    <lb/>los artefactos!<note place="left" hand="#H0012069">105/13 6 <lb/>
+                    <lb/>los artefactos!<note place="left" hand="#humboldt">105/13 6 <lb/>
                         <unclear reason="illegible" cert="low">4</unclear>5/65</note> En una palabra, se puede afirmar 
                     <choice>
                         <abbr>q.<hi rendition="#sup">e</hi></abbr>
@@ -3999,7 +3999,7 @@
                         <reg>e</reg>
                     </choice> ignorantes que 
                     <lb/>conservan con justicia el nombre de 
-                    <hi rendition="#u">mayorales</hi><note place="left" hand="#H0012069">35 
+                    <hi rendition="#u">mayorales</hi><note place="left" hand="#humboldt">35 
                         <lb/>
                         <hi rendition="#u">12</hi>
                         <lb/>70 <lb/>
@@ -4010,7 +4010,7 @@
                         <reg>porque</reg>
                     </choice>
                     <lb/>
-                    <note place="left" hand="#H0012069">350</note>no se conocen aquí ecónomos de
+                    <note place="left" hand="#humboldt">350</note>no se conocen aquí ecónomos de
                     <choice>
                         <orig>educacion</orig>
                         <reg>educación</reg>
@@ -4023,7 +4023,7 @@
                         <orig>azucar</orig>
                         <reg>azúcar</reg>
                     </choice> es el único ramo que hasta 
-                    <lb/><note place="left" hand="#H0012069">Z <lb/>10 000 <lb/>350</note>
+                    <lb/><note place="left" hand="#humboldt">Z <lb/>10 000 <lb/>350</note>
                     ahora<choice><sic>,</sic><corr type="deleted"/></choice> merece 
                     <choice>
                         <orig>con<subst><del rendition="#ow">c</del><add place="across">s</add></subst>ideracion</orig>
@@ -6701,7 +6701,7 @@
                     <lb/>los sobresalientes dan hasta <hi rendition="#u">ciento</hi> 
                     <hi rendition="#u">sesenta</hi><choice><sic>,</sic><corr type="deleted"/></choice> y 
                     <hi rendition="#u">ciento</hi>
-                    <lb/><hi rendition="#u">ochenta</hi><supplied cert="high">.</supplied><note place="left" hand="#H0012069">320/00 
+                    <lb/><hi rendition="#u">ochenta</hi><supplied cert="high">.</supplied><note place="left" hand="#humboldt">320/00 
                         <lb/>116 
                         <lb/>100 
                         <lb/>1149 
