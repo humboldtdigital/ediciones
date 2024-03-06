@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prohd.rng"  schematypens="http://relaxng.org/ns/structure/1.0"  type="application/xml"?>
+<?xml-model href="prohd.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="document" xml:id="ed_wrv_fhn_1yb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protocolos notariales de Reguerira</title>
+                <editor>
+                    <persName>
+                        <surname>Echarri</surname>
+                        <forename>Bryan</forename>
+                    </persName>
+                </editor>
+                <funder ref="https://www.auswaertiges-amt.de/de/">Auswärtiges Amt</funder>
+                <funder ref="https://www.fritz-thyssen-stiftung.de/">Fritz Thyssen Stiftung</funder>
+                <funder ref="https://www.gerda-henkel-stiftung.de/">Gerda Henkel Stiftung</funder>
+            </titleStmt>
+            <editionStmt>
+                <p>Proyecto Humboldt digital ProHD (<date>2023-07-06</date>)</p>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <publisher>Oficina del Historiador de la Ciudad de la Habana</publisher>
+                <pubPlace>Berlín</pubPlace>
+                <pubPlace>La Habana</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archivo Nacional de Cuba</institution>
+                        <collection>Protocolos notariales</collection>
+                        <idno>
+                            <idno type="shelfmark"/>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>El documento comprueba que Juan Luis de la Cuesta alquiló en 1806 durante su
+                concurso una casa de Petronila Castellón al lado de la casa de su padre político,
+                Gabriel Raymundo de Azcárate (que era propietario de la casa en la calle Mercaderes
+                18), con número en aquel entonces “calle Mercaderes 19”. </creation>
+            <langUsage>
+                <language ident="es">Español</language>
+            </langUsage>
+            <textClass>
+                <catRef scheme="#subject" target="#administration"/>
+                <catRef scheme="#subject" target="#colonialism"/>
+                <catRef scheme="#subject" target="#slavery"/>
+                <catRef scheme="#subject" target="#trade"/>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="pb-taxonomy">
+                    <category xml:id="genre">
+                        <category xml:id="diaries"/>
+                        <category xml:id="essays"/>
+                        <category xml:id="notebooks"/>
+                        <category xml:id="correspondence"/>
+                        <category xml:id="travelwriting"/>
+                    </category>
+                    <category xml:id="form">
+                        <category xml:id="manuscript"/>
+                        <category xml:id="print"/>
+                    </category>
+                    <category xml:id="subjects">
+                        <category xml:id="climatology"/>
+                        <category xml:id="colonialism"/>
+                        <category xml:id="demography"/>
+                        <category xml:id="economicconditions"/>
+                        <category xml:id="geography"/>
+                        <category xml:id="medicine"/>
+                        <category xml:id="science"/>
+                        <category xml:id="plantations"/>
+                        <category xml:id="coffee"/>
+                        <category xml:id="sugar"/>
+                        <category xml:id="slavery"/>
+                        <category xml:id="trade"/>
+                        <category xml:id="emancipation"/>
+                        <category xml:id="education"/>
+                        <category xml:id="administration"/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="54v" facs="prohd0035_54v.tif"/>
+                <p>
+                    <add place="left">8<hi rendition="#sup">ta</hi> Real<lb/> Se pago el <choice>
+                            <abbr>R<hi rendition="#sup">l</hi></abbr>
+                            <expan>Real</expan>
+                        </choice><lb/> oro el <choice>
+                            <orig>dia</orig>
+                            <reg>día</reg>
+                        </choice> del<lb/>
+                        <choice>
+                            <abbr>h</abbr>
+                            <expan>hoy</expan>
+                        </choice>
+                        <choice>
+                            <abbr>otorgam<hi rendition="#sup">to</hi></abbr>
+                            <expan>otorgamiento</expan>
+                        </choice><lb/>
+                        <choice>
+                            <orig>segun</orig>
+                            <reg>según</reg>
+                        </choice> papeleria<lb/> N 167</add>
+                    <lb/>
+                </p>
+                <p>
+                    <choice>
+                        <orig>Sepase</orig>
+                        <reg>Sépase</reg>
+                    </choice>
+                    <choice>
+                        <abbr>q<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> L <gap reason="covered" unit="words" quantity="1"/>
+                    <choice>
+                        <orig>deRegla</orig>
+                        <reg>de Regla</reg>
+                    </choice>
+                    <choice>
+                        <orig>deCardenas</orig>
+                        <reg>de Cardenas</reg>
+                    </choice> morena libre vecina de esta<lb/> Ciudad <choice>
+                        <orig>otorgo</orig>
+                        <reg>otorgó</reg>
+                    </choice> que vendo realmente <choice>
+                        <orig>á</orig>
+                        <reg>a</reg>
+                    </choice> Diego Arraya también<lb/> moreno libre una negra mi esclava nombrada
+                    esta de Regla<lb/>
+                    <choice>
+                        <orig>nacion</orig>
+                        <reg>nación</reg>
+                    </choice> Caravali de edad como <choice>
+                        <orig>deveinte</orig>
+                        <reg>de veinte</reg>
+                    </choice> y siete a la que<lb/> tuve del <choice>
+                        <abbr>Cap<hi rendition="#sup">n</hi></abbr>
+                        <expan>Capitán</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice> Joaquin de Sangeli el año de mil ochocientos<lb/> dos y <choice>
+                        <orig>sela</orig>
+                        <reg>se la</reg>
+                    </choice> vendo por Capriva <choice>
+                        <orig>sugeta</orig>
+                        <reg>sujeta</reg>
+                    </choice> asesoría sana y<lb/> sin tachas y libre de gravamen como consta de <choice>
+                        <abbr>Cert<hi rendition="#sup">n</hi></abbr>
+                        <expan>Certificación</expan>
+                    </choice> de<lb/> anotador de hipotecas en precio de <choice>
+                        <orig>quatrocientos</orig>
+                        <reg>cuatrocientos</reg>
+                    </choice>
+                    <choice>
+                        <abbr>p<hi rendition="#sup">s</hi></abbr>
+                        <expan>pesos</expan>
+                    </choice> en <choice>
+                        <abbr>q<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice><lb/> queda Coartada <choice>
+                        <abbr>p<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice> no poder ser vendida en <choice>
+                        <orig>mas</orig>
+                        <reg>más</reg>
+                    </choice>
+                    <choice>
+                        <abbr>cant</abbr>
+                        <expan>cantidad</expan>
+                    </choice><lb/>
+                </p>
+            </div>
+            <div>
+                <pb n="54IIr" facs="prohd0035_54IIr.tif"/>
+                <p>que la referida de ella me doy por entregado renuncio la prue<lb break="no"/>ba
+                    leyes <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice> entrega pecunia solo y <choice>
+                        <orig>demas</orig>
+                        <reg>demás</reg>
+                    </choice> del caso y otor<lb break="no"/>go formal <choice>
+                        <abbr>R<hi rendition="#sup">vo</hi></abbr>
+                        <expan>recibo</expan>
+                    </choice> mediante lo <choice>
+                        <orig>qual</orig>
+                        <reg>cual</reg>
+                    </choice> me aparto del <unclear reason="illegible" cert="low">dro<hi
+                            rendition="#sup">a</hi></unclear> de<lb/> propiedad <choice>
+                        <orig>pocesion</orig>
+                        <reg>posesión</reg>
+                    </choice> útil y <choice>
+                        <orig>señorio</orig>
+                        <reg>señorío</reg>
+                    </choice> y <choice>
+                        <orig>demas</orig>
+                        <reg>demás</reg>
+                    </choice> acciones<lb/>
+                    <choice>
+                        <abbr><hi rendition="#sup">c</hi>n</abbr>
+                        <expan>con</expan>
+                    </choice> y personales que esta negra <choice>
+                        <orig>tenia</orig>
+                        <reg>tenía</reg>
+                    </choice> y todo lo cual<lb/> renuncio y transfiero en el comp<hi
+                        rendition="#sup">r</hi> y en quien sudr<hi rendition="#sup">a</hi>o le<lb/>
+                    represente para que como suya la <choice>
+                        <orig>pocea</orig>
+                        <reg>posea</reg>
+                    </choice> y enagene<lb/>
+                    <choice>
+                        <orig>asu</orig>
+                        <reg>a su</reg>
+                    </choice> voluntad <choice>
+                        <orig>envirtud</orig>
+                        <reg>en virtud</reg>
+                    </choice> de esta escritura que les ten<lb break="no"/>go en <choice>
+                        <abbr>sen<hi rendition="#sup">a</hi>l</abbr>
+                        <expan>señal</expan>
+                    </choice> de <choice>
+                        <abbr>R<hi rendition="#sup">L</hi></abbr>
+                        <expan>Real</expan>
+                    </choice> entrega con que es visto la venta<lb/> adquirido sin que necesite de
+                    otra prueba de que<lb/> le relevo y me obligo al saneamiento de esta venta<lb/>
+                    en bastante forma de <unclear reason="illegible" cert="high">dro</unclear><hi
+                        rendition="#sup"><unclear reason="illegible" cert="high">a</unclear></hi> en
+                    favor del Comp<hi rendition="#sup">r</hi> Yent<hi rendition="#sup">d</hi><lb/>
+                    presente yo el otro Diego Arraya acepto <choice>
+                        <orig>ami</orig>
+                        <reg>a mi</reg>
+                    </choice> favor esta<lb/> escritura y <choice>
+                        <orig>recivo</orig>
+                        <reg>recibo</reg>
+                    </choice> comprada la mencionada negra<lb/> en el precio y conformidad que me va
+                    vendida de<lb/> ella me doy por entregado yo tengo formal <choice>
+                        <abbr>R<hi rendition="#sup">vo</hi></abbr>
+                        <expan>recibo</expan>
+                    </choice>
+                    <choice>
+                        <abbr>fha</abbr>
+                        <expan>fecha</expan>
+                    </choice><lb/> en esta ciudad <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice>
+                    <choice>
+                        <orig>Havana</orig>
+                        <reg>Habana</reg>
+                    </choice>
+                    <choice>
+                        <orig>enveinte</orig>
+                        <reg>en <date when="1806-01-22" calendar="#Gregorian">veinte</date></reg>
+                    </choice><date when="1806-01-22" calendar="#Gregorian"> y dos de<lb/> Enero de
+                        mil ochocientos seis años</date> Yo el <choice>
+                        <abbr>es<hi rendition="#sup">no</hi></abbr>
+                        <expan>escribano</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Pub<hi rendition="#sup">o</hi></abbr>
+                        <expan>Público</expan>
+                    </choice> doy<lb/>
+                    <choice>
+                        <orig>fee</orig>
+                        <reg>fe</reg>
+                    </choice>
+                    <choice>
+                        <orig>conosco</orig>
+                        <reg>conozco</reg>
+                    </choice>
+                    <choice>
+                        <orig>alas</orig>
+                        <reg>a las</reg>
+                    </choice> otorgaciones firmaron <choice>
+                        <abbr>p<hi rendition="#sup">r</hi></abbr>
+                        <expan>por</expan>
+                    </choice> que dije<lb break="no"/>ron no saber <choice>
+                        <orig>desu</orig>
+                        <reg>de su</reg>
+                    </choice> ruego lo <choice>
+                        <orig>hiso</orig>
+                        <reg>hizo</reg>
+                    </choice> uno de los <choice>
+                        <abbr>.yos</abbr>
+                        <expan>suyos</expan>
+                    </choice><lb/> que lo <choice>
+                        <orig>fvieron</orig>
+                        <reg>vieron</reg>
+                    </choice>
+                    <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice> martin Corona <choice>
+                        <abbr>D.</abbr>
+                        <expan>Don</expan>
+                    </choice>Jpt maría<lb/> morena y <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice> Fermin quienes vecinos y presentes<lb/> Arruego de los <choice>
+                        <abbr>otorg<hi rendition="#sup">tes</hi></abbr>
+                        <expan>otorgantes</expan>
+                    </choice> y <choice>
+                        <abbr>tgo<hi rendition="#sup">s</hi></abbr>
+                        <expan>testigos</expan>
+                    </choice><lb/> Fermin <choice>
+                        <orig>Ysquierdo</orig>
+                        <reg>Izquierdo</reg>
+                    </choice><lb/> Cer<lb/></p>
+            </div>
+            <div>
+                <pb n="54IIv" facs="prohd0035_54IIv.tif"/>
+                <p> tifico que la negra contenida en esta escritura de que<lb/> Dice es dueño Maria
+                    de Regla de Cardenas no consta<lb/> este gravado. <date when="1806-01-22"
+                        calendar="#Gregorian"><choice>
+                            <orig>Havana</orig>
+                            <reg>Habana</reg>
+                        </choice> y Enero veinte y dos de<lb/> Mil ochocientos seis <choice>
+                            <abbr>a<hi rendition="#sup">ñ</hi>.</abbr>
+                            <expan>años</expan>
+                        </choice></date>
+                </p>
+                <p><add place="left">
+                        <choice>
+                            <abbr>Chancela<hi rendition="#sup">n</hi></abbr>
+                            <expan>Cancelación</expan>
+                        </choice>
+                    </add></p>
+                <p>
+                    <choice>
+                        <orig>Enla</orig>
+                        <reg>En la</reg>
+                    </choice> ciudad <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice>
+                    <choice>
+                        <orig>Havana</orig>
+                        <reg>Habana</reg>
+                    </choice>
+                    <date when="1806-01-22" calendar="#Gregorian"><choice>
+                            <orig>enveinte</orig>
+                            <reg>en veinte</reg>
+                        </choice> y dos de Enero <choice>
+                            <orig>demil</orig>
+                            <reg>de mil</reg>
+                        </choice><lb/> ochocientos seis <choice>
+                            <abbr>a<hi rendition="#sup">s</hi></abbr>
+                            <expan>años</expan>
+                        </choice></date> ante mi el <choice>
+                        <abbr>esno</abbr>
+                        <expan>escribano</expan>
+                    </choice> Publico Egos<lb/> parecio <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice> Jose <choice>
+                        <orig>Maria</orig>
+                        <reg>María</reg>
+                    </choice> Castellanos <choice>
+                        <orig>aquien</orig>
+                        <reg>a quien</reg>
+                    </choice> doy <choice>
+                        <orig>fee</orig>
+                        <reg>fe</reg>
+                    </choice><lb/>
+                    <choice>
+                        <orig>conosco</orig>
+                        <reg>conozco</reg>
+                    </choice> y dijo que ha recibido de <choice>
+                        <abbr>D<hi rendition="#sup">a</hi></abbr>
+                        <expan>Doña</expan>
+                    </choice> Luisa La<gap reason="illegible" unit="words" quantity="1"/>
+                    <lb/>
+                    <gap reason="illegible" unit="words" quantity="1"/> veinte y cinco <choice>
+                        <abbr>pe<hi rendition="#sup">s</hi></abbr>
+                        <expan>pesos</expan>
+                    </choice> que se obligo <choice>
+                        <orig>apagarle</orig>
+                        <reg>a pagarle</reg>
+                    </choice><lb/> en doce <choice>
+                        <orig>deoctubre</orig>
+                        <reg>de octubre</reg>
+                    </choice> del año proximo para <choice>
+                        <orig>deotra</orig>
+                        <reg>de otra</reg>
+                    </choice>
+                    <choice>
+                        <abbr>cant<hi rendition="#sup">d</hi></abbr>
+                        <expan>cantidad</expan>
+                    </choice><lb/> se dá por entregado renuncia la prueba leyes <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice> entre<lb break="no"/>ga pecunia solo y demas del caso y otorga formal <choice>
+                        <abbr>R<hi rendition="#sup">l</hi></abbr>
+                        <expan>Real</expan>
+                    </choice><lb/> y en su virtud la da por libre y <choice>
+                        <orig>ala</orig>
+                        <reg>a la</reg>
+                    </choice> negra hipo<lb break="no"/>tecada para que se anote <choice>
+                        <orig>enlas</orig>
+                        <reg>en las</reg>
+                    </choice> partes que conven<lb break="no"/>ga y firmó siendo <choice>
+                        <abbr>tgos</abbr>
+                        <expan>testigos</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice> Martin Corona <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice><lb/>
+                    <choice>
+                        <abbr>Jph</abbr>
+                        <expan>Josef</expan>
+                    </choice> maria morena y <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice> Fermin <choice>
+                        <orig>Ysquierdo</orig>
+                        <reg>Izquierdo</reg>
+                    </choice> ve<lb break="no"/>cino y presentes<lb/> Josef Maria Castellanos </p>
+                <p><add place="left">Arrendamiento</add></p>
+                <p> Sepase que Yo <choice>
+                        <abbr>D<hi rendition="#sup">a</hi></abbr>
+                        <expan>Doña</expan>
+                    </choice> Patrona Castellon Vecina de esta<lb/> ciudad, digo que doy en
+                    Arrendamiento a <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice> Juan Luis<lb/>
+                    <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice> Cuesta, una casa <choice>
+                        <orig>demi</orig>
+                        <reg>de mi</reg>
+                    </choice> propiedad <choice>
+                        <orig>cituada</orig>
+                        <reg>situada</reg>
+                    </choice> en la Calle<lb/> de Mercaderes, junto <choice>
+                        <orig>ala</orig>
+                        <reg>a la</reg>
+                    </choice>
+                    <choice>
+                        <orig>demi</orig>
+                        <reg>de mi</reg>
+                    </choice> habitación, por precio<lb/> en cada un mes de doscientos treinta <choice>
+                        <abbr>p<hi rendition="#sup">s</hi>.</abbr>
+                        <expan>pesos</expan>
+                    </choice> con <choice>
+                        <orig>mas</orig>
+                        <reg>más</reg>
+                    </choice> el-<lb/>
+                    <gap reason="covered" unit="words" quantity="1"/> de alumbrado, que debe tambien
+                    pagar, dandome<lb/> Igualmente dos meses adelantado como lo ha <choice>
+                        <orig>berifi<lb break="no"/>Cado</orig>
+                        <reg>verificado</reg>
+                    </choice> de que me doy <choice>
+                        <orig>p<hi rendition="#sup">r</hi></orig>
+                        <reg>por</reg>
+                    </choice> entregada renuncio la prueba</p>
+            </div>
+            <div>
+                <pb n="55r" facs="prohd0035_55r.tif"/>
+                <p> leyes <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice> entrega pecunia solo y demas del caso y otor<lb break="no"/>go formal <choice>
+                        <abbr>R<hi rendition="#sup">vo</hi></abbr>
+                        <expan>recibo</expan>
+                    </choice> Bien entendido que cumplidos otros<lb/> dos meses, deberá continuar el
+                    otro <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice> Juan Luis dan<lb break="no"/>dome un mes siempre adelantado y si en
+                    este<lb/> hubiere falta que del todo extinguido este con<lb/> trato de
+                    Arrendamiento, con facultad de <choice>
+                        <orig>espelerlo</orig>
+                        <reg>expelerlo</reg>
+                    </choice> de<lb/> la Casa sin admitirle excusa ni pretexto alguno<lb/> Y estando
+                    presente Yo el otro <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice> Juan Luis de la Cues-<lb/> ta acepto esta <choice>
+                        <abbr>escrit<hi rendition="#sup">a</hi></abbr>
+                        <expan>escritura</expan>
+                    </choice> y el <choice>
+                        <abbr>Arrendam<hi rendition="#sup">to</hi></abbr>
+                        <expan>arrendamiento</expan>
+                    </choice> que me va he<g ref="#typoHyphen"/><lb break="no"/>cho y me obligo
+                    acumplir con <choice>
+                        <orig>quanto</orig>
+                        <reg>cuanto</reg>
+                    </choice> va relacio<g ref="#typoHyphen"/><lb break="no"/>nado sin innovar los
+                    Capitulos estipulados, pues<lb/>
+                    <choice>
+                        <orig>amayor</orig>
+                        <reg>a mayor</reg>
+                    </choice> abundamiento renuncio el otro que pueda<lb/> tener, y la habilito <choice>
+                        <abbr>p<hi rendition="#sup">r</hi></abbr>
+                        <expan>por</expan>
+                    </choice> dos meses sin verificar el<lb/> pago como va prevenido y expresa el
+                    Banco de<lb/> buen <choice>
+                        <abbr>Gov<hi rendition="#sup">no</hi></abbr>
+                        <expan>Gobierno</expan>
+                    </choice> en el <choice>
+                        <abbr>art<hi rendition="#sup">o</hi></abbr>
+                        <expan>articulo</expan>
+                    </choice>
+                    <choice>
+                        <abbr>q<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> trata sobre Alquileres de casa<lb/> A cuyo fin ambos por lo que a cada
+                    uno toca guar<lb break="no"/>dar y cumplir obligarnos <choice>
+                        <abbr>ntros</abbr>
+                        <expan>nuestros</expan>
+                    </choice> bienes presentes<lb/> y futuros con poderio y <choice>
+                        <orig>comicion</orig>
+                        <reg>comisión</reg>
+                    </choice>
+                    <choice>
+                        <orig>alas</orig>
+                        <reg>a las</reg>
+                    </choice> justicias<lb/> de <choice>
+                        <abbr>S. M.</abbr>
+                        <expan>Su Majestad</expan>
+                    </choice> y Clausula guaremigia en forma <choice>
+                        <abbr>q<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> damos<lb/>
+                    <choice>
+                        <abbr>p<hi rendition="#sup">r</hi></abbr>
+                        <expan>por</expan>
+                    </choice> incierta <choice>
+                        <abbr>p<hi rendition="#sup">a</hi></abbr>
+                        <expan>para</expan>
+                    </choice>
+                    <choice>
+                        <abbr>q<hi rendition="#sup">e</hi></abbr>
+                        <expan>que</expan>
+                    </choice> nos apremien <choice>
+                        <orig>asu</orig>
+                        <reg>a su</reg>
+                    </choice>
+                    <choice>
+                        <abbr>cumplim<hi rendition="#sup">to</hi></abbr>
+                        <expan>cumplimiento</expan>
+                    </choice> En<lb/> cuyo testimonio en <choice>
+                        <abbr>fha</abbr>
+                        <expan>fecha</expan>
+                    </choice> en esta ciudad <choice>
+                        <orig>dela</orig>
+                        <reg>de la</reg>
+                    </choice>
+                    <choice>
+                        <abbr>Hav<hi rendition="#sup">a</hi></abbr>
+                        <expan>Habana</expan>
+                    </choice><lb/> en <date when="1806-01-22" calendar="#Gregorian">veinte y dos de
+                        Enero <choice>
+                            <orig>demil</orig>
+                            <reg>de mil</reg>
+                        </choice> ochocientos seis <choice>
+                            <abbr>a<hi rendition="#sup">s</hi></abbr>
+                            <expan>años</expan>
+                        </choice></date>
+                </p>
+            </div>
+            <div>
+                <pb n="55v" facs="prohd0035_55v.tif"/>
+                <p> Yo el <choice>
+                        <abbr>Esno.</abbr>
+                        <expan>escribano</expan>
+                    </choice>
+                    <choice>
+                        <orig>Publico</orig>
+                        <reg>Público</reg>
+                    </choice> doy <choice>
+                        <orig>fee</orig>
+                        <reg>fe</reg>
+                    </choice>
+                    <choice>
+                        <orig>conosco</orig>
+                        <reg>conozco</reg>
+                    </choice>
+                    <choice>
+                        <orig>alos</orig>
+                        <reg>a los</reg>
+                    </choice> otorgantes<lb/> que firmaron siendo <choice>
+                        <abbr>tgos</abbr>
+                        <expan>testigos</expan>
+                    </choice>
+                    <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice> Martin Corona <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice>
+                    <choice>
+                        <abbr>Jph</abbr>
+                        <expan>Josef</expan>
+                    </choice><lb/> Maria morena y <choice>
+                        <abbr>D<hi rendition="#sup">n</hi></abbr>
+                        <expan>Don</expan>
+                    </choice> Fermin <choice>
+                        <orig>Ysquierdo</orig>
+                        <reg>Izquierdo</reg>
+                    </choice> vecino<lb/> Y presentes </p>
+            </div>
+        </body>
+    </text>
+</TEI>
