@@ -36,10 +36,10 @@
                         <institution>Biblioteka Jagiellońska</institution>
                         <collection>Nachl. Alexander von Humboldt</collection>
                         <idno>
-                            <idno type="shelfmark">Bd. 3/1 Bl. 85-86</idno>
+                            <idno type="shelfmark">DE-611-HS-2877058; Bd. 3/1 Bl. 85-86</idno>
                             <idno type="URLImages"
                                 >http://jbc.bj.uj.edu.pl/dlibra/publication/367127/content</idno>
-                            <idno type="uri"> http://kalliope-verbund.info/DE-611-HS-2877058</idno>
+                            <idno type="uri">http://kalliope-verbund.info/DE-611-HS-2877058</idno>
                         </idno>
                     </msIdentifier>
                 </msDesc>
@@ -122,7 +122,7 @@
     <text>
         <body>
             <div>
-                <pb n="1v" facs="prohd0033_1v.tif"/>
+                <pb n="1r" facs="prohd0033_1r.tif"/>
                 <fw type="folNum">85</fw>
                 <p><note place="mTop" hand="#author">FFF</note></p>
                 <p>Estado por mayor de las exportaciones <lb/>de frutos de esta <choice>
@@ -428,7 +428,7 @@
                         </row>
                     </table></p>
                 <p/>
-                <pb n="1r" facs="prohd0033_1r.tif"/>
+                <pb n="1v" facs="prohd0033_1v.tif"/>
                 <p>1817 <lb/><table rows="7" cols="3">
                         <row>
                             <cell/>
@@ -689,7 +689,7 @@
                         </row>
                     </table></p>
                 <p><note place="mBottom" hand="#author">Re</note></p>
-                <pb n="2v" facs="prohd0033_2v.tif"/>
+                <pb n="2r" facs="prohd0033_2r.tif"/>
                 <fw type="folNum">86</fw>
                 <p>Resumen <lb/>Años Pesos</p>
                 <gap reason="lost" unit="lines" quantity="4"/>
@@ -753,7 +753,7 @@
                     </choice> firme. </p>
                 <p><note place="mBottom" hand="#author">Z225 11972 / 1143</note></p>
                 <p/>
-                <pb n="2r" facs="prohd0033_2r.tif"/>
+                <pb n="2v" facs="prohd0033_2v.tif"/>
                 <p><note place="mBottom" hand="#author">Exportaciones <unclear reason="illegible"
                             cert="high"/> Total Todo, 61 Cafe,57 <unclear reason="illegible"
                             cert="high"/>area Patriota 292<unclear reason="illegible" cert="high"

@@ -119,7 +119,7 @@
     <text>
         <body>
             <div>
-                <pb n="1v" facs="prohd0034_1v.tif"/>
+                <pb n="1r" facs="prohd0034_1r.tif"/>
                 <fw type="folNum">159</fw>
                 <p>Estado que demuestra el <choice>
                         <orig>numero</orig>
@@ -341,12 +341,12 @@
                     </choice> 1804. <lb/>
                     <lb/></p>
                 <p/>
-                <pb n="1r" facs="prohd0034_1r.tif"/>
-                <gap unit="pages" quantity="1" reason="empty"/>
-                <pb n="2v" facs="prohd0034_2v.tif"/>
-                <fw type="folNum">160</fw>
+                <pb n="1v" facs="prohd0034_1v.tif"/>
                 <gap unit="pages" quantity="1" reason="empty"/>
                 <pb n="2r" facs="prohd0034_2r.tif"/>
+                <fw type="folNum">160</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+                <pb n="2v" facs="prohd0034_2v.tif"/>
                 <gap unit="pages" quantity="1" reason="empty"/>
             </div>
         </body>
