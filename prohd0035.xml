@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Protocolos notariales de Reguerira</title>
+                <title type="main">Protocolos Notariales de Regueira</title>
                 <editor>
                     <persName>
                         <surname>Echarri</surname>
@@ -35,20 +35,31 @@
                         <institution>Archivo Nacional de Cuba</institution>
                         <collection>Protocolos notariales</collection>
                         <idno>
-                            <idno type="shelfmark"/>
+                            <idno type="shelfmark">Protocolos Notariales. 1806. Tomo 1</idno>
+                            <idno type="uri">http://prohd.ohc.cu/xmlui/handle/21.11149/106</idno>
                         </idno>
                     </msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <creation>El documento comprueba que Juan Luis de la Cuesta alquiló en 1806 durante su
-                concurso una casa de Petronila Castellón al lado de la casa de su padre político,
-                Gabriel Raymundo de Azcárate (que era propietario de la casa en la calle Mercaderes
-                18), con número en aquel entonces “calle Mercaderes 19”. </creation>
+            <creation>
+                <persName>N/A</persName>
+                <placeName>La Habana</placeName>
+                <date when="1806">1806</date></creation>
             <langUsage>
                 <language ident="es">Español</language>
             </langUsage>
+            <abstract xml:lang="es">
+                <p>El documento comprueba que Juan Luis de la Cuesta alquiló en 1806 durante su
+                    concurso una casa de Petronila Castellón al lado de la casa de su padre
+                    político, Gabriel Raymundo de Azcárate (que era propietario de la casa en la
+                    calle Mercaderes 18), con número en aquel entonces “calle Mercaderes 19”.</p>
+            </abstract>
+            <abstract xml:lang="de">
+                <p>Das Dokument beweist, dass Juan Luis de la Cuesta im Jahr 1806 ein Haus von Petronila Castellón gemietet hat, während seines Wettbewerb ein Haus von Petronila Castellón mietete, das direkt neben dem Haus seines Vaters
+                    Schwiegervaters, Gabriel Raymundo de Azcárate (der Eigentümer des Hauses in der Mercaderes Straße 18), damals mit der Nummer "calle Mercaderes 19".</p>
+            </abstract>
             <textClass>
                 <catRef scheme="#subject" target="#administration"/>
                 <catRef scheme="#subject" target="#colonialism"/>
